@@ -35,9 +35,10 @@ jobs:
       run: pipenv run python3 scrape_term.py
 
     - name: Copy data
-      working-directory: OwlAPI
+      working-directory: main
       run: |
-        rsync -avr ./db/** ../main/data/
+        rsync -avr ../OwlAPI/db/** data/
+        for i in data/*.json; do python3 beautify.py $i; done
 
     - name: Commit and push changes
       uses: EndBug/add-and-commit@v4
