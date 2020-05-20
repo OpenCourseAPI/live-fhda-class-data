@@ -23,22 +23,22 @@ jobs:
       with:
         path: OwlAPI
         repository: OpenCourseAPI/OwlAPI
-        
+
     - name: Setup OwlAPI
       working-directory: OwlAPI
       run: |
         sudo pip install pipenv
         pipenv install
-        
+
     - name: Scrape data through OwlAPI
       working-directory: OwlAPI
       run: pipenv run python3 scrape_term.py
-    
-    - name: Update live data repo
+
+    - name: Copy data
       working-directory: OwlAPI
       run: |
-        rsync -avr --exclude ./db/test_database.json ./db/** ../main/data/
-        
+        rsync -avr ./db/** ../main/data/
+
     - name: Push changes
       working-directory: main
       run: |
