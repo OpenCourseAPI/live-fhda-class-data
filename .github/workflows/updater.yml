@@ -1,0 +1,42 @@
+name: Update Data
+
+on:
+  push:
+    branches: [ master ]
+  watch:
+    types: [ started ]
+  schedule:
+    - cron:  '*/5 * * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        path: data
+
+    - name: Checkout OwlAPI
+      uses: actions/checkout@v2
+      with:
+        path: OwlAPI
+        repository: OpenCourseAPI/OwlAPI
+        
+    - name: Setup OwlAPI
+      run: |
+        cd OwlAPI
+        sudo pip install pipenv
+        pipenv install
+        
+    - name: Scrape data through OwlAPI
+      run: pipenv run python3 scrape_term.py
+    
+    - name: Update live data repo
+      run: |
+        rsync -avr --exclude ./db/test_database.json ./db/** ../main/data/
+        cd ../main
+        git add --all
+        git commit -m "Update data"
+        git push
