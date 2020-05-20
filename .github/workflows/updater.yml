@@ -39,9 +39,13 @@ jobs:
       run: |
         rsync -avr ./db/** ../main/data/
 
-    - name: Push changes
-      working-directory: main
-      run: |
-        git add --all
-        git commit -m "Update data"
-        git push
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v4
+      with:
+        cwd: "./main"
+        author_name: OwlAPI Bot
+        author_email: nonexistent@opencourse.dev
+        message: "Update data"
+        add: "./data"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
