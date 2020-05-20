@@ -16,7 +16,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
-        path: data
+        path: main
 
     - name: Checkout OwlAPI
       uses: actions/checkout@v2
