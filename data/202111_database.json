@@ -16,7 +16,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Butler",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -1922,7 +1922,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Maurer",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2590,7 +2590,7 @@
         ],
         "10822": [
           {
-            "course": "BIOL F010.2DW",
+            "course": "BIOL F010.2DV",
             "CRN": "10822",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Full",
@@ -2607,7 +2607,7 @@
             "wait_cap": "0"
           },
           {
-            "course": "BIOL F010.2DW",
+            "course": "BIOL F010.2DV",
             "CRN": "10822",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Full",
@@ -2631,7 +2631,7 @@
             "course": "BIOL F040A01W",
             "CRN": "10006",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:00 AM-11:50 AM",
             "start": "06/29/2020",
@@ -2641,14 +2641,14 @@
             "units": "5.00",
             "instructor": "Bordignon",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "BIOL F040A01W",
             "CRN": "10006",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "12:30 PM-03:30 PM",
             "start": "06/29/2020",
@@ -2658,7 +2658,7 @@
             "units": "5.00",
             "instructor": "Bordignon",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -2868,7 +2868,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lew",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3176,7 +3176,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Pham",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -3193,7 +3193,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Pham",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4128,7 +4128,7 @@
         ],
         "10829": [
           {
-            "course": "CHEM F025.3DW",
+            "course": "CHEM F025.3DV",
             "CRN": "10829",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Full",
@@ -4136,8 +4136,8 @@
             "time": "08:00 AM-12:15 PM",
             "start": "06/29/2020",
             "end": "07/24/2020",
-            "room": "",
-            "campus": "",
+            "room": "ESPREP",
+            "campus": "FO",
             "units": "5.00",
             "instructor": "Staff",
             "seats": "0",
@@ -4145,7 +4145,7 @@
             "wait_cap": "0"
           },
           {
-            "course": "CHEM F025.3DW",
+            "course": "CHEM F025.3DV",
             "CRN": "10829",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Full",
@@ -4162,7 +4162,7 @@
             "wait_cap": "0"
           },
           {
-            "course": "CHEM F025.3DW",
+            "course": "CHEM F025.3DV",
             "CRN": "10829",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Full",
@@ -4170,8 +4170,8 @@
             "time": "09:25 AM-12:10 PM",
             "start": "06/29/2020",
             "end": "07/24/2020",
-            "room": "",
-            "campus": "",
+            "room": "ESPREP",
+            "campus": "FO",
             "units": "5.00",
             "instructor": "Staff",
             "seats": "0",
@@ -4599,7 +4599,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mohammadi",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4620,7 +4620,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "4",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4704,7 +4704,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5554,7 +5554,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "La Piana",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -6023,7 +6023,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Day",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6959,7 +6959,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Yasutake",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -7631,7 +7631,7 @@
         ],
         "10823": [
           {
-            "course": "MATH F001C2DW",
+            "course": "MATH F001C2DV",
             "CRN": "10823",
             "desc": "CALCULUS",
             "status": "Full",
@@ -7639,7 +7639,7 @@
             "time": "04:00 PM-06:15 PM",
             "start": "08/17/2020",
             "end": "11/09/2020",
-            "room": "ONLINE",
+            "room": "MOVHS",
             "campus": "FO",
             "units": "5.00",
             "instructor": "Lublin",
@@ -7664,7 +7664,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Maskalevich",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7838,7 +7838,7 @@
             "units": "5.00",
             "instructor": "Witschorik",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ]
@@ -9659,7 +9659,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jordahl",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9676,7 +9676,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jordahl",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
