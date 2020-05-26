@@ -174,7 +174,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "James",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -384,7 +384,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hui",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -932,7 +932,7 @@
             "course": "BIOL D006C01",
             "CRN": "00079",
             "desc": "ECOLOGY AND EVOLUTION",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "09:30 AM-12:20 PM",
             "start": "06/29/2020",
@@ -941,7 +941,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Heyer",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "7"
           },
@@ -949,7 +949,7 @@
             "course": "BIOL D006C01",
             "CRN": "00079",
             "desc": "ECOLOGY AND EVOLUTION",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -958,7 +958,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Heyer",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "7"
           }
@@ -2328,7 +2328,7 @@
             "course": "CHEM D001A61",
             "CRN": "00211",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "05:30 PM-06:45 PM",
             "start": "06/29/2020",
@@ -2338,14 +2338,14 @@
             "units": "5.00",
             "instructor": "Parajon Puenzo",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001A61",
             "CRN": "00211",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "03:00 PM-04:50 PM",
             "start": "06/29/2020",
@@ -2355,14 +2355,14 @@
             "units": "5.00",
             "instructor": "Parajon Puenzo",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001A61",
             "CRN": "00211",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2372,7 +2372,7 @@
             "units": "5.00",
             "instructor": "Parajon Puenzo",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -2661,7 +2661,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Miller",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -2678,7 +2678,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Miller",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -2695,7 +2695,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Miller",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -3206,6 +3206,25 @@
         ]
       },
       "22B": {
+        "13063": [
+          {
+            "course": "CIS D022B01",
+            "CRN": "13063",
+            "desc": "INTERMED PROG METHOD C++",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "",
+            "campus": "",
+            "units": "4.50",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "11308": [
           {
             "course": "CIS D022B01Y",
@@ -3398,6 +3417,23 @@
             "CRN": "12639",
             "desc": "JAVA PROGRAMMING",
             "status": "Full",
+            "days": "TTh",
+            "time": "06:00 PM-07:50 PM",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Abolghasemi",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "15"
+          },
+          {
+            "course": "CIS D035A61Y",
+            "CRN": "12639",
+            "desc": "JAVA PROGRAMMING",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3415,8 +3451,8 @@
             "CRN": "12639",
             "desc": "JAVA PROGRAMMING",
             "status": "Full",
-            "days": "TTh",
-            "time": "06:00 PM-07:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -8716,7 +8752,7 @@
             "units": "4.00",
             "instructor": "Berry",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ]
@@ -10486,7 +10522,7 @@
             "course": "MATH D001C06",
             "CRN": "10885",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/29/2020",
@@ -10495,7 +10531,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Vanniasegaram",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -12015,7 +12051,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Acker",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12026,14 +12062,31 @@
             "CRN": "13058",
             "desc": "CONTEMP NUTRITION",
             "status": "Open",
-            "days": "TWTh",
-            "time": "12:30 PM-02:55 PM",
+            "days": "T",
+            "time": "12:30 PM-02:00 PM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
             "campus": "DA",
             "units": "4.00",
             "instructor": "Acker",
+            "seats": "12",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "NUTR D010.70Z",
+            "CRN": "13058",
+            "desc": "CONTEMP NUTRITION",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Staff",
             "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -13804,7 +13857,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Clifford Jr",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "8",
             "wait_cap": "8"
           }
