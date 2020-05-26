@@ -2961,7 +2961,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "10",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3098,6 +3098,23 @@
             "CRN": "11304",
             "desc": "BEG PROG METHOD C++",
             "status": "Waitlist",
+            "days": "MTh",
+            "time": "03:00 PM-04:50 PM",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Lau",
+            "seats": "0",
+            "wait_seats": "4",
+            "wait_cap": "15"
+          },
+          {
+            "course": "CIS D022A02Y",
+            "CRN": "11304",
+            "desc": "BEG PROG METHOD C++",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3115,8 +3132,8 @@
             "CRN": "11304",
             "desc": "BEG PROG METHOD C++",
             "status": "Waitlist",
-            "days": "MTh",
-            "time": "03:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -3400,8 +3417,8 @@
             "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "4.50",
             "instructor": "Staff",
             "seats": "40",
@@ -3470,6 +3487,23 @@
             "CRN": "12639",
             "desc": "JAVA PROGRAMMING",
             "status": "Full",
+            "days": "TTh",
+            "time": "06:00 PM-07:50 PM",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Abolghasemi",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "15"
+          },
+          {
+            "course": "CIS D035A61Y",
+            "CRN": "12639",
+            "desc": "JAVA PROGRAMMING",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3487,8 +3521,8 @@
             "CRN": "12639",
             "desc": "JAVA PROGRAMMING",
             "status": "Full",
-            "days": "TTh",
-            "time": "06:00 PM-07:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -3601,8 +3635,8 @@
             "CRN": "12712",
             "desc": "INTRO PROGRAMMING IN PYTHON",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "03:00 PM-04:50 PM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -3618,8 +3652,8 @@
             "CRN": "12712",
             "desc": "INTRO PROGRAMMING IN PYTHON",
             "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "03:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -6277,7 +6311,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Carrell",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -7056,7 +7090,7 @@
             "units": "5.00",
             "instructor": "Lewis",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -7249,7 +7283,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morfee",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -10529,7 +10563,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Njinimbam",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "6"
           }
@@ -11030,7 +11064,7 @@
             "units": "5.00",
             "instructor": "Moen",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "20"
           }
         ]
@@ -12068,7 +12102,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13769,7 +13803,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ovetz",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
