@@ -312,7 +312,7 @@
             "course": "ADMJ D095.61Z",
             "CRN": "13010",
             "desc": "OVERVIEW OF AMER LAW",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -322,8 +322,8 @@
             "units": "4.00",
             "instructor": "Blanchette",
             "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "10"
+            "wait_seats": "-2",
+            "wait_cap": "5"
           }
         ],
         "13067": [
@@ -340,7 +340,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -1110,7 +1110,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -1127,7 +1127,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -2455,7 +2455,7 @@
             "course": "CHEM D001B02",
             "CRN": "00213",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2465,14 +2465,14 @@
             "units": "5.00",
             "instructor": "Lo",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001B02",
             "CRN": "00213",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "02:30 PM-03:45 PM",
             "start": "06/29/2020",
@@ -2482,14 +2482,14 @@
             "units": "5.00",
             "instructor": "Lo",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001B02",
             "CRN": "00213",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "11:30 AM-12:50 PM",
             "start": "06/29/2020",
@@ -2499,7 +2499,7 @@
             "units": "5.00",
             "instructor": "Lo",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -3106,7 +3106,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3283,7 +3283,7 @@
             "course": "CIS D022B02Y",
             "CRN": "12142",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3293,14 +3293,14 @@
             "units": "4.50",
             "instructor": "Ahrens",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D022B02Y",
             "CRN": "12142",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:00 AM-11:50 AM",
             "start": "06/29/2020",
@@ -3310,7 +3310,7 @@
             "units": "4.50",
             "instructor": "Ahrens",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -3328,7 +3328,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -3345,7 +3345,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -3362,7 +3362,7 @@
             "campus": "",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3382,7 +3382,7 @@
             "units": "4.50",
             "instructor": "Pacheco",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ]
@@ -5781,7 +5781,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomas",
-            "seats": "44",
+            "seats": "43",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8121,7 +8121,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8873,7 +8873,7 @@
             "course": "ICS D004.61Z",
             "CRN": "10150",
             "desc": "RACE, ETHNICITY & INEQUALITY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8883,7 +8883,7 @@
             "units": "4.00",
             "instructor": "Franks",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -9004,7 +9004,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kensler",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -9625,7 +9625,7 @@
             "units": "0.50",
             "instructor": "Simons",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -11023,7 +11023,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Phelps",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -12939,8 +12939,8 @@
             "units": "4.00",
             "instructor": "Blanchette",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "20"
+            "wait_seats": "-5",
+            "wait_cap": "15"
           }
         ],
         "13066": [
@@ -13891,7 +13891,7 @@
             "course": "POLI D095.61Z",
             "CRN": "13011",
             "desc": "OVERVIEW OF AMER LAW",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13901,8 +13901,8 @@
             "units": "4.00",
             "instructor": "Blanchette",
             "seats": "0",
-            "wait_seats": "2",
-            "wait_cap": "5"
+            "wait_seats": "-1",
+            "wait_cap": "2"
           }
         ],
         "13068": [
