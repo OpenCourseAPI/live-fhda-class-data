@@ -331,18 +331,18 @@
             "course": "ADMJ D095.66Z",
             "CRN": "13067",
             "desc": "OVERVIEW OF AMER LAW",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "4.00",
-            "instructor": "Staff",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "instructor": "Lee",
+            "seats": "5",
+            "wait_seats": "3",
+            "wait_cap": "3"
           }
         ]
       }
@@ -1037,7 +1037,7 @@
             "units": "5.00",
             "instructor": "Pane",
             "seats": "1",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
@@ -1054,7 +1054,7 @@
             "units": "5.00",
             "instructor": "Pane",
             "seats": "1",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -3440,7 +3440,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Goel",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3461,7 +3461,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -3478,7 +3478,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -3495,7 +3495,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6766,7 +6766,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gordon",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -9160,7 +9160,7 @@
             "units": "5.00",
             "instructor": "Kuo",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "20"
           }
         ]
@@ -13903,6 +13903,25 @@
             "seats": "0",
             "wait_seats": "3",
             "wait_cap": "5"
+          }
+        ],
+        "13068": [
+          {
+            "course": "POLI D095.66Z",
+            "CRN": "13068",
+            "desc": "OVERVIEW OF AMER LAW",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "",
+            "campus": "",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
