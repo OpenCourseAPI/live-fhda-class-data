@@ -435,7 +435,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Wong",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -708,7 +708,7 @@
             "course": "AHS F052.02W",
             "CRN": "10389",
             "desc": "MEDICAL TERMINOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -717,7 +717,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Leicht",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3277,6 +3277,27 @@
           }
         ]
       },
+      "55A": {
+        "10831": [
+          {
+            "course": "C S F055A01Z",
+            "CRN": "10831",
+            "desc": "INTRO CLOUD COMPUTNG AWS",
+            "status": "Open",
+            "days": "TTh",
+            "time": "06:00 PM-09:50 PM",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.50",
+            "instructor": "Staff",
+            "seats": "19",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ]
+      },
       "55D": {
         "10750": [
           {
@@ -5794,7 +5815,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Horowitz",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -5880,7 +5901,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "McGuire",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7110,7 +7131,7 @@
             "units": "5.00",
             "instructor": "Sinclair",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -7205,7 +7226,7 @@
             "units": "5.00",
             "instructor": "Robledo",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -7367,7 +7388,7 @@
             "course": "MDIA F001.01W",
             "CRN": "10218",
             "desc": "INTRO TO FILM STUDIES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7376,7 +7397,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ward",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "11",
             "wait_cap": "20"
           }
