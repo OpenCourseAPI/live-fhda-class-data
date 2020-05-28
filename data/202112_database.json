@@ -606,7 +606,7 @@
             "units": "4.00",
             "instructor": "Cadge-Moore",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ],
@@ -646,7 +646,7 @@
             "units": "4.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ]
@@ -708,7 +708,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lewycky",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -725,7 +725,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lewycky",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -742,7 +742,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lewycky",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -759,7 +759,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lewycky",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3992,6 +3992,23 @@
           }
         ],
         "13069": [
+          {
+            "course": "CIS D21JA61Z",
+            "CRN": "13069",
+            "desc": "INTRO X86 PROC ASSMBLY LANG",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Staff",
+            "seats": "40",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          },
           {
             "course": "CIS D21JA61Z",
             "CRN": "13069",
@@ -9242,7 +9259,7 @@
             "course": "KNES D011A01",
             "CRN": "12099",
             "desc": "CARDIO KICK",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9251,8 +9268,8 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Ghiasvand",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -10959,7 +10976,7 @@
             "course": "MATH D010.08",
             "CRN": "12424",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10969,7 +10986,7 @@
             "units": "5.00",
             "instructor": "Tran",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -12959,7 +12976,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
