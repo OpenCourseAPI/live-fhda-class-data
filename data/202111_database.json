@@ -315,7 +315,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bowman",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -367,7 +367,7 @@
             "course": "ACTG F064A01W",
             "CRN": "10130",
             "desc": "COMPUTERIZED ACTG PRAC:QUICKBO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -376,7 +376,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2138,7 +2138,7 @@
             "course": "ART F004A01W",
             "CRN": "10181",
             "desc": "FUNDAMENTALS IN DRAWING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2148,8 +2148,8 @@
             "units": "4.00",
             "instructor": "Gomes",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "wait_seats": "20",
+            "wait_cap": "30"
           }
         ],
         "10182": [
@@ -2157,7 +2157,7 @@
             "course": "ART F004A02W",
             "CRN": "10182",
             "desc": "FUNDAMENTALS IN DRAWING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2167,8 +2167,8 @@
             "units": "4.00",
             "instructor": "Gomes",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "wait_seats": "20",
+            "wait_cap": "30"
           }
         ]
       }
