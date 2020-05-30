@@ -5669,7 +5669,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Uy-Barreta",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -5802,7 +5802,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomas",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -7765,7 +7765,7 @@
             "course": "GEO D010.01",
             "CRN": "12714",
             "desc": "WORLD REGIONAL GEOGRAPHY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7774,7 +7774,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dutt",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "3"
           }
@@ -12044,39 +12044,20 @@
             "wait_cap": "0"
           }
         ],
-        "12933": [
-          {
-            "course": "NURS D85AL02F",
-            "CRN": "12933",
-            "desc": "PSYCH/MNTL HLTH CLINICAL",
-            "status": "Open",
-            "days": "ThF",
-            "time": "07:00 AM-03:00 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "TBA",
-            "campus": "DO",
-            "units": "2.50",
-            "instructor": "Sherwood",
-            "seats": "9",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "13072": [
           {
             "course": "NURS D85AL03F",
             "CRN": "13072",
             "desc": "PSYCH/MNTL HLTH CLINICAL",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MT",
+            "time": "07:00 AM-03:00 PM",
             "start": "08/03/2020",
             "end": "09/11/2020",
-            "room": "",
-            "campus": "",
+            "room": "TBA",
+            "campus": "DO",
             "units": "2.50",
-            "instructor": "Staff",
+            "instructor": "Sherwood",
             "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
