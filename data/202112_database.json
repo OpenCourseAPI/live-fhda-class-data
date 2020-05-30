@@ -3900,7 +3900,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Janakiraman",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12044,25 +12044,6 @@
             "wait_cap": "0"
           }
         ],
-        "12932": [
-          {
-            "course": "NURS D85AL01F",
-            "CRN": "12932",
-            "desc": "PSYCH/MNTL HLTH CLINICAL",
-            "status": "Open",
-            "days": "MT",
-            "time": "07:00 AM-02:15 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "TBA",
-            "campus": "DO",
-            "units": "2.50",
-            "instructor": "Sherwood",
-            "seats": "10",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "12933": [
           {
             "course": "NURS D85AL02F",
@@ -12078,6 +12059,25 @@
             "units": "2.50",
             "instructor": "Sherwood",
             "seats": "9",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "13072": [
+          {
+            "course": "NURS D85AL03F",
+            "CRN": "13072",
+            "desc": "PSYCH/MNTL HLTH CLINICAL",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/03/2020",
+            "end": "09/11/2020",
+            "room": "",
+            "campus": "",
+            "units": "2.50",
+            "instructor": "Staff",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
