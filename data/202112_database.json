@@ -1696,6 +1696,25 @@
             "wait_seats": "3",
             "wait_cap": "10"
           }
+        ],
+        "13078": [
+          {
+            "course": "BUS D010.68Z",
+            "CRN": "13078",
+            "desc": "INTRO TO BUSINESS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "50",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
         ]
       },
       "18": {
@@ -1705,8 +1724,8 @@
             "CRN": "12963",
             "desc": "BUSINESS LAW I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:00 AM-10:50 AM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1722,8 +1741,8 @@
             "CRN": "12963",
             "desc": "BUSINESS LAW I",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:00 AM-10:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -3309,7 +3328,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4039,7 +4058,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6157,7 +6176,7 @@
             "course": "ESCI D001.66Z",
             "CRN": "12544",
             "desc": "ENVIRON SCIENCE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6166,7 +6185,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Greene",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8144,7 +8163,7 @@
             "course": "HIST D017C61Z",
             "CRN": "12219",
             "desc": "HIST U.S. 1900- PRESENT",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8154,7 +8173,7 @@
             "units": "4.00",
             "instructor": "Mujal",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -11787,7 +11806,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Van Der Poel",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "6",
             "wait_cap": "6"
           }
