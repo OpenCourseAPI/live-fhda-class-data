@@ -74,7 +74,7 @@
             "units": "5.00",
             "instructor": "Jeanpierre",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -1600,7 +1600,7 @@
             "units": "5.00",
             "instructor": "Lilly",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -1657,7 +1657,7 @@
             "units": "5.00",
             "instructor": "Bennett",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -3273,7 +3273,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4613,7 +4613,7 @@
             "course": "COMM D010.03Y",
             "CRN": "12576",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "10:00 AM-12:25 PM",
             "start": "06/29/2020",
@@ -4623,14 +4623,14 @@
             "units": "5.00",
             "instructor": "Cano",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "COMM D010.03Y",
             "CRN": "12576",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4640,7 +4640,7 @@
             "units": "5.00",
             "instructor": "Cano",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -4930,6 +4930,25 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Rivera",
+            "seats": "35",
+            "wait_seats": "7",
+            "wait_cap": "7"
+          }
+        ],
+        "13075": [
+          {
+            "course": "COUN D005.20Y",
+            "CRN": "13075",
+            "desc": "INTRODUCTION TO COLLEGE",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/25/2020",
+            "end": "09/10/2020",
+            "room": "",
+            "campus": "",
+            "units": "1.00",
+            "instructor": "Staff",
             "seats": "35",
             "wait_seats": "7",
             "wait_cap": "7"
@@ -9468,7 +9487,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Hertler",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14413,7 +14432,7 @@
             "course": "SOC D001.02",
             "CRN": "10960",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14423,7 +14442,7 @@
             "units": "4.00",
             "instructor": "Pasion",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
