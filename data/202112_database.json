@@ -1066,8 +1066,8 @@
             "CRN": "10511",
             "desc": "INTRO BIOLOGY",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:00 AM-11:15 AM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1083,8 +1083,8 @@
             "CRN": "10511",
             "desc": "INTRO BIOLOGY",
             "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "10:00 AM-11:15 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1102,8 +1102,8 @@
             "CRN": "10512",
             "desc": "INTRO BIOLOGY",
             "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "11:30 AM-12:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1119,8 +1119,8 @@
             "CRN": "10512",
             "desc": "INTRO BIOLOGY",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "11:30 AM-12:45 PM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1177,7 +1177,7 @@
             "desc": "HUMAN BIOLOGY",
             "status": "Full",
             "days": "MTWTh",
-            "time": "12:30 PM-01:45 PM",
+            "time": "10:30 AM-12:20 PM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1194,7 +1194,7 @@
             "desc": "HUMAN BIOLOGY",
             "status": "Full",
             "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "time": "12:30 PM-01:45 PM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1215,7 +1215,7 @@
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Full",
             "days": "MTWTh",
-            "time": "09:00 AM-10:15 AM",
+            "time": "10:30 AM-12:20 PM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1232,7 +1232,7 @@
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Full",
             "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "time": "09:00 AM-10:15 AM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1285,18 +1285,35 @@
             "course": "BIOL D040A03",
             "CRN": "13077",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "status": "Open",
+            "days": "MT",
+            "time": "09:00 AM-11:20 AM",
             "start": "06/29/2020",
             "end": "08/09/2020",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "instructor": "Sengupta",
+            "seats": "31",
+            "wait_seats": "7",
+            "wait_cap": "7"
+          },
+          {
+            "course": "BIOL D040A03",
+            "CRN": "13077",
+            "desc": "HUMAN ANAT & PHYSIOLOGY",
+            "status": "Open",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Sengupta",
+            "seats": "31",
+            "wait_seats": "7",
+            "wait_cap": "7"
           }
         ],
         "12945": [
@@ -7932,7 +7949,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dileonardo",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -8161,7 +8178,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Liechty",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8180,7 +8197,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Liechty",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8731,7 +8748,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hughes",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -9643,7 +9660,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Hertler",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9662,7 +9679,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Damjanovic",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9957,7 +9974,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Hertler",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13493,7 +13510,7 @@
             "units": "4.00",
             "instructor": "Booher",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ],
@@ -13917,7 +13934,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tarikh",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14068,7 +14085,7 @@
             "course": "PSYC D001.02",
             "CRN": "00909",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14078,7 +14095,7 @@
             "units": "4.00",
             "instructor": "Avera",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "8"
           }
         ],
