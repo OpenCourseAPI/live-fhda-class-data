@@ -597,7 +597,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mendizabal",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2134,7 +2134,7 @@
             "course": "ART F001.02W",
             "CRN": "10030",
             "desc": "INTRODUCTION TO ART",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2143,8 +2143,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -2953,7 +2953,7 @@
             "course": "BUSI F060.01W",
             "CRN": "10780",
             "desc": "FUNDAMENTALS OF FINANCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2962,8 +2962,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "20"
           }
         ]
@@ -3294,7 +3294,7 @@
             "course": "C S F022A02W",
             "CRN": "10154",
             "desc": "JAVASCRIPT FOR PROGRAMMERS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3303,8 +3303,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lamble",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -3435,7 +3435,7 @@
             "course": "C S F055D01W",
             "CRN": "10750",
             "desc": "SECURITY IN AWS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3444,8 +3444,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -4405,7 +4405,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sunseri",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4957,7 +4957,7 @@
             "units": "5.00",
             "instructor": "Patyk",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ],
@@ -5013,7 +5013,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Verissimo Ira",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -5025,7 +5025,7 @@
             "course": "ECON F001B01W",
             "CRN": "10048",
             "desc": "PRINCIPLES OF MICROECONOMICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5035,7 +5035,7 @@
             "units": "5.00",
             "instructor": "Evans",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ],
@@ -6139,7 +6139,7 @@
             "course": "HUMN F003.02W",
             "CRN": "10307",
             "desc": "WORLD MYTHS IN LIT ARTS & FILM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6148,8 +6148,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Vaughan",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "20"
           }
         ]
@@ -6925,6 +6925,44 @@
             "units": "2.00",
             "instructor": "Pereira",
             "seats": "14",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "78B": {
+        "10842": [
+          {
+            "course": "LINC F078B01Z",
+            "CRN": "10842",
+            "desc": "BLOCK BASED CODING CONCEPTS",
+            "status": "Open",
+            "days": "TWThF",
+            "time": "10:30 AM-11:50 AM",
+            "start": "07/28/2020",
+            "end": "09/18/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Pereira",
+            "seats": "35",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "LINC F078B01Z",
+            "CRN": "10842",
+            "desc": "BLOCK BASED CODING CONCEPTS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "07/28/2020",
+            "end": "09/18/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Pereira",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -7761,7 +7799,7 @@
             "course": "MDIA F013.01W",
             "CRN": "10220",
             "desc": "VIDEO GAMES & POPULAR CULTURE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7770,8 +7808,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ]
@@ -8588,7 +8626,7 @@
             "units": "4.00",
             "instructor": "Chang",
             "seats": "0",
-            "wait_seats": "17",
+            "wait_seats": "16",
             "wait_cap": "20"
           }
         ],
@@ -8740,7 +8778,7 @@
             "course": "PHOT F004A01W",
             "CRN": "10076",
             "desc": "PHOTOSHOP FOR PHOTOGRAPHERS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8749,8 +8787,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jordahl",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
