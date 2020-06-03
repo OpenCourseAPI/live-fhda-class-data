@@ -3911,7 +3911,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Forouzan",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -11147,7 +11147,7 @@
             "course": "MATH D010.11",
             "CRN": "13031",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/29/2020",
@@ -11157,7 +11157,7 @@
             "units": "5.00",
             "instructor": "Phelps",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -12227,10 +12227,29 @@
             "time": "09:30 AM-02:20 PM",
             "start": "06/29/2020",
             "end": "09/20/2020",
-            "room": "",
-            "campus": "",
+            "room": "TBA",
+            "campus": "DO",
             "units": "5.00",
             "instructor": "Williams",
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "13081": [
+          {
+            "course": "NURS D086L56F",
+            "CRN": "13081",
+            "desc": "LDRSHP/MGMT NURS CLINICL",
+            "status": "Open",
+            "days": "TWTh",
+            "time": "09:30 AM-02:20 PM",
+            "start": "06/29/2020",
+            "end": "09/20/2020",
+            "room": "TBA",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Castro",
             "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -13679,7 +13698,7 @@
             "course": "PHIL D008.65Z",
             "CRN": "12521",
             "desc": "ETHICS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13689,7 +13708,7 @@
             "units": "4.00",
             "instructor": "Baiamonte",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -14849,7 +14868,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lewis",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
