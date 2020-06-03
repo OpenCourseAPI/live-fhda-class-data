@@ -566,7 +566,7 @@
             "units": "4.00",
             "instructor": "Mjelde",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ],
@@ -5788,14 +5788,33 @@
             "wait_cap": "0"
           }
         ],
+        "13082": [
+          {
+            "course": "ECON D002.02",
+            "CRN": "13082",
+            "desc": "PRIN MICROECONOMICS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Blohm",
+            "seats": "50",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
+        ],
         "12718": [
           {
             "course": "ECON D002.61",
             "CRN": "12718",
             "desc": "PRIN MICROECONOMICS",
             "status": "Full",
-            "days": "T",
-            "time": "06:30 PM-07:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -5811,8 +5830,8 @@
             "CRN": "12718",
             "desc": "PRIN MICROECONOMICS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "06:30 PM-07:20 PM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -8125,7 +8144,7 @@
             "course": "HIST D017C01",
             "CRN": "01106",
             "desc": "HIST U.S. 1900- PRESENT",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8135,7 +8154,7 @@
             "units": "4.00",
             "instructor": "Knittel",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -8144,7 +8163,7 @@
             "course": "HIST D017C02",
             "CRN": "12724",
             "desc": "HIST U.S. 1900- PRESENT",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8154,7 +8173,7 @@
             "units": "4.00",
             "instructor": "Gerould",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -11090,7 +11109,7 @@
             "course": "MATH D010.08",
             "CRN": "12424",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -11099,7 +11118,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tran",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -12089,7 +12108,7 @@
             "units": "1.50",
             "instructor": "Dunn",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
@@ -12106,7 +12125,7 @@
             "units": "1.50",
             "instructor": "Dunn",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
