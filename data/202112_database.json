@@ -394,7 +394,7 @@
             "course": "ANTH D001.61Z",
             "CRN": "11522",
             "desc": "PHYS ANTHRO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -403,8 +403,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hui",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ],
@@ -1046,7 +1046,7 @@
             "course": "BIOL D010.03",
             "CRN": "13074",
             "desc": "INTRO BIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1056,7 +1056,7 @@
             "units": "5.00",
             "instructor": "Bram",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ],
@@ -1965,7 +1965,7 @@
             "course": "BUS D090.61Z",
             "CRN": "00105",
             "desc": "PRIN MARKETING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1974,8 +1974,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shan",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -3881,7 +3881,7 @@
             "course": "CIS D064B65Z",
             "CRN": "11241",
             "desc": "INTRO TO SQL",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3890,8 +3890,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Singh",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "20"
           }
         ]
@@ -4133,7 +4133,7 @@
             "course": "CLP D007.65Z",
             "CRN": "12862",
             "desc": "SELF ASSESSMENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4142,7 +4142,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wethington",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "7"
           }
@@ -4522,7 +4522,7 @@
             "course": "COMM D008.01Y",
             "CRN": "12572",
             "desc": "ARGUMENT/CRIT INQRY ORAL COMM",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "10:00 AM-12:00 PM",
             "start": "06/29/2020",
@@ -4532,12 +4532,48 @@
             "units": "5.00",
             "instructor": "Kramer",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "COMM D008.01Y",
             "CRN": "12572",
+            "desc": "ARGUMENT/CRIT INQRY ORAL COMM",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Kramer",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "6"
+          }
+        ],
+        "12573": [
+          {
+            "course": "COMM D008.02Y",
+            "CRN": "12573",
+            "desc": "ARGUMENT/CRIT INQRY ORAL COMM",
+            "status": "Waitlist",
+            "days": "TTh",
+            "time": "01:00 PM-02:50 PM",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Kramer",
+            "seats": "0",
+            "wait_seats": "1",
+            "wait_cap": "6"
+          },
+          {
+            "course": "COMM D008.02Y",
+            "CRN": "12573",
             "desc": "ARGUMENT/CRIT INQRY ORAL COMM",
             "status": "Waitlist",
             "days": "TBA",
@@ -4550,42 +4586,6 @@
             "instructor": "Kramer",
             "seats": "0",
             "wait_seats": "1",
-            "wait_cap": "6"
-          }
-        ],
-        "12573": [
-          {
-            "course": "COMM D008.02Y",
-            "CRN": "12573",
-            "desc": "ARGUMENT/CRIT INQRY ORAL COMM",
-            "status": "Full",
-            "days": "TTh",
-            "time": "01:00 PM-02:50 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Kramer",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "6"
-          },
-          {
-            "course": "COMM D008.02Y",
-            "CRN": "12573",
-            "desc": "ARGUMENT/CRIT INQRY ORAL COMM",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Kramer",
-            "seats": "0",
-            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -5499,7 +5499,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thorensen",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8043,7 +8043,7 @@
             "course": "HIST D006A01",
             "CRN": "12965",
             "desc": "HIST OF WEST CIV:PREHIST-750CE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8052,8 +8052,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pham",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -8104,7 +8104,7 @@
             "course": "HIST D017B01",
             "CRN": "12723",
             "desc": "HISTORY U.S. 1800-1900",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8114,7 +8114,7 @@
             "units": "4.00",
             "instructor": "Knittel",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -8308,7 +8308,7 @@
             "course": "HTEC D050.61",
             "CRN": "12282",
             "desc": "INTRO HEALTH TECHNOLOGIES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "06/29/2020",
@@ -8317,8 +8317,8 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Sherlekar",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ]
@@ -9434,7 +9434,7 @@
             "course": "KNES D015C61",
             "CRN": "12084",
             "desc": "TOTAL FITNESS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9443,8 +9443,8 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Damjanovic",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -11071,7 +11071,7 @@
             "course": "MATH D010.06",
             "CRN": "10549",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/29/2020",
@@ -11080,7 +11080,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sales",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -11550,7 +11550,7 @@
             "course": "MATH D042.05",
             "CRN": "10601",
             "desc": "PRECALC II: TRIG FUNCTIONS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/29/2020",
@@ -11559,8 +11559,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lopez",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -12361,7 +12361,7 @@
             "course": "NUTR D010.69Z",
             "CRN": "13057",
             "desc": "CONTEMP NUTRITION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "T",
             "time": "09:00 AM-10:30 AM",
             "start": "06/29/2020",
@@ -12370,7 +12370,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Acker",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           },
@@ -12378,7 +12378,7 @@
             "course": "NUTR D010.69Z",
             "CRN": "13057",
             "desc": "CONTEMP NUTRITION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -12387,7 +12387,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Acker",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -14005,7 +14005,7 @@
             "course": "POLI D001.66Z",
             "CRN": "11246",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14014,8 +14014,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -14570,7 +14570,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Shih",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "10",
             "wait_cap": "10"
           }
