@@ -2184,7 +2184,7 @@
             "units": "4.50",
             "instructor": "Brannvall",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -3691,7 +3691,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Painter",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -6198,7 +6198,7 @@
             "course": "HUMN F003.02W",
             "CRN": "10307",
             "desc": "WORLD MYTHS IN LIT ARTS & FILM",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6207,7 +6207,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Vaughan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "20"
           }
@@ -8607,7 +8607,7 @@
             "units": "5.00",
             "instructor": "Hoekenga",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "20"
           }
         ]
@@ -8812,7 +8812,7 @@
             "course": "PHIL F025.01W",
             "CRN": "10229",
             "desc": "COMP WRLD RELIGIONS WEST",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8821,8 +8821,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Provost",
-            "seats": "0",
-            "wait_seats": "1",
+            "seats": "1",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ]
@@ -9436,7 +9436,7 @@
             "units": "5.00",
             "instructor": "Strader",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "20"
           }
         ],
@@ -9454,7 +9454,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Clark",
-            "seats": "50",
+            "seats": "49",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10555,6 +10555,44 @@
             "status": "Full",
             "days": "MW",
             "time": "01:50 PM-03:15 PM",
+            "start": "08/12/2020",
+            "end": "12/17/2020",
+            "room": "TBA",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10849": [
+          {
+            "course": "SPAN F001.61D",
+            "CRN": "10849",
+            "desc": "ELEMENTARY SPANISH I",
+            "status": "Full",
+            "days": "TTh",
+            "time": "09:00 AM-10:25 AM",
+            "start": "08/12/2020",
+            "end": "12/17/2020",
+            "room": "TBA",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10850": [
+          {
+            "course": "SPAN F001.62D",
+            "CRN": "10850",
+            "desc": "ELEMENTARY SPANISH I",
+            "status": "Full",
+            "days": "TTh",
+            "time": "10:30 AM-11:55 AM",
             "start": "08/12/2020",
             "end": "12/17/2020",
             "room": "TBA",
