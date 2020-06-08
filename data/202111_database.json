@@ -26,7 +26,7 @@
             "course": "ACTG F001A02W",
             "CRN": "10334",
             "desc": "FINANCIAL ACCOUNTING I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -35,8 +35,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mayer",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ],
@@ -1956,7 +1956,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -1987,7 +1987,7 @@
             "course": "ANTH F001L02W",
             "CRN": "10601",
             "desc": "PHYSICAL ANTHROPOL LAB",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1996,8 +1996,8 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Wolf",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -2027,7 +2027,7 @@
             "course": "ANTH F002A06W",
             "CRN": "10119",
             "desc": "CULTURAL ANTHROPOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2036,7 +2036,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Maurer",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "20"
           }
@@ -2873,7 +2873,7 @@
             "course": "BUSI F011.01W",
             "CRN": "10139",
             "desc": "INTRO TO INFORMATION SYSTEMS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2882,8 +2882,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lew",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "20"
           }
         ]
@@ -2894,7 +2894,7 @@
             "course": "BUSI F018.01W",
             "CRN": "10273",
             "desc": "BUSINESS LAW I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2903,8 +2903,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Firenzi",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -2934,7 +2934,7 @@
             "course": "BUSI F022.01W",
             "CRN": "10090",
             "desc": "PRINCIPLES OF BUSINESS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2943,8 +2943,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lew",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "20"
           }
         ],
@@ -3315,7 +3315,7 @@
             "course": "C S F022A02W",
             "CRN": "10154",
             "desc": "JAVASCRIPT FOR PROGRAMMERS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3324,8 +3324,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lamble",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -3996,7 +3996,7 @@
             "units": "4.00",
             "instructor": "Dave",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "20"
           }
         ]
@@ -5035,7 +5035,7 @@
             "units": "5.00",
             "instructor": "Verissimo Ira",
             "seats": "0",
-            "wait_seats": "17",
+            "wait_seats": "16",
             "wait_cap": "20"
           }
         ]
@@ -5275,7 +5275,7 @@
             "units": "5.00",
             "instructor": "La Piana",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "17",
             "wait_cap": "25"
           }
         ],
@@ -5609,7 +5609,7 @@
             "units": "5.00",
             "instructor": "Hansell",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "20"
           },
           {
@@ -5626,7 +5626,7 @@
             "units": "5.00",
             "instructor": "Hansell",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ],
@@ -6537,6 +6537,25 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "10844": [
+          {
+            "course": "ITRN F054.02",
+            "CRN": "10844",
+            "desc": "INTERNSHIP",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "09/18/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Cammin",
+            "seats": "40",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       }
     }
@@ -7311,7 +7330,7 @@
             "course": "MATH F010.04W",
             "CRN": "10067",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7320,7 +7339,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sinclair",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -9430,7 +9449,7 @@
             "course": "PSYC F010.01W",
             "CRN": "10733",
             "desc": "RESEARCH METHODS & DESIGNS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9439,8 +9458,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gauthier",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "20"
           }
         ],
@@ -9543,7 +9562,7 @@
             "units": "5.00",
             "instructor": "Clark",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "20"
           }
         ],
