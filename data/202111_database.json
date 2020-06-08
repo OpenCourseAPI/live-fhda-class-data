@@ -2037,7 +2037,7 @@
             "units": "4.00",
             "instructor": "Maurer",
             "seats": "1",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ]
@@ -5256,7 +5256,7 @@
             "units": "5.00",
             "instructor": "Armerding",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "25"
           }
         ],
@@ -5353,7 +5353,7 @@
             "units": "5.00",
             "instructor": "Herman",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "15",
             "wait_cap": "25"
           }
         ]
@@ -5385,7 +5385,7 @@
             "course": "ENGL F034C01W",
             "CRN": "10739",
             "desc": "LITERATURE INTO FILM",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5395,7 +5395,7 @@
             "units": "4.00",
             "instructor": "La Piana",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "25"
           }
         ]
@@ -5694,7 +5694,7 @@
             "course": "GEOG F002.01W",
             "CRN": "10142",
             "desc": "HUMAN GEOGRAPHY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5704,7 +5704,7 @@
             "units": "4.00",
             "instructor": "Davis",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -6131,6 +6131,25 @@
             "instructor": "McGuire",
             "seats": "0",
             "wait_seats": "17",
+            "wait_cap": "20"
+          }
+        ],
+        "10846": [
+          {
+            "course": "HUMN F001.02W",
+            "CRN": "10846",
+            "desc": "THE ANCIENT WORLD",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "50",
+            "wait_seats": "20",
             "wait_cap": "20"
           }
         ],
@@ -8569,7 +8588,7 @@
             "units": "5.00",
             "instructor": "Hoekenga",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "20"
           }
         ]
@@ -9399,6 +9418,25 @@
             "instructor": "Strader",
             "seats": "0",
             "wait_seats": "1",
+            "wait_cap": "20"
+          }
+        ],
+        "10845": [
+          {
+            "course": "PSYC F001.07W",
+            "CRN": "10845",
+            "desc": "GENERAL PSYCHOLOGY",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Clark",
+            "seats": "50",
+            "wait_seats": "20",
             "wait_cap": "20"
           }
         ]
