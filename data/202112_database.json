@@ -341,8 +341,8 @@
             "units": "4.00",
             "instructor": "Blanchette",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "5"
+            "wait_seats": "-2",
+            "wait_cap": "3"
           }
         ],
         "13067": [
@@ -3283,7 +3283,7 @@
             "course": "CIS D022A03Y",
             "CRN": "11305",
             "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3293,7 +3293,7 @@
             "units": "4.50",
             "instructor": "So",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -4378,7 +4378,7 @@
             "course": "COMM D001.06Y",
             "CRN": "12566",
             "desc": "PUBLIC SPEAKING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:30 PM-02:55 PM",
             "start": "06/29/2020",
@@ -4388,14 +4388,14 @@
             "units": "5.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "COMM D001.06Y",
             "CRN": "12566",
             "desc": "PUBLIC SPEAKING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4405,7 +4405,7 @@
             "units": "5.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -4495,7 +4495,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hong",
-            "seats": "20",
+            "seats": "18",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -4512,7 +4512,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hong",
-            "seats": "20",
+            "seats": "18",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -5569,7 +5569,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Frisbee",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6089,7 +6089,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Glapion",
-            "seats": "43",
+            "seats": "42",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -6129,7 +6129,7 @@
             "campus": "DO",
             "units": "3.00",
             "instructor": "Sheirich",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11694,7 +11694,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bambhania",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -11711,7 +11711,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bambhania",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11845,7 +11845,7 @@
             "units": "5.00",
             "instructor": "Kapur",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
@@ -11862,7 +11862,7 @@
             "units": "5.00",
             "instructor": "Kapur",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -12400,7 +12400,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Williams",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -12440,7 +12440,7 @@
             "campus": "DO",
             "units": "5.00",
             "instructor": "Castro",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13313,7 +13313,7 @@
             "course": "PARA D095.61Z",
             "CRN": "13009",
             "desc": "OVERVIEW OF AMER LAW",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13323,8 +13323,8 @@
             "units": "4.00",
             "instructor": "Blanchette",
             "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "15"
+            "wait_seats": "-1",
+            "wait_cap": "10"
           }
         ],
         "13066": [
