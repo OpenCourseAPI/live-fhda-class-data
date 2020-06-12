@@ -1169,6 +1169,42 @@
             "wait_seats": "0",
             "wait_cap": "10"
           }
+        ],
+        "13093": [
+          {
+            "course": "BIOL D010.66Z",
+            "CRN": "13093",
+            "desc": "INTRO BIOLOGY",
+            "status": "Open",
+            "days": "MTWTh",
+            "time": "08:40 AM-09:55 AM",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "32",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "BIOL D010.66Z",
+            "CRN": "13093",
+            "desc": "INTRO BIOLOGY",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "32",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
         ]
       },
       "11": {
@@ -1215,7 +1251,7 @@
             "desc": "HUMAN BIOLOGY",
             "status": "Waitlist",
             "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "time": "12:30 PM-01:45 PM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1232,7 +1268,7 @@
             "desc": "HUMAN BIOLOGY",
             "status": "Waitlist",
             "days": "MTWTh",
-            "time": "12:30 PM-01:45 PM",
+            "time": "10:30 AM-12:20 PM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1253,7 +1289,7 @@
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Full",
             "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "time": "09:00 AM-10:15 AM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1270,7 +1306,7 @@
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Full",
             "days": "MTWTh",
-            "time": "09:00 AM-10:15 AM",
+            "time": "10:30 AM-12:20 PM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -2694,7 +2730,7 @@
             "course": "CHEM D001C02",
             "CRN": "10957",
             "desc": "GEN CHEM/QUAL ANALYSIS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "11:30 AM-12:20 PM",
             "start": "06/29/2020",
@@ -2704,14 +2740,14 @@
             "units": "5.00",
             "instructor": "Cihonski",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001C02",
             "CRN": "10957",
             "desc": "GEN CHEM/QUAL ANALYSIS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2721,14 +2757,14 @@
             "units": "5.00",
             "instructor": "Cihonski",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001C02",
             "CRN": "10957",
             "desc": "GEN CHEM/QUAL ANALYSIS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "02:30 PM-03:45 PM",
             "start": "06/29/2020",
@@ -2738,7 +2774,7 @@
             "units": "5.00",
             "instructor": "Cihonski",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -4495,7 +4531,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hong",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -4512,7 +4548,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hong",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -7128,7 +7164,7 @@
             "units": "5.00",
             "instructor": "Gordon",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -11145,7 +11181,7 @@
             "course": "MATH D002B05",
             "CRN": "13029",
             "desc": "LINEAR ALGEBRA",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/29/2020",
@@ -11155,7 +11191,7 @@
             "units": "5.00",
             "instructor": "Bourgoub",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -11590,7 +11626,7 @@
             "course": "MATH D031.03",
             "CRN": "13048",
             "desc": "PRECALCULUS I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWTh",
             "time": "10:00 AM-12:15 PM",
             "start": "06/29/2020",
@@ -11599,7 +11635,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rudolf",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "6"
           }
@@ -11637,7 +11673,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yu",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11809,7 +11845,7 @@
             "units": "5.00",
             "instructor": "Kapur",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
@@ -11826,7 +11862,7 @@
             "units": "5.00",
             "instructor": "Kapur",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -11899,7 +11935,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Krestas",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11996,7 +12032,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Van Der Poel",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -12522,7 +12558,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
