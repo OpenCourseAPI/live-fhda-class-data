@@ -682,7 +682,7 @@
             "units": "4.00",
             "instructor": "Olsen",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ]
@@ -2893,7 +2893,7 @@
             "course": "CHEM D025.61",
             "CRN": "12276",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "02:30 PM-03:45 PM",
             "start": "06/29/2020",
@@ -2903,12 +2903,48 @@
             "units": "5.00",
             "instructor": "Saunders",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D025.61",
             "CRN": "12276",
+            "desc": "PREP FOR GENERAL CHEMISTRY",
+            "status": "Waitlist",
+            "days": "MTWTh",
+            "time": "05:30 PM-07:20 PM",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Saunders",
+            "seats": "0",
+            "wait_seats": "1",
+            "wait_cap": "6"
+          }
+        ],
+        "12277": [
+          {
+            "course": "CHEM D025.62",
+            "CRN": "12277",
+            "desc": "PREP FOR GENERAL CHEMISTRY",
+            "status": "Full",
+            "days": "MTWTh",
+            "time": "04:00 PM-05:15 PM",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Saunders",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "6"
+          },
+          {
+            "course": "CHEM D025.62",
+            "CRN": "12277",
             "desc": "PREP FOR GENERAL CHEMISTRY",
             "status": "Full",
             "days": "MTWTh",
@@ -2921,42 +2957,6 @@
             "instructor": "Saunders",
             "seats": "0",
             "wait_seats": "0",
-            "wait_cap": "6"
-          }
-        ],
-        "12277": [
-          {
-            "course": "CHEM D025.62",
-            "CRN": "12277",
-            "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "04:00 PM-05:15 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Saunders",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D025.62",
-            "CRN": "12277",
-            "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "05:30 PM-07:20 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Saunders",
-            "seats": "0",
-            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -10545,7 +10545,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guevara",
-            "seats": "16",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
