@@ -766,7 +766,7 @@
             "units": "4.00",
             "instructor": "Lewycky",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
@@ -783,7 +783,7 @@
             "units": "4.00",
             "instructor": "Lewycky",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
@@ -800,7 +800,7 @@
             "units": "4.00",
             "instructor": "Lewycky",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
@@ -817,7 +817,7 @@
             "units": "4.00",
             "instructor": "Lewycky",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -1852,7 +1852,7 @@
             "course": "BUS D018.65Z",
             "CRN": "11526",
             "desc": "BUSINESS LAW I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1861,7 +1861,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Salah",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "10"
           }
@@ -1913,7 +1913,7 @@
             "course": "BUS D054.61Z",
             "CRN": "12715",
             "desc": "BUSINESS MATHEMATICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1922,7 +1922,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hernandez",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "10"
           }
@@ -3138,7 +3138,7 @@
             "course": "CIS D003.66Z",
             "CRN": "12986",
             "desc": "BUSINESS INFO SYSTEMS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3147,7 +3147,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "15"
           }
@@ -3433,7 +3433,7 @@
             "course": "CIS D022B02Y",
             "CRN": "12142",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3443,14 +3443,14 @@
             "units": "4.50",
             "instructor": "Ahrens",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D022B02Y",
             "CRN": "12142",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:00 AM-11:50 AM",
             "start": "06/29/2020",
@@ -3460,7 +3460,7 @@
             "units": "4.50",
             "instructor": "Ahrens",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -3911,7 +3911,7 @@
             "course": "CIS D040.61Z",
             "CRN": "12535",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3920,7 +3920,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Lau",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -6880,7 +6880,7 @@
             "course": "ESL D262.01",
             "CRN": "00438",
             "desc": "LOW ADVANCED READING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "W",
             "time": "10:00 AM-11:50 AM",
             "start": "06/29/2020",
@@ -6890,14 +6890,14 @@
             "units": "3.00",
             "instructor": "Betlach",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "ESL D262.01",
             "CRN": "00438",
             "desc": "LOW ADVANCED READING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6907,7 +6907,7 @@
             "units": "3.00",
             "instructor": "Betlach",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
