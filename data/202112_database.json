@@ -1185,7 +1185,7 @@
             "units": "5.00",
             "instructor": "Pane",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -1202,7 +1202,7 @@
             "units": "5.00",
             "instructor": "Pane",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -5617,7 +5617,7 @@
             "course": "E S D002.61Z",
             "CRN": "12540",
             "desc": "INTRO TO SUSTAINABILITY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5627,7 +5627,7 @@
             "units": "4.00",
             "instructor": "De Toro",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ]
@@ -9825,7 +9825,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Catuiza",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11129,7 +11129,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sadeghi-Hassanvand",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11177,7 +11177,7 @@
             "course": "MATH D001D62Z",
             "CRN": "13101",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -11186,7 +11186,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -13633,44 +13633,6 @@
             "wait_cap": "0"
           }
         ],
-        "13052": [
-          {
-            "course": "PEA D001.06",
-            "CRN": "13052",
-            "desc": "ADAPTED TOTAL FITNESS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/23/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Regehr",
-            "seats": "15",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "13054": [
-          {
-            "course": "PEA D001.07",
-            "CRN": "13054",
-            "desc": "ADAPTED TOTAL FITNESS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/23/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Regehr",
-            "seats": "15",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "13056": [
           {
             "course": "PEA D001.08",
@@ -13823,25 +13785,6 @@
             "units": "0.50",
             "instructor": "Regehr",
             "seats": "5",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "13053": [
-          {
-            "course": "PEA D002.06",
-            "CRN": "13053",
-            "desc": "ADAPTD STRNGTH DEVEL",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/23/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Regehr",
-            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -14855,7 +14798,7 @@
             "course": "REST D050.61Z",
             "CRN": "12888",
             "desc": "REAL ESTATE PRINCIPLES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14864,8 +14807,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Park",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
