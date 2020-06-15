@@ -493,7 +493,7 @@
             "course": "ANTH D002.02",
             "CRN": "13086",
             "desc": "CULTURAL ANTHROPOLOGY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -502,7 +502,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Solomon",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "2"
           }
@@ -13937,25 +13937,6 @@
             "course": "PHIL D001.61Z",
             "CRN": "12516",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Booher",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
-          }
-        ],
-        "12517": [
-          {
-            "course": "PHIL D001.65Z",
-            "CRN": "12517",
-            "desc": "INTRO TO PHILOSOPHY",
             "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
@@ -13967,6 +13948,25 @@
             "instructor": "Booher",
             "seats": "0",
             "wait_seats": "1",
+            "wait_cap": "15"
+          }
+        ],
+        "12517": [
+          {
+            "course": "PHIL D001.65Z",
+            "CRN": "12517",
+            "desc": "INTRO TO PHILOSOPHY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Booher",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
