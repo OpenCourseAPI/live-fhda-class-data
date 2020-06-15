@@ -575,7 +575,7 @@
             "course": "ARTS D001A01",
             "CRN": "10936",
             "desc": "INTRO TO VISUAL ARTS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -584,7 +584,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Becerril",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -3201,7 +3201,7 @@
             "course": "CIS D018A61Y",
             "CRN": "10680",
             "desc": "INTRO TO UNIX/LINUX",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3211,7 +3211,7 @@
             "units": "4.50",
             "instructor": "Metcalf",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -3655,7 +3655,7 @@
             "course": "CIS D035A61Y",
             "CRN": "12639",
             "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "06:00 PM-07:50 PM",
             "start": "06/29/2020",
@@ -3665,48 +3665,12 @@
             "units": "4.50",
             "instructor": "Abolghasemi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "CIS D035A61Y",
             "CRN": "12639",
-            "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Abolghasemi",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D035A61Y",
-            "CRN": "12639",
-            "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Abolghasemi",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
-          }
-        ],
-        "00234": [
-          {
-            "course": "CIS D035A61Z",
-            "CRN": "00234",
             "desc": "JAVA PROGRAMMING",
             "status": "Full",
             "days": "TBA",
@@ -3716,9 +3680,45 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "4.50",
-            "instructor": "Singh",
+            "instructor": "Abolghasemi",
             "seats": "0",
             "wait_seats": "0",
+            "wait_cap": "15"
+          },
+          {
+            "course": "CIS D035A61Y",
+            "CRN": "12639",
+            "desc": "JAVA PROGRAMMING",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Abolghasemi",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "15"
+          }
+        ],
+        "00234": [
+          {
+            "course": "CIS D035A61Z",
+            "CRN": "00234",
+            "desc": "JAVA PROGRAMMING",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Singh",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -6468,7 +6468,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sanders",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6859,7 +6859,7 @@
             "course": "ESL D262.01",
             "CRN": "00438",
             "desc": "LOW ADVANCED READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "10:00 AM-11:50 AM",
             "start": "06/29/2020",
@@ -6868,7 +6868,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Betlach",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "6"
           },
@@ -6876,7 +6876,7 @@
             "course": "ESL D262.01",
             "CRN": "00438",
             "desc": "LOW ADVANCED READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6885,7 +6885,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Betlach",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "6"
           }
@@ -7124,7 +7124,7 @@
             "units": "5.00",
             "instructor": "Argyriou",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -8061,7 +8061,7 @@
             "course": "GEO D001.65Z",
             "CRN": "12283",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8071,7 +8071,7 @@
             "units": "4.00",
             "instructor": "Rohrmeier",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -10424,7 +10424,7 @@
             "units": "5.00",
             "instructor": "Owiesny",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -10484,7 +10484,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Altman",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10545,7 +10545,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Owiesny",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12252,7 +12252,7 @@
             "units": "4.00",
             "instructor": "Thomsen",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ],
@@ -12592,7 +12592,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hall",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -13009,7 +13009,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Singh",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
