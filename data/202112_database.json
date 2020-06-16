@@ -594,25 +594,6 @@
             "course": "ARTS D001A02",
             "CRN": "13070",
             "desc": "INTRO TO VISUAL ARTS",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Mjelde",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
-          }
-        ],
-        "12466": [
-          {
-            "course": "ARTS D001A61Z",
-            "CRN": "12466",
-            "desc": "INTRO TO VISUAL ARTS",
             "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
@@ -624,6 +605,25 @@
             "instructor": "Mjelde",
             "seats": "0",
             "wait_seats": "1",
+            "wait_cap": "15"
+          }
+        ],
+        "12466": [
+          {
+            "course": "ARTS D001A61Z",
+            "CRN": "12466",
+            "desc": "INTRO TO VISUAL ARTS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Mjelde",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -10795,7 +10795,7 @@
             "course": "MATH D001A65Z",
             "CRN": "13097",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10804,7 +10804,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dhaliwal",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "6"
           }
