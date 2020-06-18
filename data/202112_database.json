@@ -331,7 +331,7 @@
             "course": "ADMJ D095.61Z",
             "CRN": "13010",
             "desc": "OVERVIEW OF AMER LAW",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -340,9 +340,9 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Blanchette",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "3"
+            "seats": "1",
+            "wait_seats": "-1",
+            "wait_cap": "2"
           }
         ],
         "13067": [
@@ -5941,7 +5941,7 @@
             "course": "ECON D002.61",
             "CRN": "12718",
             "desc": "PRIN MICROECONOMICS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5950,7 +5950,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Brady",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -5958,7 +5958,7 @@
             "course": "ECON D002.61",
             "CRN": "12718",
             "desc": "PRIN MICROECONOMICS",
-            "status": "Full",
+            "status": "Open",
             "days": "T",
             "time": "06:30 PM-07:20 PM",
             "start": "06/29/2020",
@@ -5967,7 +5967,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Brady",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6374,7 +6374,7 @@
             "units": "4.00",
             "instructor": "Greene",
             "seats": "1",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -13383,7 +13383,7 @@
             "course": "PARA D095.61Z",
             "CRN": "13009",
             "desc": "OVERVIEW OF AMER LAW",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13392,9 +13392,9 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Blanchette",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "seats": "7",
+            "wait_seats": "-4",
+            "wait_cap": "6"
           }
         ],
         "13066": [
@@ -13402,7 +13402,7 @@
             "course": "PARA D095.66Z",
             "CRN": "13066",
             "desc": "OVERVIEW OF AMER LAW",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13411,9 +13411,9 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "10"
+            "seats": "7",
+            "wait_seats": "0",
+            "wait_cap": "6"
           }
         ]
       }
