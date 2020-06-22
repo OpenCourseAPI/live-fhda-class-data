@@ -45,7 +45,7 @@
             "course": "ACCT D001A66Z",
             "CRN": "12837",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -54,8 +54,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hammond",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -163,7 +163,7 @@
             "course": "ACCT D001C65Z",
             "CRN": "12839",
             "desc": "MANAG ACCOUNTG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -172,7 +172,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kwak",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "1",
             "wait_cap": "10"
           }
@@ -575,7 +575,7 @@
             "course": "ARTS D001A01",
             "CRN": "10936",
             "desc": "INTRO TO VISUAL ARTS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -584,8 +584,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Becerril",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -662,8 +662,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Olsen",
-            "seats": "24",
-            "wait_seats": "6",
+            "seats": "15",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ],
@@ -681,8 +681,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Cadge-Moore",
-            "seats": "5",
-            "wait_seats": "12",
+            "seats": "1",
+            "wait_seats": "16",
             "wait_cap": "20"
           }
         ],
@@ -700,8 +700,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Olsen",
-            "seats": "5",
-            "wait_seats": "0",
+            "seats": "1",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ]
@@ -721,8 +721,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "5",
-            "wait_seats": "23",
+            "seats": "3",
+            "wait_seats": "25",
             "wait_cap": "25"
           }
         ],
@@ -740,8 +740,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "18",
-            "wait_seats": "8",
+            "seats": "12",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ]
@@ -3176,7 +3176,7 @@
             "course": "CIS D003.66Z",
             "CRN": "12986",
             "desc": "BUSINESS INFO SYSTEMS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3185,8 +3185,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ]
@@ -3560,7 +3560,7 @@
             "course": "CIS D022C01Y",
             "CRN": "11306",
             "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3569,8 +3569,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Goel",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -3672,7 +3672,7 @@
             "course": "CIS D035A61Y",
             "CRN": "12639",
             "desc": "JAVA PROGRAMMING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3681,15 +3681,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Abolghasemi",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D035A61Y",
             "CRN": "12639",
             "desc": "JAVA PROGRAMMING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "06:00 PM-07:50 PM",
             "start": "06/29/2020",
@@ -3698,8 +3698,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Abolghasemi",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -5019,7 +5019,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Huynh",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -6345,7 +6345,7 @@
             "course": "ESCI D001.66Z",
             "CRN": "12544",
             "desc": "ENVIRON SCIENCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6354,8 +6354,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Greene",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -6421,7 +6421,7 @@
             "course": "ESCI D001.70Z",
             "CRN": "12937",
             "desc": "ENVIRON SCIENCE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6430,7 +6430,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Poffenroth",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -6859,7 +6859,7 @@
             "course": "ESL D263.02",
             "CRN": "12788",
             "desc": "LOW ADV GRAMMAR/WRITING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TWTh",
             "time": "03:00 PM-05:25 PM",
             "start": "06/29/2020",
@@ -6868,8 +6868,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -7190,7 +7190,7 @@
             "course": "EWRT D001A29",
             "CRN": "13105",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7199,8 +7199,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Swensson",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -9241,8 +9241,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Olsen",
-            "seats": "13",
-            "wait_seats": "13",
+            "seats": "11",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ],
@@ -9279,8 +9279,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Olsen",
-            "seats": "5",
-            "wait_seats": "16",
+            "seats": "1",
+            "wait_seats": "20",
             "wait_cap": "20"
           }
         ]
@@ -9470,8 +9470,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "17",
-            "wait_seats": "2",
+            "seats": "8",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
@@ -9507,7 +9507,7 @@
             "course": "JAPN D001.01",
             "CRN": "10854",
             "desc": "ELEM JAPANESE (1ST QTR)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:00 AM-12:15 PM",
             "start": "06/29/2020",
@@ -9516,8 +9516,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kuo",
-            "seats": "5",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "20"
           }
         ]
@@ -11215,7 +11215,7 @@
             "course": "MATH D002A05",
             "CRN": "13028",
             "desc": "DIFFERENTIAL EQUATIONS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/29/2020",
@@ -11224,8 +11224,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bourgoub",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -11812,7 +11812,7 @@
             "course": "MATH D031.07",
             "CRN": "13050",
             "desc": "PRECALCULUS I",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/29/2020",
@@ -11821,7 +11821,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Legge",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -11842,7 +11842,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bambhania",
-            "seats": "6",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -11859,7 +11859,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bambhania",
-            "seats": "6",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -13861,7 +13861,7 @@
             "course": "PHIL D004.61Z",
             "CRN": "12519",
             "desc": "CRITICAL THINKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13870,8 +13870,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hanson",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ],
@@ -14638,7 +14638,7 @@
             "course": "PSYC D014.01",
             "CRN": "00921",
             "desc": "DEVLPMNTL ASPECTS OF PSY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14647,8 +14647,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Schulte",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "8"
           }
         ],
