@@ -579,7 +579,7 @@
             "units": "5.00",
             "instructor": "Mendizabal",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ],
@@ -1808,7 +1808,7 @@
             "room": "ONLINE",
             "campus": "FO",
             "units": "0.00",
-            "instructor": "Staff",
+            "instructor": "Thomson",
             "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -4548,6 +4548,25 @@
             "wait_seats": "0",
             "wait_cap": "15"
           }
+        ],
+        "10872": [
+          {
+            "course": "CRLP F007.03W",
+            "CRN": "10872",
+            "desc": "SELF-ASSESSMENT",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "",
+            "campus": "",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "30",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          }
         ]
       }
     }
@@ -6392,7 +6411,7 @@
             "course": "HUMN F008.01W",
             "CRN": "10485",
             "desc": "EX MACHINA:PARADOX HUMAN DIGTL",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6402,7 +6421,7 @@
             "units": "4.00",
             "instructor": "Kashani",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ]
@@ -6568,6 +6587,25 @@
             "units": "4.00",
             "instructor": "Gandhi",
             "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10871": [
+          {
+            "course": "ITRN F053.02W",
+            "CRN": "10871",
+            "desc": "INTERNSHIP",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/07/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Cammin",
+            "seats": "50",
             "wait_seats": "0",
             "wait_cap": "0"
           }
