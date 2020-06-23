@@ -346,7 +346,7 @@
             "course": "ACTG F060.02W",
             "CRN": "10089",
             "desc": "ACCOUNTING FOR SMALL BUSINESS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -356,7 +356,7 @@
             "units": "5.00",
             "instructor": "Ghodrat",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -598,7 +598,7 @@
             "units": "5.00",
             "instructor": "Mendizabal",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ],
@@ -636,7 +636,7 @@
             "units": "5.00",
             "instructor": "Van Hulsen",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ]
@@ -1771,6 +1771,25 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Rock",
+            "seats": "35",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10869": [
+          {
+            "course": "ALCB F465Y10V",
+            "CRN": "10869",
+            "desc": "CREATIVE SELF EXPRESSION",
+            "status": "Open",
+            "days": "T",
+            "time": "12:30 PM-02:40 PM",
+            "start": "06/29/2020",
+            "end": "09/04/2020",
+            "room": "ONLINE",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Thomson",
             "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
