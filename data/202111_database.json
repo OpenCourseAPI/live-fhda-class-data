@@ -194,7 +194,7 @@
             "units": "5.00",
             "instructor": "Butler",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ]
@@ -727,6 +727,27 @@
   },
   "ALCB": {
     "1": {
+      "400E": {
+        "10874": [
+          {
+            "course": "ALCB F400E01V",
+            "CRN": "10874",
+            "desc": "LITERARY LIP-READING",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "07/27/2020",
+            "end": "10/02/2020",
+            "room": "",
+            "campus": "",
+            "units": "0.00",
+            "instructor": "Staff",
+            "seats": "35",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "407Y": {
         "10803": [
           {
@@ -8755,7 +8776,7 @@
             "course": "PHIL F004.04W",
             "CRN": "10308",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8765,7 +8786,7 @@
             "units": "4.00",
             "instructor": "Chang",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "20"
           }
         ],
