@@ -4022,7 +4022,7 @@
             "course": "CHLD F095.01W",
             "CRN": "10452",
             "desc": "HEALTH/SAFETY/NUTRITION CHLD P",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4032,7 +4032,7 @@
             "units": "4.00",
             "instructor": "Giotta",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -5307,7 +5307,7 @@
             "units": "5.00",
             "instructor": "Lewis",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "25"
           }
         ],
@@ -7224,7 +7224,7 @@
       "1A": {
         "10039": [
           {
-            "course": "MATH F001A02W",
+            "course": "MATH F001A02V",
             "CRN": "10039",
             "desc": "CALCULUS",
             "status": "Open",
@@ -7237,7 +7237,7 @@
             "units": "5.00",
             "instructor": "Cembellin",
             "seats": "2",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -7246,7 +7246,7 @@
             "course": "MATH F001A03W",
             "CRN": "10278",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7256,7 +7256,7 @@
             "units": "5.00",
             "instructor": "Williams",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -7273,8 +7273,8 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Staff",
-            "seats": "40",
+            "instructor": "Cembellin",
+            "seats": "38",
             "wait_seats": "10",
             "wait_cap": "10"
           }
