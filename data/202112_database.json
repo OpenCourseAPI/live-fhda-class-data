@@ -272,7 +272,7 @@
             "course": "ADMJ D029.61Z",
             "CRN": "12291",
             "desc": "CULT PLURALISM/AMER LAW & JUST",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -281,9 +281,9 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kensler",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ]
       },
@@ -2833,7 +2833,7 @@
             "units": "5.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
@@ -2850,7 +2850,7 @@
             "units": "5.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
@@ -2867,7 +2867,7 @@
             "units": "5.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -4182,7 +4182,7 @@
             "course": "CIS D21JA61Y",
             "CRN": "12196",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4191,7 +4191,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Eftekhari",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "15"
           }
@@ -7705,7 +7705,7 @@
             "course": "EWRT D002.67Z",
             "CRN": "10550",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7715,7 +7715,7 @@
             "units": "5.00",
             "instructor": "Smith",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -8450,7 +8450,7 @@
             "course": "HLTH D021.67Z",
             "CRN": "13007",
             "desc": "CONTEMP HLTH CONCERNS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8459,7 +8459,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -9333,7 +9333,7 @@
             "course": "ICS D029.61Z",
             "CRN": "12290",
             "desc": "CULT PLURALISM/AMER LAW & JUST",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9342,9 +9342,9 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kensler",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ]
       },
@@ -9417,7 +9417,7 @@
             "course": "ICS D041.61Z",
             "CRN": "12586",
             "desc": "NATIVE AMER CONTEMP SOCIETY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9426,9 +9426,9 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kensler",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-14",
+            "wait_cap": "0"
           }
         ]
       }
@@ -10843,7 +10843,7 @@
             "units": "5.00",
             "instructor": "Van Der Poel",
             "seats": "1",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -11139,7 +11139,7 @@
             "course": "MATH D002A03",
             "CRN": "12992",
             "desc": "DIFFERENTIAL EQUATIONS",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/29/2020",
@@ -11148,7 +11148,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Khosravi",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -12710,7 +12710,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Altman",
-            "seats": "17",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12872,7 +12872,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Altman",
-            "seats": "39",
+            "seats": "37",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14543,7 +14543,7 @@
             "course": "PSYC D014.61Z",
             "CRN": "00923",
             "desc": "DEVLPMNTL ASPECTS OF PSY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14553,7 +14553,7 @@
             "units": "4.00",
             "instructor": "Tamas",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "8"
           }
         ]
