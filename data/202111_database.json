@@ -83,7 +83,7 @@
             "course": "ACTG F001A06W",
             "CRN": "10071",
             "desc": "FINANCIAL ACCOUNTING I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -93,7 +93,7 @@
             "units": "5.00",
             "instructor": "Ponleithner",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -4424,7 +4424,7 @@
             "units": "5.00",
             "instructor": "Meneses",
             "seats": "1",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -5957,7 +5957,7 @@
             "units": "4.00",
             "instructor": "Standish",
             "seats": "1",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "20"
           }
         ]
@@ -6344,7 +6344,7 @@
             "units": "4.00",
             "instructor": "Mitrovici",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "20"
           }
         ]
@@ -6849,7 +6849,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Bustamante",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6946,7 +6946,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -6963,7 +6963,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8741,7 +8741,7 @@
             "course": "PHIL F001.01W",
             "CRN": "10172",
             "desc": "CRITICAL THINKING & WRITING",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8750,7 +8750,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hoekenga",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "20"
           }
@@ -8781,7 +8781,7 @@
             "course": "PHIL F004.02W",
             "CRN": "10115",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8790,7 +8790,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Provost",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "20"
           }
@@ -10868,23 +10868,6 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
-          },
-          {
-            "course": "THTR F045A1DW",
-            "CRN": "10878",
-            "desc": "TECHNICAL THEATRE PRODUCTION I",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "08/12/2020",
-            "end": "12/18/2020",
-            "room": "GHS",
-            "campus": "FO",
-            "units": "4.00",
-            "instructor": "Staff",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ]
       },
@@ -10902,6 +10885,27 @@
             "room": "GHS",
             "campus": "FO",
             "units": "4.00",
+            "instructor": "Sandberg",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "45D": {
+        "10880": [
+          {
+            "course": "THTR F045D1DW",
+            "CRN": "10880",
+            "desc": "TECH THEATRE PRODUCTION IV",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/12/2020",
+            "end": "12/18/2020",
+            "room": "GHS",
+            "campus": "FO",
+            "units": "2.00",
             "instructor": "Sandberg",
             "seats": "0",
             "wait_seats": "0",
