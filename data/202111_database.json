@@ -3105,7 +3105,7 @@
             "units": "4.50",
             "instructor": "Mazloom",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -3185,7 +3185,7 @@
             "units": "4.50",
             "instructor": "Venkataraman",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "25"
           }
         ]
@@ -4099,7 +4099,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Jackson Sandoval",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4414,7 +4414,7 @@
             "course": "COMM F005.01W",
             "CRN": "10816",
             "desc": "MASS COMMUNICATION",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4423,7 +4423,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -4567,7 +4567,7 @@
             "units": "4.00",
             "instructor": "Jinnah",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -6355,7 +6355,7 @@
             "course": "HUMN F006.01W",
             "CRN": "10347",
             "desc": "FROM MODERN TO CONTEMPORARY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6364,8 +6364,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gonnerman",
-            "seats": "0",
-            "wait_seats": "4",
+            "seats": "1",
+            "wait_seats": "3",
             "wait_cap": "20"
           }
         ],
@@ -9399,7 +9399,7 @@
             "units": "5.00",
             "instructor": "Woolcock",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "20"
           }
         ],
@@ -10847,6 +10847,44 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
+          }
+        ]
+      },
+      "45A": {
+        "10878": [
+          {
+            "course": "THTR F045A1DW",
+            "CRN": "10878",
+            "desc": "TECHNICAL THEATRE PRODUCTION I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/12/2020",
+            "end": "12/18/2020",
+            "room": "GHS",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "THTR F045A1DW",
+            "CRN": "10878",
+            "desc": "TECHNICAL THEATRE PRODUCTION I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/12/2020",
+            "end": "12/18/2020",
+            "room": "GHS",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Sandberg",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
