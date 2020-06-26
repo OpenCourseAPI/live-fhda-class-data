@@ -4099,7 +4099,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Jackson Sandoval",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6344,7 +6344,7 @@
             "units": "4.00",
             "instructor": "Mitrovici",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "20"
           }
         ]
@@ -10864,7 +10864,7 @@
             "room": "GHS",
             "campus": "FO",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Sandberg",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -10873,6 +10873,27 @@
             "course": "THTR F045A1DW",
             "CRN": "10878",
             "desc": "TECHNICAL THEATRE PRODUCTION I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/12/2020",
+            "end": "12/18/2020",
+            "room": "GHS",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "45B": {
+        "10879": [
+          {
+            "course": "THTR F045B1DW",
+            "CRN": "10879",
+            "desc": "TECHNICAL THEATRE PROD II",
             "status": "Full",
             "days": "TBA",
             "time": "TBA",
