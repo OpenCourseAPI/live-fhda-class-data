@@ -585,7 +585,7 @@
             "units": "4.00",
             "instructor": "Becerril",
             "seats": "1",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -613,7 +613,7 @@
             "course": "ARTS D001A61Z",
             "CRN": "12466",
             "desc": "INTRO TO VISUAL ARTS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -623,7 +623,7 @@
             "units": "4.00",
             "instructor": "Mjelde",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -2307,7 +2307,7 @@
             "course": "C D D052.61",
             "CRN": "12733",
             "desc": "OBSRVATN/ASSMT OF CHILDREN",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "07:00 PM-08:30 PM",
             "start": "06/29/2020",
@@ -2317,14 +2317,14 @@
             "units": "4.00",
             "instructor": "Roy",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "C D D052.61",
             "CRN": "12733",
             "desc": "OBSRVATN/ASSMT OF CHILDREN",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2334,7 +2334,7 @@
             "units": "4.00",
             "instructor": "Roy",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -4140,7 +4140,7 @@
             "course": "CIS D102.61Z",
             "CRN": "11528",
             "desc": "ETHICAL HACKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4150,7 +4150,7 @@
             "units": "4.50",
             "instructor": "Amoruwa",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -8927,7 +8927,7 @@
             "course": "HUMA D020.61Z",
             "CRN": "12487",
             "desc": "LIFE SKLS/HIGHR EDUC",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8936,8 +8936,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hughes",
-            "seats": "0",
-            "wait_seats": "3",
+            "seats": "1",
+            "wait_seats": "4",
             "wait_cap": "7"
           }
         ]
