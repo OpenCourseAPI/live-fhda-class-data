@@ -1919,7 +1919,7 @@
             "units": "5.00",
             "instructor": "Gough",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -3167,7 +3167,7 @@
             "units": "4.50",
             "instructor": "Whitehill",
             "seats": "1",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -10742,7 +10742,7 @@
             "course": "MATH D001B05",
             "CRN": "00660",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/29/2020",
@@ -10752,7 +10752,7 @@
             "units": "5.00",
             "instructor": "Shah",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -11607,7 +11607,7 @@
             "course": "MATH D022.05",
             "CRN": "12423",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/29/2020",
@@ -11617,7 +11617,7 @@
             "units": "5.00",
             "instructor": "Mazmanyan",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -11626,7 +11626,7 @@
             "course": "MATH D022.07",
             "CRN": "13099",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "03:00 PM-05:15 PM",
             "start": "06/29/2020",
@@ -11635,7 +11635,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shariatmadari",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -11643,7 +11643,7 @@
             "course": "MATH D022.07",
             "CRN": "13099",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -11652,7 +11652,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shariatmadari",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -11738,7 +11738,7 @@
             "course": "MATH D031.07",
             "CRN": "13050",
             "desc": "PRECALCULUS I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/29/2020",
@@ -11747,7 +11747,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Legge",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "6"
           }
