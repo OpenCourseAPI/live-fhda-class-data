@@ -540,8 +540,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roque",
-            "seats": "2",
-            "wait_seats": "0",
+            "seats": "1",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ],
@@ -1177,7 +1177,7 @@
             "course": "BIOL D010.65Z",
             "CRN": "10512",
             "desc": "INTRO BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1186,15 +1186,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Pane",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
             "course": "BIOL D010.65Z",
             "CRN": "10512",
             "desc": "INTRO BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "11:30 AM-12:45 PM",
             "start": "06/29/2020",
@@ -1203,8 +1203,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Pane",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -1335,7 +1335,7 @@
             "units": "5.00",
             "instructor": "Sengupta",
             "seats": "1",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "7"
           },
           {
@@ -1352,7 +1352,7 @@
             "units": "5.00",
             "instructor": "Sengupta",
             "seats": "1",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "7"
           }
         ],
@@ -1361,7 +1361,7 @@
             "course": "BIOL D040A02",
             "CRN": "10829",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:30 AM-12:20 PM",
             "start": "06/29/2020",
@@ -1370,15 +1370,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "7"
           },
           {
             "course": "BIOL D040A02",
             "CRN": "10829",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-01:45 PM",
             "start": "06/29/2020",
@@ -1387,8 +1387,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ],
@@ -1738,7 +1738,7 @@
             "course": "BUS D010.61Z",
             "CRN": "10610",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1748,7 +1748,7 @@
             "units": "5.00",
             "instructor": "Lilly",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -1776,7 +1776,7 @@
             "course": "BUS D010.66Z",
             "CRN": "12859",
             "desc": "INTRO TO BUSINESS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -1785,8 +1785,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Niedermier",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -2014,7 +2014,7 @@
             "course": "BUS D085.61Z",
             "CRN": "11882",
             "desc": "BUSINESS COMMUNICATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2023,8 +2023,8 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Takyi",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -2077,7 +2077,7 @@
             "course": "BUS D090.61Z",
             "CRN": "00105",
             "desc": "PRIN MARKETING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -2086,8 +2086,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shan",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -3228,7 +3228,7 @@
             "units": "4.50",
             "instructor": "Linn Jr",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ]
@@ -3239,7 +3239,7 @@
             "course": "CIS D018A61Y",
             "CRN": "10680",
             "desc": "INTRO TO UNIX/LINUX",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3249,7 +3249,7 @@
             "units": "4.50",
             "instructor": "Metcalf",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -3393,7 +3393,7 @@
             "course": "CIS D022A66Z",
             "CRN": "12985",
             "desc": "BEG PROG METHOD C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3402,8 +3402,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ]
@@ -3560,7 +3560,7 @@
             "course": "CIS D022C01Y",
             "CRN": "11306",
             "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3569,8 +3569,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Goel",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ],
@@ -4245,7 +4245,7 @@
             "course": "CLP D007.65Z",
             "CRN": "12862",
             "desc": "SELF ASSESSMENT",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4255,7 +4255,7 @@
             "units": "4.00",
             "instructor": "Wethington",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ]
@@ -4522,7 +4522,7 @@
             "course": "COMM D001.10Y",
             "CRN": "13090",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4531,15 +4531,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hong",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "COMM D001.10Y",
             "CRN": "13090",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:30 PM-02:55 PM",
             "start": "06/29/2020",
@@ -4548,8 +4548,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hong",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -4725,7 +4725,7 @@
             "course": "COMM D008.02Y",
             "CRN": "12573",
             "desc": "ARGUMENT/CRIT INQRY ORAL COMM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "01:00 PM-02:50 PM",
             "start": "06/29/2020",
@@ -4734,15 +4734,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kramer",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "COMM D008.02Y",
             "CRN": "12573",
             "desc": "ARGUMENT/CRIT INQRY ORAL COMM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4751,8 +4751,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kramer",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -4871,7 +4871,7 @@
             "course": "COMM D010.04Y",
             "CRN": "12577",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:30 PM-02:55 PM",
             "start": "06/29/2020",
@@ -4880,15 +4880,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yee",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "COMM D010.04Y",
             "CRN": "12577",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4897,8 +4897,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yee",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -4947,7 +4947,7 @@
             "course": "COMM D016.63Z",
             "CRN": "12579",
             "desc": "INTERPERSONAL COMMUNICATION",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4956,7 +4956,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gainer",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -5482,7 +5482,7 @@
             "course": "E S D001.66Z",
             "CRN": "11954",
             "desc": "INTRO ENVIRON STDS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5491,8 +5491,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -5560,7 +5560,7 @@
             "course": "E S D002.61Z",
             "CRN": "12540",
             "desc": "INTRO TO SUSTAINABILITY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5569,8 +5569,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "De Toro",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ]
@@ -5600,7 +5600,7 @@
             "course": "E S D003.65Z",
             "CRN": "12936",
             "desc": "IMAGERY OF THE ENVIRONMENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5609,8 +5609,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thorensen",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -5751,7 +5751,7 @@
             "course": "ECON D001.01",
             "CRN": "12719",
             "desc": "PRIN MACROECONOMICS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5760,7 +5760,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Perera",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "3"
           },
@@ -5768,7 +5768,7 @@
             "course": "ECON D001.01",
             "CRN": "12719",
             "desc": "PRIN MACROECONOMICS",
-            "status": "Full",
+            "status": "Open",
             "days": "Th",
             "time": "09:00 AM-09:50 AM",
             "start": "06/29/2020",
@@ -5777,7 +5777,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Perera",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "3"
           }
@@ -5844,7 +5844,7 @@
             "course": "ECON D001.61Z",
             "CRN": "10195",
             "desc": "PRIN MACROECONOMICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5853,8 +5853,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "3"
           }
         ],
@@ -5863,7 +5863,7 @@
             "course": "ECON D001.65Z",
             "CRN": "10196",
             "desc": "PRIN MACROECONOMICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5872,8 +5872,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Seshadri",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "3"
           }
         ],
@@ -6326,7 +6326,7 @@
             "course": "ESCI D001.65Z",
             "CRN": "12543",
             "desc": "ENVIRON SCIENCE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6335,7 +6335,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "De Toro",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "10"
           }
@@ -6480,7 +6480,7 @@
             "course": "ESCI D001L03",
             "CRN": "12688",
             "desc": "ENVIRON SCIENCE LAB",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "11:30 AM-01:20 PM",
             "start": "06/29/2020",
@@ -6489,7 +6489,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "McCluskey",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "7"
           },
@@ -6497,7 +6497,7 @@
             "course": "ESCI D001L03",
             "CRN": "12688",
             "desc": "ENVIRON SCIENCE LAB",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -6506,7 +6506,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "McCluskey",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "7"
           }
@@ -7574,7 +7574,7 @@
             "course": "EWRT D002.06",
             "CRN": "13021",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7583,8 +7583,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bejarin",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -7865,7 +7865,7 @@
             "course": "F/TV D001.01",
             "CRN": "00515",
             "desc": "INTRO TO CINEMATIC ARTS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7874,8 +7874,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wright",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ]
@@ -7907,7 +7907,7 @@
             "course": "F/TV D020.01",
             "CRN": "00518",
             "desc": "BEGINNING VIDEO PRODUCTION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TWTh",
             "time": "02:30 PM-04:20 PM",
             "start": "06/29/2020",
@@ -7916,15 +7916,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Irwin",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
             "course": "F/TV D020.01",
             "CRN": "00518",
             "desc": "BEGINNING VIDEO PRODUCTION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TWTh",
             "time": "04:30 PM-06:20 PM",
             "start": "06/29/2020",
@@ -7933,8 +7933,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Irwin",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -8065,7 +8065,7 @@
             "course": "GEO D010.01",
             "CRN": "12714",
             "desc": "WORLD REGIONAL GEOGRAPHY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8074,7 +8074,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dutt",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "3"
           }
@@ -8937,7 +8937,7 @@
             "units": "4.00",
             "instructor": "Hughes",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ]
@@ -9026,7 +9026,7 @@
             "course": "HUMI D001.04",
             "CRN": "12716",
             "desc": "CREATIVE MINDS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9035,7 +9035,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Berney",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -9347,7 +9347,7 @@
             "units": "4.00",
             "instructor": "Loyola",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ]
@@ -10359,7 +10359,7 @@
             "course": "KNES D045.61Z",
             "CRN": "12873",
             "desc": "INTRO TO KINESIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "07/06/2020",
@@ -10368,8 +10368,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Owiesny",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -10742,7 +10742,7 @@
             "course": "MATH D001B05",
             "CRN": "00660",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/29/2020",
@@ -10751,8 +10751,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shah",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -11316,7 +11316,7 @@
             "course": "MATH D010.08",
             "CRN": "12424",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -11325,8 +11325,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tran",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -11962,7 +11962,7 @@
             "course": "MATH D043.04",
             "CRN": "13037",
             "desc": "PRECALC III: ADVANCED TOPICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/29/2020",
@@ -11971,8 +11971,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Krestas",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ]
@@ -12059,7 +12059,7 @@
             "course": "MATH D114.11",
             "CRN": "13038",
             "desc": "MATH PREP LEVEL 3:INTERMED ALG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "06:00 PM-08:15 PM",
             "start": "06/29/2020",
@@ -12068,8 +12068,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rudolf",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -12113,7 +12113,7 @@
             "units": "5.00",
             "instructor": "James",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ],
@@ -12668,8 +12668,8 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Miller",
-            "seats": "2",
-            "wait_seats": "9",
+            "seats": "1",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -13721,7 +13721,7 @@
             "units": "4.00",
             "instructor": "Galindo",
             "seats": "1",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -13751,7 +13751,7 @@
             "course": "PHIL D008.65Z",
             "CRN": "12521",
             "desc": "ETHICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13760,8 +13760,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Baiamonte",
-            "seats": "2",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ]
@@ -13776,7 +13776,7 @@
             "course": "PHTG D001.01",
             "CRN": "00889",
             "desc": "BASIC PHOTOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "09:30 AM-11:20 AM",
             "start": "06/29/2020",
@@ -13785,15 +13785,15 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Teng",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "PHTG D001.01",
             "CRN": "00889",
             "desc": "BASIC PHOTOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "10:30 AM-12:20 PM",
             "start": "06/29/2020",
@@ -13802,15 +13802,15 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Teng",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "PHTG D001.01",
             "CRN": "00889",
             "desc": "BASIC PHOTOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13819,8 +13819,8 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Teng",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -13873,7 +13873,7 @@
             "course": "PHTG D021.61Z",
             "CRN": "12484",
             "desc": "CONTEMP TRENDS IN PHTG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13882,8 +13882,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pack",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -13898,7 +13898,7 @@
             "course": "PHYS D010.02",
             "CRN": "12035",
             "desc": "CONCEPTS OF PHYSICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13907,8 +13907,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Francis",
-            "seats": "1",
-            "wait_seats": "12",
+            "seats": "0",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ]
@@ -14077,7 +14077,7 @@
             "course": "POLI D001.68Z",
             "CRN": "12624",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14086,8 +14086,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tarikh",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -14096,7 +14096,7 @@
             "course": "POLI D001.69Z",
             "CRN": "12507",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14105,8 +14105,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ovetz",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ]
@@ -14182,7 +14182,7 @@
             "course": "PSYC D001.01",
             "CRN": "00908",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "08:00 AM-09:50 AM",
             "start": "06/29/2020",
@@ -14192,14 +14192,14 @@
             "units": "4.00",
             "instructor": "Firpo",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "8"
           },
           {
             "course": "PSYC D001.01",
             "CRN": "00908",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14209,7 +14209,7 @@
             "units": "4.00",
             "instructor": "Firpo",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "8"
           }
         ],
@@ -14313,7 +14313,7 @@
             "course": "PSYC D001.65Z",
             "CRN": "12210",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14322,7 +14322,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Healy",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "8"
           }
@@ -14553,7 +14553,7 @@
             "course": "REST D051.61Z",
             "CRN": "01155",
             "desc": "REAL ESTATE PRACTICES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14562,8 +14562,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sherby",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "20"
           }
         ]
@@ -14803,7 +14803,7 @@
             "course": "SOSC D083Z61Z",
             "CRN": "12810",
             "desc": "COMM BASED LRNG SOSC - SOCIOLO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14812,7 +14812,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kaufman",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
