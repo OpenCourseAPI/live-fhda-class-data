@@ -422,7 +422,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hui",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "1",
             "wait_cap": "2"
           }
@@ -1479,7 +1479,7 @@
             "units": "5.00",
             "instructor": "Balabanian",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "7"
           },
           {
@@ -1496,7 +1496,7 @@
             "units": "5.00",
             "instructor": "Balabanian",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "7"
           }
         ]
@@ -1786,7 +1786,7 @@
             "units": "5.00",
             "instructor": "Niedermier",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -1919,7 +1919,7 @@
             "units": "5.00",
             "instructor": "Gough",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -3300,7 +3300,7 @@
             "course": "CIS D022A02Y",
             "CRN": "11304",
             "desc": "BEG PROG METHOD C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3310,14 +3310,14 @@
             "units": "4.50",
             "instructor": "Lau",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D022A02Y",
             "CRN": "11304",
             "desc": "BEG PROG METHOD C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTh",
             "time": "03:00 PM-04:50 PM",
             "start": "06/29/2020",
@@ -3327,7 +3327,7 @@
             "units": "4.50",
             "instructor": "Lau",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -3424,7 +3424,7 @@
             "units": "4.50",
             "instructor": "Ahrens",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "15"
           },
           {
@@ -3441,7 +3441,7 @@
             "units": "4.50",
             "instructor": "Ahrens",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ],
@@ -3832,7 +3832,7 @@
             "units": "4.50",
             "instructor": "May-Pumphrey",
             "seats": "1",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
@@ -3849,7 +3849,7 @@
             "units": "4.50",
             "instructor": "May-Pumphrey",
             "seats": "1",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -3982,7 +3982,7 @@
             "units": "4.50",
             "instructor": "Fisk",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ]
@@ -4211,7 +4211,7 @@
             "units": "4.50",
             "instructor": "Eftekhari",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ]
@@ -4763,7 +4763,7 @@
             "course": "COMM D010.01Y",
             "CRN": "12574",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "07:30 AM-09:55 AM",
             "start": "06/29/2020",
@@ -4773,14 +4773,14 @@
             "units": "5.00",
             "instructor": "Cano",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "COMM D010.01Y",
             "CRN": "12574",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4790,7 +4790,7 @@
             "units": "5.00",
             "instructor": "Cano",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -5444,7 +5444,7 @@
             "course": "E S D001.61Z",
             "CRN": "10324",
             "desc": "INTRO ENVIRON STDS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5453,8 +5453,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ],
@@ -5492,7 +5492,7 @@
             "units": "4.00",
             "instructor": "Roeder",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -5501,7 +5501,7 @@
             "course": "E S D001.67Z",
             "CRN": "12681",
             "desc": "INTRO ENVIRON STDS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5510,7 +5510,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Poffenroth",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -6412,7 +6412,7 @@
             "units": "4.00",
             "instructor": "Sanders",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -7152,7 +7152,7 @@
             "course": "EWRT D001A27",
             "CRN": "13018",
             "desc": "COMPOSITION AND READING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7162,7 +7162,7 @@
             "units": "5.00",
             "instructor": "Diehl",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -7695,8 +7695,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "3",
-            "wait_seats": "1",
+            "seats": "2",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -7705,7 +7705,7 @@
             "course": "EWRT D002.67Z",
             "CRN": "10550",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7714,8 +7714,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -8103,7 +8103,7 @@
             "course": "GEO D010.66Z",
             "CRN": "11743",
             "desc": "WORLD REGIONAL GEOGRAPHY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -8112,7 +8112,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pena",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -8301,7 +8301,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "5"
           }
@@ -9379,7 +9379,7 @@
             "course": "ICS D033.01",
             "CRN": "12555",
             "desc": "CHICANO/A- LATINO/A ARTS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9389,7 +9389,7 @@
             "units": "4.00",
             "instructor": "Loyola",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -9740,7 +9740,7 @@
             "course": "KNES D019A01",
             "CRN": "12885",
             "desc": "STRENGTH DEVELOPMENT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -9749,7 +9749,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Damjanovic",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -10470,7 +10470,7 @@
             "units": "5.00",
             "instructor": "Guevara",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -10790,7 +10790,7 @@
             "units": "5.00",
             "instructor": "Yarahmadi",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "6"
           },
           {
@@ -10807,7 +10807,7 @@
             "units": "5.00",
             "instructor": "Yarahmadi",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -10885,7 +10885,7 @@
             "units": "5.00",
             "instructor": "Taylor",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
@@ -10902,7 +10902,7 @@
             "units": "5.00",
             "instructor": "Taylor",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -11033,7 +11033,7 @@
             "units": "5.00",
             "instructor": "Yu",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ]
@@ -11231,7 +11231,7 @@
             "units": "5.00",
             "instructor": "Yu",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -11240,7 +11240,7 @@
             "course": "MATH D010.04",
             "CRN": "10979",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
+            "status": "Full",
             "days": "MTWTh",
             "time": "10:00 AM-12:15 PM",
             "start": "06/29/2020",
@@ -11249,7 +11249,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Geraghty",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -11993,7 +11993,7 @@
             "units": "5.00",
             "instructor": "Janak",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -12538,7 +12538,7 @@
             "units": "4.00",
             "instructor": "Miller",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -13309,7 +13309,7 @@
             "course": "PARA D054.01",
             "CRN": "12928",
             "desc": "YOUTH AND THE LAW",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "10:00 AM-10:50 AM",
             "start": "06/29/2020",
@@ -13319,14 +13319,14 @@
             "units": "4.00",
             "instructor": "Rudich",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "PARA D054.01",
             "CRN": "12928",
             "desc": "YOUTH AND THE LAW",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -13336,7 +13336,7 @@
             "units": "4.00",
             "instructor": "Rudich",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -13761,7 +13761,7 @@
             "units": "4.00",
             "instructor": "Baiamonte",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "6",
             "wait_cap": "15"
           }
         ]
@@ -13907,7 +13907,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Francis",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "20"
           }
@@ -13991,7 +13991,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chin",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           }
@@ -14469,7 +14469,7 @@
             "course": "PSYC D014.01",
             "CRN": "00921",
             "desc": "DEVLPMNTL ASPECTS OF PSY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14479,7 +14479,7 @@
             "units": "4.00",
             "instructor": "Schulte",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "8"
           }
         ],
@@ -14620,7 +14620,7 @@
             "course": "SOC D001.02",
             "CRN": "10960",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14630,7 +14630,7 @@
             "units": "4.00",
             "instructor": "Pasion",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -14658,7 +14658,7 @@
             "course": "SOC D001.61Z",
             "CRN": "00957",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -14667,8 +14667,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tapia",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -14812,7 +14812,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kaufman",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "3",
             "wait_cap": "5"
           }
@@ -14862,8 +14862,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Coronado",
-            "seats": "2",
-            "wait_seats": "0",
+            "seats": "1",
+            "wait_seats": "1",
             "wait_cap": "35"
           }
         ],
