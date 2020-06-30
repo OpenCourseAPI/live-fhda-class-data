@@ -3920,7 +3920,7 @@
             "course": "CHEM F030A02Z",
             "CRN": "10511",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:00 AM-11:50 AM",
             "start": "06/29/2020",
@@ -3929,15 +3929,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "8"
           },
           {
             "course": "CHEM F030A02Z",
             "CRN": "10511",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -3946,8 +3946,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "8"
           }
         ]
@@ -4981,7 +4981,7 @@
             "units": "5.00",
             "instructor": "Verissimo Ira",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "20"
           }
         ]
@@ -5927,7 +5927,7 @@
             "units": "4.00",
             "instructor": "Batham",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "20"
           }
         ],
@@ -7825,7 +7825,7 @@
             "course": "MDIA F011.01W",
             "CRN": "10147",
             "desc": "INTRO TO POPULAR CULTURE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -7834,7 +7834,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "10"
           }
@@ -9326,8 +9326,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryer",
-            "seats": "3",
-            "wait_seats": "6",
+            "seats": "2",
+            "wait_seats": "7",
             "wait_cap": "20"
           }
         ]
@@ -10206,6 +10206,23 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "2.00",
+            "instructor": "Barraza",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "RSPT F070A02",
+            "CRN": "10736",
+            "desc": "CLINICAL ROTATION I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/12/2020",
+            "end": "09/19/2020",
+            "room": "HOSP",
+            "campus": "FO",
+            "units": "2.00",
             "instructor": "Hills",
             "seats": "0",
             "wait_seats": "0",
@@ -10399,7 +10416,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "20"
           }
@@ -10908,8 +10925,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Standish",
-            "seats": "6",
-            "wait_seats": "3",
+            "seats": "5",
+            "wait_seats": "4",
             "wait_cap": "20"
           }
         ]
