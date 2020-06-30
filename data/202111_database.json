@@ -1956,7 +1956,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Connell",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "20"
           }
@@ -3972,7 +3972,7 @@
             "units": "4.00",
             "instructor": "Dominguez",
             "seats": "1",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "20"
           }
         ]
@@ -6029,7 +6029,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Horowitz",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "1",
             "wait_cap": "2"
           }
@@ -8287,6 +8287,25 @@
   "NCBH": {
     "1": {
       "400": {
+        "10885": [
+          {
+            "course": "NCBH F400.05",
+            "CRN": "10885",
+            "desc": "SUPPLEMENTAL INSTRUC:BH",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/29/2020",
+            "end": "08/09/2020",
+            "room": "TBA",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "Gregory",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "10156": [
           {
             "course": "NCBH F400.50",
@@ -8815,7 +8834,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tapia",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "7",
             "wait_cap": "20"
           }
@@ -10388,7 +10407,7 @@
             "course": "SOC F001.03W",
             "CRN": "10259",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -10397,7 +10416,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gibbs Stayte",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "20"
           }
@@ -10416,8 +10435,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "10",
-            "wait_seats": "12",
+            "seats": "9",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ],
