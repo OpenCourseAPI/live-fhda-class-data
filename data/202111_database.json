@@ -2115,7 +2115,7 @@
             "units": "4.00",
             "instructor": "Price",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ]
@@ -3164,7 +3164,7 @@
             "units": "4.50",
             "instructor": "Lankester",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "15",
             "wait_cap": "25"
           }
         ]
@@ -3894,7 +3894,7 @@
             "units": "5.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "8"
           },
           {
@@ -3911,7 +3911,7 @@
             "units": "5.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "8"
           }
         ],
@@ -5021,7 +5021,7 @@
             "units": "5.00",
             "instructor": "Evans",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "20"
           }
         ]
@@ -5566,7 +5566,7 @@
             "course": "GEOG F001.01W",
             "CRN": "10839",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5575,15 +5575,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hansell",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "20"
           },
           {
             "course": "GEOG F001.01W",
             "CRN": "10839",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -5592,8 +5592,8 @@
             "campus": "",
             "units": "5.00",
             "instructor": "Hansell",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "20"
           }
         ],
@@ -5780,7 +5780,7 @@
             "units": "4.00",
             "instructor": "Gossett",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -5865,7 +5865,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Standish",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "7",
             "wait_cap": "20"
           }
@@ -6116,7 +6116,7 @@
             "units": "4.00",
             "instructor": "McGuire",
             "seats": "2",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "20"
           }
         ],
@@ -6373,7 +6373,7 @@
             "units": "4.00",
             "instructor": "Vaughan",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "11",
             "wait_cap": "20"
           }
         ]
@@ -8287,25 +8287,6 @@
   "NCBH": {
     "1": {
       "400": {
-        "10885": [
-          {
-            "course": "NCBH F400.05",
-            "CRN": "10885",
-            "desc": "SUPPLEMENTAL INSTRUC:BH",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "TBA",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "Gregory",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10156": [
           {
             "course": "NCBH F400.50",
