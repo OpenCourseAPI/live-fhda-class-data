@@ -2075,7 +2075,7 @@
             "units": "4.00",
             "instructor": "Neff",
             "seats": "4",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "20"
           }
         ],
@@ -4321,7 +4321,7 @@
             "units": "5.00",
             "instructor": "Meneses",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -4363,7 +4363,7 @@
             "units": "5.00",
             "instructor": "Firenzi",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -4971,7 +4971,7 @@
             "course": "ECON F001A04W",
             "CRN": "10840",
             "desc": "PRINCIPLES OF MACROECONOMICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/29/2020",
@@ -4980,8 +4980,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Verissimo Ira",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "20"
           }
         ]
@@ -7207,8 +7207,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Williams",
-            "seats": "2",
-            "wait_seats": "6",
+            "seats": "1",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -8354,7 +8354,7 @@
             "campus": "FC",
             "units": "0.00",
             "instructor": "Kuo",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -10240,23 +10240,6 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "2.00",
-            "instructor": "Perry",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F070A02",
-            "CRN": "10736",
-            "desc": "CLINICAL ROTATION I",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "08/12/2020",
-            "end": "09/19/2020",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "2.00",
             "instructor": "Wee Tom",
             "seats": "0",
             "wait_seats": "0",
@@ -10275,6 +10258,23 @@
             "campus": "FO",
             "units": "2.00",
             "instructor": "Qura Del Rio",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "RSPT F070A02",
+            "CRN": "10736",
+            "desc": "CLINICAL ROTATION I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/12/2020",
+            "end": "09/19/2020",
+            "room": "HOSP",
+            "campus": "FO",
+            "units": "2.00",
+            "instructor": "Wedeking",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -10399,8 +10399,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "7",
-            "wait_seats": "9",
+            "seats": "6",
+            "wait_seats": "10",
             "wait_cap": "20"
           }
         ],
