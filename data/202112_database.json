@@ -910,8 +910,8 @@
             "CRN": "12561",
             "desc": "PUBLIC SPEAKING",
             "status": "Open",
-            "days": "TTh",
-            "time": "07:30 AM-09:55 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -927,8 +927,8 @@
             "CRN": "12561",
             "desc": "PUBLIC SPEAKING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "07:30 AM-09:55 AM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1234,8 +1234,8 @@
             "CRN": "12571",
             "desc": "PUBLIC SPEAKING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "06:00 PM-09:00 PM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1251,8 +1251,8 @@
             "CRN": "12571",
             "desc": "PUBLIC SPEAKING",
             "status": "Open",
-            "days": "T",
-            "time": "06:00 PM-09:00 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -1354,7 +1354,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cano",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "4",
             "wait_cap": "6"
           },
@@ -1371,43 +1371,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cano",
-            "seats": "9",
-            "wait_seats": "4",
-            "wait_cap": "6"
-          }
-        ],
-        "12575": [
-          {
-            "course": "COMM D010.02Y",
-            "CRN": "12575",
-            "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Waitlist",
-            "days": "TWTh",
-            "time": "10:00 AM-12:25 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Raiff",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "6"
-          },
-          {
-            "course": "COMM D010.02Y",
-            "CRN": "12575",
-            "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Raiff",
-            "seats": "0",
+            "seats": "10",
             "wait_seats": "4",
             "wait_cap": "6"
           }
@@ -1815,25 +1779,6 @@
         ]
       },
       "231S": {
-        "12851": [
-          {
-            "course": "EDAC D231S01F",
-            "CRN": "12851",
-            "desc": "WORKFORCE SKLLS",
-            "status": "Open",
-            "days": "TTh",
-            "time": "08:00 AM-01:10 PM",
-            "start": "06/29/2020",
-            "end": "09/04/2020",
-            "room": "ONLINE",
-            "campus": "DO",
-            "units": "3.00",
-            "instructor": "Magnin",
-            "seats": "23",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ],
         "12853": [
           {
             "course": "EDAC D231S02F",
@@ -1878,29 +1823,7 @@
     }
   },
   "ELIT": {
-    "1": {
-      "10": {
-        "10280": [
-          {
-            "course": "ELIT D010.01",
-            "CRN": "10280",
-            "desc": "INTRO TO FICTION",
-            "status": "Open",
-            "days": "TWTh",
-            "time": "12:30 PM-02:55 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Malone",
-            "seats": "4",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "ENGR": {
     "1": {}
@@ -1949,69 +1872,6 @@
   },
   "ESL": {
     "1": {
-      "251": {
-        "00429": [
-          {
-            "course": "ESL D251.02",
-            "CRN": "00429",
-            "desc": "HGH INTER LISTNG/SPEAKNG",
-            "status": "Open",
-            "days": "TWTh",
-            "time": "10:00 AM-11:50 AM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "3.00",
-            "instructor": "Yee",
-            "seats": "4",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ]
-      },
-      "252": {
-        "12590": [
-          {
-            "course": "ESL D252.02",
-            "CRN": "12590",
-            "desc": "HIGH INTERMED. READING",
-            "status": "Waitlist",
-            "days": "TWTh",
-            "time": "12:30 PM-02:20 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "3.00",
-            "instructor": "Norman",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "6"
-          }
-        ]
-      },
-      "253": {
-        "10815": [
-          {
-            "course": "ESL D253.03",
-            "CRN": "10815",
-            "desc": "HIGH INTERM. GRAMM/WRITG",
-            "status": "Open",
-            "days": "TWTh",
-            "time": "03:00 PM-05:25 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Norman",
-            "seats": "2",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          }
-        ]
-      },
       "261": {
         "00436": [
           {
@@ -2125,46 +1985,6 @@
             "wait_cap": "6"
           }
         ]
-      },
-      "263": {
-        "12788": [
-          {
-            "course": "ESL D263.02",
-            "CRN": "12788",
-            "desc": "LOW ADV GRAMMAR/WRITING",
-            "status": "Open",
-            "days": "TWTh",
-            "time": "03:00 PM-05:25 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Lee",
-            "seats": "1",
-            "wait_seats": "4",
-            "wait_cap": "6"
-          }
-        ],
-        "00444": [
-          {
-            "course": "ESL D263.03",
-            "CRN": "00444",
-            "desc": "LOW ADV GRAMMAR/WRITING",
-            "status": "Open",
-            "days": "TWTh",
-            "time": "12:30 PM-02:55 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Lee",
-            "seats": "2",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          }
-        ]
       }
     }
   },
@@ -2232,120 +2052,6 @@
             "wait_cap": "15"
           }
         ]
-      },
-      "20": {
-        "00518": [
-          {
-            "course": "F/TV D020.01",
-            "CRN": "00518",
-            "desc": "BEGINNING VIDEO PRODUCTION",
-            "status": "Open",
-            "days": "TWTh",
-            "time": "02:30 PM-04:20 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Irwin",
-            "seats": "4",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "F/TV D020.01",
-            "CRN": "00518",
-            "desc": "BEGINNING VIDEO PRODUCTION",
-            "status": "Open",
-            "days": "TWTh",
-            "time": "04:30 PM-06:20 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Irwin",
-            "seats": "4",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "71G": {
-        "12925": [
-          {
-            "course": "F/TV D071G01",
-            "CRN": "12925",
-            "desc": "INTRO TO 3D COMP ANIM: MODLNG",
-            "status": "Open",
-            "days": "TWTh",
-            "time": "10:30 AM-12:20 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Freckelton",
-            "seats": "7",
-            "wait_seats": "3",
-            "wait_cap": "5"
-          },
-          {
-            "course": "F/TV D071G01",
-            "CRN": "12925",
-            "desc": "INTRO TO 3D COMP ANIM: MODLNG",
-            "status": "Open",
-            "days": "TWTh",
-            "time": "12:30 PM-02:20 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Freckelton",
-            "seats": "7",
-            "wait_seats": "3",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "71H": {
-        "12926": [
-          {
-            "course": "F/TV D071H01",
-            "CRN": "12926",
-            "desc": "INTRO TO 3D COMP ANI: CHAR MOT",
-            "status": "Waitlist",
-            "days": "TWTh",
-            "time": "10:30 AM-12:20 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Freckelton",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "5"
-          },
-          {
-            "course": "F/TV D071H01",
-            "CRN": "12926",
-            "desc": "INTRO TO 3D COMP ANI: CHAR MOT",
-            "status": "Waitlist",
-            "days": "TWTh",
-            "time": "12:30 PM-02:20 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Freckelton",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "5"
-          }
-        ]
       }
     }
   },
@@ -2356,29 +2062,7 @@
     "1": {}
   },
   "HIST": {
-    "1": {
-      "3C": {
-        "12217": [
-          {
-            "course": "HIST D003C01",
-            "CRN": "12217",
-            "desc": "WORLD HIST FROM 1750CE-PRESENT",
-            "status": "Open",
-            "days": "TWTh",
-            "time": "03:00 PM-05:25 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Jackman",
-            "seats": "10",
-            "wait_seats": "3",
-            "wait_cap": "5"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "HLTH": {
     "1": {}
@@ -2487,27 +2171,6 @@
             "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
-          }
-        ]
-      },
-      "96B": {
-        "12931": [
-          {
-            "course": "HTEC D096B01F",
-            "CRN": "12931",
-            "desc": "MEDICAL SECRETARIAL EXTERNSHP",
-            "status": "Open",
-            "days": "MT",
-            "time": "06:30 AM-12:20 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "TBA",
-            "campus": "DO",
-            "units": "4.00",
-            "instructor": "Miramontes",
-            "seats": "5",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ]
       },
@@ -2803,8 +2466,8 @@
             "CRN": "00568",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "W",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -2820,8 +2483,8 @@
             "CRN": "00568",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "10:00 AM-11:50 AM",
             "start": "06/29/2020",
             "end": "08/09/2020",
             "room": "ONLINE",
@@ -2830,25 +2493,6 @@
             "instructor": "Wood",
             "seats": "5",
             "wait_seats": "7",
-            "wait_cap": "15"
-          }
-        ],
-        "10172": [
-          {
-            "course": "HUMI D001.03",
-            "CRN": "10172",
-            "desc": "CREATIVE MINDS",
-            "status": "Waitlist",
-            "days": "TWTh",
-            "time": "12:30 PM-02:55 PM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Jackman",
-            "seats": "0",
-            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -3334,27 +2978,6 @@
   },
   "MUSI": {
     "1": {
-      "1A": {
-        "12680": [
-          {
-            "course": "MUSI D001A01",
-            "CRN": "12680",
-            "desc": "MUSIC APPREC: WESTRN CULTURE",
-            "status": "Waitlist",
-            "days": "TWTh",
-            "time": "09:30 AM-11:55 AM",
-            "start": "06/29/2020",
-            "end": "08/09/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Thomsen",
-            "seats": "0",
-            "wait_seats": "12",
-            "wait_cap": "15"
-          }
-        ]
-      },
       "12A": {
         "12256": [
           {
