@@ -809,7 +809,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mello",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -826,7 +826,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mello",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1765,7 +1765,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Berry",
-            "seats": "50",
+            "seats": "49",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -1874,7 +1874,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mjelde",
-            "seats": "49",
+            "seats": "48",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -7426,7 +7426,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "50",
+            "seats": "49",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7468,7 +7468,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fritz",
-            "seats": "48",
+            "seats": "47",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10643,7 +10643,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Abolghasemi",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12146,7 +12146,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hong",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -12163,7 +12163,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hong",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -13070,7 +13070,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hamilton",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -13087,7 +13087,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hamilton",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -16142,7 +16142,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Koshin",
-            "seats": "99",
+            "seats": "98",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -27524,65 +27524,6 @@
           }
         ]
       },
-      "11A": {
-        "24667": [
-          {
-            "course": "KNES D011A01Z",
-            "CRN": "24667",
-            "desc": "CARDIO KICK",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Ghiasvand",
-            "seats": "20",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "25833": [
-          {
-            "course": "KNES D11AX01Z",
-            "CRN": "25833",
-            "desc": "CARDIO KICK",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "11/02/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.00",
-            "instructor": "Catuiza",
-            "seats": "20",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "25201": [
-          {
-            "course": "KNES D11AX61Z",
-            "CRN": "25201",
-            "desc": "CARDIO KICK",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.00",
-            "instructor": "Evans",
-            "seats": "20",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
       "12G": {
         "25348": [
           {
@@ -28355,6 +28296,46 @@
             "units": "1.00",
             "instructor": "Owiesny",
             "seats": "10",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ]
+      },
+      "11A": {
+        "25833": [
+          {
+            "course": "KNES D11AX01Z",
+            "CRN": "25833",
+            "desc": "CARDIO KICK",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "11/02/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "1.00",
+            "instructor": "Catuiza",
+            "seats": "20",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ],
+        "25201": [
+          {
+            "course": "KNES D11AX61Z",
+            "CRN": "25201",
+            "desc": "CARDIO KICK",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "1.00",
+            "instructor": "Evans",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -30540,7 +30521,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lopez",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31296,7 +31277,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31908,7 +31889,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shukla",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33600,7 +33581,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rashid",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -37408,25 +37389,6 @@
         ]
       },
       "4X": {
-        "26189": [
-          {
-            "course": "P E D04XX01",
-            "CRN": "26189",
-            "desc": "HI-INTENS STRNGTH DEV/AT",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "",
-            "campus": "",
-            "units": "1.00",
-            "instructor": "Staff",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "25440": [
           {
             "course": "P E D04XX01Z",
@@ -39153,7 +39115,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Luna",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -39436,7 +39398,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Luna",
-            "seats": "49",
+            "seats": "48",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -40266,7 +40228,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Thomas",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -40283,7 +40245,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Thomas",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -40831,7 +40793,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hassett",
-            "seats": "49",
+            "seats": "48",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -41028,7 +40990,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chiriaeva",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "15",
             "wait_cap": "15"
           }
