@@ -1,19 +1,16 @@
 name: Update Data
 
-# Disable workflow, for now
 on:
   push:
-    branches-ignore:
-      - '**'
-  #   branches: [ master ]
-  # watch:
-  #   types: [ started ]
-  # schedule:
-  #   - cron:  '*/5 * * * *'
+    branches: [ master ]
+  watch:
+    types: [ started ]
+  schedule:
+    - cron:  '*/5 * * * *'
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
 
     steps:
     - name: Checkout
