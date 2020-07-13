@@ -737,7 +737,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Riordan",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -754,7 +754,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Riordan",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -809,7 +809,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mello",
-            "seats": "38",
+            "seats": "37",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -826,7 +826,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mello",
-            "seats": "38",
+            "seats": "37",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1971,7 +1971,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pasturel",
-            "seats": "45",
+            "seats": "44",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6119,8 +6119,8 @@
             "CRN": "00275",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
-            "days": "T",
-            "time": "02:30 PM-03:20 PM",
+            "days": "TTh",
+            "time": "12:30 PM-02:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -6136,8 +6136,8 @@
             "CRN": "00275",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
-            "days": "TTh",
-            "time": "12:30 PM-02:20 PM",
+            "days": "T",
+            "time": "02:30 PM-03:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -6172,8 +6172,8 @@
             "CRN": "00276",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
-            "days": "Th",
-            "time": "02:30 PM-03:20 PM",
+            "days": "TTh",
+            "time": "12:30 PM-02:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -6189,8 +6189,8 @@
             "CRN": "00276",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
-            "days": "TTh",
-            "time": "12:30 PM-02:20 PM",
+            "days": "Th",
+            "time": "02:30 PM-03:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -6295,6 +6295,42 @@
         ]
       },
       "45": {
+        "21639": [
+          {
+            "course": "BIOL D045.01Z",
+            "CRN": "21639",
+            "desc": "INTRO HUMAN NUTRITION",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Miller",
+            "seats": "39",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "BIOL D045.01Z",
+            "CRN": "21639",
+            "desc": "INTRO HUMAN NUTRITION",
+            "status": "Open",
+            "days": "TTh",
+            "time": "06:30 PM-07:20 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Miller",
+            "seats": "39",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ],
         "00280": [
           {
             "course": "BIOL D045.61Z",
@@ -6312,42 +6348,6 @@
             "seats": "38",
             "wait_seats": "7",
             "wait_cap": "7"
-          }
-        ],
-        "21639": [
-          {
-            "course": "BIOL D045.62Z",
-            "CRN": "21639",
-            "desc": "INTRO HUMAN NUTRITION",
-            "status": "Open",
-            "days": "TTh",
-            "time": "06:30 PM-07:20 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Miller",
-            "seats": "39",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "BIOL D045.62Z",
-            "CRN": "21639",
-            "desc": "INTRO HUMAN NUTRITION",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Miller",
-            "seats": "39",
-            "wait_seats": "10",
-            "wait_cap": "10"
           }
         ]
       },
@@ -7176,7 +7176,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Spencer",
-            "seats": "49",
+            "seats": "48",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8167,7 +8167,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Brophy",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -8184,7 +8184,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Brophy",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18903,7 +18903,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mendoza",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -18920,7 +18920,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mendoza",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23141,7 +23141,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Jackman",
-            "seats": "50",
+            "seats": "49",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -23461,7 +23461,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pham",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -29512,7 +29512,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Mendoza",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -29944,7 +29944,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tracey",
-            "seats": "46",
+            "seats": "45",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -30684,7 +30684,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rashid",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31117,7 +31117,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rashid",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -32206,7 +32206,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tran",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -36984,7 +36984,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Altman",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -37008,46 +37008,6 @@
             "seats": "40",
             "wait_seats": "10",
             "wait_cap": "10"
-          }
-        ]
-      },
-      "39M": {
-        "24705": [
-          {
-            "course": "P E D039M01Z",
-            "CRN": "24705",
-            "desc": "INTERCOLLEGIATE MEN'S SOCCER",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "3.00",
-            "instructor": "Johnson",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "24062": [
-          {
-            "course": "P E D039M02",
-            "CRN": "24062",
-            "desc": "INTERCOLLEGIATE MEN'S SOCCER",
-            "status": "Full",
-            "days": "MTWThF",
-            "time": "01:30 PM-03:00 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ST-FLD",
-            "campus": "DA",
-            "units": "3.00",
-            "instructor": "Johnson",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ]
       },
@@ -37128,25 +37088,6 @@
             "wait_cap": "0"
           }
         ],
-        "20451": [
-          {
-            "course": "P E D040.61Z",
-            "CRN": "20451",
-            "desc": "INTERCOLLEGIATE FOOTBALL",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "3.00",
-            "instructor": "Mattis",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "21032": [
           {
             "course": "P E D040.62",
@@ -37168,25 +37109,6 @@
         ]
       },
       "43": {
-        "24708": [
-          {
-            "course": "P E D043.01Z",
-            "CRN": "24708",
-            "desc": "INTERCOLL CROSS COUNTR (MEN/WO",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "3.00",
-            "instructor": "Mattis",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "21084": [
           {
             "course": "P E D043.02",
@@ -39179,7 +39101,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Chiang",
-            "seats": "46",
+            "seats": "45",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -40809,7 +40731,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chiriaeva",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "15",
             "wait_cap": "15"
           }
