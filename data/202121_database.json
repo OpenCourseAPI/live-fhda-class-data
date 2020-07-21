@@ -856,7 +856,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Sturgess",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2573,7 +2573,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Connell",
-            "seats": "44",
+            "seats": "43",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2710,7 +2710,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Connell",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6509,7 +6509,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Meade",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9201,7 +9201,7 @@
             "units": "5.00",
             "instructor": "Velasco",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -9260,7 +9260,7 @@
             "units": "5.00",
             "instructor": "Vriksha",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -9335,7 +9335,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11249,7 +11249,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Patyk",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -14535,7 +14535,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Baldwin",
-            "seats": "45",
+            "seats": "46",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -15087,7 +15087,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gonnerman",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -15104,7 +15104,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gonnerman",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -17975,7 +17975,7 @@
             "units": "5.00",
             "instructor": "Robledo",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -17993,7 +17993,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Oruganti",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18899,7 +18899,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davies",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23438,7 +23438,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Evans",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -23627,7 +23627,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Petcu",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -23644,7 +23644,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Petcu",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25544,6 +25544,44 @@
           }
         ]
       },
+      "10": {
+        "21848": [
+          {
+            "course": "SOC F010.01W",
+            "CRN": "21848",
+            "desc": "RESEARCH METHODS & DESIGNS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Bauermeister",
+            "seats": "10",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "SOC F010.01W",
+            "CRN": "21848",
+            "desc": "RESEARCH METHODS & DESIGNS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Bauermeister",
+            "seats": "10",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ]
+      },
       "11": {
         "21711": [
           {
@@ -25560,27 +25598,6 @@
             "units": "5.00",
             "instructor": "Martin",
             "seats": "47",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
-        ]
-      },
-      "15": {
-        "20995": [
-          {
-            "course": "SOC F015.01W",
-            "CRN": "20995",
-            "desc": "LAW & SOCIETY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Staff",
-            "seats": "40",
             "wait_seats": "20",
             "wait_cap": "20"
           }
