@@ -16,7 +16,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ratchford",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -33,7 +33,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ratchford",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1235,7 +1235,7 @@
             "units": "4.00",
             "instructor": "Kensler",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -1343,7 +1343,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tiwana",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -1457,7 +1457,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Beggs",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -5330,7 +5330,7 @@
             "units": "5.00",
             "instructor": "Bram",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -19235,7 +19235,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bejarin",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -19274,7 +19274,7 @@
             "units": "5.00",
             "instructor": "Frangos",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -21689,6 +21689,25 @@
             "course": "EWRT D002.55Z",
             "CRN": "21932",
             "desc": "CRIT READ, WRIT & THINK",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Howland",
+            "seats": "1",
+            "wait_seats": "2",
+            "wait_cap": "5"
+          }
+        ],
+        "23123": [
+          {
+            "course": "EWRT D002.56Z",
+            "CRN": "23123",
+            "desc": "CRIT READ, WRIT & THINK",
             "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
@@ -21699,25 +21718,6 @@
             "units": "5.00",
             "instructor": "Howland",
             "seats": "0",
-            "wait_seats": "2",
-            "wait_cap": "5"
-          }
-        ],
-        "23123": [
-          {
-            "course": "EWRT D002.56Z",
-            "CRN": "23123",
-            "desc": "CRIT READ, WRIT & THINK",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Howland",
-            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23369,7 +23369,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Stevens",
-            "seats": "46",
+            "seats": "45",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -29776,7 +29776,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Bejarin",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -29815,7 +29815,7 @@
             "units": "3.00",
             "instructor": "Frangos",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -33976,7 +33976,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tsuji",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -39078,7 +39078,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Judd",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -40119,7 +40119,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Bunce",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "8",
             "wait_cap": "8"
           }
