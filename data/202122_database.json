@@ -124,7 +124,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "West",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -141,7 +141,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "West",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10224,7 +10224,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Oldham",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -10241,7 +10241,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Oldham",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13922,7 +13922,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Goldie",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -15067,7 +15067,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Stoddard",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -15084,7 +15084,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Stoddard",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -15101,7 +15101,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Stoddard",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -22727,7 +22727,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Freckelton",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -22744,7 +22744,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Freckelton",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -27175,7 +27175,7 @@
             "course": "JAPN D001.61Z",
             "CRN": "01312",
             "desc": "ELEM JAPANESE (1ST QTR)",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -27184,7 +27184,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Xuan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -30431,7 +30431,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -32461,7 +32461,7 @@
             "course": "MATH D010.MP2",
             "CRN": "25319",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "06:30 PM-08:45 PM",
             "start": "09/21/2020",
@@ -32470,7 +32470,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yarahmadi",
-            "seats": "0",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -32873,7 +32873,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "34",
+            "seats": "35",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -32890,7 +32890,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "34",
+            "seats": "35",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33368,7 +33368,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rezvani",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -36218,6 +36218,42 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "26216": [
+          {
+            "course": "NURS D094.03Z",
+            "CRN": "26216",
+            "desc": "GERONTOLOGY NURSING",
+            "status": "Open",
+            "days": "W",
+            "time": "08:30 AM-12:20 PM",
+            "start": "11/02/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "2.00",
+            "instructor": "Cozzens",
+            "seats": "10",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "NURS D094.03Z",
+            "CRN": "26216",
+            "desc": "GERONTOLOGY NURSING",
+            "status": "Open",
+            "days": "Th",
+            "time": "08:30 AM-12:20 PM",
+            "start": "11/02/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "2.00",
+            "instructor": "Cozzens",
+            "seats": "10",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
         ]
       },
       "94A": {
@@ -36677,7 +36713,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Acker",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -36694,7 +36730,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Acker",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -39735,7 +39771,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomas",
-            "seats": "62",
+            "seats": "61",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -40403,7 +40439,7 @@
             "course": "PSYC D014.51Z",
             "CRN": "02159",
             "desc": "DEVLPMNTL ASPECTS OF PSY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -40412,7 +40448,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Clifford Jr",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "8"
           }
@@ -41132,7 +41168,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Myhre",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "15",
             "wait_cap": "15"
           }
