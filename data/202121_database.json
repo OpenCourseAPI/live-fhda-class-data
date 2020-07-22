@@ -4718,7 +4718,7 @@
             "units": "5.00",
             "instructor": "Schinske",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "7"
           },
           {
@@ -4735,7 +4735,7 @@
             "units": "5.00",
             "instructor": "Folse",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "7"
           },
           {
@@ -4752,7 +4752,7 @@
             "units": "5.00",
             "instructor": "Schinske",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ],
@@ -6068,7 +6068,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6336,7 +6336,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Dhagat",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6454,7 +6454,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Mazloom",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6471,7 +6471,7 @@
             "campus": "",
             "units": "4.50",
             "instructor": "Mazloom",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6490,7 +6490,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -6604,7 +6604,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Yang",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6621,7 +6621,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Yang",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9026,7 +9026,7 @@
             "units": "5.00",
             "instructor": "Kellner",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -15842,7 +15842,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mac Neil",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16688,7 +16688,7 @@
             "time": "01:30 PM-03:45 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
-            "room": "5601",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nghiem",
@@ -16789,7 +16789,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Litrus",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18338,7 +18338,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Thornton",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18369,7 +18369,7 @@
             "course": "MDIA F011H1HZ",
             "CRN": "20629",
             "desc": "HONORS INTRO TO POPULAR CULTUR",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "10:00 AM-11:50 AM",
             "start": "09/21/2020",
@@ -18378,7 +18378,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -18386,7 +18386,7 @@
             "course": "MDIA F011H1HZ",
             "CRN": "20629",
             "desc": "HONORS INTRO TO POPULAR CULTUR",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -18395,7 +18395,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18474,6 +18474,44 @@
             "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
+          }
+        ]
+      },
+      "30": {
+        "21851": [
+          {
+            "course": "MDIA F030.01W",
+            "CRN": "21851",
+            "desc": "DIGITAL VIDEO EDITING I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "MDIA F030.01W",
+            "CRN": "21851",
+            "desc": "DIGITAL VIDEO EDITING I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "",
+            "campus": "",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
@@ -18580,7 +18618,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -18685,7 +18723,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -19605,7 +19643,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -19622,7 +19660,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -19639,7 +19677,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -24007,7 +24045,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Bauermeister",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -25959,7 +25997,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Leon Coffin",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -27919,7 +27957,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Standish",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "20",
             "wait_cap": "20"
           }
