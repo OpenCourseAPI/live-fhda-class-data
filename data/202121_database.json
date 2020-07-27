@@ -530,7 +530,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3093,7 +3093,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Cortez",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4378,7 +4378,7 @@
             "units": "6.00",
             "instructor": "Schultheis",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "12"
           },
           {
@@ -4395,7 +4395,7 @@
             "units": "6.00",
             "instructor": "Schultheis",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "12"
           }
         ]
@@ -6891,7 +6891,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Meade",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10822,7 +10822,7 @@
             "room": "5312",
             "campus": "FH",
             "units": "8.50",
-            "instructor": "Murphy",
+            "instructor": "Chan",
             "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
@@ -10839,7 +10839,7 @@
             "room": "5312",
             "campus": "FH",
             "units": "8.50",
-            "instructor": "Chan",
+            "instructor": "Murphy",
             "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
@@ -10913,10 +10913,10 @@
             "desc": "CLINICAL DENTAL HYG THEORY I",
             "status": "Open",
             "days": "M",
-            "time": "02:30 PM-05:20 PM",
+            "time": "01:30 PM-02:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
-            "room": "5312",
+            "room": "5302",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Hoang",
@@ -10930,10 +10930,10 @@
             "desc": "CLINICAL DENTAL HYG THEORY I",
             "status": "Open",
             "days": "M",
-            "time": "01:30 PM-02:20 PM",
+            "time": "02:30 PM-05:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
-            "room": "5302",
+            "room": "5312",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Hoang",
@@ -10998,6 +10998,25 @@
             "instructor": "Adams",
             "seats": "0",
             "wait_seats": "12",
+            "wait_cap": "15"
+          }
+        ],
+        "21862": [
+          {
+            "course": "D H F352.02W",
+            "CRN": "21862",
+            "desc": "HEALTH COMM & CULTURAL ISSUES",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Adams",
+            "seats": "40",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ]
@@ -13219,7 +13238,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13240,7 +13259,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Wang",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -13257,7 +13276,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Wang",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17103,7 +17122,7 @@
             "course": "MATH F002A02V",
             "CRN": "20472",
             "desc": "DIFFERENTIAL EQUATIONS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "06:00 PM-08:15 PM",
             "start": "09/21/2020",
@@ -17112,7 +17131,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Park Lee",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25585,7 +25604,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Abel",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
