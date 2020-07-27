@@ -4339,7 +4339,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Rouhbakhsh",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4356,7 +4356,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Staff",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -8562,7 +8562,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Koukoutsakis",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8579,7 +8579,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Koukoutsakis",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11844,7 +11844,7 @@
             "campus": "FC",
             "units": "2.50",
             "instructor": "Lomeli Franco",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -11861,7 +11861,7 @@
             "campus": "FC",
             "units": "2.50",
             "instructor": "Lomeli Franco",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18873,7 +18873,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -25711,6 +25711,25 @@
             "wait_seats": "7",
             "wait_cap": "10"
           }
+        ],
+        "21859": [
+          {
+            "course": "SOC F007.02Y",
+            "CRN": "21859",
+            "desc": "STATISTICS FOR BEHAV SCIENCES",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "10": {
@@ -25724,8 +25743,8 @@
             "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "5.00",
             "instructor": "Bauermeister",
             "seats": "9",
@@ -25741,8 +25760,8 @@
             "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
+            "room": "",
+            "campus": "",
             "units": "5.00",
             "instructor": "Bauermeister",
             "seats": "9",
@@ -25857,8 +25876,8 @@
             "CRN": "21443",
             "desc": "SOCIAL PSYCHOLOGY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "12:00 PM-12:50 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -25874,8 +25893,8 @@
             "CRN": "21443",
             "desc": "SOCIAL PSYCHOLOGY",
             "status": "Open",
-            "days": "TTh",
-            "time": "12:00 PM-12:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
