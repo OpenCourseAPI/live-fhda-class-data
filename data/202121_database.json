@@ -389,7 +389,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ardizzone",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -650,7 +650,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Fakoor",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4220,7 +4220,7 @@
             "course": "BIOL F001A03V",
             "CRN": "20306",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "09/21/2020",
@@ -4230,14 +4230,14 @@
             "units": "6.00",
             "instructor": "Rouhbakhsh",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "12"
           },
           {
             "course": "BIOL F001A03V",
             "CRN": "20306",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "07:30 PM-10:20 PM",
             "start": "09/21/2020",
@@ -4247,7 +4247,7 @@
             "units": "6.00",
             "instructor": "Rouhbakhsh",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "12"
           }
         ],
@@ -4265,7 +4265,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Rouhbakhsh",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4282,7 +4282,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Staff",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -6876,7 +6876,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Staff",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6939,7 +6939,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9392,25 +9392,6 @@
             "wait_seats": "10",
             "wait_cap": "10"
           }
-        ],
-        "21209": [
-          {
-            "course": "COMM F004.05W",
-            "CRN": "21209",
-            "desc": "GROUP DISCUSSION",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Staff",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
         ]
       },
       "5": {
@@ -10920,7 +10901,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sohn",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12397,7 +12378,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Goldstone",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14609,7 +14590,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Treanor",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -20414,7 +20395,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Goldstone",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -21064,6 +21045,27 @@
   },
   "PHED": {
     "1": {
+      "21A": {
+        "21856": [
+          {
+            "course": "PHED F021A02W",
+            "CRN": "21856",
+            "desc": "BEGINNING HATHA YOGA",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Flannery",
+            "seats": "25",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ]
+      },
       "22": {
         "20521": [
           {
