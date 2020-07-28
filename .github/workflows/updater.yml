@@ -23,6 +23,7 @@ jobs:
       with:
         path: OwlAPI
         repository: OpenCourseAPI/OwlAPI
+        ref: 7de373f132a811424a93704fb1b701acda920f00
 
     - name: Setup OwlAPI
       working-directory: OwlAPI
