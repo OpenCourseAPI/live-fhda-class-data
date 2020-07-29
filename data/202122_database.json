@@ -17344,7 +17344,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "McCluskey",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -23211,7 +23211,7 @@
             "course": "GEOL D010.50Z",
             "CRN": "01092",
             "desc": "INTRODUCTORY GEOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -23220,7 +23220,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dileonardo",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "6"
           }
@@ -23803,7 +23803,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Howard-Pitney",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -39564,6 +39564,27 @@
             "units": "4.00",
             "instructor": "Castillo",
             "seats": "9",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
+        ]
+      },
+      "11": {
+        "26227": [
+          {
+            "course": "POLI D011.01Z",
+            "CRN": "26227",
+            "desc": "FEDERAL COURTS & CONSTIT LAW",
+            "status": "Open",
+            "days": "W",
+            "time": "06:00 PM-09:50 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Lee",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
