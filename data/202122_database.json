@@ -11143,7 +11143,7 @@
             "units": "4.50",
             "instructor": "Parrish",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           },
           {
@@ -11160,7 +11160,7 @@
             "units": "4.50",
             "instructor": "Parrish",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           },
           {
@@ -11177,7 +11177,7 @@
             "units": "4.50",
             "instructor": "Parrish",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ],
@@ -29108,7 +29108,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "1.00",
-            "instructor": "Guevara",
+            "instructor": "Evans",
             "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -29148,7 +29148,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "1.00",
-            "instructor": "Guevara",
+            "instructor": "Evans",
             "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -36322,8 +36322,25 @@
             "CRN": "26106",
             "desc": "PSYCH/MENTAL HEALTH NURSING",
             "status": "Open",
+            "days": "W",
+            "time": "10:30 AM-02:20 PM",
+            "start": "11/02/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "2.00",
+            "instructor": "Staff",
+            "seats": "2",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "NURS D094A50Z",
+            "CRN": "26106",
+            "desc": "PSYCH/MENTAL HEALTH NURSING",
+            "status": "Open",
             "days": "Th",
-            "time": "10:30 AM-02:30 PM",
+            "time": "10:30 AM-02:20 PM",
             "start": "11/02/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
