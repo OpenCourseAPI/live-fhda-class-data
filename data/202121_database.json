@@ -54,7 +54,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ponleithner",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -549,7 +549,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4547,7 +4547,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Alderkamp",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4564,7 +4564,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Derugin",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -6194,7 +6194,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ibrahim",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6289,7 +6289,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Pham",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15766,7 +15766,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17113,7 +17113,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryker",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17192,7 +17192,7 @@
             "units": "5.00",
             "instructor": "Martinez",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -17201,7 +17201,7 @@
             "course": "MATH F010.04W",
             "CRN": "20776",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -17210,7 +17210,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "2",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22230,25 +22230,6 @@
             "wait_cap": "10"
           }
         ],
-        "21313": [
-          {
-            "course": "PHOT F008H2UW",
-            "CRN": "21313",
-            "desc": "HONORS PHOTO MULTICULTURAL AME",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Herman",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "21843": [
           {
             "course": "PHOT F008H3HW",
@@ -22285,6 +22266,25 @@
             "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
+          }
+        ],
+        "21313": [
+          {
+            "course": "PHOT F008HHUW",
+            "CRN": "21313",
+            "desc": "HONORS PHOTO MULTICULTURAL AME",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Herman",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
