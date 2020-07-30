@@ -3705,7 +3705,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Mathews",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11298,46 +11298,7 @@
     }
   },
   "DMS": {
-    "1": {
-      "55B": {
-        "20060": [
-          {
-            "course": "DMS F055B01Y",
-            "CRN": "20060",
-            "desc": "OBSTETRICS II",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Mcsweeney",
-            "seats": "28",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "DMS F055B01Y",
-            "CRN": "20060",
-            "desc": "OBSTETRICS II",
-            "status": "Open",
-            "days": "M",
-            "time": "02:00 PM-03:50 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "6707",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Mcsweeney",
-            "seats": "28",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "ECON": {
     "1": {
@@ -15306,46 +15267,7 @@
     }
   },
   "IDS": {
-    "1": {
-      "300": {
-        "20595": [
-          {
-            "course": "IDS F300.01W",
-            "CRN": "20595",
-            "desc": "RSRCH METHODGY FOR HLTH PROFES",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Agyare",
-            "seats": "38",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "IDS F300.01W",
-            "CRN": "20595",
-            "desc": "RSRCH METHODGY FOR HLTH PROFES",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Sohn",
-            "seats": "38",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "ITRN": {
     "1": {
@@ -17715,12 +17637,29 @@
         ],
         "20807": [
           {
-            "course": "MATH F048A3CV",
+            "course": "MATH F048A3CZ",
+            "CRN": "20807",
+            "desc": "PRECALCULUS I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Uilecan",
+            "seats": "7",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "MATH F048A3CZ",
             "CRN": "20807",
             "desc": "PRECALCULUS I",
             "status": "Open",
             "days": "MT",
-            "time": "10:00 AM-12:15 PM",
+            "time": "10:00 AM-11:50 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -20102,7 +20041,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Munoz",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
