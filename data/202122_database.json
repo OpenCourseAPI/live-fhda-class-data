@@ -17,7 +17,7 @@
             "units": "5.00",
             "instructor": "Ratchford",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -34,7 +34,7 @@
             "units": "5.00",
             "instructor": "Ratchford",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -43,7 +43,7 @@
             "course": "ACCT D001A02Z",
             "CRN": "00009",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -52,7 +52,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -60,7 +60,7 @@
             "course": "ACCT D001A02Z",
             "CRN": "00009",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "08:30 AM-10:20 AM",
             "start": "09/21/2020",
@@ -69,7 +69,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -89,7 +89,7 @@
             "units": "5.00",
             "instructor": "Li",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "10"
           },
           {
@@ -106,7 +106,7 @@
             "units": "5.00",
             "instructor": "Li",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -2268,7 +2268,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6832,8 +6832,8 @@
             "CRN": "00287",
             "desc": "INTRO TO BUSINESS",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "08:30 AM-09:45 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -6849,8 +6849,8 @@
             "CRN": "00287",
             "desc": "INTRO TO BUSINESS",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "08:30 AM-09:45 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -6976,8 +6976,8 @@
             "CRN": "25983",
             "desc": "INTRO TO BUSINESS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "11:30 AM-12:45 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -6993,8 +6993,8 @@
             "CRN": "25983",
             "desc": "INTRO TO BUSINESS",
             "status": "Full",
-            "days": "TTh",
-            "time": "11:30 AM-12:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -7004,6 +7004,42 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
+          }
+        ],
+        "26231": [
+          {
+            "course": "BUS D010.19Z",
+            "CRN": "26231",
+            "desc": "INTRO TO BUSINESS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Spencer",
+            "seats": "50",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "BUS D010.19Z",
+            "CRN": "26231",
+            "desc": "INTRO TO BUSINESS",
+            "status": "Open",
+            "days": "MW",
+            "time": "01:30 PM-02:45 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Spencer",
+            "seats": "50",
+            "wait_seats": "10",
+            "wait_cap": "10"
           }
         ],
         "00297": [
@@ -7128,8 +7164,8 @@
             "CRN": "00299",
             "desc": "BUSINESS LAW I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "09:30 AM-10:45 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -7145,8 +7181,8 @@
             "CRN": "00299",
             "desc": "BUSINESS LAW I",
             "status": "Open",
-            "days": "MW",
-            "time": "09:30 AM-10:45 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -7164,8 +7200,8 @@
             "CRN": "00301",
             "desc": "BUSINESS LAW I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "11:30 AM-12:45 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -7181,8 +7217,8 @@
             "CRN": "00301",
             "desc": "BUSINESS LAW I",
             "status": "Open",
-            "days": "MW",
-            "time": "11:30 AM-12:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -9977,7 +10013,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Georgiou",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14326,7 +14362,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Klingman",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -14343,7 +14379,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Klingman",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -14360,7 +14396,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Klingman",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -16095,7 +16131,7 @@
             "units": "4.00",
             "instructor": "Malek",
             "seats": "1",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ],
@@ -23820,7 +23856,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Howard-Pitney",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -32072,7 +32108,7 @@
             "units": "5.00",
             "instructor": "Sales",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -33021,7 +33057,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Viswanadha",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -33038,7 +33074,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Viswanadha",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -37541,7 +37577,7 @@
             "units": "4.00",
             "instructor": "Ellis",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           },
           {
@@ -37558,7 +37594,7 @@
             "units": "4.00",
             "instructor": "Ellis",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -39445,7 +39481,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Schendan",
-            "seats": "88",
+            "seats": "87",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -40425,7 +40461,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wilkie",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
