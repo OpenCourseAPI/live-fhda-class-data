@@ -7547,7 +7547,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Karia",
-            "seats": "44",
+            "seats": "43",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7564,7 +7564,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Karia",
-            "seats": "44",
+            "seats": "43",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7888,7 +7888,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Talamantez",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -30553,7 +30553,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31017,7 +31017,7 @@
             "course": "MATH D001A59Z",
             "CRN": "01478",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -31027,7 +31027,7 @@
             "units": "5.00",
             "instructor": "Lien",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -36090,7 +36090,7 @@
             "CRN": "26215",
             "desc": "REPRODUCTIVE HEALTH NURSING",
             "status": "Open",
-            "days": "F",
+            "days": "W",
             "time": "08:30 AM-12:20 PM",
             "start": "11/02/2020",
             "end": "12/11/2020",
@@ -36107,7 +36107,7 @@
             "CRN": "26215",
             "desc": "REPRODUCTIVE HEALTH NURSING",
             "status": "Open",
-            "days": "W",
+            "days": "F",
             "time": "08:30 AM-12:20 PM",
             "start": "11/02/2020",
             "end": "12/11/2020",
@@ -36525,6 +36525,48 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "2.00",
+            "instructor": "Williams",
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "96A": {
+        "26229": [
+          {
+            "course": "NURS D096A02Z",
+            "CRN": "26229",
+            "desc": "NURS CONCEPT INTEGRATION",
+            "status": "Open",
+            "days": "F",
+            "time": "12:30 PM-02:20 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "2.00",
+            "instructor": "Williams",
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "96L": {
+        "26230": [
+          {
+            "course": "NURS D096L03F",
+            "CRN": "26230",
+            "desc": "LDRSHP & MGMNT NURS CLINICAL",
+            "status": "Open",
+            "days": "TWTh",
+            "time": "09:30 AM-02:00 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "TBA",
+            "campus": "DA",
+            "units": "4.50",
             "instructor": "Williams",
             "seats": "10",
             "wait_seats": "0",
