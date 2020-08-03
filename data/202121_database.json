@@ -5393,7 +5393,7 @@
             "course": "BIOL F041.02V",
             "CRN": "20031",
             "desc": "MICROBIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "02:00 PM-04:50 PM",
             "start": "09/21/2020",
@@ -5403,14 +5403,14 @@
             "units": "6.00",
             "instructor": "Gosavi",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "BIOL F041.02V",
             "CRN": "20031",
             "desc": "MICROBIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "12:00 PM-01:50 PM",
             "start": "09/21/2020",
@@ -5420,7 +5420,7 @@
             "units": "6.00",
             "instructor": "Gosavi",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -5439,7 +5439,7 @@
             "units": "6.00",
             "instructor": "Cooper",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
@@ -5456,7 +5456,7 @@
             "units": "6.00",
             "instructor": "Folse",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -5510,7 +5510,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cooper",
-            "seats": "11",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -5527,7 +5527,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Folse",
-            "seats": "11",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -6213,7 +6213,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "30",
+            "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6635,7 +6635,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -16857,7 +16857,7 @@
             "units": "5.00",
             "instructor": "Williams",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -16875,7 +16875,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lam",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17835,7 +17835,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Francisco",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18479,7 +18479,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Thornton",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20153,7 +20153,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Francisco",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22366,294 +22366,6 @@
   },
   "PHT": {
     "1": {
-      "51": {
-        "20113": [
-          {
-            "course": "PHT F051.01Z",
-            "CRN": "20113",
-            "desc": "BASIC PHARMACEUTICS",
-            "status": "Open",
-            "days": "F",
-            "time": "10:30 AM-12:20 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "DeNagel",
-            "seats": "35",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "PHT F051.01Z",
-            "CRN": "20113",
-            "desc": "BASIC PHARMACEUTICS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "DeNagel",
-            "seats": "35",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ]
-      },
-      "52A": {
-        "20114": [
-          {
-            "course": "PHT F052A01Z",
-            "CRN": "20114",
-            "desc": "INPATIENT DISPENSING",
-            "status": "Open",
-            "days": "M",
-            "time": "08:00 AM-10:50 AM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "8708",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Su",
-            "seats": "17",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "PHT F052A01Z",
-            "CRN": "20114",
-            "desc": "INPATIENT DISPENSING",
-            "status": "Open",
-            "days": "F",
-            "time": "09:00 AM-09:50 AM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Su",
-            "seats": "17",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "PHT F052A01Z",
-            "CRN": "20114",
-            "desc": "INPATIENT DISPENSING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Su",
-            "seats": "17",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ],
-        "21800": [
-          {
-            "course": "PHT F052A02Z",
-            "CRN": "21800",
-            "desc": "INPATIENT DISPENSING",
-            "status": "Open",
-            "days": "F",
-            "time": "09:00 AM-09:50 AM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Su",
-            "seats": "18",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "PHT F052A02Z",
-            "CRN": "21800",
-            "desc": "INPATIENT DISPENSING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Su",
-            "seats": "18",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "PHT F052A02Z",
-            "CRN": "21800",
-            "desc": "INPATIENT DISPENSING",
-            "status": "Open",
-            "days": "M",
-            "time": "12:30 PM-03:20 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "8708",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Su",
-            "seats": "18",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ]
-      },
-      "53": {
-        "20115": [
-          {
-            "course": "PHT F053.01Z",
-            "CRN": "20115",
-            "desc": "AMBULATORY PHARMACY PRACTICE",
-            "status": "Open",
-            "days": "W",
-            "time": "08:00 AM-10:50 AM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "8708",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "DeNagel",
-            "seats": "17",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "PHT F053.01Z",
-            "CRN": "20115",
-            "desc": "AMBULATORY PHARMACY PRACTICE",
-            "status": "Open",
-            "days": "T",
-            "time": "11:30 AM-12:20 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "DeNagel",
-            "seats": "17",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "PHT F053.01Z",
-            "CRN": "20115",
-            "desc": "AMBULATORY PHARMACY PRACTICE",
-            "status": "Open",
-            "days": "W",
-            "time": "08:00 AM-10:50 AM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "8708",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Tsuboi",
-            "seats": "17",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "PHT F053.01Z",
-            "CRN": "20115",
-            "desc": "AMBULATORY PHARMACY PRACTICE",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "DeNagel",
-            "seats": "17",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ],
-        "21801": [
-          {
-            "course": "PHT F053.02Z",
-            "CRN": "21801",
-            "desc": "AMBULATORY PHARMACY PRACTICE",
-            "status": "Open",
-            "days": "T",
-            "time": "11:30 AM-12:20 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "DeNagel",
-            "seats": "18",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "PHT F053.02Z",
-            "CRN": "21801",
-            "desc": "AMBULATORY PHARMACY PRACTICE",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "DeNagel",
-            "seats": "18",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "PHT F053.02Z",
-            "CRN": "21801",
-            "desc": "AMBULATORY PHARMACY PRACTICE",
-            "status": "Open",
-            "days": "W",
-            "time": "12:30 PM-03:20 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "8708",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Tsuboi",
-            "seats": "18",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "PHT F053.02Z",
-            "CRN": "21801",
-            "desc": "AMBULATORY PHARMACY PRACTICE",
-            "status": "Open",
-            "days": "W",
-            "time": "12:30 PM-03:20 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "8708",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "DeNagel",
-            "seats": "18",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ]
-      },
       "54A": {
         "20116": [
           {
@@ -22741,11 +22453,11 @@
             "CRN": "21860",
             "desc": "PHARMACY CAREERS A",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "06:00 PM-08:30 PM",
             "start": "10/12/2020",
             "end": "12/18/2020",
-            "room": "ONLINE",
+            "room": "RWCBGC",
             "campus": "FO",
             "units": "4.00",
             "instructor": "Staff",
@@ -22758,11 +22470,11 @@
             "CRN": "21860",
             "desc": "PHARMACY CAREERS A",
             "status": "Open",
-            "days": "T",
-            "time": "06:00 PM-08:30 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "10/12/2020",
             "end": "12/18/2020",
-            "room": "RWCBGC",
+            "room": "ONLINE",
             "campus": "FO",
             "units": "4.00",
             "instructor": "Staff",
