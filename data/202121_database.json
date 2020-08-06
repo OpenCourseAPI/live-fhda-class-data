@@ -4694,7 +4694,7 @@
             "units": "4.00",
             "instructor": "Ko",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "12"
           },
           {
@@ -4711,7 +4711,7 @@
             "units": "4.00",
             "instructor": "Ko",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "12"
           }
         ]
@@ -8279,8 +8279,8 @@
             "CRN": "21809",
             "desc": "CHLD GROWTH/DEVLP:PRENATAL THR",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "06:30 PM-08:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -8296,8 +8296,8 @@
             "CRN": "21809",
             "desc": "CHLD GROWTH/DEVLP:PRENATAL THR",
             "status": "Open",
-            "days": "M",
-            "time": "06:30 PM-08:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -8346,25 +8346,6 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
-        ],
-        "21351": [
-          {
-            "course": "CHLD F001.6DW",
-            "CRN": "21351",
-            "desc": "CHLD GROWTH/DEVLP:PRENATAL THR",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "PAHS",
-            "campus": "FO",
-            "units": "4.00",
-            "instructor": "McDaniel",
-            "seats": "21",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
         ]
       },
       "2": {
@@ -8404,6 +8385,25 @@
             "seats": "45",
             "wait_seats": "20",
             "wait_cap": "20"
+          }
+        ],
+        "21917": [
+          {
+            "course": "CHLD F002.3DW",
+            "CRN": "21917",
+            "desc": "CHLD DEVL II:MIDDLE TO ADOLESC",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "PAHS",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "McDaniel",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -11060,7 +11060,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Patyk",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -19041,7 +19041,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hartwell",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -19058,7 +19058,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Barkley",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -19075,7 +19075,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Carey",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
