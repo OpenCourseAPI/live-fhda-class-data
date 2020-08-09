@@ -8994,7 +8994,7 @@
             "course": "CHEM D001C01Z",
             "CRN": "21585",
             "desc": "GEN CHEM/QUAL ANALYSIS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "06:00 PM-07:15 PM",
             "start": "09/21/2020",
@@ -9004,14 +9004,14 @@
             "units": "5.00",
             "instructor": "Cihonski",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001C01Z",
             "CRN": "21585",
             "desc": "GEN CHEM/QUAL ANALYSIS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -9021,7 +9021,7 @@
             "units": "5.00",
             "instructor": "Cihonski",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -10889,6 +10889,25 @@
             "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
+          }
+        ],
+        "26251": [
+          {
+            "course": "CIS D22BH04Z",
+            "CRN": "26251",
+            "desc": "INTERMED PROG METHOD C++-HONOR",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "",
+            "campus": "",
+            "units": "4.50",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -38430,7 +38449,7 @@
             "course": "PHIL D004.62Z",
             "CRN": "24117",
             "desc": "CRITICAL THINKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -38439,7 +38458,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Booher",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -39751,6 +39770,27 @@
             "seats": "48",
             "wait_seats": "7",
             "wait_cap": "7"
+          }
+        ]
+      },
+      "1H": {
+        "26250": [
+          {
+            "course": "POLI D001H51Z",
+            "CRN": "26250",
+            "desc": "AMERICAN GOVT & POLIT - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Druehl",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -41565,7 +41605,7 @@
             "course": "SOC D073.02Z",
             "CRN": "26220",
             "desc": "CRIME AND CRIMINOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "06:00 PM-09:50 PM",
             "start": "09/21/2020",
@@ -41574,7 +41614,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Staff",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
