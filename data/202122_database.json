@@ -1782,7 +1782,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Olsen",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7746,7 +7746,7 @@
             "course": "BUS D056.65Z",
             "CRN": "00311",
             "desc": "HUMAN RELATNS IN THE WRKPLACE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -7755,8 +7755,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yurtseven",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -8741,7 +8741,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "6"
           },
           {
@@ -8758,7 +8758,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "6"
           },
           {
@@ -8775,7 +8775,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -14216,7 +14216,7 @@
             "course": "COMM D010.10Z",
             "CRN": "24386",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "01:30 PM-03:20 PM",
             "start": "09/21/2020",
@@ -14225,15 +14225,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lee",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
             "course": "COMM D010.10Z",
             "CRN": "24386",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -14242,8 +14242,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lee",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -17591,7 +17591,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Palmore",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -19622,7 +19622,7 @@
             "units": "5.00",
             "instructor": "Rizzo",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
@@ -19639,7 +19639,7 @@
             "units": "5.00",
             "instructor": "Rizzo",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -19847,7 +19847,7 @@
             "course": "EWRT D001A09Q",
             "CRN": "00842",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -19856,15 +19856,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Huynh",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
             "course": "EWRT D001A09Q",
             "CRN": "00842",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:30 PM-02:20 PM",
             "start": "09/21/2020",
@@ -19873,8 +19873,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Huynh",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -20181,7 +20181,7 @@
             "course": "EWRT D001A21Q",
             "CRN": "00853",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -20190,8 +20190,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Limcolioc",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ],
@@ -24163,6 +24163,25 @@
             "wait_seats": "6",
             "wait_cap": "10"
           }
+        ],
+        "26275": [
+          {
+            "course": "HIST D06AH50Z",
+            "CRN": "26275",
+            "desc": "HIST WEST CIV:PREHIST-750CE-HO",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Pham",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "6B": {
@@ -24554,6 +24573,25 @@
             "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
+          }
+        ],
+        "26276": [
+          {
+            "course": "HIST D17CH50Z",
+            "CRN": "26276",
+            "desc": "HIST U.S. 1900-PRESENT - HONOR",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Pham",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
@@ -30478,7 +30516,7 @@
             "units": "3.00",
             "instructor": "Rizzo",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -32924,7 +32962,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Phelps",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
