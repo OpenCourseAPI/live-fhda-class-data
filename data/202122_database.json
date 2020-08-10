@@ -517,7 +517,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -534,7 +534,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1782,7 +1782,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Olsen",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1997,7 +1997,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Das",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -5635,7 +5635,7 @@
             "course": "BIOL D010.73Z",
             "CRN": "26051",
             "desc": "INTRO BIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -5645,7 +5645,7 @@
             "units": "5.00",
             "instructor": "Bram",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -10920,7 +10920,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -32713,6 +32713,44 @@
             "wait_seats": "0",
             "wait_cap": "6"
           }
+        ],
+        "26288": [
+          {
+            "course": "MATH D01CH01Z",
+            "CRN": "26288",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "08:30 AM-09:20 AM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Taylor",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "26289": [
+          {
+            "course": "MATH D01CH03Z",
+            "CRN": "26289",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "1D": {
@@ -34246,8 +34284,8 @@
             "CRN": "25956",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "09:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34263,8 +34301,8 @@
             "CRN": "25956",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "09:30 AM-10:20 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34354,8 +34392,8 @@
             "CRN": "25959",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34371,8 +34409,8 @@
             "CRN": "25959",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-11:20 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34426,8 +34464,8 @@
             "CRN": "25961",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34443,8 +34481,8 @@
             "CRN": "25961",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "12:30 PM-01:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34462,8 +34500,8 @@
             "CRN": "25962",
             "desc": "PRECALCULUS I",
             "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "12:30 PM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34479,8 +34517,8 @@
             "CRN": "25962",
             "desc": "PRECALCULUS I",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "12:30 PM-01:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34728,8 +34766,8 @@
             "CRN": "25945",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "09:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34745,8 +34783,8 @@
             "CRN": "25945",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "09:30 AM-10:20 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -39626,7 +39664,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Bhattacharji",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -41103,7 +41141,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Schulte",
-            "seats": "66",
+            "seats": "65",
             "wait_seats": "8",
             "wait_cap": "8"
           }
