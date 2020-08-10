@@ -7578,7 +7578,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lilly",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7653,7 +7653,7 @@
             "course": "BUS D056.65Z",
             "CRN": "00311",
             "desc": "HUMAN RELATNS IN THE WRKPLACE",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -7662,7 +7662,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yurtseven",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -32430,6 +32430,25 @@
             "wait_seats": "4",
             "wait_cap": "6"
           }
+        ],
+        "26266": [
+          {
+            "course": "MATH D01DH09Z",
+            "CRN": "26266",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "11:30 AM-12:20 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Khosravi",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "2A": {
@@ -32489,6 +32508,25 @@
             "wait_seats": "0",
             "wait_cap": "6"
           }
+        ],
+        "26267": [
+          {
+            "course": "MATH D02AH03Z",
+            "CRN": "26267",
+            "desc": "DIFFERENTIAL EQUATIONS-HONORS",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "10:30 AM-11:20 AM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Khosravi",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "2B": {
@@ -32528,6 +32566,25 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "6"
+          }
+        ],
+        "26268": [
+          {
+            "course": "MATH D02BH03Z",
+            "CRN": "26268",
+            "desc": "LINEAR ALGEBRA - HONORS",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "09:30 AM-10:20 AM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Khosravi",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -32774,7 +32831,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Phelps",
-            "seats": "25",
+            "seats": "26",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33260,8 +33317,8 @@
             "CRN": "20970",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Full",
-            "days": "MTWTh",
-            "time": "08:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -33277,8 +33334,8 @@
             "CRN": "20970",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "08:30 AM-10:20 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -33315,8 +33372,8 @@
             "CRN": "24845",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Full",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -33332,8 +33389,8 @@
             "CRN": "24845",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34327,8 +34384,8 @@
             "CRN": "25946",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-11:20 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34344,8 +34401,8 @@
             "CRN": "25946",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34553,8 +34610,8 @@
             "CRN": "02523",
             "desc": "PRECALC III: ADVANCED TOPICS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "08:30 AM-09:20 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34570,8 +34627,8 @@
             "CRN": "02523",
             "desc": "PRECALC III: ADVANCED TOPICS",
             "status": "Full",
-            "days": "MTWTh",
-            "time": "08:30 AM-09:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -36514,7 +36571,7 @@
             "units": "2.00",
             "instructor": "Rowe",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ],
