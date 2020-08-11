@@ -3846,7 +3846,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Wishart",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -3863,7 +3863,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Wishart",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -12011,7 +12011,7 @@
             "course": "CIS D040.01Z",
             "CRN": "24578",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "06:00 PM-07:50 PM",
             "start": "09/21/2020",
@@ -12021,14 +12021,14 @@
             "units": "4.50",
             "instructor": "Oldham",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "CIS D040.01Z",
             "CRN": "24578",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -12038,7 +12038,7 @@
             "units": "4.50",
             "instructor": "Oldham",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -20628,6 +20628,25 @@
             "wait_cap": "5"
           }
         ],
+        "26310": [
+          {
+            "course": "EWRT D001A23Q",
+            "CRN": "26310",
+            "desc": "COMPOSITION AND READING",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Cattivera",
+            "seats": "25",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
+        ],
         "22542": [
           {
             "course": "EWRT D001A30Z",
@@ -20851,7 +20870,7 @@
             "course": "EWRT D001A37Z",
             "CRN": "00845",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -20860,7 +20879,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Roberts",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20868,7 +20887,7 @@
             "course": "EWRT D001A37Z",
             "CRN": "00845",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "T",
             "time": "11:30 AM-12:20 PM",
             "start": "09/21/2020",
@@ -20877,7 +20896,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Roberts",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -21807,7 +21826,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dickson",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -21940,7 +21959,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Penkethman",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -41574,7 +41593,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Schulte",
-            "seats": "58",
+            "seats": "57",
             "wait_seats": "8",
             "wait_cap": "8"
           }
