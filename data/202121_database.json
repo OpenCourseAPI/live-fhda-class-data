@@ -835,7 +835,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lui",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5010,24 +5010,26 @@
             "wait_cap": "7"
           }
         ],
-        "20953": [
+        "21927": [
           {
-            "course": "BIOL F040A08V",
-            "CRN": "20953",
+            "course": "BIOL F040A07V",
+            "CRN": "21927",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "W",
-            "time": "07:30 PM-10:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
+            "room": "",
+            "campus": "",
             "units": "5.00",
-            "instructor": "Alderkamp",
+            "instructor": "Staff",
             "seats": "0",
             "wait_seats": "0",
-            "wait_cap": "7"
-          },
+            "wait_cap": "0"
+          }
+        ],
+        "20953": [
           {
             "course": "BIOL F040A08V",
             "CRN": "20953",
@@ -5041,6 +5043,23 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Kew",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "7"
+          },
+          {
+            "course": "BIOL F040A08V",
+            "CRN": "20953",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
+            "status": "Full",
+            "days": "W",
+            "time": "07:30 PM-10:20 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Alderkamp",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "7"
@@ -5105,8 +5124,8 @@
             "CRN": "21661",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "05:30 PM-08:20 PM",
             "start": "09/21/2020",
             "end": "11/01/2020",
             "room": "ONLINE",
@@ -5122,8 +5141,8 @@
             "CRN": "21661",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "MW",
-            "time": "05:30 PM-08:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "11/01/2020",
             "room": "ONLINE",
@@ -5141,8 +5160,8 @@
             "CRN": "21662",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "TTh",
-            "time": "05:30 PM-08:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "11/01/2020",
             "room": "ONLINE",
@@ -5158,8 +5177,8 @@
             "CRN": "21662",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "05:30 PM-08:20 PM",
             "start": "09/21/2020",
             "end": "11/01/2020",
             "room": "ONLINE",
@@ -6245,7 +6264,7 @@
             "course": "C S F001A01Z",
             "CRN": "20743",
             "desc": "OBJ-ORIENTED PROG METHOD JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "10:00 AM-11:50 AM",
             "start": "09/21/2020",
@@ -6254,7 +6273,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Mazloom",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6262,7 +6281,7 @@
             "course": "C S F001A01Z",
             "CRN": "20743",
             "desc": "OBJ-ORIENTED PROG METHOD JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -6271,7 +6290,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Mazloom",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13460,7 +13479,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meezan",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13493,7 +13512,7 @@
             "course": "GEOG F012.01W",
             "CRN": "21708",
             "desc": "INTRO GEOSPATIAL TECHNOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13502,7 +13521,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Meezan",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18712,7 +18731,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18840,7 +18859,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Carey",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "0",
             "wait_cap": "0"
           }
