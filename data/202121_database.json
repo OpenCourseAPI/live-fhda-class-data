@@ -4661,7 +4661,7 @@
             "units": "5.00",
             "instructor": "Alderkamp",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "12"
           },
           {
@@ -4678,7 +4678,7 @@
             "units": "5.00",
             "instructor": "Schultheis",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "12"
           }
         ],
@@ -4980,23 +4980,6 @@
             "CRN": "21146",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Lagna",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL F040A05Z",
-            "CRN": "21146",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
             "days": "F",
             "time": "12:30 PM-04:20 PM",
             "start": "09/21/2020",
@@ -5008,6 +4991,23 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "7"
+          },
+          {
+            "course": "BIOL F040A05Z",
+            "CRN": "21146",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Lagna",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "7"
           }
         ],
         "21927": [
@@ -5016,14 +5016,31 @@
             "CRN": "21927",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "05:30 PM-07:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Kew",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "BIOL F040A07V",
+            "CRN": "21927",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
+            "status": "Full",
+            "days": "M",
+            "time": "07:30 PM-10:20 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Alderkamp",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -5071,8 +5088,8 @@
             "CRN": "20025",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "S",
-            "time": "10:00 AM-12:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -5105,8 +5122,8 @@
             "CRN": "20025",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "S",
+            "time": "10:00 AM-12:50 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -5124,8 +5141,8 @@
             "CRN": "21661",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "MW",
-            "time": "05:30 PM-08:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "11/01/2020",
             "room": "ONLINE",
@@ -5141,8 +5158,8 @@
             "CRN": "21661",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "05:30 PM-08:20 PM",
             "start": "09/21/2020",
             "end": "11/01/2020",
             "room": "ONLINE",
@@ -5160,8 +5177,8 @@
             "CRN": "21662",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "05:30 PM-08:20 PM",
             "start": "09/21/2020",
             "end": "11/01/2020",
             "room": "ONLINE",
@@ -5177,8 +5194,8 @@
             "CRN": "21662",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "TTh",
-            "time": "05:30 PM-08:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "11/01/2020",
             "room": "ONLINE",
@@ -6122,7 +6139,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -9812,7 +9829,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mohammadi",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10045,6 +10062,27 @@
   },
   "DA": {
     "1": {
+      "50": {
+        "21928": [
+          {
+            "course": "D A F050.01W",
+            "CRN": "21928",
+            "desc": "ORIENTATION TO DENTAL ASSISTIN",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "",
+            "campus": "",
+            "units": "1.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "58": {
         "20056": [
           {
