@@ -3591,7 +3591,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cody",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -18286,7 +18286,7 @@
             "course": "ESCI D001.65Z",
             "CRN": "24226",
             "desc": "ENVIRON SCIENCE",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -18296,7 +18296,7 @@
             "units": "4.00",
             "instructor": "Phillips",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -38087,6 +38087,23 @@
             "campus": "DO",
             "units": "2.00",
             "instructor": "Sherwood",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "NURS D94AL02F",
+            "CRN": "26111",
+            "desc": "PSYCH/MNTL HLTH NURS CLINICAL",
+            "status": "Full",
+            "days": "TW",
+            "time": "07:00 AM-02:00 PM",
+            "start": "11/02/2020",
+            "end": "12/11/2020",
+            "room": "TBA",
+            "campus": "DO",
+            "units": "2.00",
+            "instructor": "Staff",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
