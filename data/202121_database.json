@@ -4390,7 +4390,7 @@
             "course": "BIOL F001A04V",
             "CRN": "21855",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "09/21/2020",
@@ -4399,15 +4399,15 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Rouhbakhsh",
-            "seats": "1",
-            "wait_seats": "11",
+            "seats": "0",
+            "wait_seats": "12",
             "wait_cap": "12"
           },
           {
             "course": "BIOL F001A04V",
             "CRN": "21855",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "07:30 PM-10:20 PM",
             "start": "09/21/2020",
@@ -4416,8 +4416,8 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Hawkins",
-            "seats": "1",
-            "wait_seats": "11",
+            "seats": "0",
+            "wait_seats": "12",
             "wait_cap": "12"
           }
         ]
@@ -7256,7 +7256,7 @@
             "course": "CHEM F001A02Z",
             "CRN": "20034",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:00 PM-01:15 PM",
             "start": "09/21/2020",
@@ -7265,15 +7265,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Daley",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
             "course": "CHEM F001A02Z",
             "CRN": "20034",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "02:00 PM-03:50 PM",
             "start": "09/21/2020",
@@ -7282,13 +7282,66 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Daley",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
             "course": "CHEM F001A02Z",
             "CRN": "20034",
+            "desc": "GENERAL CHEMISTRY",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Daley",
+            "seats": "0",
+            "wait_seats": "2",
+            "wait_cap": "10"
+          }
+        ],
+        "20035": [
+          {
+            "course": "CHEM F001A03Z",
+            "CRN": "20035",
+            "desc": "GENERAL CHEMISTRY",
+            "status": "Open",
+            "days": "MW",
+            "time": "12:00 PM-01:15 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Salari",
+            "seats": "1",
+            "wait_seats": "9",
+            "wait_cap": "10"
+          },
+          {
+            "course": "CHEM F001A03Z",
+            "CRN": "20035",
+            "desc": "GENERAL CHEMISTRY",
+            "status": "Open",
+            "days": "MW",
+            "time": "02:00 PM-03:50 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Salari",
+            "seats": "1",
+            "wait_seats": "9",
+            "wait_cap": "10"
+          },
+          {
+            "course": "CHEM F001A03Z",
+            "CRN": "20035",
             "desc": "GENERAL CHEMISTRY",
             "status": "Open",
             "days": "TBA",
@@ -7298,61 +7351,8 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Daley",
+            "instructor": "Salari",
             "seats": "1",
-            "wait_seats": "1",
-            "wait_cap": "10"
-          }
-        ],
-        "20035": [
-          {
-            "course": "CHEM F001A03Z",
-            "CRN": "20035",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
-            "days": "MW",
-            "time": "12:00 PM-01:15 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Salari",
-            "seats": "0",
-            "wait_seats": "9",
-            "wait_cap": "10"
-          },
-          {
-            "course": "CHEM F001A03Z",
-            "CRN": "20035",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
-            "days": "MW",
-            "time": "02:00 PM-03:50 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Salari",
-            "seats": "0",
-            "wait_seats": "9",
-            "wait_cap": "10"
-          },
-          {
-            "course": "CHEM F001A03Z",
-            "CRN": "20035",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Salari",
-            "seats": "0",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -11746,7 +11746,7 @@
             "units": "5.00",
             "instructor": "Lewis",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "17",
             "wait_cap": "25"
           }
         ],
@@ -12083,7 +12083,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Finnegan",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13721,7 +13721,7 @@
             "course": "GID F033.03W",
             "CRN": "21406",
             "desc": "GRAPHIC DESIGN STUDIO I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13730,8 +13730,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -13881,7 +13881,7 @@
             "course": "GID F049.01W",
             "CRN": "20771",
             "desc": "GAME ART & DESIGN",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13890,8 +13890,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "1",
-            "wait_seats": "19",
+            "seats": "0",
+            "wait_seats": "20",
             "wait_cap": "20"
           }
         ]
@@ -13921,7 +13921,7 @@
             "course": "GID F055.02W",
             "CRN": "21670",
             "desc": "USER EXPRNCE (UI/UX) DESIGN",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13930,8 +13930,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -13963,7 +13963,7 @@
             "course": "GID F060.01W",
             "CRN": "21844",
             "desc": "CAREERS IN THE VISUAL ARTS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13972,8 +13972,8 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Fong",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -13988,7 +13988,7 @@
             "course": "GIST F011.01W",
             "CRN": "20756",
             "desc": "INTRO MAPPING & SPATIAL REASON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13997,8 +13997,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Aguilar",
-            "seats": "1",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
@@ -14690,7 +14690,7 @@
             "course": "HUMN F001.02Z",
             "CRN": "21686",
             "desc": "THE ANCIENT WORLD",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "10:00 AM-11:15 AM",
             "start": "09/21/2020",
@@ -14699,15 +14699,15 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "1",
-            "wait_seats": "18",
+            "seats": "0",
+            "wait_seats": "19",
             "wait_cap": "20"
           },
           {
             "course": "HUMN F001.02Z",
             "CRN": "21686",
             "desc": "THE ANCIENT WORLD",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -14716,8 +14716,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "1",
-            "wait_seats": "18",
+            "seats": "0",
+            "wait_seats": "19",
             "wait_cap": "20"
           }
         ],
@@ -16616,7 +16616,7 @@
             "course": "MATH F001A07W",
             "CRN": "20305",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -16625,8 +16625,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Williams",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -17723,7 +17723,7 @@
             "units": "5.00",
             "instructor": "Zwack",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -17942,7 +17942,7 @@
             "units": "5.00",
             "instructor": "Sukumar",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -21111,7 +21111,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21916,7 +21916,7 @@
             "course": "PHOT F005.01W",
             "CRN": "21160",
             "desc": "INTRODUCTION TO PHOTOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -21925,8 +21925,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jordahl",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -22917,7 +22917,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryer",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -22934,7 +22934,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryer",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "20",
             "wait_cap": "20"
           }
