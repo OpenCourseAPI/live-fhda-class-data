@@ -3185,7 +3185,7 @@
             "units": "4.00",
             "instructor": "Levitch",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           },
           {
@@ -3202,7 +3202,7 @@
             "units": "4.00",
             "instructor": "Levitch",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -3548,7 +3548,7 @@
             "units": "4.00",
             "instructor": "Cook",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -3565,7 +3565,7 @@
             "units": "4.00",
             "instructor": "Cook",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -3582,7 +3582,7 @@
             "units": "4.00",
             "instructor": "Cook",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -6424,7 +6424,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7546,7 +7546,7 @@
             "course": "CHEM F001C01V",
             "CRN": "20040",
             "desc": "GENL CHEM/QUAL ANALYSIS",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "02:00 PM-03:15 PM",
             "start": "09/21/2020",
@@ -7555,7 +7555,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Larson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           },
@@ -7563,7 +7563,7 @@
             "course": "CHEM F001C01V",
             "CRN": "20040",
             "desc": "GENL CHEM/QUAL ANALYSIS",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "02:30 PM-05:20 PM",
             "start": "09/21/2020",
@@ -7572,7 +7572,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Larson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           }
@@ -16765,6 +16765,25 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
+          }
+        ],
+        "21941": [
+          {
+            "course": "MATH F001C5DV",
+            "CRN": "21941",
+            "desc": "CALCULUS",
+            "status": "Full",
+            "days": "TF",
+            "time": "09:30 AM-10:45 AM",
+            "start": "09/21/2020",
+            "end": "12/18/2020",
+            "room": "LAHS",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "21675": [
