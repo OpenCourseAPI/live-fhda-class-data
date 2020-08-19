@@ -2590,7 +2590,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -14409,7 +14409,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Baldwin",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -18271,7 +18271,7 @@
             "course": "MDIA F011.02W",
             "CRN": "20233",
             "desc": "INTRO TO POPULAR CULTURE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -18280,7 +18280,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Thornton",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21191,7 +21191,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Liner",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23427,7 +23427,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Strader",
-            "seats": "36",
+            "seats": "37",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24463,23 +24463,6 @@
             "desc": "RESPIRATORY THERAPY PROC",
             "status": "Open",
             "days": "Th",
-            "time": "01:00 PM-03:50 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "5307",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Hills",
-            "seats": "9",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F050A03Y",
-            "CRN": "20185",
-            "desc": "RESPIRATORY THERAPY PROC",
-            "status": "Open",
-            "days": "Th",
             "time": "11:00 AM-12:50 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
@@ -24496,11 +24479,28 @@
             "CRN": "20185",
             "desc": "RESPIRATORY THERAPY PROC",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "08:00 AM-10:50 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.50",
+            "instructor": "Hills",
+            "seats": "9",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "RSPT F050A03Y",
+            "CRN": "20185",
+            "desc": "RESPIRATORY THERAPY PROC",
+            "status": "Open",
+            "days": "Th",
+            "time": "01:00 PM-03:50 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "5307",
             "campus": "FH",
             "units": "4.50",
             "instructor": "Hills",
