@@ -4662,7 +4662,7 @@
             "units": "5.00",
             "instructor": "Schultheis",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "12"
           },
           {
@@ -4679,7 +4679,7 @@
             "units": "5.00",
             "instructor": "Alderkamp",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "12"
           }
         ],
@@ -12148,7 +12148,7 @@
             "course": "ENGL F001A46W",
             "CRN": "21075",
             "desc": "COMPOSITION & READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -12157,7 +12157,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mills",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12701,7 +12701,7 @@
             "course": "ENGL F001C01W",
             "CRN": "20827",
             "desc": "ARGUMENTATIVE WRIT/CRITICAL TH",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -12710,7 +12710,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sperry",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13729,7 +13729,7 @@
             "units": "4.00",
             "instructor": "Brown",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -14106,7 +14106,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Standish",
-            "seats": "20",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -18137,7 +18137,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Shidler",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21418,7 +21418,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Edwards",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21477,7 +21477,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Edwards",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24356,23 +24356,6 @@
             "CRN": "20132",
             "desc": "RESPIRATORY THERAPY PROC",
             "status": "Open",
-            "days": "W",
-            "time": "01:00 PM-03:50 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "5307",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Hills",
-            "seats": "9",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F050A01Z",
-            "CRN": "20132",
-            "desc": "RESPIRATORY THERAPY PROC",
-            "status": "Open",
             "days": "M",
             "time": "11:00 AM-12:50 PM",
             "start": "09/21/2020",
@@ -24390,11 +24373,28 @@
             "CRN": "20132",
             "desc": "RESPIRATORY THERAPY PROC",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "08:00 AM-10:50 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.50",
+            "instructor": "Hills",
+            "seats": "9",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "RSPT F050A01Z",
+            "CRN": "20132",
+            "desc": "RESPIRATORY THERAPY PROC",
+            "status": "Open",
+            "days": "W",
+            "time": "01:00 PM-03:50 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "5307",
             "campus": "FH",
             "units": "4.50",
             "instructor": "Hills",
