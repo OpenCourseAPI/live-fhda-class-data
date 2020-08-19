@@ -5957,7 +5957,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Nava",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6327,7 +6327,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6461,7 +6461,7 @@
             "units": "4.50",
             "instructor": "Pham",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -6769,7 +6769,7 @@
             "units": "4.50",
             "instructor": "Meade",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -15169,7 +15169,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Cammin",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -23427,7 +23427,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Strader",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23647,7 +23647,7 @@
             "units": "4.00",
             "instructor": "Stefonik",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "16",
             "wait_cap": "20"
           }
         ]
@@ -24479,11 +24479,11 @@
             "CRN": "20185",
             "desc": "RESPIRATORY THERAPY PROC",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "01:00 PM-03:50 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
-            "room": "ONLINE",
+            "room": "5307",
             "campus": "FH",
             "units": "4.50",
             "instructor": "Hills",
@@ -24496,11 +24496,11 @@
             "CRN": "20185",
             "desc": "RESPIRATORY THERAPY PROC",
             "status": "Open",
-            "days": "Th",
-            "time": "01:00 PM-03:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
-            "room": "5307",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "4.50",
             "instructor": "Hills",
@@ -24646,7 +24646,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "0.50",
-            "instructor": "Staff",
+            "instructor": "Hanning",
             "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -24663,10 +24663,65 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "0.50",
-            "instructor": "Hanning",
+            "instructor": "Staff",
             "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
+          }
+        ]
+      },
+      "61B": {
+        "21952": [
+          {
+            "course": "RSPT F061B03Z",
+            "CRN": "21952",
+            "desc": "NEONATAL RESPIRATORY CARE",
+            "status": "Open",
+            "days": "M",
+            "time": "08:00 AM-09:50 AM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Perry",
+            "seats": "9",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "RSPT F061B03Z",
+            "CRN": "21952",
+            "desc": "NEONATAL RESPIRATORY CARE",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Perry",
+            "seats": "9",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "RSPT F061B03Z",
+            "CRN": "21952",
+            "desc": "NEONATAL RESPIRATORY CARE",
+            "status": "Open",
+            "days": "T",
+            "time": "08:00 AM-09:50 AM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "5307",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Perry",
+            "seats": "9",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -24684,7 +24739,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "8.00",
-            "instructor": "Vo",
+            "instructor": "Perry",
             "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -24701,7 +24756,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "8.00",
-            "instructor": "Perry",
+            "instructor": "Vo",
             "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -24902,7 +24957,7 @@
             "course": "SOC F001.02W",
             "CRN": "20784",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -24911,7 +24966,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Bauermeister",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25459,7 +25514,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rivera-Montanez",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "35",
             "wait_cap": "35"
           }
