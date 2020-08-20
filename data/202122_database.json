@@ -20707,7 +20707,7 @@
             "course": "EWRT D001A23Q",
             "CRN": "26310",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -20716,7 +20716,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cattivera",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -31585,7 +31585,7 @@
             "course": "LART D250.23Q",
             "CRN": "26311",
             "desc": "ACADEMIC READING AND WRITING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -31594,7 +31594,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Cattivera",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -33842,7 +33842,7 @@
             "course": "MATH D010.52Z",
             "CRN": "24940",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -33851,7 +33851,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -40708,25 +40708,6 @@
             "course": "PHYS D004A50Z",
             "CRN": "02075",
             "desc": "PHYS SCIENT/ENG:MECHANCS",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "6.00",
-            "instructor": "Luna",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "6"
-          }
-        ],
-        "02076": [
-          {
-            "course": "PHYS D004A51Z",
-            "CRN": "02076",
-            "desc": "PHYS SCIENT/ENG:MECHANCS",
             "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
@@ -40738,6 +40719,25 @@
             "instructor": "Luna",
             "seats": "0",
             "wait_seats": "1",
+            "wait_cap": "6"
+          }
+        ],
+        "02076": [
+          {
+            "course": "PHYS D004A51Z",
+            "CRN": "02076",
+            "desc": "PHYS SCIENT/ENG:MECHANCS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "6.00",
+            "instructor": "Luna",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
