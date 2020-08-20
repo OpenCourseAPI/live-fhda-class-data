@@ -9775,7 +9775,7 @@
             "course": "CHEM D012A03Z",
             "CRN": "21589",
             "desc": "ORGANIC CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "09:00 AM-10:15 AM",
             "start": "09/21/2020",
@@ -9785,48 +9785,12 @@
             "units": "5.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "2"
           },
           {
             "course": "CHEM D012A03Z",
             "CRN": "21589",
-            "desc": "ORGANIC CHEMISTRY",
-            "status": "Waitlist",
-            "days": "TTh",
-            "time": "10:30 AM-11:45 AM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Gray",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "2"
-          },
-          {
-            "course": "CHEM D012A03Z",
-            "CRN": "21589",
-            "desc": "ORGANIC CHEMISTRY",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Gray",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "2"
-          }
-        ],
-        "25412": [
-          {
-            "course": "CHEM D012A04Z",
-            "CRN": "25412",
             "desc": "ORGANIC CHEMISTRY",
             "status": "Full",
             "days": "TTh",
@@ -9839,13 +9803,49 @@
             "instructor": "Gray",
             "seats": "0",
             "wait_seats": "0",
+            "wait_cap": "2"
+          },
+          {
+            "course": "CHEM D012A03Z",
+            "CRN": "21589",
+            "desc": "ORGANIC CHEMISTRY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Gray",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "2"
+          }
+        ],
+        "25412": [
+          {
+            "course": "CHEM D012A04Z",
+            "CRN": "25412",
+            "desc": "ORGANIC CHEMISTRY",
+            "status": "Waitlist",
+            "days": "TTh",
+            "time": "10:30 AM-11:45 AM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Gray",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D012A04Z",
             "CRN": "25412",
             "desc": "ORGANIC CHEMISTRY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "02:30 PM-03:45 PM",
             "start": "09/21/2020",
@@ -9855,14 +9855,14 @@
             "units": "5.00",
             "instructor": "Miller",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D012A04Z",
             "CRN": "25412",
             "desc": "ORGANIC CHEMISTRY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -9872,7 +9872,7 @@
             "units": "5.00",
             "instructor": "Miller",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -21473,7 +21473,7 @@
             "course": "EWRT D001A55Z",
             "CRN": "25496",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -21482,7 +21482,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Delaney",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -40520,7 +40520,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Francis",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -40537,7 +40537,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Francis",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -40554,7 +40554,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Francis",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
