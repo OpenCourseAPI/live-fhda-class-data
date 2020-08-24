@@ -7220,7 +7220,7 @@
             "units": "4.50",
             "instructor": "Sandor",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -7907,7 +7907,7 @@
             "units": "5.00",
             "instructor": "Rotsides",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
@@ -7924,7 +7924,7 @@
             "units": "5.00",
             "instructor": "Rotsides",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -8113,7 +8113,7 @@
             "course": "CHEM F030A01Z",
             "CRN": "20044",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Full",
+            "status": "Open",
             "days": "M",
             "time": "09:00 AM-11:50 AM",
             "start": "09/21/2020",
@@ -8122,7 +8122,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cormia",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           },
@@ -8130,7 +8130,7 @@
             "course": "CHEM F030A01Z",
             "CRN": "20044",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -8139,7 +8139,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -11950,7 +11950,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Peacock",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -15392,7 +15392,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rakow",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15796,7 +15796,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Voyce",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16820,6 +16820,42 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
+          }
+        ],
+        "21985": [
+          {
+            "course": "MATH F001C5DZ",
+            "CRN": "21985",
+            "desc": "CALCULUS",
+            "status": "Full",
+            "days": "TF",
+            "time": "09:30 AM-10:45 AM",
+            "start": "09/21/2020",
+            "end": "12/18/2020",
+            "room": "LAHS",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "MATH F001C5DZ",
+            "CRN": "21985",
+            "desc": "CALCULUS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/18/2020",
+            "room": "LAHS",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "21675": [
@@ -18155,7 +18191,7 @@
             "units": "4.00",
             "instructor": "Tripp Caldwell",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -25376,7 +25412,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fox",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -25454,7 +25490,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "McNamara",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "20",
             "wait_cap": "20"
           }
