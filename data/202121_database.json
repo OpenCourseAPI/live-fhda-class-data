@@ -189,7 +189,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Drake",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4540,7 +4540,7 @@
             "course": "BIOL F008.01W",
             "CRN": "20019",
             "desc": "BASIC NUTRITION",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -4549,7 +4549,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "12"
           }
@@ -4561,7 +4561,7 @@
             "course": "BIOL F009.01Z",
             "CRN": "20020",
             "desc": "ENVIRONMENTAL BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "12:00 PM-01:50 PM",
             "start": "09/21/2020",
@@ -4570,7 +4570,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Schultz",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4578,7 +4578,7 @@
             "course": "BIOL F009.01Z",
             "CRN": "20020",
             "desc": "ENVIRONMENTAL BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -4587,7 +4587,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Schultz",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -11395,7 +11395,7 @@
             "course": "ECON F001B04W",
             "CRN": "20237",
             "desc": "PRINCIPLES OF MICROECONOMICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -11404,8 +11404,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Verissimo Ira",
-            "seats": "0",
-            "wait_seats": "13",
+            "seats": "1",
+            "wait_seats": "12",
             "wait_cap": "20"
           }
         ],
@@ -22045,25 +22045,6 @@
             "wait_seats": "3",
             "wait_cap": "5"
           }
-        ],
-        "21313": [
-          {
-            "course": "PHOT F008HHUW",
-            "CRN": "21313",
-            "desc": "HONORS PHOTO MULTICULTURAL AME",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Herman",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
         ]
       },
       "72": {
@@ -23058,7 +23039,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryer",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
