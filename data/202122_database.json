@@ -8751,7 +8751,7 @@
             "course": "C D D055.50Z",
             "CRN": "23968",
             "desc": "LITERCY DEVEL/ACTIV YNG CHLD",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -8761,7 +8761,7 @@
             "units": "3.00",
             "instructor": "Kennedy",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -14927,6 +14927,25 @@
             "units": "1.00",
             "instructor": "Goldie",
             "seats": "33",
+            "wait_seats": "7",
+            "wait_cap": "7"
+          }
+        ],
+        "26316": [
+          {
+            "course": "COUN D005.20Z",
+            "CRN": "26316",
+            "desc": "INTRODUCTION TO COLLEGE",
+            "status": "Open",
+            "days": "TWTh",
+            "time": "09:00 AM-12:30 PM",
+            "start": "09/29/2020",
+            "end": "10/01/2020",
+            "room": "TBA",
+            "campus": "DA",
+            "units": "1.00",
+            "instructor": "Teppang",
+            "seats": "35",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -24150,7 +24169,7 @@
             "course": "FREN D001.01Z",
             "CRN": "01075",
             "desc": "ELEM FRENCH (1ST QTR)",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWTh",
             "time": "12:30 PM-01:20 PM",
             "start": "09/21/2020",
@@ -24159,7 +24178,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hafid",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "15"
           },
@@ -24167,7 +24186,7 @@
             "course": "FREN D001.01Z",
             "CRN": "01075",
             "desc": "ELEM FRENCH (1ST QTR)",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -24176,7 +24195,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hafid",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "15"
           }
@@ -34689,7 +34708,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bensidi",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -34706,7 +34725,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bensidi",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "6",
             "wait_cap": "6"
           }
