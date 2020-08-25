@@ -6423,7 +6423,7 @@
             "units": "4.50",
             "instructor": "Cecil",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -6460,7 +6460,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6754,7 +6754,7 @@
             "units": "4.50",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
@@ -6771,7 +6771,7 @@
             "units": "4.50",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -12809,7 +12809,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Finnegan",
-            "seats": "30",
+            "seats": "31",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14165,7 +14165,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fung",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -14722,7 +14722,7 @@
             "course": "HORT F090D01V",
             "CRN": "21991",
             "desc": "HERBS:IDENT,USE & FOLKLORE",
-            "status": "Full",
+            "status": "Open",
             "days": "T",
             "time": "10:00 AM-12:50 PM",
             "start": "09/21/2020",
@@ -14730,10 +14730,31 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "1.00",
+            "instructor": "Niccoli",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ]
+      },
+      "90I": {
+        "21992": [
+          {
+            "course": "HORT F090I01V",
+            "CRN": "21992",
+            "desc": "LANDSCAPE SUSTAINABILITY PRACT",
+            "status": "Open",
+            "days": "T",
+            "time": "10:00 AM-12:50 PM",
+            "start": "10/19/2020",
+            "end": "11/10/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.00",
             "instructor": "Staff",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
           }
         ]
       }
@@ -15393,7 +15414,7 @@
             "units": "5.00",
             "instructor": "Wortz",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "6",
             "wait_cap": "25"
           }
         ],
@@ -15411,7 +15432,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wortz",
-            "seats": "33",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17391,7 +17412,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22347,7 +22368,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Marasco",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "20",
             "wait_cap": "20"
           }
