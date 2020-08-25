@@ -894,7 +894,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Butler",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2519,7 +2519,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Ferrer",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -3169,7 +3169,7 @@
             "course": "ART F002A01W",
             "CRN": "20015",
             "desc": "HISTORY OF ART:PRE-EARLY CHRIS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -3178,7 +3178,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5894,7 +5894,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lew",
-            "seats": "25",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8113,7 +8113,7 @@
             "course": "CHEM F030A01Z",
             "CRN": "20044",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "M",
             "time": "09:00 AM-11:50 AM",
             "start": "09/21/2020",
@@ -8123,14 +8123,14 @@
             "units": "5.00",
             "instructor": "Cormia",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "CHEM F030A01Z",
             "CRN": "20044",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -8140,7 +8140,7 @@
             "units": "5.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -8439,7 +8439,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8888,7 +8888,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Latta",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -9010,7 +9010,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Thao",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -9151,7 +9151,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Meacham",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12769,7 +12769,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fernandez",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -15374,6 +15374,25 @@
             "seats": "0",
             "wait_seats": "3",
             "wait_cap": "25"
+          }
+        ],
+        "21990": [
+          {
+            "course": "JAPN F001.03W",
+            "CRN": "21990",
+            "desc": "ELEMENTARY JAPANESE I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Wortz",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
           }
         ]
       },
@@ -20118,27 +20137,6 @@
   },
   "NCEL": {
     "1": {
-      "411": {
-        "20873": [
-          {
-            "course": "NCEL F411.02V",
-            "CRN": "20873",
-            "desc": "ADV-BEG ESL I",
-            "status": "Open",
-            "days": "TWTh",
-            "time": "04:30 PM-07:40 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "0.00",
-            "instructor": "Jardali",
-            "seats": "30",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          }
-        ]
-      },
       "421": {
         "20329": [
           {
@@ -20296,27 +20294,6 @@
             "wait_cap": "0"
           }
         ]
-      },
-      "480": {
-        "21733": [
-          {
-            "course": "NCEL F480.01V",
-            "CRN": "21733",
-            "desc": "ESL FOR JOB SEARCHING",
-            "status": "Open",
-            "days": "TTh",
-            "time": "02:00 PM-03:50 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "0.00",
-            "instructor": "Vozza",
-            "seats": "30",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
       }
     }
   },
@@ -20453,7 +20430,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Fernandez",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -21631,7 +21608,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tapia",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -21976,7 +21953,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23877,7 +23854,7 @@
             "units": "5.00",
             "instructor": "Tuttle",
             "seats": "1",
-            "wait_seats": "18",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ],
@@ -25427,7 +25404,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cormier",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "20",
             "wait_cap": "20"
           }
