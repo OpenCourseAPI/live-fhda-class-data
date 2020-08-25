@@ -1069,7 +1069,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mello",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1090,7 +1090,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kwak",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -27256,7 +27256,7 @@
             "course": "HUMI D001.51Z",
             "CRN": "01221",
             "desc": "CREATIVE MINDS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -27265,7 +27265,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hoffman",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "15"
           }
@@ -31923,7 +31923,24 @@
             "desc": "ELEMEN MANDARIN (1ST QTR)",
             "status": "Open",
             "days": "S",
-            "time": "09:00 AM-01:50 PM",
+            "time": "09:00 AM-12:00 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Schnittgrund",
+            "seats": "21",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          },
+          {
+            "course": "MAND D001.42Z",
+            "CRN": "22481",
+            "desc": "ELEMEN MANDARIN (1ST QTR)",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
