@@ -691,7 +691,7 @@
             "units": "5.00",
             "instructor": "Novikov",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ]
@@ -3578,7 +3578,7 @@
             "units": "4.00",
             "instructor": "Fong",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -3715,7 +3715,7 @@
             "units": "4.00",
             "instructor": "Gomes",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ]
@@ -18451,7 +18451,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20019,7 +20019,7 @@
             "course": "NCBS F405.MPV",
             "CRN": "21679",
             "desc": "SUPPLEMENTAL INSTRUCTION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "10:00 AM-12:15 PM",
             "start": "09/21/2020",
@@ -20028,7 +20028,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Munoz",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -26586,14 +26586,31 @@
             "CRN": "20142",
             "desc": "COMPARATIVE VET A&P FOR VET TE",
             "status": "Waitlist",
-            "days": "MW",
+            "days": "W",
             "time": "08:00 AM-09:50 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Macdougall",
+            "instructor": "Gregory",
+            "seats": "0",
+            "wait_seats": "2",
+            "wait_cap": "2"
+          },
+          {
+            "course": "V T F054A01V",
+            "CRN": "20142",
+            "desc": "COMPARATIVE VET A&P FOR VET TE",
+            "status": "Waitlist",
+            "days": "Th",
+            "time": "01:00 PM-02:50 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Staff",
             "seats": "0",
             "wait_seats": "2",
             "wait_cap": "2"
@@ -26639,14 +26656,14 @@
             "CRN": "20187",
             "desc": "COMPARATIVE VET A&P FOR VET TE",
             "status": "Open",
-            "days": "W",
-            "time": "10:00 AM-10:50 AM",
+            "days": "MW",
+            "time": "08:00 AM-09:50 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Gregory",
+            "instructor": "Macdougall",
             "seats": "3",
             "wait_seats": "2",
             "wait_cap": "2"
@@ -26656,14 +26673,14 @@
             "CRN": "20187",
             "desc": "COMPARATIVE VET A&P FOR VET TE",
             "status": "Open",
-            "days": "MW",
-            "time": "08:00 AM-09:50 AM",
+            "days": "W",
+            "time": "10:00 AM-10:50 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Macdougall",
+            "instructor": "Gregory",
             "seats": "3",
             "wait_seats": "2",
             "wait_cap": "2"
