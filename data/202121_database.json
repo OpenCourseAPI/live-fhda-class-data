@@ -328,7 +328,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bullock",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -549,7 +549,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -590,7 +590,7 @@
             "units": "4.00",
             "instructor": "Glass",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -976,7 +976,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Hanning",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4608,7 +4608,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Webb",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -4886,7 +4886,7 @@
             "units": "5.00",
             "instructor": "Schultz",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "12"
           },
           {
@@ -4903,7 +4903,7 @@
             "units": "5.00",
             "instructor": "Schultz",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "12"
           }
         ],
@@ -4921,7 +4921,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Schultz",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4938,7 +4938,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Schultz",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -7055,7 +7055,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7715,7 +7715,7 @@
             "course": "CHEM F12AL01Z",
             "CRN": "21149",
             "desc": "ORGANIC CHEMISTRY LABORATORY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -7724,7 +7724,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Painter",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -7732,7 +7732,7 @@
             "course": "CHEM F12AL01Z",
             "CRN": "21149",
             "desc": "ORGANIC CHEMISTRY LABORATORY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "05:30 PM-07:20 PM",
             "start": "09/21/2020",
@@ -7741,7 +7741,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Painter",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -8494,7 +8494,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8945,7 +8945,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Giotta",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12345,7 +12345,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McNeary",
-            "seats": "1",
+            "seats": "6",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12442,7 +12442,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Janakos",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12730,25 +12730,6 @@
             "units": "4.00",
             "instructor": "Fernandez",
             "seats": "8",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          }
-        ],
-        "20825": [
-          {
-            "course": "ENGL F001S2CW",
-            "CRN": "20825",
-            "desc": "INTEGRATED COMPOSITION & READ",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Glanting",
-            "seats": "19",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13208,27 +13189,6 @@
           }
         ]
       },
-      "201A": {
-        "21719": [
-          {
-            "course": "ESLL F201A7CV",
-            "CRN": "21719",
-            "desc": "COMP/RDNG INSTRUCT SUPPORT ESL",
-            "status": "Open",
-            "days": "TTh",
-            "time": "06:00 PM-06:50 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "McNeary",
-            "seats": "16",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          }
-        ]
-      },
       "226": {
         "20678": [
           {
@@ -13516,7 +13476,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meezan",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13994,7 +13954,7 @@
             "units": "4.00",
             "instructor": "Aguilar",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "15"
           }
         ]
@@ -14015,7 +13975,7 @@
             "units": "4.00",
             "instructor": "Meezan",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ],
@@ -20140,25 +20100,6 @@
   "NCEL": {
     "1": {
       "421": {
-        "20329": [
-          {
-            "course": "NCEL F421.01W",
-            "CRN": "20329",
-            "desc": "INT ENGLISH SEC LANGUAGE I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "0.00",
-            "instructor": "Ha",
-            "seats": "28",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          }
-        ],
         "20330": [
           {
             "course": "NCEL F421.02V",
@@ -20433,25 +20374,6 @@
             "units": "0.00",
             "instructor": "Fernandez",
             "seats": "9",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          }
-        ],
-        "21728": [
-          {
-            "course": "NCEN F442A2CV",
-            "CRN": "21728",
-            "desc": "CRITICAL THINKING:STUDENT PORT",
-            "status": "Open",
-            "days": "W",
-            "time": "08:00 AM-09:50 AM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "Glanting",
-            "seats": "18",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -20952,7 +20874,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -21406,7 +21328,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23657,7 +23579,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Villanueva",
-            "seats": "14",
+            "seats": "12",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24387,7 +24309,7 @@
             "course": "RSPT F050A01Z",
             "CRN": "20132",
             "desc": "RESPIRATORY THERAPY PROC",
-            "status": "Open",
+            "status": "Full",
             "days": "W",
             "time": "08:00 AM-10:50 AM",
             "start": "09/21/2020",
@@ -24396,7 +24318,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Hills",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -24404,7 +24326,7 @@
             "course": "RSPT F050A01Z",
             "CRN": "20132",
             "desc": "RESPIRATORY THERAPY PROC",
-            "status": "Open",
+            "status": "Full",
             "days": "T",
             "time": "08:00 AM-10:50 AM",
             "start": "09/21/2020",
@@ -24413,7 +24335,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Hills",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -24421,7 +24343,7 @@
             "course": "RSPT F050A01Z",
             "CRN": "20132",
             "desc": "RESPIRATORY THERAPY PROC",
-            "status": "Open",
+            "status": "Full",
             "days": "M",
             "time": "TBA",
             "start": "09/21/2020",
@@ -24430,7 +24352,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Hanning",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -24557,7 +24479,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Abel",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -24578,7 +24500,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Miller",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -24620,7 +24542,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Hanning",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -24641,7 +24563,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Hanning",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -24658,7 +24580,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Staff",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           }
