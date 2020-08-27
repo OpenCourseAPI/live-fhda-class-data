@@ -4886,7 +4886,7 @@
             "units": "5.00",
             "instructor": "Schultz",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "12"
           },
           {
@@ -4903,7 +4903,7 @@
             "units": "5.00",
             "instructor": "Schultz",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "12"
           }
         ],
@@ -4921,7 +4921,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Schultz",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4938,7 +4938,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Schultz",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -7383,7 +7383,7 @@
             "course": "CHEM F001A03Z",
             "CRN": "20035",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "12:00 PM-01:15 PM",
             "start": "09/21/2020",
@@ -7392,7 +7392,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salari",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           },
@@ -7400,7 +7400,7 @@
             "course": "CHEM F001A03Z",
             "CRN": "20035",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "02:00 PM-03:50 PM",
             "start": "09/21/2020",
@@ -7409,7 +7409,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salari",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           },
@@ -7417,7 +7417,7 @@
             "course": "CHEM F001A03Z",
             "CRN": "20035",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -7426,7 +7426,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salari",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -7906,7 +7906,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "4",
             "wait_cap": "10"
           },
@@ -7923,7 +7923,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "4",
             "wait_cap": "10"
           }
@@ -8749,7 +8749,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Rollinger",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -8766,7 +8766,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Rollinger",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8847,7 +8847,7 @@
             "units": "2.00",
             "instructor": "Koukoutsakis",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           },
           {
@@ -8864,7 +8864,7 @@
             "units": "2.00",
             "instructor": "Koukoutsakis",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -9602,7 +9602,7 @@
             "course": "COMM F002.02W",
             "CRN": "20051",
             "desc": "INTERPERSONAL COMMUNICATION",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -9612,7 +9612,7 @@
             "units": "5.00",
             "instructor": "Velasco",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "11"
           }
         ],
@@ -12010,25 +12010,6 @@
             "wait_cap": "25"
           }
         ],
-        "20435": [
-          {
-            "course": "ENGL F001A34W",
-            "CRN": "20435",
-            "desc": "COMPOSITION & READING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Banach",
-            "seats": "28",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          }
-        ],
         "20215": [
           {
             "course": "ENGL F001A35Z",
@@ -12080,25 +12061,6 @@
             "units": "5.00",
             "instructor": "Armerding",
             "seats": "3",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          }
-        ],
-        "21064": [
-          {
-            "course": "ENGL F001A37W",
-            "CRN": "21064",
-            "desc": "COMPOSITION & READING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Bachman",
-            "seats": "20",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12529,8 +12491,8 @@
             "CRN": "20071",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "F",
+            "time": "12:00 PM-01:50 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -12546,8 +12508,8 @@
             "CRN": "20071",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
             "status": "Open",
-            "days": "F",
-            "time": "12:00 PM-01:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -15788,7 +15750,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "O'Loughlin",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17800,7 +17762,7 @@
             "course": "MATH F048AMVP",
             "CRN": "20199",
             "desc": "PRECALCULUS I",
-            "status": "Open",
+            "status": "Full",
             "days": "MW",
             "time": "10:00 AM-12:15 PM",
             "start": "09/21/2020",
@@ -17809,7 +17771,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Francisco",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -20161,7 +20123,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Francisco",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23951,7 +23913,7 @@
             "units": "5.00",
             "instructor": "Clark",
             "seats": "1",
-            "wait_seats": "18",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ]
@@ -25161,7 +25123,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gibbs Stayte",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
