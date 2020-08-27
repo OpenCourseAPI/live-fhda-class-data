@@ -650,7 +650,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Fakoor",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -672,7 +672,7 @@
             "units": "5.00",
             "instructor": "Van Hulsen",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ],
@@ -9408,7 +9408,7 @@
             "course": "COMM F001A04W",
             "CRN": "20605",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -9418,7 +9418,7 @@
             "units": "5.00",
             "instructor": "Kellner",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -11451,8 +11451,8 @@
             "CRN": "20703",
             "desc": "PRINCIPLES OF MICROECONOMICS",
             "status": "Full",
-            "days": "F",
-            "time": "10:40 AM-11:40 AM",
+            "days": "MW",
+            "time": "11:10 AM-12:50 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ESPREP",
@@ -11468,8 +11468,8 @@
             "CRN": "20703",
             "desc": "PRINCIPLES OF MICROECONOMICS",
             "status": "Full",
-            "days": "MW",
-            "time": "11:10 AM-12:50 PM",
+            "days": "F",
+            "time": "10:40 AM-11:40 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ESPREP",
@@ -11518,6 +11518,27 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Evans",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "54H": {
+        "21994": [
+          {
+            "course": "ECON F054H1HV",
+            "CRN": "21994",
+            "desc": "HONORS INSTITUTE SEMINAR ECON",
+            "status": "Full",
+            "days": "F",
+            "time": "10:00 AM-10:50 AM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Staff",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -18188,7 +18209,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tripp Caldwell",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "9",
             "wait_cap": "10"
           }
