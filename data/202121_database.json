@@ -189,7 +189,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Drake",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2881,7 +2881,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Neff",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2921,7 +2921,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "King",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -4543,8 +4543,8 @@
             "CRN": "20020",
             "desc": "ENVIRONMENTAL BIOLOGY",
             "status": "Open",
-            "days": "T",
-            "time": "12:00 PM-01:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -4560,8 +4560,8 @@
             "CRN": "20020",
             "desc": "ENVIRONMENTAL BIOLOGY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "12:00 PM-01:50 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -4598,35 +4598,52 @@
       "10": {
         "20951": [
           {
-            "course": "BIOL F010.01V",
+            "course": "BIOL F010.01Z",
             "CRN": "20951",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Waitlist",
             "days": "MW",
-            "time": "10:00 AM-11:50 AM",
+            "time": "10:00 AM-10:50 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Jacobs",
+            "instructor": "Moody",
             "seats": "0",
             "wait_seats": "12",
             "wait_cap": "12"
           },
           {
-            "course": "BIOL F010.01V",
+            "course": "BIOL F010.01Z",
             "CRN": "20951",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Waitlist",
-            "days": "M",
-            "time": "01:00 PM-03:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Jacobs",
+            "instructor": "Moody",
+            "seats": "0",
+            "wait_seats": "12",
+            "wait_cap": "12"
+          },
+          {
+            "course": "BIOL F010.01Z",
+            "CRN": "20951",
+            "desc": "GEN BIOL-BASIC PRINCPLES",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Prusa",
             "seats": "0",
             "wait_seats": "12",
             "wait_cap": "12"
@@ -4634,58 +4651,58 @@
         ],
         "20952": [
           {
-            "course": "BIOL F010.02V",
+            "course": "BIOL F010.02Z",
             "CRN": "20952",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Waitlist",
-            "days": "W",
-            "time": "01:00 PM-03:50 PM",
+            "days": "MW",
+            "time": "10:00 AM-10:50 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Jacobs",
+            "instructor": "Moody",
             "seats": "0",
             "wait_seats": "12",
             "wait_cap": "12"
           },
           {
-            "course": "BIOL F010.02V",
+            "course": "BIOL F010.02Z",
             "CRN": "20952",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Jacobs",
+            "instructor": "Moody",
+            "seats": "0",
+            "wait_seats": "12",
+            "wait_cap": "12"
+          },
+          {
+            "course": "BIOL F010.02Z",
+            "CRN": "20952",
+            "desc": "GEN BIOL-BASIC PRINCPLES",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Prusa",
             "seats": "0",
             "wait_seats": "12",
             "wait_cap": "12"
           }
         ],
         "20220": [
-          {
-            "course": "BIOL F010.03V",
-            "CRN": "20220",
-            "desc": "GEN BIOL-BASIC PRINCPLES",
-            "status": "Waitlist",
-            "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Alderkamp",
-            "seats": "0",
-            "wait_seats": "12",
-            "wait_cap": "12"
-          },
           {
             "course": "BIOL F010.03V",
             "CRN": "20220",
@@ -4702,26 +4719,26 @@
             "seats": "0",
             "wait_seats": "12",
             "wait_cap": "12"
-          }
-        ],
-        "20434": [
+          },
           {
-            "course": "BIOL F010.04V",
-            "CRN": "20434",
+            "course": "BIOL F010.03V",
+            "CRN": "20220",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Waitlist",
-            "days": "Th",
-            "time": "09:00 AM-11:50 AM",
+            "days": "TTh",
+            "time": "12:00 PM-01:50 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Schultheis",
+            "instructor": "Alderkamp",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "12",
             "wait_cap": "12"
-          },
+          }
+        ],
+        "20434": [
           {
             "course": "BIOL F010.04V",
             "CRN": "20434",
@@ -4735,6 +4752,23 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Alderkamp",
+            "seats": "0",
+            "wait_seats": "7",
+            "wait_cap": "12"
+          },
+          {
+            "course": "BIOL F010.04V",
+            "CRN": "20434",
+            "desc": "GEN BIOL-BASIC PRINCPLES",
+            "status": "Waitlist",
+            "days": "Th",
+            "time": "09:00 AM-11:50 AM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Schultheis",
             "seats": "0",
             "wait_seats": "7",
             "wait_cap": "12"
@@ -4903,7 +4937,7 @@
             "units": "5.00",
             "instructor": "Schultz",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "12"
           },
           {
@@ -4920,7 +4954,7 @@
             "units": "5.00",
             "instructor": "Schultz",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "12"
           }
         ]
@@ -4956,7 +4990,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Schinske",
+            "instructor": "Golubev",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "7"
@@ -4973,7 +5007,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Golubev",
+            "instructor": "Schinske",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "7"
@@ -5074,14 +5108,14 @@
             "CRN": "21927",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "05:30 PM-08:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Kew",
+            "instructor": "Alderkamp",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "7"
@@ -5091,14 +5125,14 @@
             "CRN": "21927",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "M",
-            "time": "05:30 PM-08:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Alderkamp",
+            "instructor": "Kew",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "7"
@@ -5146,6 +5180,23 @@
             "CRN": "20025",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Benton",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "7"
+          },
+          {
+            "course": "BIOL F040A09Z",
+            "CRN": "20025",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
+            "status": "Full",
             "days": "S",
             "time": "08:00 AM-09:50 AM",
             "start": "09/21/2020",
@@ -5174,23 +5225,6 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "7"
-          },
-          {
-            "course": "BIOL F040A09Z",
-            "CRN": "20025",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Benton",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "7"
           }
         ],
         "21661": [
@@ -5199,8 +5233,8 @@
             "CRN": "21661",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "MW",
-            "time": "05:30 PM-08:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "11/01/2020",
             "room": "ONLINE",
@@ -5216,8 +5250,8 @@
             "CRN": "21661",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "05:30 PM-08:20 PM",
             "start": "09/21/2020",
             "end": "11/01/2020",
             "room": "ONLINE",
@@ -5491,6 +5525,23 @@
             "CRN": "21813",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Waitlist",
+            "days": "TTh",
+            "time": "12:00 PM-12:50 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Moody",
+            "seats": "0",
+            "wait_seats": "4",
+            "wait_cap": "7"
+          },
+          {
+            "course": "BIOL F040C05Z",
+            "CRN": "21813",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -5508,8 +5559,8 @@
             "CRN": "21813",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "12:00 PM-12:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -5530,13 +5581,13 @@
             "desc": "MICROBIOLOGY",
             "status": "Full",
             "days": "MW",
-            "time": "09:00 AM-11:50 AM",
+            "time": "12:00 PM-01:50 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "6.00",
-            "instructor": "Edwards",
+            "instructor": "Gosavi",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "5"
@@ -5547,13 +5598,13 @@
             "desc": "MICROBIOLOGY",
             "status": "Full",
             "days": "MW",
-            "time": "12:00 PM-01:50 PM",
+            "time": "09:00 AM-11:50 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "6.00",
-            "instructor": "Gosavi",
+            "instructor": "Edwards",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "5"
@@ -5566,7 +5617,7 @@
             "desc": "MICROBIOLOGY",
             "status": "Full",
             "days": "MW",
-            "time": "12:00 PM-01:50 PM",
+            "time": "02:00 PM-04:50 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -5583,7 +5634,7 @@
             "desc": "MICROBIOLOGY",
             "status": "Full",
             "days": "MW",
-            "time": "02:00 PM-04:50 PM",
+            "time": "12:00 PM-01:50 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -5672,7 +5723,7 @@
             "course": "BIOL F041.05V",
             "CRN": "21881",
             "desc": "MICROBIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "09:00 AM-11:50 AM",
             "start": "09/21/2020",
@@ -5682,14 +5733,14 @@
             "units": "6.00",
             "instructor": "Cooper",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "BIOL F041.05V",
             "CRN": "21881",
             "desc": "MICROBIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "12:00 PM-01:50 PM",
             "start": "09/21/2020",
@@ -5699,7 +5750,7 @@
             "units": "6.00",
             "instructor": "Folse",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -5995,7 +6046,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nava",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7268,7 +7319,7 @@
             "units": "5.00",
             "instructor": "Daley",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
@@ -7285,7 +7336,7 @@
             "units": "5.00",
             "instructor": "Daley",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
@@ -7302,7 +7353,7 @@
             "units": "5.00",
             "instructor": "Daley",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -7427,7 +7478,7 @@
             "units": "5.00",
             "instructor": "Salari",
             "seats": "1",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           },
           {
@@ -7444,7 +7495,7 @@
             "units": "5.00",
             "instructor": "Taylor",
             "seats": "1",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           },
           {
@@ -7461,7 +7512,7 @@
             "units": "5.00",
             "instructor": "Taylor",
             "seats": "1",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -7480,7 +7531,7 @@
             "units": "5.00",
             "instructor": "Liu",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           },
           {
@@ -7497,7 +7548,7 @@
             "units": "5.00",
             "instructor": "Liu",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           },
           {
@@ -7514,7 +7565,7 @@
             "units": "5.00",
             "instructor": "Liu",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -9885,7 +9936,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Threet",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12129,7 +12180,7 @@
             "course": "ENGL F001A42W",
             "CRN": "21071",
             "desc": "COMPOSITION & READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -12138,7 +12189,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Finnegan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12195,7 +12246,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mills",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12752,7 +12803,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Finnegan",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14108,7 +14159,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Batham",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -16606,7 +16657,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lam",
-            "seats": "11",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16772,7 +16823,7 @@
             "course": "MATH F001C03W",
             "CRN": "20177",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -16782,7 +16833,7 @@
             "units": "5.00",
             "instructor": "Litrus",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -18451,7 +18502,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18611,7 +18662,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "15",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18973,7 +19024,7 @@
             "units": "4.00",
             "instructor": "Davies",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -22522,7 +22573,7 @@
             "units": "6.00",
             "instructor": "Lau",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -22539,7 +22590,7 @@
             "units": "6.00",
             "instructor": "Fors",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -22984,7 +23035,7 @@
             "course": "POLI F015.01W",
             "CRN": "21023",
             "desc": "INT'L RELATIONS/WORLD POLITICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -22993,7 +23044,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryer",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25028,7 +25079,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Bauermeister",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25636,7 +25687,7 @@
             "units": "5.00",
             "instructor": "Leon Coffin",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "12",
             "wait_cap": "25"
           }
         ]
@@ -25723,7 +25774,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gough",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
