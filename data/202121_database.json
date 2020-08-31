@@ -451,7 +451,7 @@
             "units": "5.00",
             "instructor": "Mayer",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ],
@@ -571,7 +571,7 @@
             "units": "4.00",
             "instructor": "Glass",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ],
@@ -952,7 +952,7 @@
             "units": "5.00",
             "instructor": "Chan",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ]
@@ -1220,6 +1220,27 @@
           }
         ]
       },
+      "400E": {
+        "22028": [
+          {
+            "course": "ALCB F400E01V",
+            "CRN": "22028",
+            "desc": "LITERARY LIP-READING",
+            "status": "Open",
+            "days": "M",
+            "time": "10:00 AM-11:50 AM",
+            "start": "09/29/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "Mastman",
+            "seats": "35",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "407Y": {
         "20262": [
           {
@@ -1438,15 +1459,15 @@
       "413Y": {
         "20867": [
           {
-            "course": "ALCB F413Y01V",
+            "course": "ALCB F413Y01",
             "CRN": "20867",
             "desc": "RELAXATION TECHNIQUES",
             "status": "Open",
             "days": "W",
-            "time": "10:45 AM-12:35 PM",
+            "time": "10:30 AM-11:20 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
-            "room": "ONLINE",
+            "room": "CSAHC",
             "campus": "FO",
             "units": "0.00",
             "instructor": "Henkin-Haas",
@@ -2440,27 +2461,6 @@
             "wait_cap": "0"
           }
         ]
-      },
-      "467": {
-        "21359": [
-          {
-            "course": "ALCB F467.01V",
-            "CRN": "21359",
-            "desc": "HEALTHY LIVING",
-            "status": "Open",
-            "days": "Th",
-            "time": "11:00 AM-12:50 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Henkin-Haas",
-            "seats": "30",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
       }
     }
   },
@@ -2608,7 +2608,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Jenkins",
             "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
@@ -2862,7 +2862,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Neff",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3134,7 +3134,7 @@
             "course": "ART F002A01W",
             "CRN": "20015",
             "desc": "HISTORY OF ART:PRE-EARLY CHRIS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -3143,7 +3143,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3290,7 +3290,7 @@
             "course": "ART F004B03Z",
             "CRN": "20195",
             "desc": "INTERMEDIATE DRAWING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "S",
             "time": "09:00 AM-10:50 AM",
             "start": "09/21/2020",
@@ -3300,14 +3300,14 @@
             "units": "4.00",
             "instructor": "Levitch",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "3"
           },
           {
             "course": "ART F004B03Z",
             "CRN": "20195",
             "desc": "INTERMEDIATE DRAWING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -3317,14 +3317,14 @@
             "units": "4.00",
             "instructor": "Levitch",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "3"
           },
           {
             "course": "ART F004B03Z",
             "CRN": "20195",
             "desc": "INTERMEDIATE DRAWING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -3334,7 +3334,7 @@
             "units": "4.00",
             "instructor": "Levitch",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "3"
           }
         ]
@@ -3760,7 +3760,7 @@
             "course": "ASTR F010B01V",
             "CRN": "20016",
             "desc": "GEN ASTRONOMY:STARS, GALXIES,",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "12:00 PM-02:15 PM",
             "start": "09/21/2020",
@@ -3769,7 +3769,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mathews",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -8306,7 +8306,7 @@
             "units": "5.00",
             "instructor": "Mossman",
             "seats": "1",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           },
           {
@@ -8323,7 +8323,7 @@
             "units": "5.00",
             "instructor": "Mossman",
             "seats": "1",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -8332,7 +8332,7 @@
             "course": "CHEM F030A08V",
             "CRN": "21993",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "05:30 PM-07:20 PM",
             "start": "09/21/2020",
@@ -8341,15 +8341,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mossman",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "seats": "32",
+            "wait_seats": "7",
+            "wait_cap": "7"
           },
           {
             "course": "CHEM F030A08V",
             "CRN": "21993",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Full",
+            "status": "Open",
             "days": "W",
             "time": "07:30 PM-10:20 PM",
             "start": "09/21/2020",
@@ -8358,9 +8358,9 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mossman",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "seats": "32",
+            "wait_seats": "7",
+            "wait_cap": "7"
           }
         ]
       },
@@ -13657,7 +13657,7 @@
             "course": "GID F001.01W",
             "CRN": "20222",
             "desc": "HISTORY OF GRAPHIC DESIGN",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13666,7 +13666,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Day",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "10"
           }
@@ -13946,7 +13946,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gossett",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18555,7 +18555,7 @@
             "course": "MDIA F030.01W",
             "CRN": "21851",
             "desc": "DIGITAL VIDEO EDITING I",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -18564,7 +18564,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -18572,7 +18572,7 @@
             "course": "MDIA F030.01W",
             "CRN": "21851",
             "desc": "DIGITAL VIDEO EDITING I",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -18581,7 +18581,7 @@
             "campus": "",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -21545,7 +21545,7 @@
             "course": "PHIL F001.01Z",
             "CRN": "20571",
             "desc": "CRITICAL THINKING & WRITING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:00 PM-01:15 PM",
             "start": "09/21/2020",
@@ -21554,7 +21554,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rawal",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -21562,7 +21562,7 @@
             "course": "PHIL F001.01Z",
             "CRN": "20571",
             "desc": "CRITICAL THINKING & WRITING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -21571,7 +21571,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rawal",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
