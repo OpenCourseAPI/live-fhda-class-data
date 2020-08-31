@@ -171,7 +171,7 @@
             "units": "5.00",
             "instructor": "Drake",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ],
@@ -2647,7 +2647,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2813,7 +2813,7 @@
             "course": "ANTH F001L03W",
             "CRN": "20664",
             "desc": "PHYSICAL ANTHROPOL LAB",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -2822,7 +2822,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Connell",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4692,7 +4692,24 @@
         ],
         "20220": [
           {
-            "course": "BIOL F010.03V",
+            "course": "BIOL F010.03Z",
+            "CRN": "20220",
+            "desc": "GEN BIOL-BASIC PRINCPLES",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Alderkamp",
+            "seats": "0",
+            "wait_seats": "11",
+            "wait_cap": "12"
+          },
+          {
+            "course": "BIOL F010.03Z",
             "CRN": "20220",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Waitlist",
@@ -4707,33 +4724,16 @@
             "seats": "0",
             "wait_seats": "11",
             "wait_cap": "12"
-          },
-          {
-            "course": "BIOL F010.03V",
-            "CRN": "20220",
-            "desc": "GEN BIOL-BASIC PRINCPLES",
-            "status": "Waitlist",
-            "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Alderkamp",
-            "seats": "0",
-            "wait_seats": "11",
-            "wait_cap": "12"
           }
         ],
         "20434": [
           {
-            "course": "BIOL F010.04V",
+            "course": "BIOL F010.04Z",
             "CRN": "20434",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -4745,7 +4745,7 @@
             "wait_cap": "12"
           },
           {
-            "course": "BIOL F010.04V",
+            "course": "BIOL F010.04Z",
             "CRN": "20434",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Waitlist",
@@ -4813,7 +4813,7 @@
             "units": "5.00",
             "instructor": "Prusa",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "12"
           },
           {
@@ -4830,7 +4830,7 @@
             "units": "5.00",
             "instructor": "Poffenroth",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "12"
           }
         ]
@@ -6414,7 +6414,7 @@
             "course": "C S F001A02W",
             "CRN": "21639",
             "desc": "OBJ-ORIENTED PROG METHOD JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -6423,7 +6423,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6846,7 +6846,7 @@
             "units": "4.50",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "25"
           }
         ],
@@ -7999,7 +7999,7 @@
             "units": "5.00",
             "instructor": "Rotsides",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
@@ -8016,7 +8016,7 @@
             "units": "5.00",
             "instructor": "Rotsides",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -9455,7 +9455,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Clemmons",
             "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -9550,7 +9550,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Clemmons",
             "seats": "0",
             "wait_seats": "9",
             "wait_cap": "10"
@@ -9784,7 +9784,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Clemmons",
             "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -12787,7 +12787,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fernandez",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13825,7 +13825,7 @@
             "units": "4.00",
             "instructor": "Kneeland",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -13842,7 +13842,7 @@
             "units": "4.00",
             "instructor": "Kneeland",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -15793,7 +15793,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mac Neil",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17089,7 +17089,7 @@
             "units": "5.00",
             "instructor": "Francisco",
             "seats": "2",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -17334,7 +17334,7 @@
             "units": "5.00",
             "instructor": "Munoz",
             "seats": "1",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -18647,7 +18647,7 @@
             "units": "4.00",
             "instructor": "Tambling",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -18940,7 +18940,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20452,7 +20452,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Fernandez",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "25",
             "wait_cap": "25"
           }
