@@ -1976,6 +1976,25 @@
             "wait_cap": "999"
           }
         ],
+        "22033": [
+          {
+            "course": "ALCB F431Y04V",
+            "CRN": "22033",
+            "desc": "ANALYSIS OF CURRENT EVENTS",
+            "status": "Open",
+            "days": "Th",
+            "time": "01:00 PM-02:50 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Smith",
+            "seats": "35",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "20506": [
           {
             "course": "ALCB F431Y05V",
@@ -3066,7 +3085,7 @@
             "units": "4.50",
             "instructor": "Gomes",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -3167,7 +3186,7 @@
             "units": "4.50",
             "instructor": "Brannvall",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -5093,7 +5112,7 @@
             "course": "BIOL F040A08Z",
             "CRN": "20953",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "W",
             "time": "05:30 PM-08:20 PM",
             "start": "09/21/2020",
@@ -5103,14 +5122,14 @@
             "units": "5.00",
             "instructor": "Alderkamp",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           },
           {
             "course": "BIOL F040A08Z",
             "CRN": "20953",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -5120,7 +5139,7 @@
             "units": "5.00",
             "instructor": "Kew",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ],
@@ -5848,7 +5867,7 @@
             "course": "BUSI F011.02W",
             "CRN": "20576",
             "desc": "INTRO TO INFORMATION SYSTEMS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -5857,7 +5876,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lew",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "18",
             "wait_cap": "20"
           }
@@ -9544,7 +9563,7 @@
             "course": "COMM F001B01W",
             "CRN": "20501",
             "desc": "ARGUMENTATION & PERSUASION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -9553,7 +9572,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Threet",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "10"
           }
@@ -11430,7 +11449,7 @@
             "course": "ECON F001B04W",
             "CRN": "20237",
             "desc": "PRINCIPLES OF MICROECONOMICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -11439,7 +11458,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Verissimo Ira",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "18",
             "wait_cap": "20"
           }
@@ -25122,7 +25141,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gibbs Stayte",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "20",
             "wait_cap": "20"
           }
