@@ -7493,7 +7493,7 @@
             "course": "CHEM F001A05Z",
             "CRN": "20736",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "07:00 PM-08:50 PM",
             "start": "09/21/2020",
@@ -7502,7 +7502,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "10"
           },
@@ -7510,7 +7510,7 @@
             "course": "CHEM F001A05Z",
             "CRN": "20736",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -7519,7 +7519,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "10"
           },
@@ -7527,7 +7527,7 @@
             "course": "CHEM F001A05Z",
             "CRN": "20736",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -7536,7 +7536,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "10"
           }
@@ -9654,7 +9654,7 @@
             "units": "5.00",
             "instructor": "Cnudde",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -9672,7 +9672,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cnudde",
-            "seats": "25",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11406,6 +11406,42 @@
             "wait_seats": "20",
             "wait_cap": "20"
           }
+        ],
+        "22047": [
+          {
+            "course": "ECON F001A06Z",
+            "CRN": "22047",
+            "desc": "PRINCIPLES OF MACROECONOMICS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "50",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "ECON F001A06Z",
+            "CRN": "22047",
+            "desc": "PRINCIPLES OF MACROECONOMICS",
+            "status": "Open",
+            "days": "MW",
+            "time": "02:00 PM-02:50 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "50",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
         ]
       },
       "1B": {
@@ -11491,8 +11527,8 @@
             "CRN": "20703",
             "desc": "PRINCIPLES OF MICROECONOMICS",
             "status": "Full",
-            "days": "MW",
-            "time": "11:10 AM-12:50 PM",
+            "days": "F",
+            "time": "10:40 AM-11:40 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ESPREP",
@@ -11508,8 +11544,8 @@
             "CRN": "20703",
             "desc": "PRINCIPLES OF MICROECONOMICS",
             "status": "Full",
-            "days": "F",
-            "time": "10:40 AM-11:40 AM",
+            "days": "MW",
+            "time": "11:10 AM-12:50 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ESPREP",
@@ -23368,7 +23404,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
