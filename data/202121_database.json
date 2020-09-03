@@ -5860,7 +5860,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lew",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6009,7 +6009,7 @@
             "course": "BUSI F022.02W",
             "CRN": "20312",
             "desc": "PRINCIPLES OF BUSINESS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -6018,7 +6018,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nava",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8163,7 +8163,7 @@
             "units": "5.00",
             "instructor": "Cormia",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
@@ -8180,7 +8180,7 @@
             "units": "5.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -8344,7 +8344,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mossman",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -8361,7 +8361,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mossman",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -9789,7 +9789,7 @@
             "units": "5.00",
             "instructor": "Clemmons",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -9918,7 +9918,7 @@
             "course": "COMM F012.02W",
             "CRN": "20054",
             "desc": "INTERCULTURAL COMMUNICATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -9927,7 +9927,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Threet",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11862,6 +11862,25 @@
   "ENGL": {
     "1": {
       "1A": {
+        "22049": [
+          {
+            "course": "ENGL F001A18W",
+            "CRN": "22049",
+            "desc": "COMPOSITION & READING",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Hoffer",
+            "seats": "30",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ],
         "20064": [
           {
             "course": "ENGL F001A1UW",
@@ -11963,8 +11982,8 @@
             "CRN": "20883",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:00 AM-11:50 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -11980,8 +11999,8 @@
             "CRN": "20883",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "T",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -12113,8 +12132,8 @@
             "CRN": "20215",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:00 AM-11:50 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -12130,8 +12149,8 @@
             "CRN": "20215",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "T",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -12499,7 +12518,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "La Piana",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12523,6 +12542,25 @@
             "seats": "0",
             "wait_seats": "23",
             "wait_cap": "25"
+          }
+        ],
+        "22050": [
+          {
+            "course": "ENGL F001B02W",
+            "CRN": "22050",
+            "desc": "COMP/CRIT READ/THINK LITERATUR",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "La Piana",
+            "seats": "30",
+            "wait_seats": "10",
+            "wait_cap": "10"
           }
         ],
         "20824": [
@@ -12796,7 +12834,7 @@
             "course": "ENGL F001C01W",
             "CRN": "20827",
             "desc": "ARGUMENTATIVE WRIT/CRITICAL TH",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -12805,7 +12843,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sperry",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "23",
             "wait_cap": "25"
           }
@@ -13564,7 +13602,7 @@
             "course": "GEOG F001.06W",
             "CRN": "20245",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13573,7 +13611,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meezan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14264,7 +14302,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ziegenhorn",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -19268,7 +19306,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Barkley",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -19285,7 +19323,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Carey",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23331,7 +23369,7 @@
             "units": "5.00",
             "instructor": "Rideaux",
             "seats": "1",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "20"
           },
           {
@@ -23348,7 +23386,7 @@
             "units": "5.00",
             "instructor": "Rideaux",
             "seats": "1",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ],
