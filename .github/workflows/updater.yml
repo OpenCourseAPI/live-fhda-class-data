@@ -2,13 +2,11 @@ name: Update Data
 
 on:
   push:
-    branches-ignore:
-      - '**'
-#     branches: [ master ]
-#   watch:
-#     types: [ started ]
-#   schedule:
-#     - cron:  '*/5 * * * *'
+     branches: [ master ]
+  watch:
+     types: [ started ]
+  schedule:
+     - cron:  '*/5 * * * *'
 
 jobs:
   update:
