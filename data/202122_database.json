@@ -840,7 +840,7 @@
             "course": "ACCT D001C01Z",
             "CRN": "22457",
             "desc": "MANAG ACCOUNTG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -849,15 +849,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Riordan",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
             "course": "ACCT D001C01Z",
             "CRN": "22457",
             "desc": "MANAG ACCOUNTG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "06:00 PM-07:50 PM",
             "start": "09/21/2020",
@@ -866,8 +866,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Riordan",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -3516,7 +3516,7 @@
             "course": "ASTR D004.66Z",
             "CRN": "00209",
             "desc": "SOLAR SYSTEM ASTRONOMY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -3525,8 +3525,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Srinath",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ]
@@ -7213,7 +7213,7 @@
             "course": "BUS D010.65Z",
             "CRN": "24564",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -7222,7 +7222,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Niedermier",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -8719,7 +8719,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "6"
           },
           {
@@ -8736,7 +8736,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "6"
           },
           {
@@ -8753,7 +8753,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -10402,7 +10402,7 @@
             "course": "CIS D018A12Z",
             "CRN": "00479",
             "desc": "INTRO TO UNIX/LINUX",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -10411,7 +10411,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "15"
           },
@@ -10419,7 +10419,7 @@
             "course": "CIS D018A12Z",
             "CRN": "00479",
             "desc": "INTRO TO UNIX/LINUX",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "06:00 PM-07:50 PM",
             "start": "09/21/2020",
@@ -10428,7 +10428,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "15"
           }
@@ -16860,7 +16860,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Seshadri",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -18643,7 +18643,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Ormeno",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23435,7 +23435,7 @@
             "course": "F/TV D071G01Z",
             "CRN": "24068",
             "desc": "INTRO TO 3D COMP ANIM: MODLNG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "F",
             "time": "10:30 AM-01:20 PM",
             "start": "09/21/2020",
@@ -23444,7 +23444,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Freckelton",
-            "seats": "0",
+            "seats": "2",
             "wait_seats": "4",
             "wait_cap": "5"
           },
@@ -23452,7 +23452,7 @@
             "course": "F/TV D071G01Z",
             "CRN": "24068",
             "desc": "INTRO TO 3D COMP ANIM: MODLNG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "F",
             "time": "01:30 PM-04:20 PM",
             "start": "09/21/2020",
@@ -23461,7 +23461,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Freckelton",
-            "seats": "0",
+            "seats": "2",
             "wait_seats": "4",
             "wait_cap": "5"
           }
@@ -23482,7 +23482,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Freckelton",
-            "seats": "3",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -23499,7 +23499,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Freckelton",
-            "seats": "3",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23511,7 +23511,7 @@
             "course": "F/TV D072G01Z",
             "CRN": "25292",
             "desc": "ANIMATED FILM PRE-PROD WRKSHP",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "T",
             "time": "10:30 AM-01:20 PM",
             "start": "09/21/2020",
@@ -23520,7 +23520,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hamer",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "5"
           },
@@ -23528,7 +23528,7 @@
             "course": "F/TV D072G01Z",
             "CRN": "25292",
             "desc": "ANIMATED FILM PRE-PROD WRKSHP",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -23537,7 +23537,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hamer",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "5"
           }
@@ -23587,7 +23587,7 @@
             "course": "F/TV D072J01Z",
             "CRN": "25294",
             "desc": "ANIMATED FILM POST-PROD WKSHP",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "01:30 PM-04:20 PM",
             "start": "09/21/2020",
@@ -23596,7 +23596,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hamer",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -23604,7 +23604,7 @@
             "course": "F/TV D072J01Z",
             "CRN": "25294",
             "desc": "ANIMATED FILM POST-PROD WKSHP",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -23613,7 +23613,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hamer",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24530,7 +24530,7 @@
             "course": "HIST D017C52Z",
             "CRN": "25278",
             "desc": "HIST U.S. 1900- PRESENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -24539,8 +24539,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Stevens",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -24757,7 +24757,7 @@
             "course": "HTEC D050.01Z",
             "CRN": "23700",
             "desc": "INTRO HEALTH TECHNOLOGIES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "F",
             "time": "10:30 AM-12:20 PM",
             "start": "09/21/2020",
@@ -24766,8 +24766,8 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Hassel",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ]
@@ -24807,7 +24807,7 @@
             "units": "3.00",
             "instructor": "Erickson",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -27885,7 +27885,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Loyola",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -27902,7 +27902,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Loyola",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -28301,7 +28301,7 @@
             "course": "JAPN D002.40Z",
             "CRN": "22479",
             "desc": "ELEM JAPANESE (2ND QTR)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:30 PM-03:45 PM",
             "start": "09/21/2020",
@@ -28310,8 +28310,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kuo",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ]
@@ -30646,7 +30646,7 @@
             "course": "LART D250.02Q",
             "CRN": "25468",
             "desc": "ACADEMIC READING AND WRITING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -30655,8 +30655,8 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Rizzo",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -35820,7 +35820,7 @@
             "course": "MUSI D001A01Z",
             "CRN": "01652",
             "desc": "MUSIC APPREC: WESTRN CULTURE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "02:30 PM-04:20 PM",
             "start": "09/21/2020",
@@ -35829,8 +35829,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dunn",
-            "seats": "1",
-            "wait_seats": "14",
+            "seats": "0",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ],
