@@ -1119,7 +1119,7 @@
             "course": "AHS F052.02W",
             "CRN": "20838",
             "desc": "MEDICAL TERMINOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -1129,7 +1129,7 @@
             "units": "4.00",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -3902,7 +3902,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Raivio",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3961,7 +3961,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Edwards",
-            "seats": "27",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4087,7 +4087,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Bissell",
-            "seats": "24",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4545,7 +4545,7 @@
             "units": "5.00",
             "instructor": "Moody",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "12"
           },
           {
@@ -4562,7 +4562,7 @@
             "units": "5.00",
             "instructor": "Moody",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "12"
           },
           {
@@ -4579,7 +4579,7 @@
             "units": "5.00",
             "instructor": "Prusa",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "12"
           }
         ],
@@ -8441,7 +8441,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -9033,7 +9033,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Small",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -9050,7 +9050,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Small",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11459,7 +11459,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15790,7 +15790,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mac Neil",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15914,7 +15914,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Bissell",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17698,7 +17698,7 @@
             "units": "5.00",
             "instructor": "Sukumar",
             "seats": "1",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -17715,7 +17715,7 @@
             "units": "5.00",
             "instructor": "Sukumar",
             "seats": "1",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -18187,7 +18187,7 @@
             "units": "2.50",
             "instructor": "Sukumar",
             "seats": "1",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -18204,7 +18204,7 @@
             "units": "2.50",
             "instructor": "Sukumar",
             "seats": "1",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -20331,7 +20331,26 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Kuo",
-            "seats": "13",
+            "seats": "12",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "22076": [
+          {
+            "course": "NCEL F470.03V",
+            "CRN": "22076",
+            "desc": "LOW-INTRMD VOC ESL FOOD WORKRS",
+            "status": "Full",
+            "days": "MW",
+            "time": "04:00 PM-05:50 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "Mason",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -21061,7 +21080,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Mac Neil",
-            "seats": "15",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23507,7 +23526,7 @@
             "course": "PSYC F001.11W",
             "CRN": "20315",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -23516,7 +23535,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23686,7 +23705,7 @@
             "course": "PSYC F014.01W",
             "CRN": "20251",
             "desc": "CHILD & ADOLESCENT DEVLPMT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -23695,8 +23714,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Villanueva",
-            "seats": "0",
-            "wait_seats": "19",
+            "seats": "1",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ]
@@ -25035,7 +25054,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Lum",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -26687,7 +26706,7 @@
             "course": "V T F051.01V",
             "CRN": "20380",
             "desc": "INTRO TO VET TECH",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "Th",
             "time": "10:00 AM-11:50 AM",
             "start": "09/21/2020",
@@ -26697,7 +26716,7 @@
             "units": "2.00",
             "instructor": "Morgan",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
