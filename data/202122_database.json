@@ -52,7 +52,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -69,7 +69,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -401,7 +401,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Breen",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2201,6 +2201,25 @@
             "instructor": "Karmi",
             "seats": "0",
             "wait_seats": "2",
+            "wait_cap": "15"
+          }
+        ],
+        "26326": [
+          {
+            "course": "ARTS D001A70Z",
+            "CRN": "26326",
+            "desc": "INTRO TO VISUAL ARTS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "50",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ]
@@ -9799,8 +9818,8 @@
             "CRN": "23020",
             "desc": "PREP FOR GENERAL CHEMISTRY",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "07:30 PM-08:45 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -9816,8 +9835,8 @@
             "CRN": "23020",
             "desc": "PREP FOR GENERAL CHEMISTRY",
             "status": "Full",
-            "days": "T",
-            "time": "07:30 PM-08:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -10013,14 +10032,31 @@
             "CRN": "21592",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
             "status": "Full",
+            "days": "T",
+            "time": "07:30 PM-08:20 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Snelling",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "8"
+          },
+          {
+            "course": "CHEM D030A03Z",
+            "CRN": "21592",
+            "desc": "INTRO GEN, ORG AND BIOCHEM I",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Snelling",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "8"
@@ -10038,23 +10074,6 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mar",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "8"
-          },
-          {
-            "course": "CHEM D030A03Z",
-            "CRN": "21592",
-            "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Full",
-            "days": "T",
-            "time": "07:30 PM-08:20 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Staff",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "8"
@@ -10090,7 +10109,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Snelling",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "6"
@@ -10108,6 +10127,23 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mar",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "6"
+          },
+          {
+            "course": "CHEM D030A04Z",
+            "CRN": "23677",
+            "desc": "INTRO GEN, ORG AND BIOCHEM I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Snelling",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "6"
@@ -16496,7 +16532,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Staudinger",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24122,7 +24158,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ramsey",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -28963,7 +28999,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Catuiza",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -31797,7 +31833,7 @@
             "course": "MATH D001A10Z",
             "CRN": "01483",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "04:00 PM-06:15 PM",
             "start": "09/21/2020",
@@ -31807,7 +31843,7 @@
             "units": "5.00",
             "instructor": "Lopez",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -31938,7 +31974,7 @@
             "units": "5.00",
             "instructor": "Vanniasegaram",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -40283,7 +40319,7 @@
             "course": "POLI D001.4EZ",
             "CRN": "24131",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -40292,7 +40328,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -40321,7 +40357,7 @@
             "course": "POLI D001.51Z",
             "CRN": "25104",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -40330,7 +40366,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tarikh",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -40406,7 +40442,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "7",
             "wait_cap": "7"
           }
