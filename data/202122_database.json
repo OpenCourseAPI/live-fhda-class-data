@@ -10017,6 +10017,23 @@
             "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "8"
+          },
+          {
+            "course": "CHEM D030A03Z",
+            "CRN": "21592",
+            "desc": "INTRO GEN, ORG AND BIOCHEM I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
@@ -12760,7 +12777,7 @@
             "course": "COMM D001.03Z",
             "CRN": "24347",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -12770,14 +12787,14 @@
             "units": "5.00",
             "instructor": "Cunningham",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "COMM D001.03Z",
             "CRN": "24347",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "09:30 AM-11:20 AM",
             "start": "09/21/2020",
@@ -12787,7 +12804,7 @@
             "units": "5.00",
             "instructor": "Cunningham",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -16813,7 +16830,7 @@
             "course": "ECON D001.62Z",
             "CRN": "20265",
             "desc": "PRIN MACROECONOMICS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -16822,7 +16839,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Uy-Barreta",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "2"
           }
@@ -21491,7 +21508,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Trimble",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22979,7 +22996,7 @@
             "units": "4.00",
             "instructor": "Tavernetti",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ],
@@ -26238,7 +26255,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Jackler",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -26276,7 +26293,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hernando",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -26725,7 +26742,7 @@
             "course": "HUMI D001.09Z",
             "CRN": "25879",
             "desc": "CREATIVE MINDS",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "01:30 PM-03:20 PM",
             "start": "09/21/2020",
@@ -26734,7 +26751,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Breiter",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -31551,7 +31568,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Schnittgrund",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -31568,7 +31585,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Schnittgrund",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -36389,7 +36406,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Dunn",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -36406,7 +36423,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Dunn",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
