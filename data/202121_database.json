@@ -681,7 +681,7 @@
             "course": "ACTG F067.02W",
             "CRN": "20009",
             "desc": "TAX ACCOUNTING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -691,7 +691,7 @@
             "units": "5.00",
             "instructor": "Novikov",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -2553,7 +2553,7 @@
             "units": "4.00",
             "instructor": "Connell",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -2855,7 +2855,7 @@
             "course": "ANTH F005.01W",
             "CRN": "20014",
             "desc": "MAGIC, SCIENCE & RELIGION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -2864,7 +2864,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "King",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "19",
             "wait_cap": "20"
           }
@@ -3481,7 +3481,7 @@
             "course": "ART F015A01W",
             "CRN": "20627",
             "desc": "DIGITAL PAINTING I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -3490,8 +3490,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -3735,7 +3735,7 @@
             "units": "5.00",
             "instructor": "Mathews",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -5657,7 +5657,7 @@
             "course": "BIOL F041.05V",
             "CRN": "21881",
             "desc": "MICROBIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "09:00 AM-11:50 AM",
             "start": "09/21/2020",
@@ -5666,15 +5666,15 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cooper",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "BIOL F041.05V",
             "CRN": "21881",
             "desc": "MICROBIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "12:00 PM-01:50 PM",
             "start": "09/21/2020",
@@ -5683,8 +5683,8 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Folse",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -5737,7 +5737,7 @@
             "course": "BIOL F081.01Z",
             "CRN": "21814",
             "desc": "LEADERS-DIVERSITY IN SCIENCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "03:00 PM-04:50 PM",
             "start": "09/21/2020",
@@ -5746,15 +5746,15 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Schinske",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "12"
           },
           {
             "course": "BIOL F081.01Z",
             "CRN": "21814",
             "desc": "LEADERS-DIVERSITY IN SCIENCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "03:00 PM-04:50 PM",
             "start": "09/21/2020",
@@ -5763,15 +5763,15 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cabrera",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "12"
           },
           {
             "course": "BIOL F081.01Z",
             "CRN": "21814",
             "desc": "LEADERS-DIVERSITY IN SCIENCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -5780,15 +5780,15 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Schinske",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "12"
           },
           {
             "course": "BIOL F081.01Z",
             "CRN": "21814",
             "desc": "LEADERS-DIVERSITY IN SCIENCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -5797,8 +5797,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cabrera",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "12"
           }
         ]
@@ -6710,7 +6710,7 @@
             "course": "C S F003A01Z",
             "CRN": "20674",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "06:00 PM-07:50 PM",
             "start": "09/21/2020",
@@ -6719,15 +6719,15 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "2",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "10"
           },
           {
             "course": "C S F003A01Z",
             "CRN": "20674",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -6736,8 +6736,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "2",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -6801,7 +6801,7 @@
             "course": "C S F003A04W",
             "CRN": "20889",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -6810,8 +6810,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Meade",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -6955,7 +6955,7 @@
             "course": "C S F010.01Z",
             "CRN": "20748",
             "desc": "COMPUTER ARCHITEC/ORGANIZATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "06:00 PM-07:50 PM",
             "start": "09/21/2020",
@@ -6964,15 +6964,15 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Riordan",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
             "course": "C S F010.01Z",
             "CRN": "20748",
             "desc": "COMPUTER ARCHITEC/ORGANIZATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -6981,8 +6981,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Riordan",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -7096,7 +7096,7 @@
             "course": "C S F048A01W",
             "CRN": "21818",
             "desc": "DATA VISUALIZATION",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -7106,14 +7106,14 @@
             "units": "4.50",
             "instructor": "Lankester",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "C S F048A01W",
             "CRN": "21818",
             "desc": "DATA VISUALIZATION",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -7123,7 +7123,7 @@
             "units": "4.50",
             "instructor": "Lankester",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -7227,7 +7227,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Scovil",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8451,7 +8451,7 @@
             "course": "CHLD F001.03W",
             "CRN": "20532",
             "desc": "CHLD GROWTH/DEVLP:PRENATAL THR",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -8460,7 +8460,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8574,7 +8574,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Stirling",
-            "seats": "15",
+            "seats": "17",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8902,7 +8902,7 @@
             "course": "CHLD F095.01W",
             "CRN": "20366",
             "desc": "HEALTH/SAFETY/NUTRITION CHLD P",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -8911,8 +8911,8 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Giotta",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -9956,7 +9956,7 @@
             "course": "COMM F012.05W",
             "CRN": "20516",
             "desc": "INTERCULTURAL COMMUNICATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -9965,8 +9965,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Velasco",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -12357,7 +12357,7 @@
             "course": "ENGL F001A5CW",
             "CRN": "20066",
             "desc": "COMPOSITION & READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -12366,8 +12366,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Goldstone",
-            "seats": "1",
-            "wait_seats": "21",
+            "seats": "0",
+            "wait_seats": "22",
             "wait_cap": "25"
           }
         ],
@@ -16673,7 +16673,7 @@
             "course": "MATH F001A04V",
             "CRN": "20257",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:30 PM-03:45 PM",
             "start": "09/21/2020",
@@ -16682,8 +16682,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Low",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -16808,7 +16808,7 @@
             "course": "MATH F001B03V",
             "CRN": "20769",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "01:30 PM-03:45 PM",
             "start": "09/21/2020",
@@ -16817,8 +16817,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nghiem",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -17147,7 +17147,7 @@
             "units": "5.00",
             "instructor": "Morriss",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -17175,7 +17175,7 @@
             "course": "MATH F010.04W",
             "CRN": "20776",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -17184,7 +17184,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17382,7 +17382,7 @@
             "course": "MATH F010.14W",
             "CRN": "20790",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -17391,8 +17391,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -17790,7 +17790,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cembellin",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20142,7 +20142,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Cembellin",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23554,7 +23554,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gerry",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23573,7 +23573,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23606,7 +23606,7 @@
             "course": "PSYC F007.01Z",
             "CRN": "20241",
             "desc": "STATISTICS FOR BEHAV SCIENCES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "10:00 AM-11:00 AM",
             "start": "09/21/2020",
@@ -23615,15 +23615,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rideaux",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
             "course": "PSYC F007.01Z",
             "CRN": "20241",
             "desc": "STATISTICS FOR BEHAV SCIENCES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -23632,8 +23632,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rideaux",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -23913,7 +23913,7 @@
             "units": "5.00",
             "instructor": "Tuttle",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ],
