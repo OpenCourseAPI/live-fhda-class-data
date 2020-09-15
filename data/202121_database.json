@@ -8460,7 +8460,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "3",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -9266,7 +9266,7 @@
             "course": "COMM F001A01Z",
             "CRN": "20047",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "08:00 AM-09:50 AM",
             "start": "09/21/2020",
@@ -9275,7 +9275,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "10"
           },
@@ -9283,7 +9283,7 @@
             "course": "COMM F001A01Z",
             "CRN": "20047",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -9292,7 +9292,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "10"
           }
@@ -9517,7 +9517,7 @@
             "units": "5.00",
             "instructor": "Firenzi",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -13755,7 +13755,7 @@
             "course": "GID F033.01W",
             "CRN": "20229",
             "desc": "GRAPHIC DESIGN STUDIO I",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13764,9 +13764,9 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ],
         "21009": [
@@ -13793,7 +13793,7 @@
             "course": "GID F033.03W",
             "CRN": "21406",
             "desc": "GRAPHIC DESIGN STUDIO I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13802,9 +13802,9 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "0",
-            "wait_seats": "2",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-8",
+            "wait_cap": "0"
           }
         ],
         "21820": [
@@ -13963,8 +13963,8 @@
             "units": "4.00",
             "instructor": "Brown",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ]
       },
@@ -14439,7 +14439,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ziegenhorn",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "20",
             "wait_cap": "20"
           }
