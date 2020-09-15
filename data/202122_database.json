@@ -2232,7 +2232,7 @@
             "course": "ARTS D002B50Z",
             "CRN": "00121",
             "desc": "HIST OF ART/EUROPE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -2241,7 +2241,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mjelde",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "11",
             "wait_cap": "15"
           }
@@ -8441,7 +8441,7 @@
             "course": "C D D059G50Z",
             "CRN": "00353",
             "desc": "SUP/ADM CHLD DEVEL/MGMT SYSTMS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -8450,7 +8450,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roy",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "10"
           }
@@ -15095,8 +15095,8 @@
             "CRN": "25996",
             "desc": "CREO PARAMETRIC (INTRODUCTION)",
             "status": "Open",
-            "days": "Th",
-            "time": "05:30 PM-09:20 PM",
+            "days": "T",
+            "time": "05:30 PM-07:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -15129,8 +15129,8 @@
             "CRN": "25996",
             "desc": "CREO PARAMETRIC (INTRODUCTION)",
             "status": "Open",
-            "days": "T",
-            "time": "05:30 PM-07:20 PM",
+            "days": "Th",
+            "time": "05:30 PM-09:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -15527,8 +15527,8 @@
             "CRN": "23498",
             "desc": "INTRO TO MACHINING AND CNC",
             "status": "Open",
-            "days": "MW",
-            "time": "11:00 AM-11:50 AM",
+            "days": "TTh",
+            "time": "08:00 AM-12:50 PM",
             "start": "09/21/2020",
             "end": "11/01/2020",
             "room": "ONLINE",
@@ -15544,8 +15544,8 @@
             "CRN": "23498",
             "desc": "INTRO TO MACHINING AND CNC",
             "status": "Open",
-            "days": "TTh",
-            "time": "08:00 AM-12:50 PM",
+            "days": "MW",
+            "time": "11:00 AM-11:50 AM",
             "start": "09/21/2020",
             "end": "11/01/2020",
             "room": "ONLINE",
@@ -15563,8 +15563,8 @@
             "CRN": "23499",
             "desc": "INTRO TO MACHINING AND CNC",
             "status": "Open",
-            "days": "W",
-            "time": "05:30 PM-10:20 PM",
+            "days": "M",
+            "time": "05:30 PM-08:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -15580,8 +15580,8 @@
             "CRN": "23499",
             "desc": "INTRO TO MACHINING AND CNC",
             "status": "Open",
-            "days": "M",
-            "time": "05:30 PM-08:20 PM",
+            "days": "W",
+            "time": "05:30 PM-10:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -15619,7 +15619,7 @@
             "desc": "INTRO CNC PROG OPS; MILL",
             "status": "Open",
             "days": "MW",
-            "time": "11:00 AM-11:50 AM",
+            "time": "08:00 AM-10:50 AM",
             "start": "11/02/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -15653,7 +15653,7 @@
             "desc": "INTRO CNC PROG OPS; MILL",
             "status": "Open",
             "days": "MW",
-            "time": "08:00 AM-10:50 AM",
+            "time": "11:00 AM-11:50 AM",
             "start": "11/02/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -15661,59 +15661,6 @@
             "units": "5.00",
             "instructor": "Appio",
             "seats": "19",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ],
-        "23493": [
-          {
-            "course": "DMT D084A61Y",
-            "CRN": "23493",
-            "desc": "INTRO CNC PROG OPS; MILL",
-            "status": "Open",
-            "days": "W",
-            "time": "05:30 PM-08:20 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Mori",
-            "seats": "16",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "DMT D084A61Y",
-            "CRN": "23493",
-            "desc": "INTRO CNC PROG OPS; MILL",
-            "status": "Open",
-            "days": "W",
-            "time": "08:30 PM-09:20 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Mori",
-            "seats": "16",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "DMT D084A61Y",
-            "CRN": "23493",
-            "desc": "INTRO CNC PROG OPS; MILL",
-            "status": "Open",
-            "days": "M",
-            "time": "05:30 PM-10:20 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Mori",
-            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15743,8 +15690,8 @@
             "CRN": "23492",
             "desc": "CAD/CAM PROG USING MSTRCAM",
             "status": "Open",
-            "days": "W",
-            "time": "05:30 PM-10:20 PM",
+            "days": "M",
+            "time": "08:30 PM-09:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -15760,8 +15707,8 @@
             "CRN": "23492",
             "desc": "CAD/CAM PROG USING MSTRCAM",
             "status": "Open",
-            "days": "M",
-            "time": "08:30 PM-09:20 PM",
+            "days": "W",
+            "time": "05:30 PM-10:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -17202,7 +17149,7 @@
             "campus": "DO",
             "units": "6.00",
             "instructor": "De Carvalho",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17662,7 +17609,7 @@
             "units": "4.00",
             "instructor": "Palmore",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -17912,7 +17859,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pal",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -24511,7 +24458,7 @@
             "units": "4.00",
             "instructor": "Mujal",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -33487,7 +33434,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kapur",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -36784,7 +36731,7 @@
             "course": "NURS D050.03Z",
             "CRN": "25578",
             "desc": "CAREER OPPRTN/NURSING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "F",
             "time": "03:30 PM-05:20 PM",
             "start": "09/21/2020",
@@ -36794,7 +36741,7 @@
             "units": "2.00",
             "instructor": "Rowe",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ]
@@ -40168,7 +40115,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tarikh",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -40206,7 +40153,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Schendan",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -40765,7 +40712,7 @@
             "units": "4.00",
             "instructor": "McGown",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "8"
           }
         ],
