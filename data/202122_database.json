@@ -5262,7 +5262,7 @@
             "course": "BIOL D010.67Z",
             "CRN": "25379",
             "desc": "INTRO BIOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "01:30 PM-04:20 PM",
             "start": "09/21/2020",
@@ -5271,7 +5271,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Johnson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           },
@@ -5279,7 +5279,7 @@
             "course": "BIOL D010.67Z",
             "CRN": "25379",
             "desc": "INTRO BIOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "11:30 AM-01:20 PM",
             "start": "09/21/2020",
@@ -5288,7 +5288,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Johnson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -41253,25 +41253,6 @@
             "wait_cap": "15"
           }
         ],
-        "26327": [
-          {
-            "course": "SOC D001.15Z",
-            "CRN": "26327",
-            "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "",
-            "campus": "",
-            "units": "4.00",
-            "instructor": "Staff",
-            "seats": "50",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ],
         "02282": [
           {
             "course": "SOC D001.2EZ",
@@ -41324,6 +41305,25 @@
             "instructor": "Tapia",
             "seats": "0",
             "wait_seats": "4",
+            "wait_cap": "15"
+          }
+        ],
+        "26327": [
+          {
+            "course": "SOC D001.51Z",
+            "CRN": "26327",
+            "desc": "INTRO TO SOCIOLOGY",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Dehaan",
+            "seats": "50",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ],
