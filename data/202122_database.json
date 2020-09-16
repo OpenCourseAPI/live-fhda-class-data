@@ -354,7 +354,7 @@
             "course": "ACCT D001A69Z",
             "CRN": "25885",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -364,7 +364,7 @@
             "units": "5.00",
             "instructor": "Mello",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -15762,25 +15762,6 @@
             "course": "E S D001.67Z",
             "CRN": "25406",
             "desc": "INTRO ENVIRON STDS",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Roeder",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "26058": [
-          {
-            "course": "E S D001.68Z",
-            "CRN": "26058",
-            "desc": "INTRO ENVIRON STDS",
             "status": "Open",
             "days": "TBA",
             "time": "TBA",
@@ -15791,6 +15772,25 @@
             "units": "4.00",
             "instructor": "Roeder",
             "seats": "1",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ],
+        "26058": [
+          {
+            "course": "E S D001.68Z",
+            "CRN": "26058",
+            "desc": "INTRO ENVIRON STDS",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Roeder",
+            "seats": "0",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -32772,7 +32772,7 @@
             "units": "5.00",
             "instructor": "Yayli",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -37439,7 +37439,7 @@
             "course": "P E D032K02Z",
             "CRN": "25920",
             "desc": "BASKETBALL TECHNIQUES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -37448,7 +37448,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Allen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -37490,7 +37490,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Johnson",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -41473,7 +41473,7 @@
             "units": "4.00",
             "instructor": "Pasion",
             "seats": "1",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ],
