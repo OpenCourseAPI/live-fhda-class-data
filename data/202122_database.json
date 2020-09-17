@@ -1384,7 +1384,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Suits",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1598,7 +1598,7 @@
             "course": "ANTH D001.56Z",
             "CRN": "00083",
             "desc": "PHYS ANTHRO",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -1607,7 +1607,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Beggs",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "2"
           }
@@ -1627,7 +1627,7 @@
             "units": "4.00",
             "instructor": "Hui",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -2152,7 +2152,7 @@
             "course": "ARTS D001A69Z",
             "CRN": "26225",
             "desc": "INTRO TO VISUAL ARTS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -2161,7 +2161,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Karmi",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -6881,7 +6881,7 @@
             "course": "BUS D010.13Z",
             "CRN": "00288",
             "desc": "INTRO TO BUSINESS",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "11:30 AM-12:45 PM",
             "start": "09/21/2020",
@@ -6890,15 +6890,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fritz",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           },
           {
             "course": "BUS D010.13Z",
             "CRN": "00288",
             "desc": "INTRO TO BUSINESS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -6907,9 +6907,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fritz",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ],
         "00287": [
@@ -7639,7 +7639,7 @@
             "course": "BUS D065.62Z",
             "CRN": "21638",
             "desc": "LEADERSHIP",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -7648,7 +7648,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fritz",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -7841,7 +7841,7 @@
             "course": "BUS D096.62Z",
             "CRN": "20989",
             "desc": "PRINC OF MANAGEMENT",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -7850,9 +7850,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fritz",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ]
       }
@@ -9631,7 +9631,7 @@
             "course": "CHEM D025.04Z",
             "CRN": "23016",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "08:30 AM-10:20 AM",
             "start": "09/21/2020",
@@ -9641,14 +9641,14 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D025.04Z",
             "CRN": "23016",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "Th",
             "time": "11:30 AM-12:20 PM",
             "start": "09/21/2020",
@@ -9658,14 +9658,14 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D025.04Z",
             "CRN": "23016",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -9675,7 +9675,7 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -10271,7 +10271,7 @@
             "units": "4.50",
             "instructor": "Dundurs",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -17572,7 +17572,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pal",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -22451,7 +22451,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wright",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -23538,7 +23538,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ahrends",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -23660,7 +23660,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ramsey",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -29588,7 +29588,7 @@
             "units": "1.00",
             "instructor": "Owiesny",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -31049,7 +31049,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Njinimbam",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33873,7 +33873,7 @@
             "units": "5.00",
             "instructor": "Lien",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -33891,7 +33891,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lo",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34448,7 +34448,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guerrero",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -34465,7 +34465,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guerrero",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "6",
             "wait_cap": "6"
           }

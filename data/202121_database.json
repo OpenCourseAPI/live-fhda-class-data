@@ -3725,7 +3725,7 @@
             "course": "ASTR F010B02V",
             "CRN": "20017",
             "desc": "GEN ASTRONOMY:STARS, GALXIES,",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:00 PM-03:15 PM",
             "start": "09/21/2020",
@@ -3735,7 +3735,7 @@
             "units": "5.00",
             "instructor": "Mathews",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -4721,7 +4721,7 @@
             "units": "5.00",
             "instructor": "Prusa",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "12"
           },
           {
@@ -4738,7 +4738,7 @@
             "units": "5.00",
             "instructor": "Poffenroth",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "12"
           }
         ]
@@ -5547,7 +5547,7 @@
             "course": "BIOL F041.03V",
             "CRN": "20029",
             "desc": "MICROBIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "09:00 AM-11:50 AM",
             "start": "09/21/2020",
@@ -5557,12 +5557,31 @@
             "units": "6.00",
             "instructor": "Cooper",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "BIOL F041.03V",
             "CRN": "20029",
+            "desc": "MICROBIOLOGY",
+            "status": "Full",
+            "days": "TTh",
+            "time": "12:00 PM-01:50 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Folse",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "5"
+          }
+        ],
+        "20197": [
+          {
+            "course": "BIOL F041.04V",
+            "CRN": "20197",
             "desc": "MICROBIOLOGY",
             "status": "Waitlist",
             "days": "TTh",
@@ -5576,31 +5595,12 @@
             "seats": "0",
             "wait_seats": "1",
             "wait_cap": "5"
-          }
-        ],
-        "20197": [
-          {
-            "course": "BIOL F041.04V",
-            "CRN": "20197",
-            "desc": "MICROBIOLOGY",
-            "status": "Full",
-            "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Folse",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "5"
           },
           {
             "course": "BIOL F041.04V",
             "CRN": "20197",
             "desc": "MICROBIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "02:00 PM-04:50 PM",
             "start": "09/21/2020",
@@ -5610,7 +5610,7 @@
             "units": "6.00",
             "instructor": "Cooper",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -13469,7 +13469,7 @@
             "course": "GEOG F001.02W",
             "CRN": "20648",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13478,7 +13478,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Aguilar",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14255,7 +14255,7 @@
             "course": "HIST F017A03W",
             "CRN": "20638",
             "desc": "HISTORY OF US TO 1815",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -14264,7 +14264,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Bush",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15473,7 +15473,7 @@
             "units": "5.00",
             "instructor": "Rakow",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "12",
             "wait_cap": "25"
           }
         ],
@@ -15491,7 +15491,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rakow",
-            "seats": "32",
+            "seats": "29",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -16607,7 +16607,7 @@
             "units": "5.00",
             "instructor": "Uilecan",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -16740,7 +16740,7 @@
             "units": "5.00",
             "instructor": "Lam",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -16758,7 +16758,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lam",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
           }
