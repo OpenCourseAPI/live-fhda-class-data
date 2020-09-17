@@ -894,26 +894,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Butler",
-            "seats": "2",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ],
-        "20902": [
-          {
-            "course": "ACTG F076.04W",
-            "CRN": "20902",
-            "desc": "ETHICS IN ACCOUNTING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "11/02/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "5.00",
-            "instructor": "Mendizabal",
-            "seats": "30",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2883,7 +2864,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Price",
-            "seats": "20",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3040,7 +3021,7 @@
             "course": "ART F001.01W",
             "CRN": "20161",
             "desc": "INTRODUCTION TO ART",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -3049,7 +3030,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Reid",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "10"
           }
@@ -3217,7 +3198,7 @@
             "course": "ART F004A03Z",
             "CRN": "20702",
             "desc": "FUNDAMENTALS IN DRAWING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -3227,14 +3208,14 @@
             "units": "4.00",
             "instructor": "Levitch",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "ART F004A03Z",
             "CRN": "20702",
             "desc": "FUNDAMENTALS IN DRAWING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "S",
             "time": "09:00 AM-10:50 AM",
             "start": "09/21/2020",
@@ -3244,7 +3225,7 @@
             "units": "4.00",
             "instructor": "Levitch",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -8496,7 +8477,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Carducci",
-            "seats": "43",
+            "seats": "42",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -12847,7 +12828,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Finnegan",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13765,7 +13746,7 @@
             "units": "4.00",
             "instructor": "Fong",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -15412,7 +15393,7 @@
             "units": "5.00",
             "instructor": "Rakow",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ],
@@ -15492,8 +15473,27 @@
             "units": "5.00",
             "instructor": "Rakow",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "25"
+          }
+        ],
+        "22083": [
+          {
+            "course": "JAPN F004.02W",
+            "CRN": "22083",
+            "desc": "INTERMEDIATE JAPANESE I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Rakow",
+            "seats": "34",
+            "wait_seats": "15",
+            "wait_cap": "15"
           }
         ]
       },
@@ -15503,7 +15503,7 @@
             "course": "JAPN F013A1QZ",
             "CRN": "21024",
             "desc": "INTERMED CONVERSATION I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "12:00 PM-12:50 PM",
             "start": "09/21/2020",
@@ -15513,14 +15513,14 @@
             "units": "4.00",
             "instructor": "Yasutake",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "JAPN F013A1QZ",
             "CRN": "21024",
             "desc": "INTERMED CONVERSATION I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -15530,7 +15530,7 @@
             "units": "4.00",
             "instructor": "Yasutake",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -21313,7 +21313,7 @@
             "course": "PHED F027A02W",
             "CRN": "20657",
             "desc": "RUN FOR FITNESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -21322,7 +21322,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -25950,7 +25950,7 @@
             "units": "4.00",
             "instructor": "Gough",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -26033,7 +26033,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gough",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -26050,7 +26050,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gough",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           }
