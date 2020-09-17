@@ -354,7 +354,7 @@
             "course": "ACCT D001A69Z",
             "CRN": "25885",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -364,7 +364,7 @@
             "units": "5.00",
             "instructor": "Mello",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -688,7 +688,7 @@
             "course": "ACCT D001B62Z",
             "CRN": "22465",
             "desc": "FINAN ACCOUNTG II",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -697,9 +697,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Botsford",
-            "seats": "0",
-            "wait_seats": "2",
-            "wait_cap": "10"
+            "seats": "15",
+            "wait_seats": "-8",
+            "wait_cap": "0"
           }
         ],
         "25901": [
@@ -1123,7 +1123,7 @@
             "course": "ACCT D067.62Z",
             "CRN": "24722",
             "desc": "INDIVIDUAL INCOME TAXATION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -1132,9 +1132,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Botsford",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "10"
+            "seats": "15",
+            "wait_seats": "-7",
+            "wait_cap": "0"
           }
         ]
       },
@@ -1804,7 +1804,7 @@
             "units": "4.00",
             "instructor": "Olsen",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -2305,7 +2305,7 @@
             "units": "4.00",
             "instructor": "Cole",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ],
@@ -12408,7 +12408,7 @@
             "course": "CIS D21JA62Z",
             "CRN": "22853",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Full",
+            "status": "Open",
             "days": "W",
             "time": "09:30 AM-10:20 AM",
             "start": "09/21/2020",
@@ -12417,7 +12417,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "-1",
             "wait_cap": "0"
           },
@@ -12425,7 +12425,7 @@
             "course": "CIS D21JA62Z",
             "CRN": "22853",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -12434,7 +12434,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "-1",
             "wait_cap": "0"
           },
@@ -12442,7 +12442,7 @@
             "course": "CIS D21JA62Z",
             "CRN": "22853",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -12451,7 +12451,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "-1",
             "wait_cap": "0"
           }
@@ -14080,7 +14080,7 @@
             "course": "COMM D010.08Z",
             "CRN": "24384",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "12:30 PM-02:20 PM",
             "start": "09/21/2020",
@@ -14089,7 +14089,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cano",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           },
@@ -14097,7 +14097,7 @@
             "course": "COMM D010.08Z",
             "CRN": "24384",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -14106,7 +14106,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cano",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           }
@@ -34390,7 +34390,7 @@
             "units": "5.00",
             "instructor": "Rudolf",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ]
@@ -40536,7 +40536,7 @@
             "course": "REST D050.62Z",
             "CRN": "02243",
             "desc": "REAL ESTATE PRINCIPLES",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -40545,7 +40545,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Park",
-            "seats": "0",
+            "seats": "5",
             "wait_seats": "-1",
             "wait_cap": "0"
           }
