@@ -223,7 +223,7 @@
             "course": "ACCT D001A07Z",
             "CRN": "25923",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -232,15 +232,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Claire",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           },
           {
             "course": "ACCT D001A07Z",
             "CRN": "25923",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "09:30 AM-10:20 AM",
             "start": "09/21/2020",
@@ -249,9 +249,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Claire",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ],
         "23871": [
@@ -259,7 +259,7 @@
             "course": "ACCT D001A62Z",
             "CRN": "23871",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -268,9 +268,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Jeanpierre",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "00022": [
@@ -965,7 +965,7 @@
             "course": "ACCT D001C62Z",
             "CRN": "00041",
             "desc": "MANAG ACCOUNTG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -974,9 +974,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Osborne",
-            "seats": "0",
-            "wait_seats": "2",
-            "wait_cap": "10"
+            "seats": "8",
+            "wait_seats": "-8",
+            "wait_cap": "0"
           }
         ],
         "25916": [
@@ -984,7 +984,7 @@
             "course": "ACCT D001C65Z",
             "CRN": "25916",
             "desc": "MANAG ACCOUNTG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -993,9 +993,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Osborne",
-            "seats": "0",
-            "wait_seats": "8",
-            "wait_cap": "10"
+            "seats": "2",
+            "wait_seats": "-2",
+            "wait_cap": "0"
           }
         ],
         "26272": [
@@ -1804,7 +1804,7 @@
             "units": "4.00",
             "instructor": "Olsen",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -7536,7 +7536,7 @@
             "course": "BUS D056.65Z",
             "CRN": "00311",
             "desc": "HUMAN RELATNS IN THE WRKPLACE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -7545,9 +7545,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yurtseven",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-4",
+            "wait_cap": "5"
           }
         ]
       },
@@ -7599,7 +7599,7 @@
             "course": "BUS D060.62Z",
             "CRN": "25458",
             "desc": "INTERNATL BUSINESS MANAGEMENT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -7608,9 +7608,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yurtseven",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "5"
           }
         ],
         "25880": [
@@ -10773,7 +10773,7 @@
             "course": "CIS D022A72Z",
             "CRN": "21713",
             "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -10782,9 +10782,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-9",
+            "wait_cap": "0"
           }
         ]
       },
@@ -12320,9 +12320,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Fisk",
-            "seats": "1",
-            "wait_seats": "5",
-            "wait_cap": "10"
+            "seats": "11",
+            "wait_seats": "-5",
+            "wait_cap": "0"
           }
         ]
       },
@@ -15807,7 +15807,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Poffenroth",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -18141,7 +18141,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Marin",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23592,7 +23592,7 @@
             "course": "HIST D003A62Z",
             "CRN": "25284",
             "desc": "WORLD HIST FROM PREHIST-750CE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -23601,7 +23601,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ramsey",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "7"
           }
@@ -24382,7 +24382,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Sherlekar",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -39159,7 +39159,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Schendan",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -39188,7 +39188,7 @@
             "course": "POLI D001.5EZ",
             "CRN": "24132",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -39197,7 +39197,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -40869,7 +40869,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dehaan",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -40889,7 +40889,7 @@
             "units": "4.00",
             "instructor": "Pasion",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ],
