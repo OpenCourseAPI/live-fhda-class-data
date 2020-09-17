@@ -662,7 +662,7 @@
             "course": "ACTG F067.01W",
             "CRN": "20354",
             "desc": "TAX ACCOUNTING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -671,7 +671,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Van Hulsen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "15"
           }
@@ -5952,7 +5952,7 @@
             "course": "BUSI F022.02W",
             "CRN": "20312",
             "desc": "PRINCIPLES OF BUSINESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -5961,7 +5961,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nava",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "17",
             "wait_cap": "20"
           }
@@ -6590,7 +6590,7 @@
             "course": "C S F002A04W",
             "CRN": "20325",
             "desc": "OBJ-ORIENT PROG METHOD IN C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -6599,7 +6599,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Pham",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -13955,7 +13955,7 @@
             "course": "GID F055.01W",
             "CRN": "21669",
             "desc": "USER EXPRNCE (UI/UX) DESIGN",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13964,9 +13964,9 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-9",
+            "wait_cap": "0"
           }
         ],
         "21670": [
@@ -13974,7 +13974,7 @@
             "course": "GID F055.02W",
             "CRN": "21670",
             "desc": "USER EXPRNCE (UI/UX) DESIGN",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13983,9 +13983,9 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-7",
+            "wait_cap": "0"
           }
         ]
       },
@@ -16711,7 +16711,7 @@
             "course": "MATH F001A07W",
             "CRN": "20305",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -16721,7 +16721,7 @@
             "units": "5.00",
             "instructor": "Williams",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
