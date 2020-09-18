@@ -2181,7 +2181,7 @@
             "units": "4.00",
             "instructor": "Becerril",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -8559,7 +8559,7 @@
             "course": "CHEM D001A03Z",
             "CRN": "21576",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "09:30 AM-10:45 AM",
             "start": "09/21/2020",
@@ -8568,7 +8568,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Muzzi",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -8576,7 +8576,7 @@
             "course": "CHEM D001A03Z",
             "CRN": "21576",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "11:30 AM-12:45 PM",
             "start": "09/21/2020",
@@ -8585,7 +8585,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Muzzi",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -8593,7 +8593,7 @@
             "course": "CHEM D001A03Z",
             "CRN": "21576",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -8602,7 +8602,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Muzzi",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -10377,7 +10377,7 @@
             "course": "CIS D022A03Z",
             "CRN": "21714",
             "desc": "BEG PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -10386,15 +10386,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022A03Z",
             "CRN": "21714",
             "desc": "BEG PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "11:30 AM-12:20 PM",
             "start": "09/21/2020",
@@ -10403,9 +10403,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ],
         "21715": [
@@ -10883,7 +10883,7 @@
             "course": "CIS D022B03Z",
             "CRN": "22325",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -10892,15 +10892,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-14",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022B03Z",
             "CRN": "22325",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "09:30 AM-10:20 AM",
             "start": "09/21/2020",
@@ -10909,9 +10909,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-14",
+            "wait_cap": "0"
           }
         ],
         "22583": [
@@ -20838,7 +20838,7 @@
             "units": "5.00",
             "instructor": "Swensson",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ],
@@ -39103,7 +39103,7 @@
             "units": "5.00",
             "instructor": "Chin",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
