@@ -7183,7 +7183,7 @@
             "units": "5.00",
             "instructor": "Fritz",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -10521,7 +10521,7 @@
             "course": "CIS D022A07Z",
             "CRN": "22329",
             "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "T",
             "time": "03:30 PM-04:20 PM",
             "start": "09/21/2020",
@@ -10530,15 +10530,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "2",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-13",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022A07Z",
             "CRN": "22329",
             "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -10547,15 +10547,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "2",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-13",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022A07Z",
             "CRN": "22329",
             "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -10564,9 +10564,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "2",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-13",
+            "wait_cap": "0"
           }
         ],
         "22569": [
@@ -10919,7 +10919,7 @@
             "course": "CIS D022B04Z",
             "CRN": "22583",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "11:30 AM-12:20 PM",
             "start": "09/21/2020",
@@ -10928,15 +10928,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022B04Z",
             "CRN": "22583",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -10945,15 +10945,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022B04Z",
             "CRN": "22583",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -10962,9 +10962,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ],
         "21719": [
@@ -11065,7 +11065,7 @@
             "course": "CIS D022C01Z",
             "CRN": "22327",
             "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -11074,15 +11074,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022C01Z",
             "CRN": "22327",
             "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Full",
+            "status": "Open",
             "days": "Th",
             "time": "11:30 AM-12:20 PM",
             "start": "09/21/2020",
@@ -11091,9 +11091,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ],
         "26232": [
@@ -12173,7 +12173,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Slate",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -39036,7 +39036,7 @@
             "course": "POLI D001.2EZ",
             "CRN": "24125",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -39046,7 +39046,7 @@
             "units": "5.00",
             "instructor": "Stockwell",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -39367,7 +39367,7 @@
             "course": "POLI D005.50Z",
             "CRN": "23482",
             "desc": "INTRO POLTCAL THOUGHT & THEORY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -39376,7 +39376,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Schendan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           }
