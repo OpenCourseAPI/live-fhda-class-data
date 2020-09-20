@@ -1813,25 +1813,6 @@
             "course": "ANTH D002.51Z",
             "CRN": "00089",
             "desc": "CULTURAL ANTHROPOLOGY",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Solomon",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "2"
-          }
-        ],
-        "25306": [
-          {
-            "course": "ANTH D002.52Z",
-            "CRN": "25306",
-            "desc": "CULTURAL ANTHROPOLOGY",
             "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
@@ -1843,6 +1824,25 @@
             "instructor": "Solomon",
             "seats": "0",
             "wait_seats": "1",
+            "wait_cap": "2"
+          }
+        ],
+        "25306": [
+          {
+            "course": "ANTH D002.52Z",
+            "CRN": "25306",
+            "desc": "CULTURAL ANTHROPOLOGY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Solomon",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "2"
           }
         ],
@@ -2440,7 +2440,7 @@
             "units": "4.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ],
@@ -9684,7 +9684,7 @@
             "course": "CHEM D025.05Z",
             "CRN": "23020",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "09/21/2020",
@@ -9694,14 +9694,14 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D025.05Z",
             "CRN": "23020",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "T",
             "time": "07:30 PM-08:45 PM",
             "start": "09/21/2020",
@@ -9711,14 +9711,14 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D025.05Z",
             "CRN": "23020",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -9728,7 +9728,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -11589,7 +11589,7 @@
             "units": "4.50",
             "instructor": "Bates",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "15"
           },
           {
@@ -11606,7 +11606,7 @@
             "units": "4.50",
             "instructor": "Bates",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "15"
           }
         ]
@@ -11942,7 +11942,7 @@
             "units": "4.50",
             "instructor": "Goel",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "15"
           },
           {
@@ -11959,7 +11959,7 @@
             "units": "4.50",
             "instructor": "Goel",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "15"
           },
           {
@@ -11976,7 +11976,7 @@
             "units": "4.50",
             "instructor": "Goel",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -14152,7 +14152,7 @@
             "course": "COMM D010.10Z",
             "CRN": "24386",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "01:30 PM-03:20 PM",
             "start": "09/21/2020",
@@ -14161,7 +14161,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lee",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           },
@@ -14169,7 +14169,7 @@
             "course": "COMM D010.10Z",
             "CRN": "24386",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -14178,7 +14178,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lee",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           }
@@ -16294,7 +16294,7 @@
             "course": "ECON D001.54Z",
             "CRN": "00644",
             "desc": "PRIN MACROECONOMICS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -16303,7 +16303,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Malek",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "2"
           }
@@ -20439,7 +20439,7 @@
             "units": "5.00",
             "instructor": "Roscher",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -27698,7 +27698,7 @@
             "course": "ITAL D001.01Z",
             "CRN": "24934",
             "desc": "ELEM ITALIAN (1ST QTR)",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "06:30 PM-07:50 PM",
             "start": "09/21/2020",
@@ -27707,7 +27707,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ferrara",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "21",
             "wait_cap": "25"
           },
@@ -27715,7 +27715,7 @@
             "course": "ITAL D001.01Z",
             "CRN": "24934",
             "desc": "ELEM ITALIAN (1ST QTR)",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -27724,7 +27724,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ferrara",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "21",
             "wait_cap": "25"
           }
@@ -31469,7 +31469,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ison",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -31486,7 +31486,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ison",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34448,7 +34448,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guerrero",
-            "seats": "6",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -34465,7 +34465,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guerrero",
-            "seats": "6",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -38222,7 +38222,7 @@
             "units": "4.00",
             "instructor": "Mattick",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -39325,7 +39325,7 @@
             "course": "POLI D002.50Z",
             "CRN": "02108",
             "desc": "COMPARATIVE POLITICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -39334,7 +39334,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Armitage",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "5"
           }
