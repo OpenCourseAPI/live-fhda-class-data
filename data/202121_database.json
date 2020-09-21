@@ -209,7 +209,7 @@
             "units": "5.00",
             "instructor": "Drake",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ],
@@ -249,7 +249,7 @@
             "units": "5.00",
             "instructor": "Benson",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ],
@@ -500,7 +500,7 @@
             "course": "ACTG F060.02W",
             "CRN": "20307",
             "desc": "ACCOUNTING FOR SMALL BUSINESS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -509,8 +509,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ghodrat",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ]
@@ -550,7 +550,7 @@
             "units": "4.00",
             "instructor": "Gopal",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
@@ -691,7 +691,7 @@
             "units": "5.00",
             "instructor": "Novikov",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "15"
           }
         ]
@@ -1129,7 +1129,7 @@
             "units": "4.00",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -3491,7 +3491,7 @@
             "units": "4.00",
             "instructor": "Fong",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -4408,7 +4408,7 @@
             "units": "6.00",
             "instructor": "Schultheis",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "12"
           },
           {
@@ -4425,7 +4425,7 @@
             "units": "6.00",
             "instructor": "Schultheis",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "12"
           }
         ]
@@ -4467,7 +4467,7 @@
             "units": "4.00",
             "instructor": "Schultz",
             "seats": "2",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "12"
           },
           {
@@ -4484,7 +4484,7 @@
             "units": "4.00",
             "instructor": "Schultz",
             "seats": "2",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "12"
           }
         ]
@@ -6389,7 +6389,7 @@
             "units": "4.50",
             "instructor": "Ibrahim",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -6505,7 +6505,7 @@
             "units": "4.50",
             "instructor": "Mazloom",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -6924,7 +6924,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lamble",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7024,7 +7024,7 @@
             "units": "4.50",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -8142,7 +8142,7 @@
             "units": "5.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -10151,7 +10151,7 @@
             "units": "5.00",
             "instructor": "Chan",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "17",
             "wait_cap": "25"
           }
         ]
@@ -13595,7 +13595,7 @@
             "units": "4.00",
             "instructor": "Hansell",
             "seats": "1",
-            "wait_seats": "14",
+            "wait_seats": "15",
             "wait_cap": "20"
           }
         ]
@@ -13774,7 +13774,7 @@
             "course": "GID F033.03W",
             "CRN": "21406",
             "desc": "GRAPHIC DESIGN STUDIO I",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -13783,7 +13783,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -15160,7 +15160,7 @@
             "units": "4.00",
             "instructor": "Vaughan",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ]
@@ -15471,7 +15471,7 @@
             "units": "5.00",
             "instructor": "Rakow",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ]
@@ -15881,7 +15881,24 @@
         ],
         "21638": [
           {
-            "course": "KINS F016B3DW",
+            "course": "KINS F016B3DV",
+            "CRN": "21638",
+            "desc": "EMERGENCY ATHLETIC INJURY CARE",
+            "status": "Full",
+            "days": "TTh",
+            "time": "09:00 AM-10:30 AM",
+            "start": "09/21/2020",
+            "end": "12/18/2020",
+            "room": "FMHS",
+            "campus": "FO",
+            "units": "3.00",
+            "instructor": "Voyce",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "KINS F016B3DV",
             "CRN": "21638",
             "desc": "EMERGENCY ATHLETIC INJURY CARE",
             "status": "Full",
@@ -16856,7 +16873,7 @@
             "units": "5.00",
             "instructor": "Williams",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -17026,7 +17043,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Park Lee",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -17306,7 +17323,7 @@
             "course": "MATH F010.09W",
             "CRN": "20781",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -17315,7 +17332,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sinclair",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -21935,7 +21952,7 @@
             "units": "4.00",
             "instructor": "Jordahl",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ],
@@ -22437,7 +22454,7 @@
             "units": "6.00",
             "instructor": "Parikh",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "10"
           },
           {
@@ -22454,7 +22471,7 @@
             "units": "6.00",
             "instructor": "Cascarano",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "10"
           },
           {
@@ -22471,7 +22488,7 @@
             "units": "6.00",
             "instructor": "Cascarano",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -23692,7 +23709,7 @@
             "units": "4.00",
             "instructor": "Villanueva",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ]
