@@ -1879,7 +1879,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Solomon",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "1",
             "wait_cap": "2"
           }
@@ -8824,7 +8824,7 @@
             "course": "CHEM D001A08Z",
             "CRN": "21581",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "07:30 PM-08:45 PM",
             "start": "09/21/2020",
@@ -8833,7 +8833,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "6"
           },
@@ -8841,7 +8841,7 @@
             "course": "CHEM D001A08Z",
             "CRN": "21581",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "06:00 PM-07:15 PM",
             "start": "09/21/2020",
@@ -8850,7 +8850,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "6"
           },
@@ -8858,7 +8858,7 @@
             "course": "CHEM D001A08Z",
             "CRN": "21581",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -8867,7 +8867,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "6"
           }
@@ -29507,7 +29507,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Landefeld",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -31788,7 +31788,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bourgoub",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -31958,7 +31958,7 @@
             "units": "5.00",
             "instructor": "Sadeghi-Hassanvand",
             "seats": "2",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -38964,6 +38964,25 @@
             "units": "1.00",
             "instructor": "Luna",
             "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "26330": [
+          {
+            "course": "PHYS D077.67R",
+            "CRN": "26330",
+            "desc": "SPEC PROJECTS IN PHYSICS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "1.00",
+            "instructor": "Staff",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
