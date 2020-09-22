@@ -2553,7 +2553,7 @@
             "units": "4.00",
             "instructor": "Connell",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -3050,7 +3050,7 @@
             "units": "4.50",
             "instructor": "Reid",
             "seats": "1",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -3735,7 +3735,7 @@
             "units": "5.00",
             "instructor": "Mathews",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -8536,7 +8536,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -12328,7 +12328,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Treanor",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12578,7 +12578,7 @@
             "units": "5.00",
             "instructor": "Treanor",
             "seats": "1",
-            "wait_seats": "16",
+            "wait_seats": "17",
             "wait_cap": "25"
           }
         ],
@@ -12927,7 +12927,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Menendez",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14533,7 +14533,7 @@
             "course": "HLTH F021.06W",
             "CRN": "20082",
             "desc": "CONTEMPORARY HEALTH CONCERNS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -14542,7 +14542,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Treanor",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -15705,7 +15705,7 @@
             "units": "5.00",
             "instructor": "Ripp",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -15765,7 +15765,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Edwards",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15948,7 +15948,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Bissell",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16141,7 +16141,7 @@
             "campus": "FO",
             "units": "1.00",
             "instructor": "Florendo",
-            "seats": "34",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -16221,7 +16221,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Cavada",
-            "seats": "85",
+            "seats": "86",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -16698,7 +16698,7 @@
             "units": "5.00",
             "instructor": "Low",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -20692,6 +20692,25 @@
             "wait_cap": "10"
           }
         ],
+        "21782": [
+          {
+            "course": "NCP F400A05V",
+            "CRN": "21782",
+            "desc": "STRONG START CHLD I:BRTH-8 YRS",
+            "status": "Open",
+            "days": "T",
+            "time": "06:00 PM-07:50 PM",
+            "start": "09/29/2020",
+            "end": "10/20/2020",
+            "room": "ONLINE",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Galas",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ],
         "21783": [
           {
             "course": "NCP F400A06V",
@@ -20699,13 +20718,13 @@
             "desc": "STRONG START CHLD I:BRTH-8 YRS",
             "status": "Open",
             "days": "T",
-            "time": "08:30 AM-10:20 AM",
-            "start": "10/20/2020",
-            "end": "11/10/2020",
+            "time": "06:00 PM-07:50 PM",
+            "start": "10/27/2020",
+            "end": "11/17/2020",
             "room": "ONLINE",
             "campus": "FO",
             "units": "0.00",
-            "instructor": "Staff",
+            "instructor": "Galas",
             "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -20835,14 +20854,14 @@
             "CRN": "21798",
             "desc": "STRONG START CHLD III:PATH COL",
             "status": "Open",
-            "days": "W",
+            "days": "Th",
             "time": "06:00 PM-07:50 PM",
-            "start": "09/23/2020",
-            "end": "10/14/2020",
+            "start": "10/15/2020",
+            "end": "11/05/2020",
             "room": "ONLINE",
             "campus": "FO",
             "units": "0.00",
-            "instructor": "Staff",
+            "instructor": "Vas Conde",
             "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -20873,63 +20892,6 @@
           {
             "course": "NCP F402A02V",
             "CRN": "21789",
-            "desc": "FAMLY IN LIVES CHLD I:ERLY YRS",
-            "status": "Open",
-            "days": "Th",
-            "time": "06:00 PM-07:50 PM",
-            "start": "10/22/2020",
-            "end": "11/12/2020",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Staff",
-            "seats": "35",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "21791": [
-          {
-            "course": "NCP F402A04V",
-            "CRN": "21791",
-            "desc": "FAMLY IN LIVES CHLD I:ERLY YRS",
-            "status": "Open",
-            "days": "T",
-            "time": "06:00 PM-07:50 PM",
-            "start": "10/20/2020",
-            "end": "11/10/2020",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Staff",
-            "seats": "35",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "21792": [
-          {
-            "course": "NCP F402A05V",
-            "CRN": "21792",
-            "desc": "FAMLY IN LIVES CHLD I:ERLY YRS",
-            "status": "Open",
-            "days": "Th",
-            "time": "06:00 PM-07:50 PM",
-            "start": "09/24/2020",
-            "end": "10/15/2020",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Staff",
-            "seats": "35",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "21793": [
-          {
-            "course": "NCP F402A06V",
-            "CRN": "21793",
             "desc": "FAMLY IN LIVES CHLD I:ERLY YRS",
             "status": "Open",
             "days": "Th",
@@ -21007,7 +20969,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22938,7 +22900,7 @@
             "units": "5.00",
             "instructor": "Callow",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "21"
           }
         ],
@@ -22975,7 +22937,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Woolcock",
-            "seats": "42",
+            "seats": "41",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23560,7 +23522,7 @@
             "course": "PSYC F007.01Z",
             "CRN": "20241",
             "desc": "STATISTICS FOR BEHAV SCIENCES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "10:00 AM-11:00 AM",
             "start": "09/21/2020",
@@ -23569,7 +23531,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rideaux",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "10"
           },
@@ -23577,7 +23539,7 @@
             "course": "PSYC F007.01Z",
             "CRN": "20241",
             "desc": "STATISTICS FOR BEHAV SCIENCES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -23586,7 +23548,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rideaux",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "10"
           }
@@ -25604,7 +25566,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rivera-Montanez",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "23",
             "wait_cap": "25"
           }
