@@ -92,7 +92,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3735,7 +3735,7 @@
             "units": "5.00",
             "instructor": "Mathews",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -12094,8 +12094,8 @@
             "CRN": "20215",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "T",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -12111,8 +12111,8 @@
             "CRN": "20215",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:00 AM-11:50 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -12310,6 +12310,25 @@
             "units": "5.00",
             "instructor": "Escamilla",
             "seats": "0",
+            "wait_seats": "25",
+            "wait_cap": "25"
+          }
+        ],
+        "22086": [
+          {
+            "course": "ENGL F001A49W",
+            "CRN": "22086",
+            "desc": "COMPOSITION & READING",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "10/05/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Treanor",
+            "seats": "30",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13943,7 +13962,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -14274,7 +14293,7 @@
             "course": "HIST F017A03W",
             "CRN": "20638",
             "desc": "HISTORY OF US TO 1815",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -14283,7 +14302,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Bush",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
