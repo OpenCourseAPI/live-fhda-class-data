@@ -349,7 +349,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Fakoor",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "12",
             "wait_cap": "15"
           }
@@ -1431,7 +1431,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Baird",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -3049,8 +3049,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Reid",
-            "seats": "2",
-            "wait_seats": "5",
+            "seats": "1",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -3069,7 +3069,7 @@
             "units": "4.50",
             "instructor": "Reid",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -4622,7 +4622,7 @@
             "course": "BIOL F010.03Z",
             "CRN": "20220",
             "desc": "GEN BIOL-BASIC PRINCPLES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -4631,15 +4631,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Alderkamp",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "12"
           },
           {
             "course": "BIOL F010.03Z",
             "CRN": "20220",
             "desc": "GEN BIOL-BASIC PRINCPLES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "02:00 PM-04:50 PM",
             "start": "09/21/2020",
@@ -4648,8 +4648,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Derugin",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "12"
           }
         ],
@@ -5032,7 +5032,7 @@
             "units": "5.00",
             "instructor": "Alderkamp",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "7"
           },
           {
@@ -5049,7 +5049,7 @@
             "units": "5.00",
             "instructor": "Golubev",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ],
@@ -5494,7 +5494,7 @@
             "course": "BIOL F041.01V",
             "CRN": "20030",
             "desc": "MICROBIOLOGY",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "12:00 PM-01:50 PM",
             "start": "09/21/2020",
@@ -5503,7 +5503,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Gosavi",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           },
@@ -5511,7 +5511,7 @@
             "course": "BIOL F041.01V",
             "CRN": "20030",
             "desc": "MICROBIOLOGY",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "09:00 AM-11:50 AM",
             "start": "09/21/2020",
@@ -5520,7 +5520,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Edwards",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           }
@@ -6314,7 +6314,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Mazloom",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "9",
             "wait_cap": "10"
           },
@@ -6331,7 +6331,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Mazloom",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -6590,7 +6590,7 @@
             "course": "C S F002A04W",
             "CRN": "20325",
             "desc": "OBJ-ORIENT PROG METHOD IN C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -6599,7 +6599,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Pham",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7066,7 +7066,7 @@
             "units": "4.50",
             "instructor": "Meade",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -7445,7 +7445,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "10"
           },
@@ -7462,7 +7462,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "10"
           },
@@ -7479,7 +7479,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -7653,7 +7653,7 @@
             "units": "4.00",
             "instructor": "Painter",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "8"
           }
         ],
@@ -8179,8 +8179,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Miller",
-            "seats": "2",
-            "wait_seats": "6",
+            "seats": "1",
+            "wait_seats": "7",
             "wait_cap": "10"
           },
           {
@@ -8196,8 +8196,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cormia",
-            "seats": "2",
-            "wait_seats": "6",
+            "seats": "1",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -12328,7 +12328,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Treanor",
-            "seats": "22",
+            "seats": "23",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -15155,7 +15155,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kashani",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17751,7 +17751,7 @@
             "units": "5.00",
             "instructor": "Sukumar",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           },
           {
@@ -17768,7 +17768,7 @@
             "units": "5.00",
             "instructor": "Sukumar",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -18221,7 +18221,7 @@
             "units": "2.50",
             "instructor": "Sukumar",
             "seats": "1",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -18238,7 +18238,7 @@
             "units": "2.50",
             "instructor": "Sukumar",
             "seats": "1",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -18474,7 +18474,7 @@
             "course": "MDIA F011.02W",
             "CRN": "20233",
             "desc": "INTRO TO POPULAR CULTURE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -18483,7 +18483,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Thornton",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25104,7 +25104,7 @@
             "course": "SOC F001.05W",
             "CRN": "20881",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -25113,7 +25113,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gibbs Stayte",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "18",
             "wait_cap": "20"
           }
