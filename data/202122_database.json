@@ -2841,7 +2841,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lewycky",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3049,7 +3049,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wagner",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -3066,7 +3066,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wagner",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -15783,7 +15783,7 @@
             "course": "E S D004.62Z",
             "CRN": "26063",
             "desc": "ENERGY, ENVRNMENT, AND SOCIETY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "10/05/2020",
@@ -15792,7 +15792,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "7"
           }
@@ -17205,7 +17205,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Palmore",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -17260,10 +17260,10 @@
             "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Limcolioc",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -31260,6 +31260,42 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "26334": [
+          {
+            "course": "MATH D01AH12Z",
+            "CRN": "26334",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTWTh",
+            "time": "08:30 AM-09:20 AM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Guerrero",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "MATH D01AH12Z",
+            "CRN": "26334",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Guerrero",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "1B": {
@@ -32015,6 +32051,25 @@
             "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
+          }
+        ],
+        "26333": [
+          {
+            "course": "MATH D01DH07Z",
+            "CRN": "26333",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "10:30 AM-11:20 AM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Mailhot",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "26266": [
@@ -32903,8 +32958,8 @@
             "CRN": "20970",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "08:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -32920,8 +32975,8 @@
             "CRN": "20970",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "08:30 AM-10:20 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -32947,7 +33002,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yarahmadi",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -33342,8 +33397,8 @@
             "CRN": "25952",
             "desc": "PRECALCULUS I",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "08:30 AM-09:30 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -33359,8 +33414,8 @@
             "CRN": "25952",
             "desc": "PRECALCULUS I",
             "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "08:30 AM-09:30 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -33378,8 +33433,8 @@
             "CRN": "25954",
             "desc": "PRECALCULUS I",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "09:30 AM-10:20 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -33395,8 +33450,8 @@
             "CRN": "25954",
             "desc": "PRECALCULUS I",
             "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "09:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -33486,8 +33541,8 @@
             "CRN": "25959",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-11:20 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -33503,8 +33558,8 @@
             "CRN": "25959",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -33522,8 +33577,8 @@
             "CRN": "25962",
             "desc": "PRECALCULUS I",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "12:30 PM-01:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -33539,8 +33594,8 @@
             "CRN": "25962",
             "desc": "PRECALCULUS I",
             "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "12:30 PM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -34011,7 +34066,7 @@
             "course": "MATH D043.07Z",
             "CRN": "02527",
             "desc": "PRECALC III: ADVANCED TOPICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:30 PM-03:45 PM",
             "start": "09/21/2020",
@@ -34020,7 +34075,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Njinimbam",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -39024,7 +39079,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -39062,7 +39117,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tarikh",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
