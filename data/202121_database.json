@@ -4951,14 +4951,14 @@
             "CRN": "21146",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Open",
-            "days": "F",
-            "time": "12:30 PM-04:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Bordignon",
+            "instructor": "Lagna",
             "seats": "2",
             "wait_seats": "4",
             "wait_cap": "7"
@@ -4968,14 +4968,14 @@
             "CRN": "21146",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "F",
+            "time": "12:30 PM-04:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Lagna",
+            "instructor": "Bordignon",
             "seats": "2",
             "wait_seats": "4",
             "wait_cap": "7"
@@ -5112,8 +5112,8 @@
             "CRN": "21661",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "05:30 PM-08:20 PM",
             "start": "09/21/2020",
             "end": "11/01/2020",
             "room": "ONLINE",
@@ -5129,42 +5129,6 @@
             "CRN": "21661",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "05:30 PM-08:20 PM",
-            "start": "09/21/2020",
-            "end": "11/01/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Bordignon",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "7"
-          }
-        ],
-        "21662": [
-          {
-            "course": "BIOL F040A11Z",
-            "CRN": "21662",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Waitlist",
-            "days": "TTh",
-            "time": "05:30 PM-08:20 PM",
-            "start": "09/21/2020",
-            "end": "11/01/2020",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Bordignon",
-            "seats": "0",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL F040A11Z",
-            "CRN": "21662",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -5174,7 +5138,7 @@
             "units": "5.00",
             "instructor": "Bordignon",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ]
@@ -6957,7 +6921,7 @@
             "course": "C S F030A01W",
             "CRN": "20327",
             "desc": "INTRODUCTION TO LINUX",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -6966,7 +6930,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -8921,6 +8885,27 @@
           }
         ]
       },
+      "5": {
+        "21622": [
+          {
+            "course": "CNSL F005.01W",
+            "CRN": "21622",
+            "desc": "INTRODUCTION TO COLLEGE",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "11/01/2020",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Thao",
+            "seats": "1",
+            "wait_seats": "13",
+            "wait_cap": "15"
+          }
+        ]
+      },
       "6": {
         "21627": [
           {
@@ -9410,7 +9395,7 @@
             "course": "COMM F001A11W",
             "CRN": "22051",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -9419,7 +9404,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Firenzi",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -18520,7 +18505,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rufeisen",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25114,7 +25099,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Bauermeister",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "19",
             "wait_cap": "20"
           }
