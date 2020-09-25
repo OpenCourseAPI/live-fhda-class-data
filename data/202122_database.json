@@ -1959,7 +1959,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hedges",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -1971,7 +1971,7 @@
             "course": "ANTH D006.50Z",
             "CRN": "02449",
             "desc": "LINGUISTIC ANTHROPOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -1980,7 +1980,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Das",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "2"
           }
@@ -2784,7 +2784,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lewycky",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8704,7 +8704,7 @@
             "course": "CHEM D001B01Z",
             "CRN": "21582",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MWF",
             "time": "09:30 AM-10:20 AM",
             "start": "09/21/2020",
@@ -8713,15 +8713,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Deming",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001B01Z",
             "CRN": "21582",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:30 PM-02:20 PM",
             "start": "09/21/2020",
@@ -8730,15 +8730,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Deming",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001B01Z",
             "CRN": "21582",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -8747,8 +8747,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Deming",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -9802,7 +9802,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mar",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "6"
           },
@@ -9819,7 +9819,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Snelling",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "6"
           },
@@ -9836,7 +9836,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mar",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "6"
           },
@@ -9853,7 +9853,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Snelling",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "6"
           }
@@ -11413,7 +11413,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Bates",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "12",
             "wait_cap": "15"
           },
@@ -11430,7 +11430,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Bates",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "12",
             "wait_cap": "15"
           }
@@ -34842,7 +34842,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Thomsen",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -34859,7 +34859,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Thomsen",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -39080,6 +39080,25 @@
             "seats": "8",
             "wait_seats": "7",
             "wait_cap": "7"
+          }
+        ],
+        "26335": [
+          {
+            "course": "POLI D001.70Z",
+            "CRN": "26335",
+            "desc": "AMERICAN GOVT & POLITICS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "11/02/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Schendan",
+            "seats": "50",
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
