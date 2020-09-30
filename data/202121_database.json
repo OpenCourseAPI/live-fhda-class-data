@@ -2098,6 +2098,25 @@
         ]
       },
       "462Y": {
+        "22130": [
+          {
+            "course": "ALCB F462Y01V",
+            "CRN": "22130",
+            "desc": "VERBAL EXPRESSION",
+            "status": "Open",
+            "days": "M",
+            "time": "01:30 PM-03:20 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Moomey",
+            "seats": "35",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "20505": [
           {
             "course": "ALCB F462Y06V",
@@ -2210,25 +2229,6 @@
             "units": "0.00",
             "instructor": "Henkin-Haas",
             "seats": "14",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "20711": [
-          {
-            "course": "ALCB F463Y04V",
-            "CRN": "20711",
-            "desc": "CREATIVE WRITING",
-            "status": "Open",
-            "days": "M",
-            "time": "01:30 PM-03:20 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Moomey",
-            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2535,7 +2535,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jenkins",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3866,7 +3866,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Edwards",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6930,7 +6930,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -8521,7 +8521,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Carducci",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8641,7 +8641,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dave",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14077,7 +14077,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "-1",
             "wait_cap": "0"
           }
@@ -17234,7 +17234,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryker",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -17728,7 +17728,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Knobel",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21689,7 +21689,7 @@
             "course": "PHIL F004.04W",
             "CRN": "21440",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "11/02/2020",
@@ -21698,8 +21698,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hoekenga",
-            "seats": "1",
-            "wait_seats": "14",
+            "seats": "0",
+            "wait_seats": "15",
             "wait_cap": "20"
           }
         ]
@@ -22376,7 +22376,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Marasco",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23747,7 +23747,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Paulos",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25795,7 +25795,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Leon Coffin",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "23",
             "wait_cap": "25"
           }
