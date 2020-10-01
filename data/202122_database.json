@@ -3390,7 +3390,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cichanski",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "4",
             "wait_cap": "6"
           }
@@ -9265,7 +9265,7 @@
             "desc": "ORGANIC CHEMISTRY",
             "status": "Waitlist",
             "days": "TTh",
-            "time": "09:00 AM-10:15 AM",
+            "time": "10:30 AM-11:45 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -9282,7 +9282,7 @@
             "desc": "ORGANIC CHEMISTRY",
             "status": "Waitlist",
             "days": "TTh",
-            "time": "10:30 AM-11:45 AM",
+            "time": "09:00 AM-10:15 AM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -9637,8 +9637,8 @@
             "CRN": "23023",
             "desc": "PREP FOR GENERAL CHEMISTRY",
             "status": "Open",
-            "days": "TTh",
-            "time": "05:30 PM-07:20 PM",
+            "days": "Th",
+            "time": "07:30 PM-08:45 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -9654,8 +9654,8 @@
             "CRN": "23023",
             "desc": "PREP FOR GENERAL CHEMISTRY",
             "status": "Open",
-            "days": "Th",
-            "time": "07:30 PM-08:45 PM",
+            "days": "TTh",
+            "time": "05:30 PM-07:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -9885,6 +9885,23 @@
             "CRN": "23677",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
             "status": "Waitlist",
+            "days": "Th",
+            "time": "07:30 PM-08:20 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Snelling",
+            "seats": "0",
+            "wait_seats": "5",
+            "wait_cap": "6"
+          },
+          {
+            "course": "CHEM D030A04Z",
+            "CRN": "23677",
+            "desc": "INTRO GEN, ORG AND BIOCHEM I",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/21/2020",
@@ -9910,23 +9927,6 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mar",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D030A04Z",
-            "CRN": "23677",
-            "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Waitlist",
-            "days": "Th",
-            "time": "07:30 PM-08:20 PM",
-            "start": "09/21/2020",
-            "end": "12/11/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Snelling",
             "seats": "0",
             "wait_seats": "5",
             "wait_cap": "6"
@@ -10016,8 +10016,8 @@
             "CRN": "26338",
             "desc": "SPEC PROJ IN CHEMISTRY",
             "status": "Open",
-            "days": "M",
-            "time": "02:30 PM-04:20 PM",
+            "days": "F",
+            "time": "12:30 PM-01:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -10033,8 +10033,8 @@
             "CRN": "26338",
             "desc": "SPEC PROJ IN CHEMISTRY",
             "status": "Open",
-            "days": "F",
-            "time": "12:30 PM-01:20 PM",
+            "days": "M",
+            "time": "02:30 PM-04:20 PM",
             "start": "09/21/2020",
             "end": "12/11/2020",
             "room": "ONLINE",
@@ -10063,6 +10063,59 @@
             "units": "2.00",
             "instructor": "Staff",
             "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "26341": [
+          {
+            "course": "CHEM D077X66R",
+            "CRN": "26341",
+            "desc": "SPEC PROJ IN CHEMISTRY",
+            "status": "Open",
+            "days": "M",
+            "time": "02:20 PM-04:20 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "2.00",
+            "instructor": "Staff",
+            "seats": "1",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "CHEM D077X66R",
+            "CRN": "26341",
+            "desc": "SPEC PROJ IN CHEMISTRY",
+            "status": "Open",
+            "days": "F",
+            "time": "12:30 PM-01:20 PM",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "2.00",
+            "instructor": "Staff",
+            "seats": "1",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "CHEM D077X66R",
+            "CRN": "26341",
+            "desc": "SPEC PROJ IN CHEMISTRY",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/21/2020",
+            "end": "12/11/2020",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "2.00",
+            "instructor": "Staff",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -11841,7 +11894,7 @@
             "units": "4.50",
             "instructor": "Larkin",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "13",
             "wait_cap": "15"
           },
           {
@@ -11858,7 +11911,7 @@
             "units": "4.50",
             "instructor": "Larkin",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -11878,7 +11931,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Goel",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11895,7 +11948,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Goel",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -20392,7 +20445,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Quinn",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -29303,7 +29356,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Mattis",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -34284,7 +34337,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chadda",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
