@@ -24650,7 +24650,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Press",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24690,7 +24690,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Pinheiro",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -35921,65 +35921,6 @@
           }
         ]
       },
-      "91A": {
-        "26078": [
-          {
-            "course": "NURS D091A01Z",
-            "CRN": "26078",
-            "desc": "HEALTH ASSESSMENT",
-            "status": "Full",
-            "days": "T",
-            "time": "02:30 PM-06:20 PM",
-            "start": "09/21/2020",
-            "end": "11/01/2020",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Hrycyk",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "26079": [
-          {
-            "course": "NURS D91AL01F",
-            "CRN": "26079",
-            "desc": "HEALTH ASSESSMENT LAB",
-            "status": "Full",
-            "days": "WTh",
-            "time": "06:30 AM-02:30 PM",
-            "start": "09/21/2020",
-            "end": "11/01/2020",
-            "room": "S81",
-            "campus": "DA",
-            "units": "2.50",
-            "instructor": "White",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "26080": [
-          {
-            "course": "NURS D91AL02F",
-            "CRN": "26080",
-            "desc": "HEALTH ASSESSMENT LAB",
-            "status": "Full",
-            "days": "WTh",
-            "time": "06:30 AM-02:30 PM",
-            "start": "09/21/2020",
-            "end": "11/01/2020",
-            "room": "S81",
-            "campus": "DA",
-            "units": "2.50",
-            "instructor": "Quevedo",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "91B": {
         "26081": [
           {
@@ -36128,7 +36069,7 @@
             "CRN": "26215",
             "desc": "REPRODUCTIVE HEALTH NURSING",
             "status": "Full",
-            "days": "W",
+            "days": "F",
             "time": "08:30 AM-12:20 PM",
             "start": "11/02/2020",
             "end": "12/11/2020",
@@ -36145,7 +36086,7 @@
             "CRN": "26215",
             "desc": "REPRODUCTIVE HEALTH NURSING",
             "status": "Full",
-            "days": "F",
+            "days": "W",
             "time": "08:30 AM-12:20 PM",
             "start": "11/02/2020",
             "end": "12/11/2020",
@@ -36681,6 +36622,46 @@
             "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
+          }
+        ]
+      },
+      "91A": {
+        "26079": [
+          {
+            "course": "NURS D91AL01F",
+            "CRN": "26079",
+            "desc": "HEALTH ASSESSMENT LAB",
+            "status": "Full",
+            "days": "WTh",
+            "time": "06:30 AM-02:30 PM",
+            "start": "09/21/2020",
+            "end": "11/01/2020",
+            "room": "S81",
+            "campus": "DA",
+            "units": "2.50",
+            "instructor": "White",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "26080": [
+          {
+            "course": "NURS D91AL02F",
+            "CRN": "26080",
+            "desc": "HEALTH ASSESSMENT LAB",
+            "status": "Full",
+            "days": "WTh",
+            "time": "06:30 AM-02:30 PM",
+            "start": "09/21/2020",
+            "end": "11/01/2020",
+            "room": "S81",
+            "campus": "DA",
+            "units": "2.50",
+            "instructor": "Quevedo",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
