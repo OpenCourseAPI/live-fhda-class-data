@@ -4,11 +4,11 @@ on:
   push:
     branches-ignore:
       - '**'
-#     branches: [ master ]
-#   watch:
-#     types: [ started ]
-#   schedule:
-#     - cron:  '*/5 * * * *'
+    branches: [ master ]
+  watch:
+    types: [ started ]
+  schedule:
+    - cron:  '*/5 * * * *'
 
 jobs:
   update:
@@ -25,7 +25,7 @@ jobs:
       with:
         path: OwlAPI
         repository: OpenCourseAPI/OwlAPI
-        ref: 7de373f132a811424a93704fb1b701acda920f00
+        ref: 09c55479cb2138478a57358372bdcf761e17010c
 
     - name: Setup OwlAPI
       working-directory: OwlAPI
