@@ -7498,7 +7498,7 @@
             "course": "BUS D018.16Z",
             "CRN": "31752",
             "desc": "BUSINESS LAW I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "02:30 PM-03:45 PM",
             "start": "01/04/2021",
@@ -7508,14 +7508,14 @@
             "units": "5.00",
             "instructor": "Ritchie",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "BUS D018.16Z",
             "CRN": "31752",
             "desc": "BUSINESS LAW I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -7525,7 +7525,7 @@
             "units": "5.00",
             "instructor": "Ritchie",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -11267,7 +11267,7 @@
             "units": "4.50",
             "instructor": "May-Pumphrey",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
@@ -12788,7 +12788,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Eftekhari",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12809,7 +12809,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Oldham",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12893,7 +12893,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Janakiraman",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -24845,6 +24845,48 @@
             "wait_cap": "20"
           }
         ]
+      },
+      "3BH": {
+        "37263": [
+          {
+            "course": "HIST D03BH50Z",
+            "CRN": "37263",
+            "desc": "WRLD HIST 750-1750CE - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Jackson",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "3CH": {
+        "37264": [
+          {
+            "course": "HIST D03CH50Z",
+            "CRN": "37264",
+            "desc": "WRLD HIST 1750CE-PRES - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "",
+            "campus": "",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
       }
     }
   },
@@ -31955,7 +31997,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -41441,7 +41483,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kondo",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "4",
             "wait_cap": "4"
           },
@@ -41458,7 +41500,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kondo",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "4",
             "wait_cap": "4"
           }
