@@ -52,7 +52,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -69,7 +69,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -80,8 +80,8 @@
             "CRN": "35755",
             "desc": "FINAN ACCOUNTNG I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "08:30 AM-10:20 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -97,8 +97,8 @@
             "CRN": "35755",
             "desc": "FINAN ACCOUNTNG I",
             "status": "Open",
-            "days": "TTh",
-            "time": "08:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -450,8 +450,8 @@
             "CRN": "00022",
             "desc": "FINAN ACCOUNTG II",
             "status": "Waitlist",
-            "days": "W",
-            "time": "08:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -467,8 +467,8 @@
             "CRN": "00022",
             "desc": "FINAN ACCOUNTG II",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "08:30 AM-10:20 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -522,8 +522,8 @@
             "CRN": "37138",
             "desc": "FINAN ACCOUNTG II",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "02:30 PM-04:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -539,8 +539,8 @@
             "CRN": "37138",
             "desc": "FINAN ACCOUNTG II",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "02:30 PM-04:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -712,8 +712,8 @@
             "CRN": "35073",
             "desc": "MANAG ACCOUNTG",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "11:30 AM-01:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -729,8 +729,8 @@
             "CRN": "35073",
             "desc": "MANAG ACCOUNTG",
             "status": "Open",
-            "days": "MW",
-            "time": "11:30 AM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -926,6 +926,42 @@
         ]
       },
       "1AH": {
+        "37260": [
+          {
+            "course": "ACCT D01AH02Z",
+            "CRN": "37260",
+            "desc": "FINANCIAL ACCT I-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Hung",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ACCT D01AH02Z",
+            "CRN": "37260",
+            "desc": "FINANCIAL ACCT I-HONORS",
+            "status": "Full",
+            "days": "TTh",
+            "time": "10:30 AM-11:20 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Hung",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "37248": [
           {
             "course": "ACCT D01AH65Z",
@@ -980,6 +1016,27 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Breen",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "1CH": {
+        "37261": [
+          {
+            "course": "ACCT D01CH04Z",
+            "CRN": "37261",
+            "desc": "MANAGERIAL ACCT-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Staff",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -1458,7 +1515,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Castillo",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1475,7 +1532,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Castillo",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2053,7 +2110,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Cerda Aguilar",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "2",
             "wait_cap": "2"
           },
@@ -2070,7 +2127,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Cerda Aguilar",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -2419,7 +2476,7 @@
             "course": "ARTS D002B50Z",
             "CRN": "34819",
             "desc": "HIST OF ART/EUROPE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -2428,7 +2485,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mjelde",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14879,7 +14936,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gainer",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -17167,7 +17224,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomas",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -17979,10 +18036,27 @@
             "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Hearn",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ELIT D46BH01Z",
+            "CRN": "37259",
+            "desc": "MAJOR BRIT WRTRS(NEO/ROM)-HON",
+            "status": "Full",
+            "days": "MW",
+            "time": "10:30 AM-11:20 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Hearn",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -20019,7 +20093,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Roberts",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20036,7 +20110,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Roberts",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -28007,7 +28081,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "McElroy",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -29878,7 +29952,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Penkethman",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -31843,7 +31917,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "6",
             "wait_cap": "6"
           }
