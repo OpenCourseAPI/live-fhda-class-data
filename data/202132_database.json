@@ -9812,7 +9812,7 @@
             "course": "CHEM D010.02Z",
             "CRN": "36397",
             "desc": "INTRODUCTORY CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -9821,7 +9821,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Zlatogorov",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -9829,7 +9829,7 @@
             "course": "CHEM D010.02Z",
             "CRN": "36397",
             "desc": "INTRODUCTORY CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "12:30 PM-01:20 PM",
             "start": "01/04/2021",
@@ -9838,7 +9838,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Zlatogorov",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -9846,7 +9846,7 @@
             "course": "CHEM D010.02Z",
             "CRN": "36397",
             "desc": "INTRODUCTORY CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "02:30 PM-04:20 PM",
             "start": "01/04/2021",
@@ -9855,7 +9855,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Zlatogorov",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -10526,7 +10526,7 @@
             "course": "CHEM D025.30Z",
             "CRN": "33764",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "T",
             "time": "07:30 PM-08:45 PM",
             "start": "01/04/2021",
@@ -10536,14 +10536,14 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D025.30Z",
             "CRN": "33764",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "01/04/2021",
@@ -10553,14 +10553,14 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D025.30Z",
             "CRN": "33764",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -10570,7 +10570,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -26184,8 +26184,8 @@
             "CRN": "35646",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "01:30 PM-02:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -26201,8 +26201,8 @@
             "CRN": "35646",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "MW",
-            "time": "01:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -26332,8 +26332,8 @@
             "CRN": "36946",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "05:30 PM-06:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -26349,8 +26349,8 @@
             "CRN": "36946",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "TTh",
-            "time": "05:30 PM-06:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -26675,6 +26675,27 @@
           }
         ]
       },
+      "9H": {
+        "37253": [
+          {
+            "course": "HUMI D009H1MZ",
+            "CRN": "37253",
+            "desc": "INTRO TO COMPAR RELIG-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Clinchard",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "16": {
         "01077": [
           {
@@ -26703,8 +26724,8 @@
             "CRN": "36874",
             "desc": "WSTRN PRSPCTVS IN GLBL CONTEXT",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "11:30 AM-12:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -26720,8 +26741,8 @@
             "CRN": "36874",
             "desc": "WSTRN PRSPCTVS IN GLBL CONTEXT",
             "status": "Open",
-            "days": "M",
-            "time": "11:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -35637,7 +35658,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Williams",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -35658,7 +35679,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Williams",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -35679,7 +35700,7 @@
             "campus": "DO",
             "units": "4.50",
             "instructor": "Williams",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -37965,7 +37986,7 @@
             "units": "5.00",
             "instructor": "Jiao",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           },
           {
@@ -37982,7 +38003,7 @@
             "units": "5.00",
             "instructor": "Jiao",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ]
