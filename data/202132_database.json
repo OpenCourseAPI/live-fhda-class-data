@@ -5452,7 +5452,7 @@
             "units": "5.00",
             "instructor": "Mcpartlan",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -5469,7 +5469,7 @@
             "units": "5.00",
             "instructor": "Mcpartlan",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -9606,7 +9606,7 @@
             "units": "5.00",
             "instructor": "Staff",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "6"
           },
           {
@@ -9623,7 +9623,7 @@
             "units": "5.00",
             "instructor": "Staff",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "6"
           },
           {
@@ -9640,7 +9640,7 @@
             "units": "5.00",
             "instructor": "Staff",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ]
@@ -14239,7 +14239,7 @@
             "units": "5.00",
             "instructor": "Gainer",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -24217,7 +24217,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -26534,6 +26534,25 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "37252": [
+          {
+            "course": "HUMI D001H50Z",
+            "CRN": "37252",
+            "desc": "CREATIVE MINDS-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Clinchard",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "6": {
@@ -26684,8 +26703,8 @@
             "CRN": "36874",
             "desc": "WSTRN PRSPCTVS IN GLBL CONTEXT",
             "status": "Open",
-            "days": "M",
-            "time": "11:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -26701,8 +26720,8 @@
             "CRN": "36874",
             "desc": "WSTRN PRSPCTVS IN GLBL CONTEXT",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "11:30 AM-12:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -39502,7 +39521,7 @@
             "course": "PSYC D001.04Z",
             "CRN": "01857",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "01:30 PM-02:20 PM",
             "start": "01/04/2021",
@@ -39511,7 +39530,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Firpo",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -39519,7 +39538,7 @@
             "course": "PSYC D001.04Z",
             "CRN": "01857",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -39528,7 +39547,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Firpo",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "8",
             "wait_cap": "8"
           }
