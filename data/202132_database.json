@@ -792,7 +792,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -809,7 +809,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1815,7 +1815,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Bonini",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1832,7 +1832,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Bonini",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2106,6 +2106,63 @@
           }
         ]
       },
+      "1H": {
+        "37298": [
+          {
+            "course": "ANTH D001H01Z",
+            "CRN": "37298",
+            "desc": "PHYSICAL ANTHROPOLOGY-HONORS",
+            "status": "Full",
+            "days": "T",
+            "time": "09:30 AM-10:20 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Tiwana",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ANTH D001H01Z",
+            "CRN": "37298",
+            "desc": "PHYSICAL ANTHROPOLOGY-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Tiwana",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "37297": [
+          {
+            "course": "ANTH D001H50Z",
+            "CRN": "37297",
+            "desc": "PHYSICAL ANTHROPOLOGY-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Tiwana",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "1L": {
         "31009": [
           {
@@ -2372,7 +2429,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Solomon",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -2385,8 +2442,8 @@
             "CRN": "35657",
             "desc": "INTRO TO FORENSIC ANTHRO",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "03:30 PM-05:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -2402,8 +2459,8 @@
             "CRN": "35657",
             "desc": "INTRO TO FORENSIC ANTHRO",
             "status": "Open",
-            "days": "T",
-            "time": "03:30 PM-05:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -11412,7 +11469,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11429,7 +11486,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12569,7 +12626,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Staff",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -12586,7 +12643,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Staff",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13983,7 +14040,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ahern",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -14000,7 +14057,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ahern",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -14019,7 +14076,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lee",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -14036,7 +14093,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lee",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -17582,6 +17639,42 @@
         ]
       },
       "1H": {
+        "37299": [
+          {
+            "course": "ECON D001H01Z",
+            "CRN": "37299",
+            "desc": "PRIN MACROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "Th",
+            "time": "10:30 AM-11:20 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Singh",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ECON D001H01Z",
+            "CRN": "37299",
+            "desc": "PRIN MACROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Singh",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "37291": [
           {
             "course": "ECON D001H52Z",
@@ -17647,8 +17740,8 @@
             "CRN": "00596",
             "desc": "PRIN MICROECONOMICS",
             "status": "Open",
-            "days": "W",
-            "time": "01:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17664,8 +17757,8 @@
             "CRN": "00596",
             "desc": "PRIN MICROECONOMICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "01:30 PM-02:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17683,8 +17776,8 @@
             "CRN": "00597",
             "desc": "PRIN MICROECONOMICS",
             "status": "Open",
-            "days": "Th",
-            "time": "01:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17700,8 +17793,8 @@
             "CRN": "00597",
             "desc": "PRIN MICROECONOMICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "01:30 PM-02:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17867,6 +17960,78 @@
         ]
       },
       "2H": {
+        "37300": [
+          {
+            "course": "ECON D002H02Z",
+            "CRN": "37300",
+            "desc": "PRIN MICROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "W",
+            "time": "01:30 PM-02:20 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Singh",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ECON D002H02Z",
+            "CRN": "37300",
+            "desc": "PRIN MICROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Singh",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "37301": [
+          {
+            "course": "ECON D002H03Z",
+            "CRN": "37301",
+            "desc": "PRIN MICROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "Th",
+            "time": "01:30 PM-02:20 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ECON D002H03Z",
+            "CRN": "37301",
+            "desc": "PRIN MICROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "37292": [
           {
             "course": "ECON D002H66Z",
@@ -18382,7 +18547,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Zand",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -18399,7 +18564,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Zand",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -23214,7 +23379,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -31613,7 +31778,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Balm",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33576,7 +33741,7 @@
             "units": "5.00",
             "instructor": "Shariatmadari",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -33978,7 +34143,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Allmann",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33990,7 +34155,7 @@
             "course": "MATH D032.05Z",
             "CRN": "36861",
             "desc": "PRECALCULUS II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TWTh",
             "time": "09:30 AM-10:20 AM",
             "start": "01/04/2021",
@@ -33999,7 +34164,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bambhania",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -34007,7 +34172,7 @@
             "course": "MATH D032.05Z",
             "CRN": "36861",
             "desc": "PRECALCULUS II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -34016,7 +34181,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bambhania",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34851,7 +35016,7 @@
             "campus": "DA",
             "units": "2.50",
             "instructor": "Allmann",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -40674,7 +40839,7 @@
             "units": "4.00",
             "instructor": "Avera",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "8"
           },
           {
@@ -40691,7 +40856,7 @@
             "units": "4.00",
             "instructor": "Avera",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "8"
           }
         ],
@@ -42777,7 +42942,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lizardi-Folley",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           }
