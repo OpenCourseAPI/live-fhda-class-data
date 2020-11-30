@@ -6083,7 +6083,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morikang",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6100,7 +6100,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morikang",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11448,7 +11448,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Linn Jr",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -18009,7 +18009,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Singh",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -18026,7 +18026,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Singh",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -20795,7 +20795,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bejarin",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23379,7 +23379,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -30946,7 +30946,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Bejarin",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -31202,7 +31202,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Schnittgrund",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -31219,7 +31219,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Schnittgrund",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -33623,6 +33623,25 @@
             "wait_cap": "0"
           }
         ],
+        "37302": [
+          {
+            "course": "MATH D01AH06Z",
+            "CRN": "37302",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "09:30 AM-10:20 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Taylor",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "37271": [
           {
             "course": "MATH D01AH07Z",
@@ -33644,6 +33663,44 @@
         ]
       },
       "1BH": {
+        "37303": [
+          {
+            "course": "MATH D01BH01Z",
+            "CRN": "37303",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "07:30 AM-08:20 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Taylor",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "37304": [
+          {
+            "course": "MATH D01BH08Z",
+            "CRN": "37304",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "11:30 AM-12:20 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Taylor",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "37285": [
           {
             "course": "MATH D01BH71Z",
@@ -34230,8 +34287,8 @@
             "CRN": "36864",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "M",
-            "time": "01:30 PM-03:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -34247,8 +34304,8 @@
             "CRN": "36864",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "01:30 PM-03:45 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -34266,8 +34323,8 @@
             "CRN": "36865",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "M",
-            "time": "04:00 PM-06:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -34283,8 +34340,8 @@
             "CRN": "36865",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "04:00 PM-06:15 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -38636,7 +38693,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Le",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "15",
             "wait_cap": "15"
           }
