@@ -422,7 +422,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -439,7 +439,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1418,7 +1418,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Palmore",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1435,7 +1435,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Palmore",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -5989,7 +5989,7 @@
             "units": "5.00",
             "instructor": "Johnson",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ],
@@ -12767,7 +12767,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Georgiou",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12872,7 +12872,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Slate",
-            "seats": "21",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14017,7 +14017,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hinerman",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -14034,7 +14034,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hinerman",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20110,7 +20110,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Roberts",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20127,7 +20127,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Roberts",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20254,7 +20254,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sartwell",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20271,7 +20271,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sartwell",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20347,7 +20347,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bejarin",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24257,7 +24257,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dileonardo",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -24878,10 +24878,31 @@
             "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Jackson",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "17CH": {
+        "37265": [
+          {
+            "course": "HIST D17CH52Z",
+            "CRN": "37265",
+            "desc": "HIST U.S. 1900-PRESENT - HONOR",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Jackson",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -26339,6 +26360,25 @@
         ]
       },
       "10H": {
+        "37266": [
+          {
+            "course": "HUMA D010H63Z",
+            "CRN": "37266",
+            "desc": "HUMAN SEXUALITY - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Joplin",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "37262": [
           {
             "course": "HUMA D010H65Z",
@@ -27983,7 +28023,7 @@
             "units": "5.00",
             "instructor": "Xuan",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -30032,7 +30072,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Penkethman",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -30108,7 +30148,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Sartwell",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -30184,7 +30224,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Bejarin",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -31265,7 +31305,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shariatmadari",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31351,7 +31391,7 @@
             "course": "MATH D001B50Z",
             "CRN": "01228",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -31360,7 +31400,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dhaliwal",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31997,7 +32037,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "24",
+            "seats": "25",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -32838,6 +32878,27 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "6"
+          }
+        ]
+      },
+      "1AH": {
+        "37267": [
+          {
+            "course": "MATH D01AH01Z",
+            "CRN": "37267",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "07:30 AM-08:20 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Judson",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -34351,7 +34412,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mitchell",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -38964,7 +39025,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Newton",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -39004,7 +39065,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Staff",
-            "seats": "33",
+            "seats": "34",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -40075,7 +40136,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Clifford Jr",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -41997,7 +42058,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lizardi-Folley",
-            "seats": "5",
+            "seats": "3",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -42316,7 +42377,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Alvarez",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "15",
             "wait_cap": "15"
           }
