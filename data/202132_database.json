@@ -325,7 +325,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Botsford",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3880,7 +3880,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "66",
+            "seats": "65",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -3897,7 +3897,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "66",
+            "seats": "65",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -8262,7 +8262,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sun",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11184,7 +11184,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Georgiou",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12886,7 +12886,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -12949,7 +12949,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Georgiou",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13012,7 +13012,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Singh",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13033,7 +13033,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -17596,6 +17596,25 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomas",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "37294": [
+          {
+            "course": "ECON D001H53Z",
+            "CRN": "37294",
+            "desc": "PRIN MACROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Zill",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -22236,8 +22255,8 @@
             "CRN": "34615",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TTh",
-            "time": "01:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22253,8 +22272,8 @@
             "CRN": "34615",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "01:30 PM-02:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22272,8 +22291,8 @@
             "CRN": "34616",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Full",
-            "days": "TTh",
-            "time": "02:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22289,8 +22308,8 @@
             "CRN": "34616",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "02:30 PM-03:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22344,8 +22363,8 @@
             "CRN": "34884",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "03:30 PM-04:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22361,8 +22380,8 @@
             "CRN": "34884",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TTh",
-            "time": "03:30 PM-04:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22644,8 +22663,8 @@
             "CRN": "00822",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:30 AM-11:20 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22661,8 +22680,8 @@
             "CRN": "00822",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "MW",
-            "time": "10:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22946,8 +22965,8 @@
             "CRN": "36521",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:00 AM-12:15 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22963,8 +22982,8 @@
             "CRN": "36521",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "T",
-            "time": "10:00 AM-12:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -23014,6 +23033,42 @@
         ]
       },
       "2H": {
+        "37296": [
+          {
+            "course": "EWRT D002H12Z",
+            "CRN": "37296",
+            "desc": "CRIT READ, WRIT & THINK-HONORS",
+            "status": "Full",
+            "days": "MW",
+            "time": "10:30 AM-11:20 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Smith",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "EWRT D002H12Z",
+            "CRN": "37296",
+            "desc": "CRIT READ, WRIT & THINK-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Smith",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "37251": [
           {
             "course": "EWRT D002H57Z",
@@ -23028,6 +23083,25 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Caparas",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "37295": [
+          {
+            "course": "EWRT D002H70Z",
+            "CRN": "37295",
+            "desc": "CRIT READ, WRIT & THINK-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Smith",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -23096,8 +23170,8 @@
             "CRN": "36499",
             "desc": "INTENSIVE COMP/READ STRETCH: 1",
             "status": "Open",
-            "days": "MW",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -23113,8 +23187,8 @@
             "CRN": "36499",
             "desc": "INTENSIVE COMP/READ STRETCH: 1",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "01:30 PM-03:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -38534,7 +38608,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hammerud",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
