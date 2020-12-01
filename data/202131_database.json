@@ -189,7 +189,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Drake",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -351,7 +351,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ardizzone",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -493,7 +493,7 @@
             "units": "4.00",
             "instructor": "Gopal",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "15"
           }
         ]
@@ -554,7 +554,7 @@
             "units": "4.00",
             "instructor": "Negrete",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ]
@@ -8786,7 +8786,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11371,7 +11371,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Patyk",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11542,7 +11542,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "45",
+            "seats": "46",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11655,6 +11655,78 @@
   },
   "EMS": {
     "1": {
+      "52": {
+        "32014": [
+          {
+            "course": "EMS F052.01R",
+            "CRN": "32014",
+            "desc": "EMT: BASIC PART A",
+            "status": "Open",
+            "days": "T",
+            "time": "05:30 PM-09:30 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "5.00",
+            "instructor": "Huseman",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "EMS F052.01R",
+            "CRN": "32014",
+            "desc": "EMT: BASIC PART A",
+            "status": "Open",
+            "days": "T",
+            "time": "05:30 PM-09:30 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "5.00",
+            "instructor": "Lomeli Franco",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "EMS F052.01R",
+            "CRN": "32014",
+            "desc": "EMT: BASIC PART A",
+            "status": "Open",
+            "days": "W",
+            "time": "05:30 PM-09:30 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "5.00",
+            "instructor": "Huseman",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "EMS F052.01R",
+            "CRN": "32014",
+            "desc": "EMT: BASIC PART A",
+            "status": "Open",
+            "days": "W",
+            "time": "05:30 PM-09:30 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "5.00",
+            "instructor": "Lomeli Franco",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ]
+      },
       "61A": {
         "31071": [
           {
@@ -11684,6 +11756,108 @@
             "desc": "PARAMED COG/AFFECT/PSYCH IIB",
             "status": "Open",
             "days": "Th",
+            "time": "09:00 AM-03:15 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "3.00",
+            "instructor": "Ikegami",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F061B01",
+            "CRN": "31072",
+            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
+            "status": "Open",
+            "days": "Th",
+            "time": "09:00 AM-03:15 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "3.00",
+            "instructor": "Acuna",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F061B01",
+            "CRN": "31072",
+            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
+            "status": "Open",
+            "days": "Th",
+            "time": "09:00 AM-03:15 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "3.00",
+            "instructor": "Covey",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F061B01",
+            "CRN": "31072",
+            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
+            "status": "Open",
+            "days": "Th",
+            "time": "09:00 AM-03:15 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "3.00",
+            "instructor": "Houston",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F061B01",
+            "CRN": "31072",
+            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
+            "status": "Open",
+            "days": "Th",
+            "time": "09:00 AM-03:15 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "3.00",
+            "instructor": "Middleton",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F061B01",
+            "CRN": "31072",
+            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
+            "status": "Open",
+            "days": "Th",
+            "time": "09:00 AM-03:15 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "3.00",
+            "instructor": "Buchanan",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F061B01",
+            "CRN": "31072",
+            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
+            "status": "Open",
+            "days": "Th",
             "time": "08:00 AM-08:50 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
@@ -11691,6 +11865,23 @@
             "campus": "FC",
             "units": "3.00",
             "instructor": "Villanueva",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F061B01",
+            "CRN": "31072",
+            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
+            "status": "Open",
+            "days": "Th",
+            "time": "09:00 AM-03:15 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "3.00",
+            "instructor": "Flanagan",
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -11745,125 +11936,6 @@
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
-          },
-          {
-            "course": "EMS F061B01",
-            "CRN": "31072",
-            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
-            "status": "Open",
-            "days": "Th",
-            "time": "09:00 AM-03:15 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "3.00",
-            "instructor": "Flanagan",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EMS F061B01",
-            "CRN": "31072",
-            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
-            "status": "Open",
-            "days": "Th",
-            "time": "09:00 AM-03:15 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "3.00",
-            "instructor": "Acuna",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EMS F061B01",
-            "CRN": "31072",
-            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
-            "status": "Open",
-            "days": "Th",
-            "time": "09:00 AM-03:15 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "3.00",
-            "instructor": "Ikegami",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EMS F061B01",
-            "CRN": "31072",
-            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
-            "status": "Open",
-            "days": "Th",
-            "time": "09:00 AM-03:15 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "3.00",
-            "instructor": "Covey",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EMS F061B01",
-            "CRN": "31072",
-            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
-            "status": "Open",
-            "days": "Th",
-            "time": "09:00 AM-03:15 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "3.00",
-            "instructor": "Houston",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EMS F061B01",
-            "CRN": "31072",
-            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
-            "status": "Open",
-            "days": "Th",
-            "time": "09:00 AM-03:15 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "3.00",
-            "instructor": "Buchanan",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EMS F061B01",
-            "CRN": "31072",
-            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
-            "status": "Open",
-            "days": "Th",
-            "time": "09:00 AM-03:15 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "3.00",
-            "instructor": "Middleton",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
           }
         ]
       },
@@ -11881,7 +11953,7 @@
             "room": "SV",
             "campus": "FC",
             "units": "2.00",
-            "instructor": "Ikegami",
+            "instructor": "Middleton",
             "seats": "24",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -11898,7 +11970,7 @@
             "room": "SV",
             "campus": "FC",
             "units": "2.00",
-            "instructor": "Middleton",
+            "instructor": "Ikegami",
             "seats": "24",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -11924,23 +11996,6 @@
       },
       "64B": {
         "31840": [
-          {
-            "course": "EMS F064B01",
-            "CRN": "31840",
-            "desc": "PARAMD AMBULANCE FLD INTRN II",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "13.00",
-            "instructor": "Culbertson",
-            "seats": "19",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
           {
             "course": "EMS F064B01",
             "CRN": "31840",
@@ -11988,6 +12043,23 @@
             "campus": "FO",
             "units": "13.00",
             "instructor": "Staff",
+            "seats": "19",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "EMS F064B01",
+            "CRN": "31840",
+            "desc": "PARAMD AMBULANCE FLD INTRN II",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "HOSP",
+            "campus": "FO",
+            "units": "13.00",
+            "instructor": "Culbertson",
             "seats": "19",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -12323,7 +12395,7 @@
             "course": "ENGL F001A5CW",
             "CRN": "30811",
             "desc": "COMPOSITION & READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -12332,7 +12404,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Herman",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12410,7 +12482,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chan",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13776,7 +13848,7 @@
             "course": "GEOG F001.04W",
             "CRN": "30871",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -13785,7 +13857,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meezan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14075,7 +14147,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14617,7 +14689,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Baldwin",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -15367,7 +15439,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Cammin",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -17388,7 +17460,7 @@
             "course": "MATH F001B02V",
             "CRN": "31021",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "10:00 AM-12:15 PM",
             "start": "01/04/2021",
@@ -17397,7 +17469,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cembellin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17491,7 +17563,7 @@
             "units": "5.00",
             "instructor": "Oruganti",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -18117,7 +18189,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sinclair",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -18134,7 +18206,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sinclair",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19004,7 +19076,7 @@
             "course": "MDIA F001.01W",
             "CRN": "30343",
             "desc": "INTRO TO FILM STUDIES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -19013,7 +19085,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tripp Caldwell",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21165,7 +21237,7 @@
             "course": "NCEN F401A5CV",
             "CRN": "31673",
             "desc": "BRIDGE TO TRANSFER ENGLISH",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "10:00 AM-11:50 AM",
             "start": "01/04/2021",
@@ -21174,7 +21246,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Herman",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "25",
             "wait_cap": "25"
           }
