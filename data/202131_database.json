@@ -532,7 +532,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Glass",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5566,7 +5566,7 @@
             "course": "BIOL F041.04Z",
             "CRN": "30393",
             "desc": "MICROBIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -5576,14 +5576,14 @@
             "units": "6.00",
             "instructor": "Cooper",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "BIOL F041.04Z",
             "CRN": "30393",
             "desc": "MICROBIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "12:00 PM-01:50 PM",
             "start": "01/04/2021",
@@ -5593,14 +5593,14 @@
             "units": "6.00",
             "instructor": "Gosavi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "BIOL F041.04Z",
             "CRN": "30393",
             "desc": "MICROBIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "T",
             "time": "02:30 PM-03:30 PM",
             "start": "01/04/2021",
@@ -5610,7 +5610,7 @@
             "units": "6.00",
             "instructor": "Cooper",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -5976,7 +5976,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lew",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7900,7 +7900,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7917,7 +7917,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12109,7 +12109,7 @@
             "units": "5.00",
             "instructor": "Herman",
             "seats": "0",
-            "wait_seats": "22",
+            "wait_seats": "23",
             "wait_cap": "25"
           }
         ],
@@ -12978,7 +12978,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Robbins",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -19108,7 +19108,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Shidler",
-            "seats": "32",
+            "seats": "33",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20795,6 +20795,9 @@
         ]
       }
     }
+  },
+  "NCCS": {
+    "1": {}
   },
   "NCEL": {
     "1": {
@@ -26232,7 +26235,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "6",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -26954,7 +26957,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Mc Leod",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
