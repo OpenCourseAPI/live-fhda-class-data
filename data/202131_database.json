@@ -483,7 +483,7 @@
             "course": "ACTG F064A01W",
             "CRN": "30314",
             "desc": "COMPUTERIZED ACTG PRAC:QUICKBO",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -492,7 +492,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "15"
           }
@@ -5896,7 +5896,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lew",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6905,7 +6905,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6969,7 +6969,7 @@
             "units": "4.50",
             "instructor": "Ibrahim",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -7921,7 +7921,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7938,7 +7938,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9785,7 +9785,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9802,7 +9802,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18134,7 +18134,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Papay",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18805,7 +18805,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Perino",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -18822,7 +18822,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Perino",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18984,7 +18984,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Uilecan",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19589,6 +19589,25 @@
             "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
+          }
+        ],
+        "32022": [
+          {
+            "course": "MTEC F050A2DW",
+            "CRN": "32022",
+            "desc": "INTRO TO MUSIC TECHNOLOGY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "06/04/2021",
+            "room": "",
+            "campus": "",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
