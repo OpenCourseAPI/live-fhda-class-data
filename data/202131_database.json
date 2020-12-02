@@ -93,7 +93,7 @@
             "units": "5.00",
             "instructor": "Seyedin",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ],
@@ -2796,7 +2796,7 @@
             "course": "ART F001.02W",
             "CRN": "30160",
             "desc": "INTRODUCTION TO ART",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -2805,7 +2805,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Gomes",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -3058,7 +3058,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -3075,7 +3075,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -3092,7 +3092,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -4505,7 +4505,7 @@
             "course": "BIOL F012.01V",
             "CRN": "30019",
             "desc": "HUMAN GENETICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "02:00 PM-03:50 PM",
             "start": "01/04/2021",
@@ -4514,7 +4514,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Pallesen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "15"
           }
@@ -5274,7 +5274,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mousavi Shafaei",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -5291,7 +5291,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mousavi Shafaei",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -6521,7 +6521,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6538,7 +6538,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6713,7 +6713,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Mazloom",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9430,7 +9430,7 @@
             "course": "COMM F001A04Z",
             "CRN": "30248",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "08:00 AM-09:50 AM",
             "start": "01/04/2021",
@@ -9439,7 +9439,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9447,7 +9447,7 @@
             "course": "COMM F001A04Z",
             "CRN": "30248",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -9456,7 +9456,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17558,7 +17558,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lam",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20184,7 +20184,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Barkley",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -20201,7 +20201,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hartwell",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20260,7 +20260,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cratty",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22692,25 +22692,6 @@
             "wait_seats": "5",
             "wait_cap": "5"
           }
-        ],
-        "31613": [
-          {
-            "course": "PHED F049B04V",
-            "CRN": "31613",
-            "desc": "BOOT CAMP TRAINING",
-            "status": "Open",
-            "days": "TTh",
-            "time": "08:30 AM-09:45 AM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Mac Neil",
-            "seats": "35",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
         ]
       }
     }
@@ -24865,7 +24846,7 @@
             "units": "5.00",
             "instructor": "Rideaux",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "20"
           },
           {
@@ -24882,7 +24863,7 @@
             "units": "5.00",
             "instructor": "Rideaux",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ],
@@ -25054,7 +25035,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Villanueva",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25174,7 +25155,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lin",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -25191,7 +25172,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lin",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -27182,7 +27163,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Crespo-Martin",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -28073,7 +28054,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gregory",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "1",
             "wait_cap": "1"
           },
@@ -28090,7 +28071,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gregory",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "1",
             "wait_cap": "1"
           }
