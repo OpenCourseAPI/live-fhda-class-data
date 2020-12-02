@@ -797,7 +797,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ponleithner",
-            "seats": "21",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6201,7 +6201,7 @@
             "campus": "FC",
             "units": "3.00",
             "instructor": "Harmon",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -14912,7 +14912,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Niccoli",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -14929,7 +14929,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Niccoli",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -19601,8 +19601,27 @@
             "time": "TBA",
             "start": "01/04/2021",
             "end": "06/04/2021",
-            "room": "",
-            "campus": "",
+            "room": "WSHS",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Kauffmann",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "32023": [
+          {
+            "course": "MTEC F050A3DW",
+            "CRN": "32023",
+            "desc": "INTRO TO MUSIC TECHNOLOGY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "06/04/2021",
+            "room": "WSHS",
+            "campus": "FO",
             "units": "4.00",
             "instructor": "Staff",
             "seats": "0",
