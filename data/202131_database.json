@@ -574,7 +574,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Fakoor",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2887,7 +2887,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2927,7 +2927,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7921,7 +7921,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "9",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7938,7 +7938,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "9",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8099,7 +8099,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stepp",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8116,7 +8116,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stepp",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13272,7 +13272,7 @@
             "desc": "INTRO TO ENGINEERING",
             "status": "Open",
             "days": "TTh",
-            "time": "01:00 PM-02:50 PM",
+            "time": "03:00 PM-04:15 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -13289,7 +13289,7 @@
             "desc": "INTRO TO ENGINEERING",
             "status": "Open",
             "days": "TTh",
-            "time": "03:00 PM-04:15 PM",
+            "time": "01:00 PM-02:50 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -13307,8 +13307,25 @@
             "CRN": "31947",
             "desc": "INTRO TO ENGINEERING",
             "status": "Full",
-            "days": "M",
-            "time": "10:20 AM-11:30 AM",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "06/03/2021",
+            "room": "EPAA",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Johnson",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ENGR F010.2DZ",
+            "CRN": "31947",
+            "desc": "INTRO TO ENGINEERING",
+            "status": "Full",
+            "days": "W",
+            "time": "10:30 AM-11:20 AM",
             "start": "01/04/2021",
             "end": "06/03/2021",
             "room": "EPAA",
@@ -13331,7 +13348,41 @@
             "room": "EPAA",
             "campus": "FO",
             "units": "5.00",
+            "instructor": "Johnson",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ENGR F010.2DZ",
+            "CRN": "31947",
+            "desc": "INTRO TO ENGINEERING",
+            "status": "Full",
+            "days": "M",
+            "time": "10:20 AM-11:30 AM",
+            "start": "01/04/2021",
+            "end": "06/03/2021",
+            "room": "EPAA",
+            "campus": "FO",
+            "units": "5.00",
             "instructor": "Sukumar",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ENGR F010.2DZ",
+            "CRN": "31947",
+            "desc": "INTRO TO ENGINEERING",
+            "status": "Full",
+            "days": "M",
+            "time": "10:20 AM-11:30 AM",
+            "start": "01/04/2021",
+            "end": "06/03/2021",
+            "room": "EPAA",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Johnson",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -19201,7 +19252,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tripp Caldwell",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
