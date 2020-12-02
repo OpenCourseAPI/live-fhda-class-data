@@ -2927,7 +2927,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -19173,7 +19173,7 @@
             "course": "MDIA F001.01W",
             "CRN": "30343",
             "desc": "INTRO TO FILM STUDIES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -19182,7 +19182,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tripp Caldwell",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19673,6 +19673,44 @@
           {
             "course": "MTEC F051A2DW",
             "CRN": "32025",
+            "desc": "STUDIO RECORDING I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "06/04/2021",
+            "room": "WSHS",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Kauffmann",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "32026": [
+          {
+            "course": "MTEC F051A3DW",
+            "CRN": "32026",
+            "desc": "STUDIO RECORDING I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "06/04/2021",
+            "room": "WSHS",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Kauffmann",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "32027": [
+          {
+            "course": "MTEC F051A4DW",
+            "CRN": "32027",
             "desc": "STUDIO RECORDING I",
             "status": "Full",
             "days": "TBA",
@@ -22519,7 +22557,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Mac Neil",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
           }
