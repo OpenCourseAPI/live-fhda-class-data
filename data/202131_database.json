@@ -870,7 +870,7 @@
             "desc": "INTERPROFESSIONAL PATIENT COMP",
             "status": "Open",
             "days": "W",
-            "time": "06:00 PM-08:20 PM",
+            "time": "03:30 PM-05:50 PM",
             "start": "01/04/2021",
             "end": "02/14/2021",
             "room": "8708",
@@ -4236,7 +4236,7 @@
             "units": "6.00",
             "instructor": "Schultheis",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "11",
             "wait_cap": "28"
           },
           {
@@ -4253,7 +4253,7 @@
             "units": "6.00",
             "instructor": "Schultheis",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "11",
             "wait_cap": "28"
           }
         ],
@@ -4271,7 +4271,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Schultheis",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4288,7 +4288,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Schultheis",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4979,13 +4979,13 @@
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
             "status": "Full",
             "days": "F",
-            "time": "12:30 PM-02:20 PM",
+            "time": "09:30 AM-12:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Lagna",
+            "instructor": "Folse",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "4"
@@ -4996,13 +4996,13 @@
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
             "status": "Full",
             "days": "F",
-            "time": "09:30 AM-12:20 PM",
+            "time": "12:30 PM-02:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Folse",
+            "instructor": "Lagna",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "4"
@@ -5414,8 +5414,8 @@
             "time": "TBA",
             "start": "01/04/2021",
             "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "FH",
+            "room": "",
+            "campus": "",
             "units": "5.00",
             "instructor": "Markowitz",
             "seats": "0",
@@ -5431,8 +5431,8 @@
             "time": "TBA",
             "start": "01/04/2021",
             "end": "02/14/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
             "seats": "0",
@@ -5467,8 +5467,8 @@
             "time": "TBA",
             "start": "01/04/2021",
             "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "FH",
+            "room": "",
+            "campus": "",
             "units": "5.00",
             "instructor": "Markowitz",
             "seats": "0",
@@ -5484,8 +5484,8 @@
             "time": "TBA",
             "start": "01/04/2021",
             "end": "02/14/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
             "seats": "0",
@@ -5573,23 +5573,6 @@
             "CRN": "30033",
             "desc": "MICROBIOLOGY",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Cooper",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
-          },
-          {
-            "course": "BIOL F041.03Z",
-            "CRN": "30033",
-            "desc": "MICROBIOLOGY",
-            "status": "Full",
             "days": "TTh",
             "time": "12:00 PM-01:50 PM",
             "start": "01/04/2021",
@@ -5618,12 +5601,10 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
-          }
-        ],
-        "30393": [
+          },
           {
-            "course": "BIOL F041.04Z",
-            "CRN": "30393",
+            "course": "BIOL F041.03Z",
+            "CRN": "30033",
             "desc": "MICROBIOLOGY",
             "status": "Full",
             "days": "TBA",
@@ -5637,7 +5618,9 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
-          },
+          }
+        ],
+        "30393": [
           {
             "course": "BIOL F041.04Z",
             "CRN": "30393",
@@ -5651,6 +5634,23 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Gosavi",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "10"
+          },
+          {
+            "course": "BIOL F041.04Z",
+            "CRN": "30393",
+            "desc": "MICROBIOLOGY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Cooper",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
@@ -5715,23 +5715,6 @@
             "CRN": "30035",
             "desc": "MICROBIOLOGY",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Manoukian",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
-          },
-          {
-            "course": "BIOL F041.06Z",
-            "CRN": "30035",
-            "desc": "MICROBIOLOGY",
-            "status": "Full",
             "days": "TTh",
             "time": "07:30 PM-09:00 PM",
             "start": "01/04/2021",
@@ -5760,6 +5743,59 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
+          },
+          {
+            "course": "BIOL F041.06Z",
+            "CRN": "30035",
+            "desc": "MICROBIOLOGY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Manoukian",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "10"
+          }
+        ],
+        "32030": [
+          {
+            "course": "BIOL F041.07V",
+            "CRN": "32030",
+            "desc": "MICROBIOLOGY",
+            "status": "Open",
+            "days": "TTh",
+            "time": "09:00 AM-11:50 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Nekrep",
+            "seats": "24",
+            "wait_seats": "8",
+            "wait_cap": "8"
+          },
+          {
+            "course": "BIOL F041.07V",
+            "CRN": "32030",
+            "desc": "MICROBIOLOGY",
+            "status": "Open",
+            "days": "TTh",
+            "time": "12:00 PM-01:50 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Nekrep",
+            "seats": "24",
+            "wait_seats": "8",
+            "wait_cap": "8"
           }
         ]
       },
@@ -5829,14 +5865,14 @@
             "CRN": "31089",
             "desc": "LEADERS-DIVERSITY IN SCIENCE",
             "status": "Open",
-            "days": "W",
-            "time": "03:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Cabrera",
+            "instructor": "Schinske",
             "seats": "3",
             "wait_seats": "12",
             "wait_cap": "12"
@@ -5846,14 +5882,14 @@
             "CRN": "31089",
             "desc": "LEADERS-DIVERSITY IN SCIENCE",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "03:00 PM-04:50 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Schinske",
+            "instructor": "Cabrera",
             "seats": "3",
             "wait_seats": "12",
             "wait_cap": "12"
@@ -6540,7 +6576,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6557,7 +6593,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6999,7 +7035,7 @@
             "course": "C S F048A01W",
             "CRN": "31721",
             "desc": "DATA VISUALIZATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -7008,8 +7044,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lankester",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -7802,7 +7838,7 @@
             "course": "CHEM F012B02V",
             "CRN": "30563",
             "desc": "ORGANIC CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "01/04/2021",
@@ -7811,8 +7847,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Painter",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -8625,7 +8661,7 @@
             "course": "CHEM F12BL02Z",
             "CRN": "30567",
             "desc": "ORGANIC CHEMISTRY LABORATORY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "05:30 PM-07:20 PM",
             "start": "01/04/2021",
@@ -8634,15 +8670,15 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Painter",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "5"
           },
           {
             "course": "CHEM F12BL02Z",
             "CRN": "30567",
             "desc": "ORGANIC CHEMISTRY LABORATORY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -8651,8 +8687,8 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Painter",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ],
@@ -9755,7 +9791,7 @@
             "course": "COMM F004.02W",
             "CRN": "30331",
             "desc": "GROUP DISCUSSION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -9764,8 +9800,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Velasco",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -9804,7 +9840,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9821,7 +9857,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9989,7 +10025,7 @@
             "course": "COMM F055.01W",
             "CRN": "30130",
             "desc": "CAREER & LDRSHP COMM IN GLOB",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -9998,7 +10034,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14372,7 +14408,7 @@
             "course": "GID F056.01W",
             "CRN": "31583",
             "desc": "WEBSITE DESIGN",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -14381,8 +14417,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gossett",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -14488,7 +14524,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Aguilar",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15207,7 +15243,7 @@
             "course": "HUMN F001.01W",
             "CRN": "30465",
             "desc": "THE ANCIENT WORLD",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -15216,8 +15252,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Dargahi",
-            "seats": "1",
-            "wait_seats": "13",
+            "seats": "0",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ],
@@ -15264,7 +15300,7 @@
             "course": "HUMN F003.02W",
             "CRN": "30591",
             "desc": "WORLD MYTHS IN LIT ARTS & FILM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -15273,8 +15309,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Vaughan",
-            "seats": "1",
-            "wait_seats": "16",
+            "seats": "0",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ],
@@ -15517,7 +15553,7 @@
             "course": "HUMN F009.01W",
             "CRN": "30594",
             "desc": "ONCE UPON A TIME? FAIRY TALES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -15526,8 +15562,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Vaughan",
-            "seats": "1",
-            "wait_seats": "19",
+            "seats": "0",
+            "wait_seats": "20",
             "wait_cap": "20"
           }
         ]
@@ -15822,7 +15858,7 @@
             "units": "5.00",
             "instructor": "Wortz",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "21",
             "wait_cap": "25"
           }
         ],
@@ -15859,7 +15895,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wortz",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -16137,7 +16173,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Earley",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -16154,7 +16190,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Earley",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -18702,7 +18738,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Uilecan",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -18719,7 +18755,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Uilecan",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19064,7 +19100,7 @@
             "course": "MATH F105.03V",
             "CRN": "31062",
             "desc": "INTERMEDIATE ALGEBRA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "06:00 PM-08:15 PM",
             "start": "01/04/2021",
@@ -19073,7 +19109,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Low",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19153,7 +19189,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Uilecan",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -19170,7 +19206,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Uilecan",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22071,7 +22107,7 @@
             "course": "PHED F021A01W",
             "CRN": "30831",
             "desc": "BEGINNING HATHA YOGA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -22080,8 +22116,8 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -23976,7 +24012,7 @@
             "course": "PHYS F004B04V",
             "CRN": "31511",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "05:30 PM-07:45 PM",
             "start": "01/04/2021",
@@ -23985,15 +24021,15 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cascarano",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "PHYS F004B04V",
             "CRN": "31511",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "05:30 PM-07:45 PM",
             "start": "01/04/2021",
@@ -24002,15 +24038,15 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Yuen",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "PHYS F004B04V",
             "CRN": "31511",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "08:00 PM-10:50 PM",
             "start": "01/04/2021",
@@ -24019,8 +24055,8 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Staff",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -24748,7 +24784,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "20",
             "wait_cap": "20"
           }
