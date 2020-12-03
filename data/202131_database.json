@@ -290,7 +290,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Butler",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -554,7 +554,7 @@
             "units": "4.00",
             "instructor": "Negrete",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -720,7 +720,7 @@
             "units": "5.00",
             "instructor": "Lui",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ]
@@ -4102,23 +4102,6 @@
             "CRN": "31220",
             "desc": "FORM & FUNC PLANTS & ANIMALS",
             "status": "Open",
-            "days": "MW",
-            "time": "06:00 PM-06:50 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Moody",
-            "seats": "17",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "BIOL F001B03Z",
-            "CRN": "31220",
-            "desc": "FORM & FUNC PLANTS & ANIMALS",
-            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -4138,6 +4121,23 @@
             "status": "Open",
             "days": "TBA",
             "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Moody",
+            "seats": "17",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "BIOL F001B03Z",
+            "CRN": "31220",
+            "desc": "FORM & FUNC PLANTS & ANIMALS",
+            "status": "Open",
+            "days": "MW",
+            "time": "06:00 PM-06:50 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -4256,6 +4256,25 @@
             "wait_seats": "10",
             "wait_cap": "28"
           }
+        ],
+        "32029": [
+          {
+            "course": "BIOL F001C02V",
+            "CRN": "32029",
+            "desc": "EVLUTN,SYSTEMATICS & ECOLOGY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "",
+            "campus": "",
+            "units": "6.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "9": {
@@ -4265,8 +4284,8 @@
             "CRN": "30015",
             "desc": "ENVIRONMENTAL BIOLOGY",
             "status": "Open",
-            "days": "W",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -4282,8 +4301,8 @@
             "CRN": "30015",
             "desc": "ENVIRONMENTAL BIOLOGY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "10:00 AM-11:50 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -4360,14 +4379,14 @@
             "CRN": "30017",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Schultheis",
+            "instructor": "Markowitz",
             "seats": "0",
             "wait_seats": "11",
             "wait_cap": "12"
@@ -4377,14 +4396,14 @@
             "CRN": "30017",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:00 AM-11:50 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Markowitz",
+            "instructor": "Schultheis",
             "seats": "0",
             "wait_seats": "11",
             "wait_cap": "12"
@@ -4565,42 +4584,25 @@
             "CRN": "30023",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Schinske",
+            "seats": "0",
+            "wait_seats": "-2",
+            "wait_cap": "4"
+          },
+          {
+            "course": "BIOL F040A01Z",
+            "CRN": "30023",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
+            "status": "Full",
             "days": "W",
             "time": "12:00 PM-01:50 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Schinske",
-            "seats": "0",
-            "wait_seats": "-2",
-            "wait_cap": "4"
-          },
-          {
-            "course": "BIOL F040A01Z",
-            "CRN": "30023",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Schinske",
-            "seats": "0",
-            "wait_seats": "-2",
-            "wait_cap": "4"
-          },
-          {
-            "course": "BIOL F040A01Z",
-            "CRN": "30023",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -4707,8 +4709,8 @@
             "CRN": "30183",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "05:30 PM-08:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -4724,8 +4726,8 @@
             "CRN": "30183",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "W",
-            "time": "05:30 PM-08:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -4743,8 +4745,8 @@
             "CRN": "30025",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "T",
-            "time": "08:30 AM-11:20 AM",
+            "days": "TTh",
+            "time": "12:00 PM-01:50 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -4760,8 +4762,8 @@
             "CRN": "30025",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Full",
-            "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
+            "days": "T",
+            "time": "08:30 AM-11:20 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6713,7 +6715,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Mazloom",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7700,7 +7702,7 @@
             "units": "5.00",
             "instructor": "Larson",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           },
           {
@@ -7717,7 +7719,7 @@
             "units": "5.00",
             "instructor": "Larson",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -8230,7 +8232,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8828,7 +8830,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15444,7 +15446,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Latteri",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23454,7 +23456,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Su",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -23471,7 +23473,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Su",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -26683,7 +26685,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cormier",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -27500,7 +27502,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Mc Leod",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -27517,7 +27519,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Mc Leod",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           }
