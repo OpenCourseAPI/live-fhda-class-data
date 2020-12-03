@@ -4093,7 +4093,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Derugin",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4110,7 +4110,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Moody",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4127,7 +4127,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Derugin",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4144,7 +4144,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Moody",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4163,7 +4163,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Moody",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4180,7 +4180,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Derugin",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4197,7 +4197,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Derugin",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4214,7 +4214,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Moody",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4245,7 +4245,7 @@
             "desc": "EVLUTN,SYSTEMATICS & ECOLOGY",
             "status": "Waitlist",
             "days": "TTh",
-            "time": "02:30 PM-05:20 PM",
+            "time": "02:50 PM-05:50 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -5976,7 +5976,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7840,7 +7840,7 @@
             "course": "CHEM F025.02Z",
             "CRN": "30157",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "10:00 AM-11:50 AM",
             "start": "01/04/2021",
@@ -7849,7 +7849,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7857,7 +7857,7 @@
             "course": "CHEM F025.02Z",
             "CRN": "30157",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -7866,7 +7866,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11089,7 +11089,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Spragge",
+            "instructor": "Kim",
             "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -11601,7 +11601,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Verissimo Ira",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -12728,7 +12728,7 @@
             "units": "5.00",
             "instructor": "Finnegan",
             "seats": "0",
-            "wait_seats": "22",
+            "wait_seats": "21",
             "wait_cap": "25"
           }
         ],
@@ -12789,36 +12789,17 @@
             "wait_cap": "25"
           }
         ],
-        "31685": [
-          {
-            "course": "ENGL F001B19W",
-            "CRN": "31685",
-            "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Devault",
-            "seats": "25",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          }
-        ],
         "30680": [
           {
             "course": "ENGL F001B1DZ",
             "CRN": "30680",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "09:00 AM-10:15 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
-            "room": "ONLINE",
+            "room": "ESPREP",
             "campus": "FO",
             "units": "5.00",
             "instructor": "Reilly",
@@ -12848,11 +12829,11 @@
             "CRN": "30680",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
             "status": "Full",
-            "days": "TTh",
-            "time": "09:00 AM-10:15 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
-            "room": "ESPREP",
+            "room": "ONLINE",
             "campus": "FO",
             "units": "5.00",
             "instructor": "Reilly",
@@ -12943,8 +12924,8 @@
             "CRN": "30323",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
             "status": "Full",
-            "days": "TTh",
-            "time": "02:00 PM-03:15 PM",
+            "days": "F",
+            "time": "02:50 PM-03:40 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ESPREP",
@@ -12960,8 +12941,8 @@
             "CRN": "30323",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
             "status": "Full",
-            "days": "F",
-            "time": "02:50 PM-03:40 PM",
+            "days": "TTh",
+            "time": "02:00 PM-03:15 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ESPREP",
@@ -13241,7 +13222,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Sukumar",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -13258,7 +13239,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Sukumar",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -15235,7 +15216,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "18",
+            "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -15252,7 +15233,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "18",
+            "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -16404,6 +16385,25 @@
             "campus": "FO",
             "units": "3.00",
             "instructor": "Rockett",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "32028": [
+          {
+            "course": "KINS F016A2DW",
+            "CRN": "32028",
+            "desc": "PREVENTION OF ATHLETIC INJURIE",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "MVHS",
+            "campus": "FO",
+            "units": "3.00",
+            "instructor": "Walker",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -17827,7 +17827,7 @@
             "units": "5.00",
             "instructor": "Park Lee",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -22593,25 +22593,6 @@
             "wait_seats": "10",
             "wait_cap": "10"
           }
-        ],
-        "30755": [
-          {
-            "course": "PHED F047B04V",
-            "CRN": "30755",
-            "desc": "THIGHS, ABS & GLUTEUS (TAG)",
-            "status": "Open",
-            "days": "TTh",
-            "time": "08:30 AM-09:45 AM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Mac Neil",
-            "seats": "34",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
         ]
       },
       "47C": {
@@ -22651,25 +22632,6 @@
             "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
-          }
-        ],
-        "31612": [
-          {
-            "course": "PHED F047C04V",
-            "CRN": "31612",
-            "desc": "HIGH-INTENSITY TRAINING (HIIT)",
-            "status": "Open",
-            "days": "TTh",
-            "time": "08:30 AM-09:45 AM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Mac Neil",
-            "seats": "33",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ]
       },
@@ -23995,7 +23957,7 @@
             "course": "PHYS F004B04V",
             "CRN": "31511",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "05:30 PM-07:45 PM",
             "start": "01/04/2021",
@@ -24004,7 +23966,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cascarano",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           },
@@ -24012,7 +23974,7 @@
             "course": "PHYS F004B04V",
             "CRN": "31511",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "05:30 PM-07:45 PM",
             "start": "01/04/2021",
@@ -24021,7 +23983,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Yuen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           },
@@ -24029,7 +23991,7 @@
             "course": "PHYS F004B04V",
             "CRN": "31511",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "M",
             "time": "08:00 PM-10:50 PM",
             "start": "01/04/2021",
@@ -24038,7 +24000,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Staff",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           }
