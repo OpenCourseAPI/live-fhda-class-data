@@ -1982,7 +1982,7 @@
       "463Y": {
         "32016": [
           {
-            "course": "ALCB F463Y1V",
+            "course": "ALCB F463Y01V",
             "CRN": "32016",
             "desc": "CREATIVE WRITING",
             "status": "Open",
@@ -2796,7 +2796,7 @@
             "course": "ART F001.02W",
             "CRN": "30160",
             "desc": "INTRODUCTION TO ART",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -2805,7 +2805,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Gomes",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -7535,7 +7535,7 @@
             "units": "5.00",
             "instructor": "Ermut",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           },
           {
@@ -7552,7 +7552,7 @@
             "units": "5.00",
             "instructor": "Ermut",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -9995,7 +9995,7 @@
             "units": "5.00",
             "instructor": "Threet",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -12968,7 +12968,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Robbins",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13189,7 +13189,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Chan",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14282,7 +14282,7 @@
             "course": "GID F036.01W",
             "CRN": "30205",
             "desc": "TYPOGRAPHY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -14291,7 +14291,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21837,25 +21837,6 @@
         ]
       },
       "402A": {
-        "31739": [
-          {
-            "course": "NCP F402A0",
-            "CRN": "31739",
-            "desc": "FAMLY IN LIVES CHLD I:ERLY YRS",
-            "status": "Open",
-            "days": "T",
-            "time": "06:00 PM-07:50 PM",
-            "start": "02/23/2021",
-            "end": "03/16/2021",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Staff",
-            "seats": "35",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "31732": [
           {
             "course": "NCP F402A01V",
@@ -21870,25 +21851,6 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Vargas",
-            "seats": "35",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "31738": [
-          {
-            "course": "NCP F402A02",
-            "CRN": "31738",
-            "desc": "FAMLY IN LIVES CHLD I:ERLY YRS",
-            "status": "Open",
-            "days": "T",
-            "time": "06:00 PM-07:50 PM",
-            "start": "01/19/2021",
-            "end": "02/09/2021",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Staff",
             "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -21984,6 +21946,44 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Galas",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ],
+        "31739": [
+          {
+            "course": "NCP F402A07V",
+            "CRN": "31739",
+            "desc": "FAMLY IN LIVES CHLD I:ERLY YRS",
+            "status": "Open",
+            "days": "T",
+            "time": "06:00 PM-07:50 PM",
+            "start": "02/23/2021",
+            "end": "03/16/2021",
+            "room": "ONLINE",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Staff",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ],
+        "31738": [
+          {
+            "course": "NCP F402A08V",
+            "CRN": "31738",
+            "desc": "FAMLY IN LIVES CHLD I:ERLY YRS",
+            "status": "Open",
+            "days": "T",
+            "time": "06:00 PM-07:50 PM",
+            "start": "01/19/2021",
+            "end": "02/09/2021",
+            "room": "ONLINE",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Staff",
             "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -24523,7 +24523,7 @@
         ],
         "31921": [
           {
-            "course": "PSE F061A02",
+            "course": "PSE F061A02V",
             "CRN": "31921",
             "desc": "TUTOR TRAINING I",
             "status": "Full",
