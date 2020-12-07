@@ -7035,7 +7035,7 @@
             "course": "C S F048A01W",
             "CRN": "31721",
             "desc": "DATA VISUALIZATION",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -7045,7 +7045,7 @@
             "units": "4.50",
             "instructor": "Lankester",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -10282,7 +10282,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Barao",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10303,7 +10303,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Miyasaki",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -21441,6 +21441,65 @@
           }
         ]
       },
+      "436": {
+        "32032": [
+          {
+            "course": "NCEL F436.01Z",
+            "CRN": "32032",
+            "desc": "ADVANCED GRAMMAR",
+            "status": "Open",
+            "days": "TTh",
+            "time": "10:00 AM-11:25 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "McCormick",
+            "seats": "10",
+            "wait_seats": "20",
+            "wait_cap": "20"
+          },
+          {
+            "course": "NCEL F436.01Z",
+            "CRN": "32032",
+            "desc": "ADVANCED GRAMMAR",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "McCormick",
+            "seats": "10",
+            "wait_seats": "20",
+            "wait_cap": "20"
+          }
+        ]
+      },
+      "437": {
+        "32033": [
+          {
+            "course": "NCEL F437.01Z",
+            "CRN": "32033",
+            "desc": "BASIC COMPOSITION SKILLS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "",
+            "campus": "",
+            "units": "0.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "470": {
         "30810": [
           {
@@ -24703,7 +24762,7 @@
             "course": "PSYC F001.03W",
             "CRN": "30063",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -24712,7 +24771,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Strader",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
