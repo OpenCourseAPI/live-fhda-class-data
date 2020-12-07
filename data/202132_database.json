@@ -7510,42 +7510,6 @@
             "wait_cap": "10"
           }
         ],
-        "33172": [
-          {
-            "course": "BUS D010.19Z",
-            "CRN": "33172",
-            "desc": "INTRO TO BUSINESS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Smith",
-            "seats": "37",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "BUS D010.19Z",
-            "CRN": "33172",
-            "desc": "INTRO TO BUSINESS",
-            "status": "Open",
-            "days": "MW",
-            "time": "01:30 PM-02:45 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Smith",
-            "seats": "37",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "00275": [
           {
             "course": "BUS D010.63Z",
@@ -7619,6 +7583,25 @@
             "instructor": "Niedermier",
             "seats": "0",
             "wait_seats": "9",
+            "wait_cap": "10"
+          }
+        ],
+        "33172": [
+          {
+            "course": "BUS D010.70",
+            "CRN": "33172",
+            "desc": "INTRO TO BUSINESS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Smith",
+            "seats": "37",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
