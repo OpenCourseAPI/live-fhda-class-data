@@ -16,7 +16,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -189,7 +189,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Drake",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -797,7 +797,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ponleithner",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2358,7 +2358,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Wolf",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2552,7 +2552,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Maurer",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3869,14 +3869,14 @@
             "CRN": "30011",
             "desc": "PRIN OF CELL BIOLOGY",
             "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-12:50 PM",
+            "days": "TTh",
+            "time": "12:00 PM-01:50 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "6.00",
-            "instructor": "Erickson",
+            "instructor": "Pallesen",
             "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -3886,14 +3886,14 @@
             "CRN": "30011",
             "desc": "PRIN OF CELL BIOLOGY",
             "status": "Open",
-            "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
+            "days": "MW",
+            "time": "10:00 AM-12:50 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "6.00",
-            "instructor": "Pallesen",
+            "instructor": "Erickson",
             "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -4360,8 +4360,8 @@
             "CRN": "30016",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Waitlist",
-            "days": "M",
-            "time": "10:00 AM-10:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -4377,8 +4377,8 @@
             "CRN": "30016",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "10:00 AM-10:50 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -4420,7 +4420,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Markowitz",
+            "instructor": "Moody",
             "seats": "0",
             "wait_seats": "11",
             "wait_cap": "12"
@@ -4430,14 +4430,31 @@
             "CRN": "30017",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "10:00 AM-11:50 AM",
+            "days": "M",
+            "time": "10:00 AM-10:50 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Schultheis",
+            "instructor": "Moody",
+            "seats": "0",
+            "wait_seats": "11",
+            "wait_cap": "12"
+          },
+          {
+            "course": "BIOL F010.02Z",
+            "CRN": "30017",
+            "desc": "GEN BIOL-BASIC PRINCPLES",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Markowitz",
             "seats": "0",
             "wait_seats": "11",
             "wait_cap": "12"
@@ -5004,7 +5021,7 @@
             "units": "5.00",
             "instructor": "Folse",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "4"
           },
           {
@@ -5021,7 +5038,7 @@
             "units": "5.00",
             "instructor": "Lagna",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "4"
           },
           {
@@ -5038,7 +5055,7 @@
             "units": "5.00",
             "instructor": "Lagna",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "4"
           }
         ],
@@ -5057,7 +5074,7 @@
             "units": "5.00",
             "instructor": "Cabrera",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "4"
           },
           {
@@ -5074,7 +5091,7 @@
             "units": "5.00",
             "instructor": "Cabrera",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "4"
           }
         ],
@@ -6048,7 +6065,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7462,7 +7479,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7479,7 +7496,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13862,7 +13879,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "15",
+            "seats": "5",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -13879,7 +13896,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "15",
+            "seats": "5",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13900,7 +13917,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McNeary",
-            "seats": "12",
+            "seats": "2",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -13917,7 +13934,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McNeary",
-            "seats": "12",
+            "seats": "2",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14096,7 +14113,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Meezan",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -18322,7 +18339,7 @@
             "course": "MATH F010.08W",
             "CRN": "30757",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -18331,7 +18348,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18827,7 +18844,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19278,7 +19295,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Ni",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22268,6 +22285,25 @@
             "wait_seats": "10",
             "wait_cap": "10"
           }
+        ],
+        "32034": [
+          {
+            "course": "PHED F021A03W",
+            "CRN": "32034",
+            "desc": "BEGINNING HATHA YOGA",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Flannery",
+            "seats": "15",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
         ]
       },
       "21B": {
@@ -22287,6 +22323,25 @@
             "instructor": "Flannery",
             "seats": "0",
             "wait_seats": "9",
+            "wait_cap": "10"
+          }
+        ],
+        "32035": [
+          {
+            "course": "PHED F021B03W",
+            "CRN": "32035",
+            "desc": "INTERMEDIATE HATHA YOGA",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Flannery",
+            "seats": "25",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -22429,7 +22484,7 @@
             "units": "1.00",
             "instructor": "Flannery",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -22998,7 +23053,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -23015,7 +23070,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23036,7 +23091,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Provost",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24188,7 +24243,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Wang",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -24205,7 +24260,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Wang",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -24222,7 +24277,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Wang",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24965,7 +25020,7 @@
             "course": "PSYC F004.01Z",
             "CRN": "30067",
             "desc": "INTRO TO BIOPSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "10:00 AM-10:50 AM",
             "start": "01/04/2021",
@@ -24974,7 +25029,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rideaux",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "13",
             "wait_cap": "20"
           },
@@ -24982,7 +25037,7 @@
             "course": "PSYC F004.01Z",
             "CRN": "30067",
             "desc": "INTRO TO BIOPSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -24991,7 +25046,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rideaux",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "13",
             "wait_cap": "20"
           }
@@ -25053,7 +25108,7 @@
             "units": "4.00",
             "instructor": "Robins",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ]
@@ -25410,7 +25465,7 @@
             "course": "PSYC F040.03W",
             "CRN": "30606",
             "desc": "HUMAN DEVELOPMENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -25419,7 +25474,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Strader",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
