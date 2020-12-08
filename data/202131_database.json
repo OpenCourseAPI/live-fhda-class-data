@@ -532,7 +532,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Glass",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -565,7 +565,7 @@
             "course": "ACTG F066.01W",
             "CRN": "30086",
             "desc": "COST ACCOUNTING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -574,7 +574,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Fakoor",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3105,42 +3105,25 @@
             "CRN": "30373",
             "desc": "FIGURE DRAWING",
             "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Gomes",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "10"
+          },
+          {
+            "course": "ART F004D01Z",
+            "CRN": "30373",
+            "desc": "FIGURE DRAWING",
+            "status": "Full",
             "days": "S",
             "time": "09:00 AM-10:50 AM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Gomes",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
-          },
-          {
-            "course": "ART F004D01Z",
-            "CRN": "30373",
-            "desc": "FIGURE DRAWING",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Gomes",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
-          },
-          {
-            "course": "ART F004D01Z",
-            "CRN": "30373",
-            "desc": "FIGURE DRAWING",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -3257,42 +3240,25 @@
             "CRN": "30552",
             "desc": "ACRYLIC PAINTING I",
             "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Levitch",
+            "seats": "0",
+            "wait_seats": "1",
+            "wait_cap": "5"
+          },
+          {
+            "course": "ART F019B01Z",
+            "CRN": "30552",
+            "desc": "ACRYLIC PAINTING I",
+            "status": "Waitlist",
             "days": "W",
             "time": "07:00 PM-08:50 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Levitch",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "5"
-          },
-          {
-            "course": "ART F019B01Z",
-            "CRN": "30552",
-            "desc": "ACRYLIC PAINTING I",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Levitch",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "5"
-          },
-          {
-            "course": "ART F019B01Z",
-            "CRN": "30552",
-            "desc": "ACRYLIC PAINTING I",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -3454,6 +3420,27 @@
             "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
+          }
+        ]
+      },
+      "71R": {
+        "32037": [
+          {
+            "course": "ART F071R01W",
+            "CRN": "32037",
+            "desc": "INDEPENDENT STUDY IN ART",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Gomes",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
@@ -5571,14 +5558,14 @@
             "CRN": "30179",
             "desc": "MICROBIOLOGY",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "09:00 AM-11:50 AM",
+            "days": "MW",
+            "time": "12:00 PM-01:50 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "6.00",
-            "instructor": "Edwards",
+            "instructor": "Gosavi",
             "seats": "0",
             "wait_seats": "3",
             "wait_cap": "10"
@@ -5588,14 +5575,14 @@
             "CRN": "30179",
             "desc": "MICROBIOLOGY",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "12:00 PM-01:50 PM",
+            "days": "TTh",
+            "time": "09:00 AM-11:50 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "6.00",
-            "instructor": "Gosavi",
+            "instructor": "Edwards",
             "seats": "0",
             "wait_seats": "3",
             "wait_cap": "10"
@@ -5660,23 +5647,6 @@
             "CRN": "30393",
             "desc": "MICROBIOLOGY",
             "status": "Waitlist",
-            "days": "T",
-            "time": "02:30 PM-03:30 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Cooper",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "10"
-          },
-          {
-            "course": "BIOL F041.04Z",
-            "CRN": "30393",
-            "desc": "MICROBIOLOGY",
-            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -5686,7 +5656,24 @@
             "units": "6.00",
             "instructor": "Cooper",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
+            "wait_cap": "10"
+          },
+          {
+            "course": "BIOL F041.04Z",
+            "CRN": "30393",
+            "desc": "MICROBIOLOGY",
+            "status": "Waitlist",
+            "days": "T",
+            "time": "02:30 PM-03:30 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Cooper",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -5703,7 +5690,7 @@
             "units": "6.00",
             "instructor": "Gosavi",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -5714,7 +5701,7 @@
             "desc": "MICROBIOLOGY",
             "status": "Waitlist",
             "days": "TTh",
-            "time": "07:30 PM-10:20 PM",
+            "time": "05:30 PM-07:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -5731,7 +5718,7 @@
             "desc": "MICROBIOLOGY",
             "status": "Waitlist",
             "days": "TTh",
-            "time": "05:30 PM-07:20 PM",
+            "time": "07:30 PM-10:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -5758,7 +5745,7 @@
             "units": "6.00",
             "instructor": "Manoukian",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
@@ -5775,7 +5762,7 @@
             "units": "6.00",
             "instructor": "Manoukian",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
@@ -5792,7 +5779,7 @@
             "units": "6.00",
             "instructor": "Hawkins",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -5845,8 +5832,42 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "6.00",
-            "instructor": "Staff",
-            "seats": "24",
+            "instructor": "Nekrep",
+            "seats": "22",
+            "wait_seats": "8",
+            "wait_cap": "8"
+          },
+          {
+            "course": "BIOL F041.08Z",
+            "CRN": "32036",
+            "desc": "MICROBIOLOGY",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Manoukian",
+            "seats": "22",
+            "wait_seats": "8",
+            "wait_cap": "8"
+          },
+          {
+            "course": "BIOL F041.08Z",
+            "CRN": "32036",
+            "desc": "MICROBIOLOGY",
+            "status": "Open",
+            "days": "TTh",
+            "time": "04:00 PM-05:20 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Manoukian",
+            "seats": "22",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -5889,7 +5910,7 @@
             "units": "1.00",
             "instructor": "Cooper",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -5918,40 +5939,6 @@
             "CRN": "31089",
             "desc": "LEADERS-DIVERSITY IN SCIENCE",
             "status": "Open",
-            "days": "W",
-            "time": "03:00 PM-04:50 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Cabrera",
-            "seats": "3",
-            "wait_seats": "12",
-            "wait_cap": "12"
-          },
-          {
-            "course": "BIOL F081.01Z",
-            "CRN": "31089",
-            "desc": "LEADERS-DIVERSITY IN SCIENCE",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Cabrera",
-            "seats": "3",
-            "wait_seats": "12",
-            "wait_cap": "12"
-          },
-          {
-            "course": "BIOL F081.01Z",
-            "CRN": "31089",
-            "desc": "LEADERS-DIVERSITY IN SCIENCE",
-            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -5960,6 +5947,40 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Schinske",
+            "seats": "3",
+            "wait_seats": "12",
+            "wait_cap": "12"
+          },
+          {
+            "course": "BIOL F081.01Z",
+            "CRN": "31089",
+            "desc": "LEADERS-DIVERSITY IN SCIENCE",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Cabrera",
+            "seats": "3",
+            "wait_seats": "12",
+            "wait_cap": "12"
+          },
+          {
+            "course": "BIOL F081.01Z",
+            "CRN": "31089",
+            "desc": "LEADERS-DIVERSITY IN SCIENCE",
+            "status": "Open",
+            "days": "W",
+            "time": "03:00 PM-04:50 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Cabrera",
             "seats": "3",
             "wait_seats": "12",
             "wait_cap": "12"
@@ -6705,7 +6726,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Cecil",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7758,7 +7779,7 @@
             "course": "CHEM F001B03W",
             "CRN": "30147",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -7767,7 +7788,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rao",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "10"
           }
@@ -8429,7 +8450,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salehi",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8446,7 +8467,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salehi",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9246,7 +9267,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Latta",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9593,7 +9614,7 @@
             "course": "COMM F001A06W",
             "CRN": "30518",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -9602,7 +9623,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mohammadi",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -9856,25 +9877,6 @@
             "seats": "0",
             "wait_seats": "4",
             "wait_cap": "10"
-          }
-        ],
-        "30416": [
-          {
-            "course": "COMM F004.03W",
-            "CRN": "30416",
-            "desc": "GROUP DISCUSSION",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Pogosian",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ],
         "32031": [
@@ -11206,7 +11208,7 @@
             "course": "D H F356.01W",
             "CRN": "30842",
             "desc": "EDUC THEORY, PRACTICE & ADMIN",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11215,7 +11217,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Spragge",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11854,7 +11856,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Huseman",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -11871,7 +11873,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lomeli Franco",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -11888,7 +11890,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Huseman",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -11905,7 +11907,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lomeli Franco",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14635,7 +14637,7 @@
             "units": "4.00",
             "instructor": "Wittner",
             "seats": "0",
-            "wait_seats": "17",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ],
@@ -14653,7 +14655,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Wittner",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -14741,7 +14743,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Coburn",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -18932,7 +18934,7 @@
             "course": "MATH F048B02V",
             "CRN": "30406",
             "desc": "PRECALCULUS II",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "10:00 AM-12:15 PM",
             "start": "01/04/2021",
@@ -18941,7 +18943,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cembellin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -20235,7 +20237,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davies",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20366,7 +20368,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Barkley",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -20383,7 +20385,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Carey",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -20567,7 +20569,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Barkley",
-            "seats": "25",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -20584,7 +20586,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Carey",
-            "seats": "25",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
