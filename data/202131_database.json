@@ -4593,7 +4593,7 @@
             "units": "5.00",
             "instructor": "Nekrep",
             "seats": "1",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "12"
           },
           {
@@ -4610,7 +4610,7 @@
             "units": "5.00",
             "instructor": "Nekrep",
             "seats": "1",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "12"
           }
         ]
@@ -14863,7 +14863,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ziegenhorn",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -18123,7 +18123,7 @@
             "units": "5.00",
             "instructor": "Park Lee",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -24611,7 +24611,7 @@
             "units": "5.00",
             "instructor": "Ryer",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "19",
             "wait_cap": "20"
           }
         ]
@@ -25159,7 +25159,7 @@
             "course": "PSYC F010.01Z",
             "CRN": "31667",
             "desc": "RESEARCH METHODS & DESIGNS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "12:00 PM-01:15 PM",
             "start": "01/04/2021",
@@ -25169,14 +25169,14 @@
             "units": "5.00",
             "instructor": "Lin",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "PSYC F010.01Z",
             "CRN": "31667",
             "desc": "RESEARCH METHODS & DESIGNS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "01:30 PM-02:20 PM",
             "start": "01/04/2021",
@@ -25186,48 +25186,12 @@
             "units": "5.00",
             "instructor": "Lin",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "PSYC F010.01Z",
             "CRN": "31667",
-            "desc": "RESEARCH METHODS & DESIGNS",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Lin",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "10"
-          },
-          {
-            "course": "PSYC F010.01Z",
-            "CRN": "31667",
-            "desc": "RESEARCH METHODS & DESIGNS",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Lin",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "10"
-          }
-        ],
-        "31670": [
-          {
-            "course": "PSYC F010.02W",
-            "CRN": "31670",
             "desc": "RESEARCH METHODS & DESIGNS",
             "status": "Full",
             "days": "TBA",
@@ -25237,9 +25201,45 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Bauermeister",
+            "instructor": "Lin",
             "seats": "0",
             "wait_seats": "0",
+            "wait_cap": "10"
+          },
+          {
+            "course": "PSYC F010.01Z",
+            "CRN": "31667",
+            "desc": "RESEARCH METHODS & DESIGNS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Lin",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "10"
+          }
+        ],
+        "31670": [
+          {
+            "course": "PSYC F010.02W",
+            "CRN": "31670",
+            "desc": "RESEARCH METHODS & DESIGNS",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Bauermeister",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
