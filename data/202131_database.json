@@ -413,7 +413,7 @@
             "units": "5.00",
             "instructor": "Mayer",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ],
@@ -2826,7 +2826,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2868,7 +2868,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9294,7 +9294,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Freeman",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -9393,7 +9393,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Jimenez",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11269,69 +11269,6 @@
           }
         ]
       },
-      "4A": {
-        "30285": [
-          {
-            "course": "DANC F004A01W",
-            "CRN": "30285",
-            "desc": "BEG BALLROOM & SOCIAL DANCE",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Gong",
-            "seats": "35",
-            "wait_seats": "30",
-            "wait_cap": "30"
-          }
-        ]
-      },
-      "4B": {
-        "30286": [
-          {
-            "course": "DANC F004B01W",
-            "CRN": "30286",
-            "desc": "INT BALLROOM & SOCIAL DANCE",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Gong",
-            "seats": "35",
-            "wait_seats": "30",
-            "wait_cap": "30"
-          }
-        ]
-      },
-      "4C": {
-        "30455": [
-          {
-            "course": "DANC F004C01W",
-            "CRN": "30455",
-            "desc": "ADV BALLROOM & SOCIAL DANCE",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Gong",
-            "seats": "35",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
       "10": {
         "30021": [
           {
@@ -12621,7 +12558,7 @@
             "course": "ENGL F001B02W",
             "CRN": "30062",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -12630,7 +12567,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13312,7 +13249,7 @@
       "70R": {
         "32040": [
           {
-            "course": "ENGL F070R01",
+            "course": "ENGL F070R01W",
             "CRN": "32040",
             "desc": "INDEPENDENT STUDY ENGLISH",
             "status": "Open",
@@ -14386,7 +14323,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20172,7 +20109,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gold",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20279,7 +20216,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hartwell",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20296,7 +20233,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Barkley",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20313,7 +20250,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Carey",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20420,7 +20357,7 @@
             "course": "MUS F008.01Z",
             "CRN": "30138",
             "desc": "MUSIC OF AMERICAN CULTURES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:00 PM-01:50 PM",
             "start": "01/04/2021",
@@ -20429,7 +20366,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hartwell",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20437,7 +20374,7 @@
             "course": "MUS F008.01Z",
             "CRN": "30138",
             "desc": "MUSIC OF AMERICAN CULTURES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:00 PM-01:50 PM",
             "start": "01/04/2021",
@@ -20446,7 +20383,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Carey",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20454,7 +20391,7 @@
             "course": "MUS F008.01Z",
             "CRN": "30138",
             "desc": "MUSIC OF AMERICAN CULTURES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -20463,7 +20400,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Barkley",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20801,7 +20738,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -20818,7 +20755,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -20835,7 +20772,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22489,6 +22426,25 @@
             "wait_seats": "10",
             "wait_cap": "10"
           }
+        ],
+        "32042": [
+          {
+            "course": "PHED F022B04W",
+            "CRN": "32042",
+            "desc": "PILATES & YOGA",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Gong",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
         ]
       },
       "22C": {
@@ -22958,7 +22914,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tapia",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -29100,7 +29056,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Zanders",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
