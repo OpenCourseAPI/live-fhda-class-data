@@ -5359,7 +5359,7 @@
             "units": "6.00",
             "instructor": "Kang'a",
             "seats": "1",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           },
           {
@@ -5376,7 +5376,7 @@
             "units": "6.00",
             "instructor": "Kang'a",
             "seats": "1",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -9381,7 +9381,7 @@
             "units": "5.00",
             "instructor": "Lane",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
@@ -9398,7 +9398,7 @@
             "units": "5.00",
             "instructor": "Lane",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
@@ -9415,7 +9415,7 @@
             "units": "5.00",
             "instructor": "Lane",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -11486,7 +11486,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -11503,7 +11503,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -11520,7 +11520,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -12296,7 +12296,7 @@
             "course": "CIS D029.01Z",
             "CRN": "34926",
             "desc": "ADV C++ PROGRAMMING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "01:30 PM-03:20 PM",
             "start": "01/04/2021",
@@ -12306,14 +12306,14 @@
             "units": "4.50",
             "instructor": "Bentley",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D029.01Z",
             "CRN": "34926",
             "desc": "ADV C++ PROGRAMMING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -12323,7 +12323,7 @@
             "units": "4.50",
             "instructor": "Bentley",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -16996,7 +16996,7 @@
             "course": "E S D003.50Z",
             "CRN": "32477",
             "desc": "IMAGERY OF THE ENVIRONMENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -17005,7 +17005,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thorensen",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20420,7 +20420,7 @@
             "course": "EWRT D001A04Q",
             "CRN": "00748",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "09:30 AM-10:20 AM",
             "start": "01/04/2021",
@@ -20429,7 +20429,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wilson",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20437,7 +20437,7 @@
             "course": "EWRT D001A04Q",
             "CRN": "00748",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -20446,7 +20446,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wilson",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -25473,7 +25473,7 @@
             "units": "4.00",
             "instructor": "Howard-Pitney",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ]
@@ -27437,7 +27437,7 @@
             "units": "4.00",
             "instructor": "Breiter",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -27594,7 +27594,7 @@
             "course": "HUMI D001.52Z",
             "CRN": "32606",
             "desc": "CREATIVE MINDS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -27603,7 +27603,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rueda",
-            "seats": "2",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -30923,7 +30923,7 @@
             "course": "LART D250.04Q",
             "CRN": "36503",
             "desc": "ACADEMIC READING AND WRITING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -30932,7 +30932,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Wilson",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -32099,7 +32099,7 @@
             "course": "MATH D001B01Z",
             "CRN": "31440",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWThF",
             "time": "07:30 AM-08:20 AM",
             "start": "01/04/2021",
@@ -32109,7 +32109,7 @@
             "units": "5.00",
             "instructor": "Taylor",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -32604,8 +32604,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Njinimbam",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "2",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -33448,7 +33448,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yayli",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34208,7 +34208,7 @@
             "units": "5.00",
             "instructor": "Gutierrez",
             "seats": "1",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -34455,7 +34455,7 @@
             "units": "5.00",
             "instructor": "Bambhania",
             "seats": "1",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "6"
           },
           {
@@ -34472,7 +34472,7 @@
             "units": "5.00",
             "instructor": "Bambhania",
             "seats": "1",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -38022,7 +38022,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Mattis",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -40323,7 +40323,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -40570,7 +40570,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -41497,7 +41497,7 @@
             "units": "4.00",
             "instructor": "Hassett",
             "seats": "2",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "8"
           }
         ],
@@ -43549,7 +43549,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Alvarez",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
