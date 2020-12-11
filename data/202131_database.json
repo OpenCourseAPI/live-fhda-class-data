@@ -269,7 +269,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Butler",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -7033,7 +7033,7 @@
             "units": "4.50",
             "instructor": "Reed",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -10211,25 +10211,6 @@
             "wait_seats": "15",
             "wait_cap": "15"
           }
-        ],
-        "31804": [
-          {
-            "course": "CRLP F007.2DW",
-            "CRN": "31804",
-            "desc": "SELF-ASSESSMENT",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "TIDE",
-            "campus": "FO",
-            "units": "4.00",
-            "instructor": "Villanueva",
-            "seats": "0",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
         ]
       },
       "71": {
@@ -10285,6 +10266,25 @@
             "campus": "FO",
             "units": "1.00",
             "instructor": "Villanueva",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "32047": [
+          {
+            "course": "CRLP F071.4DW",
+            "CRN": "32047",
+            "desc": "EXPLORING CAREER FIELDS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "TIDE",
+            "campus": "FO",
+            "units": "1.00",
+            "instructor": "Jackson Sandoval",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -22405,7 +22405,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25041,7 +25041,7 @@
             "course": "PSYC F010.01Z",
             "CRN": "31667",
             "desc": "RESEARCH METHODS & DESIGNS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:00 PM-01:15 PM",
             "start": "01/04/2021",
@@ -25051,14 +25051,14 @@
             "units": "5.00",
             "instructor": "Lin",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
             "course": "PSYC F010.01Z",
             "CRN": "31667",
             "desc": "RESEARCH METHODS & DESIGNS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "01:30 PM-02:20 PM",
             "start": "01/04/2021",
@@ -25068,14 +25068,14 @@
             "units": "5.00",
             "instructor": "Lin",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
             "course": "PSYC F010.01Z",
             "CRN": "31667",
             "desc": "RESEARCH METHODS & DESIGNS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -25085,14 +25085,14 @@
             "units": "5.00",
             "instructor": "Lin",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
             "course": "PSYC F010.01Z",
             "CRN": "31667",
             "desc": "RESEARCH METHODS & DESIGNS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -25102,7 +25102,7 @@
             "units": "5.00",
             "instructor": "Lin",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
