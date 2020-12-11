@@ -35,7 +35,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "17",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -54,7 +54,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "21",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -73,7 +73,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "52",
+            "seats": "42",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -9671,7 +9671,7 @@
             "course": "COMM F001A07W",
             "CRN": "30621",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -9681,7 +9681,7 @@
             "units": "5.00",
             "instructor": "Firenzi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -11571,7 +11571,7 @@
             "units": "5.00",
             "instructor": "Dupree",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "15",
             "wait_cap": "20"
           },
           {
@@ -11588,7 +11588,7 @@
             "units": "5.00",
             "instructor": "Dupree",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "15",
             "wait_cap": "20"
           }
         ],
@@ -15000,7 +15000,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Draper",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -16986,6 +16986,23 @@
             "CRN": "31942",
             "desc": "INTEGRAT 21ST CENT SKILLS INST",
             "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/11/2021",
+            "end": "03/20/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Pereira",
+            "seats": "11",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "LINC F059.01T",
+            "CRN": "31942",
+            "desc": "INTEGRAT 21ST CENT SKILLS INST",
+            "status": "Open",
             "days": "S",
             "time": "01:00 PM-02:50 PM",
             "start": "01/11/2021",
@@ -17003,11 +17020,28 @@
             "CRN": "31942",
             "desc": "INTEGRAT 21ST CENT SKILLS INST",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "S",
+            "time": "01:00 PM-02:50 PM",
             "start": "01/11/2021",
             "end": "03/20/2021",
-            "room": "ONLINE",
+            "room": "4006",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Pereira",
+            "seats": "11",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "LINC F059.01T",
+            "CRN": "31942",
+            "desc": "INTEGRAT 21ST CENT SKILLS INST",
+            "status": "Open",
+            "days": "S",
+            "time": "01:00 PM-02:50 PM",
+            "start": "01/11/2021",
+            "end": "03/20/2021",
+            "room": "4006",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Pereira",
@@ -17114,27 +17148,6 @@
           }
         ]
       },
-      "73H": {
-        "31744": [
-          {
-            "course": "LINC F073H01",
-            "CRN": "31744",
-            "desc": "ADOBE ILLUSTRATOR OVERV",
-            "status": "Open",
-            "days": "F",
-            "time": "04:00 PM-07:50 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "4006",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Pereira",
-            "seats": "35",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "75A": {
         "31761": [
           {
@@ -17149,7 +17162,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "3.00",
-            "instructor": "Randall",
+            "instructor": "Pereira",
             "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -17166,7 +17179,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "3.00",
-            "instructor": "Pereira",
+            "instructor": "Randall",
             "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -17883,7 +17896,7 @@
             "course": "MATH F001C02V",
             "CRN": "31024",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "10:00 AM-12:15 PM",
             "start": "01/04/2021",
@@ -17893,7 +17906,7 @@
             "units": "5.00",
             "instructor": "Nghiem",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -20040,7 +20053,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20124,7 +20137,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -24896,7 +24909,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Strader",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -26751,7 +26764,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gibbs Stayte",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           }
