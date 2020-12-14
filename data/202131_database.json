@@ -54,7 +54,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6496,7 +6496,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6513,7 +6513,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6928,7 +6928,7 @@
             "course": "C S F003A05W",
             "CRN": "31719",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -6937,8 +6937,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Trinh",
-            "seats": "0",
-            "wait_seats": "9",
+            "seats": "1",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -7091,7 +7091,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9836,6 +9836,25 @@
             "wait_seats": "0",
             "wait_cap": "10"
           }
+        ],
+        "32056": [
+          {
+            "course": "COMM F002.04W",
+            "CRN": "32056",
+            "desc": "INTERPERSONAL COMMUNICATION",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Ni",
+            "seats": "30",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
         ]
       },
       "3": {
@@ -10007,7 +10026,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "15",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12417,7 +12436,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "White",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -18572,7 +18591,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Knobel",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19063,7 +19082,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Uilecan",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19803,27 +19822,6 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
-          }
-        ]
-      },
-      "51B": {
-        "30513": [
-          {
-            "course": "MTEC F051B01W",
-            "CRN": "30513",
-            "desc": "STUDIO RECORDING II",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Kuehnl",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
           }
         ]
       },
@@ -23122,7 +23120,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Herman",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -27795,6 +27793,25 @@
             "units": "4.00",
             "instructor": "Mc Leod",
             "seats": "12",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "32055": [
+          {
+            "course": "THTR F045C2DW",
+            "CRN": "32055",
+            "desc": "TECH THEATRE PRODUCTION III",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/07/2021",
+            "end": "06/03/2021",
+            "room": "GHS",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Sandberg",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
