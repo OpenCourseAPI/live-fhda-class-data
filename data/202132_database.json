@@ -2257,7 +2257,7 @@
             "units": "4.00",
             "instructor": "Roque",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ]
@@ -3753,7 +3753,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cichanski",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -3770,7 +3770,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cichanski",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -5742,7 +5742,7 @@
             "desc": "HUMAN BIOLOGY",
             "status": "Waitlist",
             "days": "S",
-            "time": "01:30 PM-04:20 PM",
+            "time": "09:30 AM-01:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -5759,7 +5759,7 @@
             "desc": "HUMAN BIOLOGY",
             "status": "Waitlist",
             "days": "S",
-            "time": "09:30 AM-01:20 PM",
+            "time": "01:30 PM-04:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -5849,8 +5849,8 @@
             "CRN": "37189",
             "desc": "HUMAN BIOLOGY",
             "status": "Open",
-            "days": "TTh",
-            "time": "09:30 AM-11:20 AM",
+            "days": "T",
+            "time": "11:30 AM-02:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -5866,42 +5866,6 @@
             "CRN": "37189",
             "desc": "HUMAN BIOLOGY",
             "status": "Open",
-            "days": "T",
-            "time": "11:30 AM-02:20 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sengupta",
-            "seats": "17",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ],
-        "37190": [
-          {
-            "course": "BIOL D011.05Z",
-            "CRN": "37190",
-            "desc": "HUMAN BIOLOGY",
-            "status": "Open",
-            "days": "Th",
-            "time": "11:30 AM-02:20 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sengupta",
-            "seats": "27",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL D011.05Z",
-            "CRN": "37190",
-            "desc": "HUMAN BIOLOGY",
-            "status": "Open",
             "days": "TTh",
             "time": "09:30 AM-11:20 AM",
             "start": "01/04/2021",
@@ -5910,7 +5874,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "27",
+            "seats": "17",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -6004,25 +5968,6 @@
             "units": "5.00",
             "instructor": "Sundaram",
             "seats": "0",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ],
-        "37194": [
-          {
-            "course": "BIOL D011.54Z",
-            "CRN": "37194",
-            "desc": "HUMAN BIOLOGY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sundaram",
-            "seats": "27",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -6327,8 +6272,8 @@
             "CRN": "35136",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
-            "days": "TTh",
-            "time": "12:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6344,8 +6289,8 @@
             "CRN": "35136",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "12:30 PM-02:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6399,8 +6344,8 @@
             "CRN": "31563",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Full",
-            "days": "MW",
-            "time": "09:30 AM-11:20 AM",
+            "days": "M",
+            "time": "11:30 AM-02:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6416,8 +6361,8 @@
             "CRN": "31563",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Full",
-            "days": "M",
-            "time": "11:30 AM-02:20 PM",
+            "days": "MW",
+            "time": "09:30 AM-11:20 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6509,8 +6454,8 @@
             "CRN": "37120",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "12:30 PM-02:20 PM",
+            "days": "M",
+            "time": "09:30 AM-12:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6526,8 +6471,8 @@
             "CRN": "37120",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
-            "days": "M",
-            "time": "09:30 AM-12:20 PM",
+            "days": "MW",
+            "time": "12:30 PM-02:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6691,8 +6636,8 @@
             "CRN": "32173",
             "desc": "INTRO HUMAN NUTRITION",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "06:30 PM-07:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6708,8 +6653,8 @@
             "CRN": "32173",
             "desc": "INTRO HUMAN NUTRITION",
             "status": "Open",
-            "days": "TTh",
-            "time": "06:30 PM-07:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6771,42 +6716,25 @@
             "CRN": "37274",
             "desc": "FORM/FUNC IN BIOL WRLD-HONORS",
             "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "6.00",
+            "instructor": "Mcpartlan",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "BIOL D06AH01Z",
+            "CRN": "37274",
+            "desc": "FORM/FUNC IN BIOL WRLD-HONORS",
+            "status": "Full",
             "days": "W",
             "time": "09:30 AM-11:20 AM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "6.00",
-            "instructor": "Mcpartlan",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "BIOL D06AH01Z",
-            "CRN": "37274",
-            "desc": "FORM/FUNC IN BIOL WRLD-HONORS",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "6.00",
-            "instructor": "Mcpartlan",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "BIOL D06AH01Z",
-            "CRN": "37274",
-            "desc": "FORM/FUNC IN BIOL WRLD-HONORS",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -16745,63 +16673,6 @@
             "wait_seats": "10",
             "wait_cap": "10"
           }
-        ],
-        "37195": [
-          {
-            "course": "E S D001.54Z",
-            "CRN": "37195",
-            "desc": "INTRO ENVIRON STDS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Frisbee",
-            "seats": "29",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "37038": [
-          {
-            "course": "E S D001.71Z",
-            "CRN": "37038",
-            "desc": "INTRO ENVIRON STDS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Poffenroth",
-            "seats": "38",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "37040": [
-          {
-            "course": "E S D001.72Z",
-            "CRN": "37040",
-            "desc": "INTRO ENVIRON STDS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Frisbee",
-            "seats": "38",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
         ]
       },
       "2": {
@@ -17292,7 +17163,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomas",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -17532,7 +17403,7 @@
             "course": "ECON D002.01Z",
             "CRN": "00594",
             "desc": "PRIN MICROECONOMICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWTh",
             "time": "11:30 AM-12:20 PM",
             "start": "01/04/2021",
@@ -17541,7 +17412,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "West",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "2"
           }
@@ -17596,7 +17467,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "2",
             "wait_cap": "2"
           },
@@ -17613,7 +17484,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -18315,7 +18186,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roberts",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -19789,7 +19660,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lam",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22346,7 +22217,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Simes",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22760,7 +22631,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Limcolioc",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23834,7 +23705,7 @@
             "course": "F/TV D026.50Z",
             "CRN": "35039",
             "desc": "INTRO FILM/TV DIRECTING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -23844,7 +23715,7 @@
             "units": "4.00",
             "instructor": "Grozeva",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -23855,7 +23726,7 @@
             "course": "F/TV D027.01Z",
             "CRN": "36395",
             "desc": "NONLINEAR EDITING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "Th",
             "time": "03:30 PM-06:45 PM",
             "start": "01/04/2021",
@@ -23865,14 +23736,14 @@
             "units": "4.00",
             "instructor": "Irwin",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "F/TV D027.01Z",
             "CRN": "36395",
             "desc": "NONLINEAR EDITING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -23882,7 +23753,7 @@
             "units": "4.00",
             "instructor": "Irwin",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -23945,7 +23816,7 @@
             "units": "3.00",
             "instructor": "Haack",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
@@ -23962,7 +23833,7 @@
             "units": "3.00",
             "instructor": "Haack",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -25045,7 +24916,7 @@
             "course": "HIST D017A63Z",
             "CRN": "36314",
             "desc": "HIST U.S. TO ERLY NATNL ERA",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -25055,7 +24926,7 @@
             "units": "4.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ]
@@ -25510,7 +25381,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Hassel",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -26097,7 +25968,7 @@
             "campus": "DO",
             "units": "3.00",
             "instructor": "Miramontes",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -29460,7 +29331,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guevara",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -33249,7 +33120,7 @@
             "course": "MATH D010.MP1",
             "CRN": "35746",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWThF",
             "time": "08:30 AM-10:20 AM",
             "start": "01/04/2021",
@@ -33258,7 +33129,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Stachnick",
-            "seats": "0",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -33277,7 +33148,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fischer",
-            "seats": "4",
+            "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -33294,7 +33165,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fischer",
-            "seats": "4",
+            "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -33304,7 +33175,7 @@
             "course": "MATH D010.MP3",
             "CRN": "34657",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "01:30 PM-03:45 PM",
             "start": "01/04/2021",
@@ -33313,7 +33184,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Geraghty",
-            "seats": "0",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -34074,7 +33945,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bensidi",
-            "seats": "1",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -34091,7 +33962,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bensidi",
-            "seats": "1",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -34110,7 +33981,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ho",
-            "seats": "6",
+            "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -34652,7 +34523,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rudolf",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -37468,27 +37339,6 @@
           }
         ]
       },
-      "62": {
-        "37007": [
-          {
-            "course": "NUTR D062.50Z",
-            "CRN": "37007",
-            "desc": "NUTRN & ATHLTC PRFRMNCE",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Chaudoin",
-            "seats": "27",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
       "62G": {
         "34821": [
           {
@@ -38776,7 +38626,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hammerud",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
