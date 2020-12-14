@@ -335,7 +335,7 @@
             "course": "ACCT D001A70Z",
             "CRN": "31801",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -345,7 +345,7 @@
             "units": "5.00",
             "instructor": "Osborne",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -752,7 +752,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mello",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -769,7 +769,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mello",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7298,7 +7298,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7315,7 +7315,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7410,7 +7410,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12719,7 +12719,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -14332,6 +14332,25 @@
             "wait_seats": "0",
             "wait_cap": "5"
           }
+        ],
+        "37322": [
+          {
+            "course": "COMM D001.60Z",
+            "CRN": "37322",
+            "desc": "PUBLIC SPEAKING",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Anderson",
+            "seats": "30",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
         ]
       },
       "1H": {
@@ -14556,8 +14575,8 @@
             "CRN": "35238",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -14573,8 +14592,8 @@
             "CRN": "35238",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "01:30 PM-03:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -14772,8 +14791,8 @@
             "CRN": "35232",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "09:30 AM-11:20 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -14789,8 +14808,8 @@
             "CRN": "35232",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "09:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -14808,8 +14827,8 @@
             "CRN": "35235",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "11:30 AM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -14825,8 +14844,8 @@
             "CRN": "35235",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "11:30 AM-01:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -14844,8 +14863,8 @@
             "CRN": "35236",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "11:30 AM-01:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -14861,8 +14880,8 @@
             "CRN": "35236",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "11:30 AM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -15149,7 +15168,7 @@
             "course": "COMM D070.50Z",
             "CRN": "37133",
             "desc": "EFFECTIVE ORGANIZATIONAL COMM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -15158,7 +15177,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kaur",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23605,7 +23624,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wright",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -23767,7 +23786,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Irwin",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -23784,7 +23803,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Irwin",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -37389,7 +37408,7 @@
             "units": "4.00",
             "instructor": "Acker",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "7"
           },
           {
@@ -37406,7 +37425,7 @@
             "units": "4.00",
             "instructor": "Acker",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ],
@@ -38696,7 +38715,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hanson",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
