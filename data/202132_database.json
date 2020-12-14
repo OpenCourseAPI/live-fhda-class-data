@@ -644,7 +644,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "West",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -661,7 +661,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "West",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2438,7 +2438,7 @@
             "units": "4.00",
             "instructor": "Mjelde",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ],
@@ -14275,7 +14275,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Anderson",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -16631,7 +16631,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -22217,7 +22217,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Simes",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23530,7 +23530,7 @@
             "course": "F/TV D002B50Z",
             "CRN": "00889",
             "desc": "HIST CINEMA (1950-PRES)",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -23540,7 +23540,7 @@
             "units": "4.00",
             "instructor": "Tavernetti",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -27035,8 +27035,8 @@
             "CRN": "36946",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "05:30 PM-06:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -27052,8 +27052,8 @@
             "CRN": "36946",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "TTh",
-            "time": "05:30 PM-06:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -27225,8 +27225,8 @@
             "CRN": "37312",
             "desc": "CREATIVE MINDS-HONORS",
             "status": "Full",
-            "days": "M",
-            "time": "09:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -27242,8 +27242,8 @@
             "CRN": "37312",
             "desc": "CREATIVE MINDS-HONORS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "09:30 AM-10:20 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -27388,8 +27388,8 @@
             "CRN": "37311",
             "desc": "CREATIVE MINDS-HONORS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "03:30 PM-04:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -27405,8 +27405,8 @@
             "CRN": "37311",
             "desc": "CREATIVE MINDS-HONORS",
             "status": "Full",
-            "days": "MW",
-            "time": "03:30 PM-04:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -27597,44 +27597,6 @@
             "seats": "0",
             "wait_seats": "5",
             "wait_cap": "15"
-          }
-        ]
-      },
-      "18H": {
-        "37313": [
-          {
-            "course": "HUMI D018H01Z",
-            "CRN": "37313",
-            "desc": "WSTRN PRSPCTVS GLBL CON-HONORS",
-            "status": "Full",
-            "days": "M",
-            "time": "11:30 AM-12:20 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Wood",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "HUMI D018H01Z",
-            "CRN": "37313",
-            "desc": "WSTRN PRSPCTVS GLBL CON-HONORS",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Wood",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ]
       }
@@ -42718,7 +42680,7 @@
             "course": "THEA D001.50Z",
             "CRN": "32392",
             "desc": "APPREC OF THEATRE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -42727,7 +42689,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Gallegos",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
