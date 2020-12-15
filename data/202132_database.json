@@ -644,7 +644,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "West",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -661,7 +661,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "West",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3315,82 +3315,6 @@
             "instructor": "Houghton",
             "seats": "0",
             "wait_seats": "1",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "58A": {
-        "34529": [
-          {
-            "course": "ARTS D058A01Z",
-            "CRN": "34529",
-            "desc": "FURNITURE DESIGN",
-            "status": "Open",
-            "days": "TTh",
-            "time": "08:30 AM-09:45 AM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Wagner",
-            "seats": "8",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "ARTS D058A01Z",
-            "CRN": "34529",
-            "desc": "FURNITURE DESIGN",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Wagner",
-            "seats": "8",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "58B": {
-        "34530": [
-          {
-            "course": "ARTS D058B01Z",
-            "CRN": "34530",
-            "desc": "INTERMED FURNITURE DESIGN",
-            "status": "Open",
-            "days": "TTh",
-            "time": "08:30 AM-09:45 AM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Wagner",
-            "seats": "1",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "ARTS D058B01Z",
-            "CRN": "34530",
-            "desc": "INTERMED FURNITURE DESIGN",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Wagner",
-            "seats": "1",
-            "wait_seats": "5",
             "wait_cap": "5"
           }
         ]
@@ -14323,7 +14247,7 @@
             "course": "COMM D007.62Z",
             "CRN": "37158",
             "desc": "INTERCULTURAL COMMUNICATION",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -14333,7 +14257,7 @@
             "units": "4.00",
             "instructor": "Franks",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ]
@@ -24198,7 +24122,7 @@
             "course": "GEO D001.51Z",
             "CRN": "34215",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -24208,7 +24132,7 @@
             "units": "4.00",
             "instructor": "Dutt",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "3"
           }
         ],
@@ -24813,7 +24737,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -26870,7 +26794,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ramos",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -26887,7 +26811,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ramos",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -27846,7 +27770,7 @@
             "course": "ICS D032.01Z",
             "CRN": "37154",
             "desc": "CHICANX AND LATINX HISTORY",
-            "status": "Full",
+            "status": "Open",
             "days": "W",
             "time": "04:00 PM-05:50 PM",
             "start": "01/04/2021",
@@ -27855,15 +27779,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ponce",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "seats": "40",
+            "wait_seats": "15",
+            "wait_cap": "15"
           },
           {
             "course": "ICS D032.01Z",
             "CRN": "37154",
             "desc": "CHICANX AND LATINX HISTORY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -27872,9 +27796,9 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ponce",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "seats": "40",
+            "wait_seats": "15",
+            "wait_cap": "15"
           }
         ]
       },
@@ -28097,7 +28021,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Neal",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -29010,7 +28934,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Catuiza",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -29982,7 +29906,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Patel",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -29999,7 +29923,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Patel",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -34901,7 +34825,7 @@
             "desc": "CLASS PIANO I",
             "status": "Open",
             "days": "T",
-            "time": "10:30 AM-12:20 PM",
+            "time": "09:30 AM-10:20 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -34918,7 +34842,7 @@
             "desc": "CLASS PIANO I",
             "status": "Open",
             "days": "T",
-            "time": "09:30 AM-10:20 AM",
+            "time": "10:30 AM-12:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -34926,42 +34850,6 @@
             "units": "1.50",
             "instructor": "Schneider",
             "seats": "5",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
-        "34494": [
-          {
-            "course": "MUSI D012A02Z",
-            "CRN": "34494",
-            "desc": "CLASS PIANO I",
-            "status": "Open",
-            "days": "S",
-            "time": "10:30 AM-12:20 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.50",
-            "instructor": "Thomsen",
-            "seats": "19",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "MUSI D012A02Z",
-            "CRN": "34494",
-            "desc": "CLASS PIANO I",
-            "status": "Open",
-            "days": "S",
-            "time": "09:30 AM-10:20 AM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.50",
-            "instructor": "Thomsen",
-            "seats": "19",
             "wait_seats": "5",
             "wait_cap": "5"
           }
