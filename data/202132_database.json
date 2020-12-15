@@ -1950,7 +1950,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hui",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -2542,7 +2542,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kleit",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -7146,7 +7146,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10765,7 +10765,7 @@
             "course": "CIS D004.01Z",
             "CRN": "32952",
             "desc": "COMPUTER LITERACY",
-            "status": "Full",
+            "status": "Open",
             "days": "T",
             "time": "01:30 PM-02:20 PM",
             "start": "01/04/2021",
@@ -10774,7 +10774,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -10782,7 +10782,7 @@
             "course": "CIS D004.01Z",
             "CRN": "32952",
             "desc": "COMPUTER LITERACY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -10791,7 +10791,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -10799,7 +10799,7 @@
             "course": "CIS D004.01Z",
             "CRN": "32952",
             "desc": "COMPUTER LITERACY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -10808,7 +10808,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18286,7 +18286,7 @@
             "units": "4.00",
             "instructor": "De Toro",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -18303,7 +18303,7 @@
             "units": "4.00",
             "instructor": "De Toro",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -19314,7 +19314,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Newman",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -27575,7 +27575,7 @@
             "units": "4.00",
             "instructor": "Loyola",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "7"
           },
           {
@@ -27592,7 +27592,7 @@
             "units": "4.00",
             "instructor": "Loyola",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "7"
           }
         ],
@@ -31031,25 +31031,6 @@
             "wait_cap": "6"
           }
         ],
-        "36436": [
-          {
-            "course": "MATH D001B42Z",
-            "CRN": "36436",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "MW",
-            "time": "06:30 PM-08:45 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Van Der Poel",
-            "seats": "34",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "01228": [
           {
             "course": "MATH D001B50Z",
@@ -32263,8 +32244,8 @@
             "CRN": "32939",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -32280,8 +32261,8 @@
             "CRN": "32939",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -32390,25 +32371,6 @@
         ]
       },
       "11": {
-        "31054": [
-          {
-            "course": "MATH D011.07Z",
-            "CRN": "31054",
-            "desc": "FINITE MATHEMATICS",
-            "status": "Open",
-            "days": "MTWThF",
-            "time": "10:30 AM-11:20 AM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Legge",
-            "seats": "32",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "01274": [
           {
             "course": "MATH D011.25Z",
@@ -32883,25 +32845,6 @@
             "wait_cap": "6"
           }
         ],
-        "36846": [
-          {
-            "course": "MATH D031.07Z",
-            "CRN": "36846",
-            "desc": "PRECALCULUS I",
-            "status": "Open",
-            "days": "MTWThF",
-            "time": "10:30 AM-11:20 AM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Janak",
-            "seats": "28",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "36847": [
           {
             "course": "MATH D031.09Z",
@@ -33011,7 +32954,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Desilets",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33174,8 +33117,8 @@
             "CRN": "36861",
             "desc": "PRECALCULUS II",
             "status": "Waitlist",
-            "days": "TWTh",
-            "time": "09:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -33191,8 +33134,8 @@
             "CRN": "36861",
             "desc": "PRECALCULUS II",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TWTh",
+            "time": "09:30 AM-10:20 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
