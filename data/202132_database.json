@@ -268,7 +268,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Jeanpierre",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -306,7 +306,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Botsford",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1922,7 +1922,7 @@
             "course": "ANTH D001.55Z",
             "CRN": "00081",
             "desc": "PHYS ANTHRO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -1931,7 +1931,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kadkly",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -2776,7 +2776,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Chandras",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3117,7 +3117,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lewycky",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3580,7 +3580,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cichanski",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -3597,7 +3597,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cichanski",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -5612,7 +5612,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kang'a",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -5629,7 +5629,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kang'a",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12600,7 +12600,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Singh",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12621,7 +12621,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14102,7 +14102,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Anderson",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -15349,8 +15349,8 @@
             "CRN": "37151",
             "desc": "SOLIDWORKS (INTRODUCTION)",
             "status": "Open",
-            "days": "W",
-            "time": "05:30 PM-09:20 PM",
+            "days": "M",
+            "time": "07:30 PM-09:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -15366,8 +15366,8 @@
             "CRN": "37151",
             "desc": "SOLIDWORKS (INTRODUCTION)",
             "status": "Open",
-            "days": "M",
-            "time": "07:30 PM-09:20 PM",
+            "days": "W",
+            "time": "05:30 PM-09:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -15497,6 +15497,23 @@
             "CRN": "37147",
             "desc": "SOLIDWOKS: TOP-DOWN DESIGN",
             "status": "Open",
+            "days": "W",
+            "time": "08:30 AM-12:20 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Klingman",
+            "seats": "4",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "DMT D062A03Z",
+            "CRN": "37147",
+            "desc": "SOLIDWOKS: TOP-DOWN DESIGN",
+            "status": "Open",
             "days": "M",
             "time": "08:30 AM-10:20 AM",
             "start": "01/04/2021",
@@ -15516,23 +15533,6 @@
             "status": "Open",
             "days": "M",
             "time": "10:30 AM-12:20 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Klingman",
-            "seats": "4",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "DMT D062A03Z",
-            "CRN": "37147",
-            "desc": "SOLIDWOKS: TOP-DOWN DESIGN",
-            "status": "Open",
-            "days": "W",
-            "time": "08:30 AM-12:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -15571,8 +15571,8 @@
             "CRN": "37149",
             "desc": "CREO PARAMETRIC (INTRODUCTION)",
             "status": "Open",
-            "days": "T",
-            "time": "05:30 PM-07:20 PM",
+            "days": "Th",
+            "time": "07:30 PM-09:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -15588,8 +15588,8 @@
             "CRN": "37149",
             "desc": "CREO PARAMETRIC (INTRODUCTION)",
             "status": "Open",
-            "days": "Th",
-            "time": "07:30 PM-09:20 PM",
+            "days": "T",
+            "time": "05:30 PM-07:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -15936,24 +15936,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
-            "seats": "11",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "DMT D080.01Z",
-            "CRN": "34369",
-            "desc": "INTRO TO MACHINING AND CNC",
-            "status": "Open",
-            "days": "T",
-            "time": "08:30 PM-09:20 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Appio",
             "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -15970,7 +15953,24 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Appio",
+            "seats": "11",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "DMT D080.01Z",
+            "CRN": "34369",
+            "desc": "INTRO TO MACHINING AND CNC",
+            "status": "Open",
+            "days": "T",
+            "time": "08:30 PM-09:20 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Appio",
             "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -15992,7 +15992,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Appio",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -16009,7 +16009,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Appio",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -16026,7 +16026,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Appio",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16039,23 +16039,6 @@
             "CRN": "37165",
             "desc": "INTRO CNC PROG OPS; MILL",
             "status": "Open",
-            "days": "W",
-            "time": "05:30 PM-10:20 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Staff",
-            "seats": "8",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "DMT D084A01Z",
-            "CRN": "37165",
-            "desc": "INTRO CNC PROG OPS; MILL",
-            "status": "Open",
             "days": "M",
             "time": "05:30 PM-08:20 PM",
             "start": "01/04/2021",
@@ -16063,7 +16046,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Stoddard",
             "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
@@ -16080,53 +16063,15 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Stoddard",
             "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
-          }
-        ]
-      },
-      "87D": {
-        "35907": [
-          {
-            "course": "DMT D087D01Z",
-            "CRN": "35907",
-            "desc": "CAD/CAM PROG USING MSTRCAM",
-            "status": "Open",
-            "days": "M",
-            "time": "05:30 PM-08:20 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Stoddard",
-            "seats": "15",
-            "wait_seats": "10",
-            "wait_cap": "10"
           },
           {
-            "course": "DMT D087D01Z",
-            "CRN": "35907",
-            "desc": "CAD/CAM PROG USING MSTRCAM",
-            "status": "Open",
-            "days": "M",
-            "time": "08:30 PM-09:20 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Stoddard",
-            "seats": "15",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "DMT D087D01Z",
-            "CRN": "35907",
-            "desc": "CAD/CAM PROG USING MSTRCAM",
+            "course": "DMT D084A01Z",
+            "CRN": "37165",
+            "desc": "INTRO CNC PROG OPS; MILL",
             "status": "Open",
             "days": "W",
             "time": "05:30 PM-10:20 PM",
@@ -16136,9 +16081,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Stoddard",
-            "seats": "15",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "seats": "8",
+            "wait_seats": "15",
+            "wait_cap": "15"
           }
         ]
       },
@@ -17211,7 +17156,7 @@
             "course": "ECON D002.01Z",
             "CRN": "00594",
             "desc": "PRIN MICROECONOMICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWTh",
             "time": "11:30 AM-12:20 PM",
             "start": "01/04/2021",
@@ -17220,7 +17165,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "West",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "2"
           }
@@ -17275,7 +17220,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "2",
             "wait_cap": "2"
           },
@@ -17292,7 +17237,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -17406,7 +17351,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Seshadri",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -20720,7 +20665,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hubbard",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -20737,7 +20682,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hubbard",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -20766,7 +20711,7 @@
             "course": "EWRT D001A51Z",
             "CRN": "33957",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -20775,7 +20720,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Quinn",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "5"
           }
@@ -21765,7 +21710,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gray",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -21782,7 +21727,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gray",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22496,7 +22441,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Argyriou",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -22513,7 +22458,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Argyriou",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24872,7 +24817,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Erickson",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -26422,7 +26367,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "White",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -26439,7 +26384,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "White",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -27122,7 +27067,7 @@
             "units": "4.00",
             "instructor": "Berry",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ]
@@ -34120,7 +34065,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mullens",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -34137,7 +34082,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mullens",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35280,7 +35225,7 @@
             "units": "2.00",
             "instructor": "Williams",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "7"
           }
         ],
@@ -36813,7 +36758,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Watkins",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -40703,7 +40648,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Healy",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -41074,7 +41019,7 @@
             "course": "SOC D001.50Z",
             "CRN": "37071",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -41083,7 +41028,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pasion",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "15"
           }
