@@ -92,7 +92,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -544,7 +544,7 @@
             "course": "ACTG F065.01W",
             "CRN": "30081",
             "desc": "PAYROLL/BUSINESS TAX ACCOUNTIN",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -553,7 +553,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Negrete",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "15"
           }
@@ -2340,7 +2340,7 @@
             "units": "4.00",
             "instructor": "Connell",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ],
@@ -2532,7 +2532,7 @@
             "units": "4.00",
             "instructor": "Neff",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ],
@@ -5871,7 +5871,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Nekrep",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -5888,7 +5888,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Manoukian",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -5905,7 +5905,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Manoukian",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -6245,7 +6245,7 @@
             "units": "4.00",
             "instructor": "Mancuso",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "15",
             "wait_cap": "20"
           }
         ],
@@ -12309,7 +12309,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "White",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12684,7 +12684,7 @@
             "units": "5.00",
             "instructor": "Lewis",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "25"
           }
         ],
@@ -14873,7 +14873,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Draper",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -17586,8 +17586,8 @@
             "CRN": "30601",
             "desc": "CALCULUS",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "06:00 PM-07:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17603,8 +17603,8 @@
             "CRN": "30601",
             "desc": "CALCULUS",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "06:00 PM-07:15 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17681,8 +17681,8 @@
             "CRN": "30128",
             "desc": "CALCULUS",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17698,8 +17698,8 @@
             "CRN": "30128",
             "desc": "CALCULUS",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "01:30 PM-03:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17831,8 +17831,8 @@
             "CRN": "31870",
             "desc": "CALCULUS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TF",
+            "time": "11:00 AM-12:15 PM",
             "start": "01/04/2021",
             "end": "03/19/2021",
             "room": "MVHS",
@@ -17848,8 +17848,8 @@
             "CRN": "31870",
             "desc": "CALCULUS",
             "status": "Full",
-            "days": "TF",
-            "time": "11:00 AM-12:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/19/2021",
             "room": "MVHS",
@@ -18124,7 +18124,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Papay",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18567,6 +18567,25 @@
             "wait_seats": "0",
             "wait_cap": "10"
           }
+        ],
+        "32068": [
+          {
+            "course": "MATH F022.03W",
+            "CRN": "32068",
+            "desc": "DISCRETE MATHEMATICS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Florero Salinas",
+            "seats": "40",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
         ]
       },
       "48A": {
@@ -18965,7 +18984,7 @@
             "course": "MATH F105.02V",
             "CRN": "30626",
             "desc": "INTERMEDIATE ALGEBRA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:30 PM-03:45 PM",
             "start": "01/04/2021",
@@ -18974,7 +18993,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Uilecan",
-            "seats": "2",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18984,7 +19003,7 @@
             "course": "MATH F105.03V",
             "CRN": "31062",
             "desc": "INTERMEDIATE ALGEBRA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "06:00 PM-08:15 PM",
             "start": "01/04/2021",
@@ -18993,7 +19012,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Low",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -24718,7 +24737,7 @@
             "course": "PSYC F001.05Z",
             "CRN": "30686",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "10:00 AM-10:50 AM",
             "start": "01/04/2021",
@@ -24727,7 +24746,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rideaux",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -24735,7 +24754,7 @@
             "course": "PSYC F001.05Z",
             "CRN": "30686",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -24744,7 +24763,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rideaux",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24801,7 +24820,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           }
