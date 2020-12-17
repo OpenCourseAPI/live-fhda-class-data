@@ -16,7 +16,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -33,7 +33,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1077,7 +1077,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kwak",
-            "seats": "15",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13201,7 +13201,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hernando",
-            "seats": "11",
+            "seats": "13",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -13239,7 +13239,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hernando",
-            "seats": "17",
+            "seats": "15",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -24511,7 +24511,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -27906,7 +27906,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Malatesta",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -34115,7 +34115,7 @@
             "course": "MUSI D012A01Z",
             "CRN": "34495",
             "desc": "CLASS PIANO I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "09:30 AM-10:20 AM",
             "start": "01/04/2021",
@@ -34124,7 +34124,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Schneider",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -34132,7 +34132,7 @@
             "course": "MUSI D012A01Z",
             "CRN": "34495",
             "desc": "CLASS PIANO I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "10:30 AM-12:20 PM",
             "start": "01/04/2021",
@@ -34141,7 +34141,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Schneider",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -37073,12 +37073,29 @@
             "CRN": "37330",
             "desc": "CIVIL LITIG PROCED",
             "status": "Open",
+            "days": "W",
+            "time": "06:00 PM-07:50 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "50",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          },
+          {
+            "course": "PARA D097A02Z",
+            "CRN": "37330",
+            "desc": "CIVIL LITIG PROCED",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "4.00",
             "instructor": "Staff",
             "seats": "50",
@@ -40386,7 +40403,7 @@
             "course": "PSYC D024.01Z",
             "CRN": "01887",
             "desc": "INTRO PSYCHOBIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "11:30 AM-12:20 PM",
             "start": "01/04/2021",
@@ -40396,14 +40413,14 @@
             "units": "4.00",
             "instructor": "Hassett",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "8"
           },
           {
             "course": "PSYC D024.01Z",
             "CRN": "01887",
             "desc": "INTRO PSYCHOBIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -40413,7 +40430,7 @@
             "units": "4.00",
             "instructor": "Hassett",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "8"
           }
         ]
@@ -40705,7 +40722,7 @@
             "course": "SIGN D001.40Z",
             "CRN": "36137",
             "desc": "ELEM AMER SIGN LANG/1ST QTR",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "11:30 AM-01:45 PM",
             "start": "01/04/2021",
@@ -40715,7 +40732,7 @@
             "units": "5.00",
             "instructor": "Cheung",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ]
