@@ -3441,7 +3441,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6937,8 +6937,8 @@
             "CRN": "00265",
             "desc": "INTRO TO BUSINESS",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "09:30 AM-10:45 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6954,8 +6954,8 @@
             "CRN": "00265",
             "desc": "INTRO TO BUSINESS",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "09:30 AM-10:45 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6973,8 +6973,8 @@
             "CRN": "30217",
             "desc": "INTRO TO BUSINESS",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "11:30 AM-12:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6990,8 +6990,8 @@
             "CRN": "30217",
             "desc": "INTRO TO BUSINESS",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "11:30 AM-12:45 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -7178,8 +7178,8 @@
             "CRN": "35833",
             "desc": "BUSINESS LAW I",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "12:30 PM-01:45 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -7195,8 +7195,8 @@
             "CRN": "35833",
             "desc": "BUSINESS LAW I",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "12:30 PM-01:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -7208,60 +7208,7 @@
             "wait_cap": "10"
           }
         ],
-        "36205": [
-          {
-            "course": "BUS D018.12Z",
-            "CRN": "36205",
-            "desc": "BUSINESS LAW I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Spencer",
-            "seats": "32",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "BUS D018.12Z",
-            "CRN": "36205",
-            "desc": "BUSINESS LAW I",
-            "status": "Open",
-            "days": "MW",
-            "time": "11:30 AM-12:45 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Spencer",
-            "seats": "32",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "00281": [
-          {
-            "course": "BUS D018.14Z",
-            "CRN": "00281",
-            "desc": "BUSINESS LAW I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Park",
-            "seats": "4",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
           {
             "course": "BUS D018.14Z",
             "CRN": "00281",
@@ -7275,7 +7222,24 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Park",
-            "seats": "4",
+            "seats": "3",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "BUS D018.14Z",
+            "CRN": "00281",
+            "desc": "BUSINESS LAW I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Park",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7462,7 +7426,7 @@
             "course": "BUS D056.11Z",
             "CRN": "31726",
             "desc": "HUMAN RELATNS IN THE WRKPLACE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "03:30 PM-04:45 PM",
             "start": "01/04/2021",
@@ -7471,7 +7435,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Andrews-Bingham",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           },
@@ -7479,7 +7443,7 @@
             "course": "BUS D056.11Z",
             "CRN": "31726",
             "desc": "HUMAN RELATNS IN THE WRKPLACE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -7488,7 +7452,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Andrews-Bingham",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -8621,7 +8585,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Vargas",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -8638,7 +8602,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Vargas",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -9283,7 +9247,7 @@
             "course": "CHEM D001B03Z",
             "CRN": "32204",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "12:30 PM-02:20 PM",
             "start": "01/04/2021",
@@ -9292,7 +9256,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Artun",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -9300,7 +9264,7 @@
             "course": "CHEM D001B03Z",
             "CRN": "32204",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "04:30 PM-05:45 PM",
             "start": "01/04/2021",
@@ -9309,7 +9273,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Artun",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -9317,7 +9281,7 @@
             "course": "CHEM D001B03Z",
             "CRN": "32204",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -9326,7 +9290,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Artun",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -16853,7 +16817,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Roeder",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -16990,7 +16954,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomas",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -20248,7 +20212,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Board Liljenstolpe",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -21038,7 +21002,7 @@
             "units": "5.00",
             "instructor": "Pesano",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ],
@@ -23985,7 +23949,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pena",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -24277,7 +24241,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Edgar",
-            "seats": "29",
+            "seats": "27",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -24475,7 +24439,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -24565,7 +24529,7 @@
             "course": "HIST D019B61Z",
             "CRN": "35971",
             "desc": "HIST ASN CIV:CHNA/JPN 19-21CEN",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -24574,7 +24538,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Choi",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -26440,7 +26404,7 @@
             "units": "4.00",
             "instructor": "Shaw",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ],
@@ -29931,7 +29895,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Board Liljenstolpe",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -29948,7 +29912,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Board Liljenstolpe",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -30121,7 +30085,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -30142,7 +30106,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -30159,7 +30123,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -30481,7 +30445,7 @@
             "course": "MATH D001A49Z",
             "CRN": "36434",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "06:30 PM-08:45 PM",
             "start": "01/04/2021",
@@ -30490,7 +30454,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yu",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -34905,7 +34869,7 @@
             "course": "MUSI D031.01Z",
             "CRN": "34518",
             "desc": "CHAMBER ORCHESTRA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "06:30 PM-07:20 PM",
             "start": "01/04/2021",
@@ -34914,7 +34878,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Tayerle",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -34922,7 +34886,7 @@
             "course": "MUSI D031.01Z",
             "CRN": "34518",
             "desc": "CHAMBER ORCHESTRA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -34931,7 +34895,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Tayerle",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -38750,25 +38714,6 @@
             "wait_cap": "5"
           }
         ],
-        "34955": [
-          {
-            "course": "POLI D001.50Z",
-            "CRN": "34955",
-            "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Tarikh",
-            "seats": "45",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
         "01821": [
           {
             "course": "POLI D001.51Z",
@@ -38842,25 +38787,6 @@
             "instructor": "Chin",
             "seats": "0",
             "wait_seats": "0",
-            "wait_cap": "5"
-          }
-        ],
-        "36146": [
-          {
-            "course": "POLI D001.68Z",
-            "CRN": "36146",
-            "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Tarikh",
-            "seats": "46",
-            "wait_seats": "5",
             "wait_cap": "5"
           }
         ],
@@ -39617,7 +39543,7 @@
             "units": "4.00",
             "instructor": "Olsen",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "8"
           }
         ],
