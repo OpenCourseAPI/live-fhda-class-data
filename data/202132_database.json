@@ -1098,7 +1098,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hammond",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1201,7 +1201,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Staff",
-            "seats": "37",
+            "seats": "38",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7967,7 +7967,7 @@
             "units": "4.00",
             "instructor": "Vargas",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           },
           {
@@ -7984,7 +7984,7 @@
             "units": "4.00",
             "instructor": "Vargas",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -16269,7 +16269,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sellers",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -22504,7 +22504,7 @@
             "course": "EWRT D01AS03Z",
             "CRN": "36499",
             "desc": "INTENSIVE COMP/READ STRETCH: 1",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:30 PM-03:20 PM",
             "start": "01/04/2021",
@@ -22513,15 +22513,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rizzo",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
             "course": "EWRT D01AS03Z",
             "CRN": "36499",
             "desc": "INTENSIVE COMP/READ STRETCH: 1",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -22530,8 +22530,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rizzo",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -27403,44 +27403,6 @@
           }
         ]
       },
-      "10": {
-        "36824": [
-          {
-            "course": "ICS D010.01Z",
-            "CRN": "36824",
-            "desc": "INTRO AFRIC/AMER STDS",
-            "status": "Open",
-            "days": "T",
-            "time": "10:30 AM-12:20 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Lewis",
-            "seats": "35",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          },
-          {
-            "course": "ICS D010.01Z",
-            "CRN": "36824",
-            "desc": "INTRO AFRIC/AMER STDS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Lewis",
-            "seats": "35",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ]
-      },
       "18A": {
         "36822": [
           {
@@ -27490,8 +27452,8 @@
             "CRN": "36709",
             "desc": "THE CHICANX/LATINX AND THE ART",
             "status": "Waitlist",
-            "days": "T",
-            "time": "04:00 PM-05:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -27507,8 +27469,8 @@
             "CRN": "36709",
             "desc": "THE CHICANX/LATINX AND THE ART",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "04:00 PM-05:50 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -27718,7 +27680,7 @@
             "course": "ITAL D002.01Z",
             "CRN": "32523",
             "desc": "ELEM ITALIAN  (2ND QTR)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -27727,7 +27689,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ferrara",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -27735,7 +27697,7 @@
             "course": "ITAL D002.01Z",
             "CRN": "32523",
             "desc": "ELEM ITALIAN  (2ND QTR)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "06:30 PM-07:50 PM",
             "start": "01/04/2021",
@@ -27744,7 +27706,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ferrara",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -27850,27 +27812,6 @@
             "seats": "0",
             "wait_seats": "2",
             "wait_cap": "5"
-          }
-        ]
-      },
-      "3": {
-        "33216": [
-          {
-            "course": "JAPN D003.40Z",
-            "CRN": "33216",
-            "desc": "ELEM JAPANESE (3RD QTR)",
-            "status": "Open",
-            "days": "TTh",
-            "time": "06:30 PM-08:45 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Kuo",
-            "seats": "18",
-            "wait_seats": "7",
-            "wait_cap": "7"
           }
         ]
       }
@@ -30219,25 +30160,6 @@
             "units": "5.00",
             "instructor": "Liu",
             "seats": "5",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ],
-        "33220": [
-          {
-            "course": "MAND D002.40Z",
-            "CRN": "33220",
-            "desc": "ELEMEN MANDARIN (2ND QTR)",
-            "status": "Open",
-            "days": "TTh",
-            "time": "01:30 PM-03:45 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Phung",
-            "seats": "16",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -34233,7 +34155,7 @@
             "course": "MUSI D012B01Z",
             "CRN": "34499",
             "desc": "CLASS PIANO II",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "T",
             "time": "09:30 AM-10:20 AM",
             "start": "01/04/2021",
@@ -34242,7 +34164,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Schneider",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -34250,7 +34172,7 @@
             "course": "MUSI D012B01Z",
             "CRN": "34499",
             "desc": "CLASS PIANO II",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "T",
             "time": "10:30 AM-12:20 PM",
             "start": "01/04/2021",
@@ -34259,7 +34181,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Schneider",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -34907,7 +34829,7 @@
             "course": "MUSI D020.01Z",
             "CRN": "33711",
             "desc": "DE ANZA CHORALE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "M",
             "time": "06:30 PM-07:20 PM",
             "start": "01/04/2021",
@@ -34916,7 +34838,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Tayerle",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -34924,7 +34846,7 @@
             "course": "MUSI D020.01Z",
             "CRN": "33711",
             "desc": "DE ANZA CHORALE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -34933,7 +34855,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Tayerle",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -34954,7 +34876,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Tayerle",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -34971,7 +34893,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Tayerle",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -39632,7 +39554,7 @@
             "course": "PSYC D001.04Z",
             "CRN": "01857",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -39641,15 +39563,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Firpo",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "8"
           },
           {
             "course": "PSYC D001.04Z",
             "CRN": "01857",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "01:30 PM-02:20 PM",
             "start": "01/04/2021",
@@ -39658,8 +39580,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Firpo",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "8"
           }
         ],
@@ -40056,7 +39978,7 @@
             "units": "4.00",
             "instructor": "Trafalis",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "8"
           },
           {
@@ -40073,7 +39995,7 @@
             "units": "4.00",
             "instructor": "Trafalis",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "8"
           }
         ],
