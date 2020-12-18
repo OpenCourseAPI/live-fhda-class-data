@@ -2804,6 +2804,9 @@
       }
     }
   },
+  "APEL": {
+    "1": {}
+  },
   "APPT": {
     "1": {}
   },
@@ -5823,7 +5826,7 @@
             "course": "BIOL F041.06Z",
             "CRN": "30035",
             "desc": "MICROBIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "07:30 PM-09:00 PM",
             "start": "01/04/2021",
@@ -5833,14 +5836,14 @@
             "units": "6.00",
             "instructor": "Manoukian",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
             "course": "BIOL F041.06Z",
             "CRN": "30035",
             "desc": "MICROBIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -5850,14 +5853,14 @@
             "units": "6.00",
             "instructor": "Manoukian",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
             "course": "BIOL F041.06Z",
             "CRN": "30035",
             "desc": "MICROBIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "01/04/2021",
@@ -5867,7 +5870,7 @@
             "units": "6.00",
             "instructor": "Hawkins",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -5921,7 +5924,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Nekrep",
-            "seats": "4",
+            "seats": "2",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -5938,7 +5941,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Manoukian",
-            "seats": "4",
+            "seats": "2",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -5955,7 +5958,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Manoukian",
-            "seats": "4",
+            "seats": "2",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -6527,7 +6530,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6544,7 +6547,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8345,7 +8348,7 @@
             "course": "CHEM F025.09Z",
             "CRN": "31844",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "09:00 AM-10:50 AM",
             "start": "01/04/2021",
@@ -8354,7 +8357,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8362,7 +8365,7 @@
             "course": "CHEM F025.09Z",
             "CRN": "31844",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -8371,7 +8374,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13178,7 +13181,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Chan",
-            "seats": "34",
+            "seats": "35",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14491,7 +14494,7 @@
             "units": "2.00",
             "instructor": "Jordahl",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -15384,7 +15387,7 @@
             "course": "HUMN F003H2HW",
             "CRN": "30869",
             "desc": "HONORS WORLD MYTHS IN LIT, ART",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -15393,7 +15396,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Vaughan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18174,7 +18177,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Papay",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19439,7 +19442,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rufeisen",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           }
