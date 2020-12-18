@@ -3558,10 +3558,73 @@
             "time": "TBA",
             "start": "01/18/2021",
             "end": "03/26/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "1.00",
-            "instructor": "Staff",
+            "instructor": "Mathews",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "71R": {
+        "32070": [
+          {
+            "course": "ASTR F071R01W",
+            "CRN": "32070",
+            "desc": "INDEPENDENT STUDY ASTRONOMY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/18/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Mathews",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "72R": {
+        "32071": [
+          {
+            "course": "ASTR F072R01W",
+            "CRN": "32071",
+            "desc": "INDEPENDENT STUDY ASTRONOMY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/18/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Mathews",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "73R": {
+        "32072": [
+          {
+            "course": "ASTR F073R01W",
+            "CRN": "32072",
+            "desc": "INDEPENDENT STUDY ASTRONOMY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/18/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Mathews",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -4139,7 +4202,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Derugin",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4156,7 +4219,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Moody",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4173,7 +4236,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Derugin",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4190,7 +4253,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Moody",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5146,7 +5209,7 @@
             "course": "BIOL F040B05Z",
             "CRN": "31097",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "S",
             "time": "08:00 AM-09:50 AM",
             "start": "01/04/2021",
@@ -5155,15 +5218,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Benton",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "12"
           },
           {
             "course": "BIOL F040B05Z",
             "CRN": "31097",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "S",
             "time": "10:00 AM-12:50 PM",
             "start": "01/04/2021",
@@ -5172,15 +5235,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Benton",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "12"
           },
           {
             "course": "BIOL F040B05Z",
             "CRN": "31097",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -5189,8 +5252,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Benton",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "12"
           }
         ],
@@ -5959,7 +6022,7 @@
             "course": "BIOL F054H1HV",
             "CRN": "31705",
             "desc": "HONORS INST SEMINAR IN BIOL",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "01:00 PM-01:50 PM",
             "start": "01/04/2021",
@@ -5968,8 +6031,8 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Cooper",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -6368,7 +6431,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wang-Nava",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6593,7 +6656,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6700,7 +6763,7 @@
             "course": "C S F002A01Z",
             "CRN": "30240",
             "desc": "OBJ-ORIENT PROG METHOD IN C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "08:00 AM-09:50 AM",
             "start": "01/04/2021",
@@ -6709,7 +6772,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6717,7 +6780,7 @@
             "course": "C S F002A01Z",
             "CRN": "30240",
             "desc": "OBJ-ORIENT PROG METHOD IN C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -6726,7 +6789,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7686,7 +7749,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ermut",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7703,7 +7766,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ermut",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12685,7 +12748,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Janakos",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12733,7 +12796,7 @@
             "course": "ENGL F001B15W",
             "CRN": "30298",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -12742,8 +12805,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Finnegan",
-            "seats": "1",
-            "wait_seats": "20",
+            "seats": "0",
+            "wait_seats": "21",
             "wait_cap": "25"
           }
         ],
@@ -14487,7 +14550,7 @@
             "units": "4.00",
             "instructor": "Aguilar",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
@@ -15739,7 +15802,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gandhi",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -15756,7 +15819,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gandhi",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17587,7 +17650,7 @@
             "course": "MATH F001B04V",
             "CRN": "30600",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:30 PM-03:45 PM",
             "start": "01/04/2021",
@@ -17596,8 +17659,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryker",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -18585,7 +18648,7 @@
             "units": "5.00",
             "instructor": "Florero Salinas",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -18603,7 +18666,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Florero Salinas",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19490,7 +19553,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -19507,7 +19570,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20008,27 +20071,6 @@
             "wait_cap": "5"
           }
         ]
-      },
-      "84A": {
-        "31962": [
-          {
-            "course": "MTEC F084A01W",
-            "CRN": "31962",
-            "desc": "MUSIC & MEDICINE",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Tambling",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
       }
     }
   },
@@ -20040,7 +20082,7 @@
             "course": "MUS F001.01W",
             "CRN": "30134",
             "desc": "INTRODUCTION TO MUSIC",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -20049,8 +20091,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davies",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -23317,7 +23359,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Herman",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23342,7 +23384,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Natarajan",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24012,7 +24054,7 @@
             "course": "PHYS F004B03V",
             "CRN": "30169",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "05:30 PM-07:45 PM",
             "start": "01/04/2021",
@@ -24022,14 +24064,14 @@
             "units": "6.00",
             "instructor": "Cascarano",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "PHYS F004B03V",
             "CRN": "30169",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "W",
             "time": "08:00 PM-10:50 PM",
             "start": "01/04/2021",
@@ -24039,7 +24081,7 @@
             "units": "6.00",
             "instructor": "Yuen",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -24506,7 +24548,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryer",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25806,7 +25848,7 @@
             "course": "R T F200L51R",
             "CRN": "30540",
             "desc": "RADIOLOGIC TECHNOLOGY AS A CAR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -25815,8 +25857,8 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Campbell",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "25"
           }
         ]
@@ -26857,7 +26899,7 @@
             "units": "4.00",
             "instructor": "McNamara",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "19",
             "wait_cap": "20"
           }
         ]
