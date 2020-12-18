@@ -1089,7 +1089,7 @@
             "course": "ACCT D064.63Z",
             "CRN": "36299",
             "desc": "PAYROLL/BUS TAX ACCT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -1098,7 +1098,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hammond",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1120,7 +1120,7 @@
             "units": "5.00",
             "instructor": "Botsford",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -3791,7 +3791,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wishart",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -3808,7 +3808,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wishart",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3827,7 +3827,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wishart",
-            "seats": "24",
+            "seats": "25",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -3844,7 +3844,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wishart",
-            "seats": "24",
+            "seats": "25",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -5498,7 +5498,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cuff-Alvarado",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7631,7 +7631,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Takyi",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14148,7 +14148,7 @@
             "course": "COMM D001.60Z",
             "CRN": "37322",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -14157,8 +14157,27 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Anderson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
+            "wait_cap": "5"
+          }
+        ],
+        "37331": [
+          {
+            "course": "COMM D001.61Z",
+            "CRN": "37331",
+            "desc": "PUBLIC SPEAKING",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Lim",
+            "seats": "30",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ]
@@ -14385,8 +14404,8 @@
             "CRN": "35238",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "01:30 PM-03:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -14402,8 +14421,8 @@
             "CRN": "35238",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -29729,7 +29748,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -30155,7 +30174,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Balm",
-            "seats": "16",
+            "seats": "14",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -30174,7 +30193,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ganeshalingam",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31117,7 +31136,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Vanniasegaram",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34416,7 +34435,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Williams",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -37639,7 +37658,7 @@
             "course": "PHYS D004B25Z",
             "CRN": "37198",
             "desc": "PHYS SCIEN/ENG:ELCTRCTY/MAGNET",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWThF",
             "time": "01:30 PM-02:20 PM",
             "start": "01/04/2021",
@@ -37649,14 +37668,14 @@
             "units": "6.00",
             "instructor": "Newton",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "PHYS D004B25Z",
             "CRN": "37198",
             "desc": "PHYS SCIEN/ENG:ELCTRCTY/MAGNET",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "M",
             "time": "02:30 PM-05:20 PM",
             "start": "01/04/2021",
@@ -37666,7 +37685,7 @@
             "units": "6.00",
             "instructor": "Newton",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
