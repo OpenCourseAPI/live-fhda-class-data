@@ -7037,7 +7037,7 @@
             "units": "5.00",
             "instructor": "Shan",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           },
           {
@@ -7054,7 +7054,7 @@
             "units": "5.00",
             "instructor": "Shan",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -7154,7 +7154,7 @@
             "course": "BUS D010.65Z",
             "CRN": "00276",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -7163,9 +7163,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-4",
+            "wait_cap": "0"
           }
         ],
         "34720": [
@@ -7173,7 +7173,7 @@
             "course": "BUS D010.66Z",
             "CRN": "34720",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -7182,9 +7182,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-6",
+            "wait_cap": "0"
           }
         ],
         "00267": [
@@ -7679,7 +7679,7 @@
             "course": "BUS D090.63Z",
             "CRN": "31757",
             "desc": "PRIN MARKETING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -7688,9 +7688,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-4",
+            "wait_cap": "0"
           }
         ]
       },
@@ -7742,7 +7742,7 @@
             "course": "BUS D096.63Z",
             "CRN": "31875",
             "desc": "PRINC OF MANAGEMENT",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -7751,9 +7751,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fritz",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "seats": "1",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ]
       }
@@ -11372,7 +11372,7 @@
             "course": "CIS D022A61Z",
             "CRN": "32257",
             "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "T",
             "time": "06:00 PM-06:50 PM",
             "start": "01/04/2021",
@@ -11381,15 +11381,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "0",
-            "wait_seats": "15",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022A61Z",
             "CRN": "32257",
             "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11398,15 +11398,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "0",
-            "wait_seats": "15",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022A61Z",
             "CRN": "32257",
             "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11415,9 +11415,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "0",
-            "wait_seats": "15",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "32693": [
@@ -11617,7 +11617,7 @@
             "units": "4.50",
             "instructor": "Garbacea",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "15"
           },
           {
@@ -11634,7 +11634,7 @@
             "units": "4.50",
             "instructor": "Garbacea",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ],
@@ -12296,7 +12296,7 @@
             "course": "CIS D040.33Z",
             "CRN": "34276",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -12305,15 +12305,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Gupta",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "6",
+            "wait_seats": "-11",
+            "wait_cap": "4"
           },
           {
             "course": "CIS D040.33Z",
             "CRN": "34276",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Full",
+            "status": "Open",
             "days": "T",
             "time": "06:00 PM-06:50 PM",
             "start": "01/04/2021",
@@ -12322,9 +12322,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Gupta",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "6",
+            "wait_seats": "-11",
+            "wait_cap": "4"
           }
         ],
         "34089": [
@@ -14148,7 +14148,7 @@
             "course": "COMM D001.60Z",
             "CRN": "37322",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -14157,7 +14157,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Anderson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "5"
           }
@@ -14176,7 +14176,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lim",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -14302,7 +14302,7 @@
             "course": "COMM D007.62Z",
             "CRN": "37158",
             "desc": "INTERCULTURAL COMMUNICATION",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -14312,7 +14312,7 @@
             "units": "4.00",
             "instructor": "Franks",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ]
@@ -14485,7 +14485,7 @@
             "units": "5.00",
             "instructor": "Chivers",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
@@ -14502,7 +14502,7 @@
             "units": "5.00",
             "instructor": "Chivers",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -23850,7 +23850,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pena",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -27655,7 +27655,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kuo",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -32986,7 +32986,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -33003,7 +33003,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -36393,7 +36393,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Blanchette",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -36410,7 +36410,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Blanchette",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -36723,7 +36723,7 @@
             "course": "PHIL D003.51Z",
             "CRN": "30892",
             "desc": "CRIT THINKNG & WRITNG",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -36732,7 +36732,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Baiamonte",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -39151,7 +39151,7 @@
             "units": "4.00",
             "instructor": "Bunce",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "8"
           }
         ],
@@ -39900,7 +39900,7 @@
             "course": "REST D050.63Z",
             "CRN": "01917",
             "desc": "REAL ESTATE PRINCIPLES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -39909,9 +39909,9 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Park",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "15"
+            "seats": "20",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ]
       },
