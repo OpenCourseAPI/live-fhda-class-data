@@ -6964,7 +6964,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lilly",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6981,7 +6981,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lilly",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -30734,6 +30734,25 @@
             "wait_cap": "6"
           }
         ],
+        "37332": [
+          {
+            "course": "MATH D001C55Z",
+            "CRN": "37332",
+            "desc": "CALCULUS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "30332": [
           {
             "course": "MATH D001C65Z",
@@ -31546,8 +31565,8 @@
             "CRN": "32939",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -31563,8 +31582,8 @@
             "CRN": "32939",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -32474,8 +32493,8 @@
             "CRN": "36864",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "01:30 PM-03:45 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -32491,8 +32510,8 @@
             "CRN": "36864",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "M",
-            "time": "01:30 PM-03:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -39931,7 +39950,7 @@
             "units": "4.00",
             "instructor": "Sherby",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
