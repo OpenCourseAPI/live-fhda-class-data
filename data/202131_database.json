@@ -431,7 +431,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ponleithner",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5925,7 +5925,7 @@
             "units": "6.00",
             "instructor": "Nekrep",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "8"
           },
           {
@@ -5942,7 +5942,7 @@
             "units": "6.00",
             "instructor": "Manoukian",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "8"
           },
           {
@@ -5959,7 +5959,7 @@
             "units": "6.00",
             "instructor": "Manoukian",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "8"
           }
         ]
@@ -6298,7 +6298,7 @@
             "units": "4.00",
             "instructor": "Mancuso",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ],
@@ -6338,7 +6338,7 @@
             "units": "4.00",
             "instructor": "Mancuso",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ]
@@ -6380,7 +6380,7 @@
             "units": "4.00",
             "instructor": "Perry",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ]
@@ -8522,7 +8522,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salehi",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8539,7 +8539,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salehi",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8706,7 +8706,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mossman",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8723,7 +8723,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mossman",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9988,7 +9988,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11275,18 +11275,18 @@
             "course": "DANC F010.02W",
             "CRN": "32105",
             "desc": "TOPICS IN DANCE HISTORY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "02/15/2021",
             "end": "03/26/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "5.00",
-            "instructor": "Staff",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "instructor": "Whitson",
+            "seats": "40",
+            "wait_seats": "10",
+            "wait_cap": "10"
           }
         ]
       },
@@ -13116,7 +13116,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Robbins",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13191,7 +13191,7 @@
             "course": "ENGL F034C01W",
             "CRN": "31691",
             "desc": "LITERATURE INTO FILM",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -13200,7 +13200,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Armerding",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "24",
             "wait_cap": "25"
           }
@@ -17034,6 +17034,27 @@
           }
         ]
       },
+      "75B": {
+        "32106": [
+          {
+            "course": "LINC F075B01W",
+            "CRN": "32106",
+            "desc": "INSTRUCTIONAL TECH STRATEGIES",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/25/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Pereira",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "80": {
         "31760": [
           {
@@ -17528,7 +17549,7 @@
             "units": "5.00",
             "instructor": "Litrus",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -17734,7 +17755,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Oruganti",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18359,7 +18380,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18378,7 +18399,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19539,7 +19560,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -19585,7 +19606,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22676,7 +22697,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tapia",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24355,7 +24376,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Woolcock",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24376,7 +24397,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryer",
-            "seats": "20",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24711,7 +24732,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -27106,7 +27127,7 @@
             "units": "5.00",
             "instructor": "Crespo-Martin",
             "seats": "0",
-            "wait_seats": "23",
+            "wait_seats": "22",
             "wait_cap": "25"
           }
         ]
