@@ -1035,7 +1035,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mello",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1110,7 +1110,7 @@
             "course": "ACCT D067.63Z",
             "CRN": "35822",
             "desc": "INDIVIDUAL INCOME TAXATION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -1119,7 +1119,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Botsford",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -3378,7 +3378,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11046,7 +11046,7 @@
             "course": "CIS D018A41Z",
             "CRN": "00444",
             "desc": "INTRO TO UNIX/LINUX",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "06:00 PM-07:50 PM",
             "start": "01/04/2021",
@@ -11055,7 +11055,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "15"
           },
@@ -11063,7 +11063,7 @@
             "course": "CIS D018A41Z",
             "CRN": "00444",
             "desc": "INTRO TO UNIX/LINUX",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11072,7 +11072,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "15"
           }
@@ -11465,7 +11465,7 @@
             "course": "CIS D022B01Z",
             "CRN": "32251",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "09:30 AM-10:20 AM",
             "start": "01/04/2021",
@@ -11474,15 +11474,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-10",
+            "wait_cap": "5"
           },
           {
             "course": "CIS D022B01Z",
             "CRN": "32251",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11491,15 +11491,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-10",
+            "wait_cap": "5"
           },
           {
             "course": "CIS D022B01Z",
             "CRN": "32251",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11508,9 +11508,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-10",
+            "wait_cap": "5"
           }
         ],
         "32253": [
@@ -12332,7 +12332,7 @@
             "course": "CIS D040.62Z",
             "CRN": "34089",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -12341,9 +12341,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "4",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ]
       },
@@ -12835,7 +12835,7 @@
             "course": "CIS D21JA01Z",
             "CRN": "32261",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "09:30 AM-10:20 AM",
             "start": "01/04/2021",
@@ -12844,15 +12844,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
+            "seats": "8",
+            "wait_seats": "-9",
+            "wait_cap": "5"
           },
           {
             "course": "CIS D21JA01Z",
             "CRN": "32261",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -12861,15 +12861,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
+            "seats": "8",
+            "wait_seats": "-9",
+            "wait_cap": "5"
           },
           {
             "course": "CIS D21JA01Z",
             "CRN": "32261",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -12878,9 +12878,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
+            "seats": "8",
+            "wait_seats": "-9",
+            "wait_cap": "5"
           }
         ],
         "36723": [
@@ -20132,7 +20132,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Board Liljenstolpe",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24679,7 +24679,7 @@
             "units": "2.00",
             "instructor": "Hassel",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -24718,7 +24718,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Erickson",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24866,7 +24866,7 @@
             "units": "1.50",
             "instructor": "Atwood",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           },
           {
@@ -24883,7 +24883,7 @@
             "units": "1.50",
             "instructor": "Atwood",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ]
@@ -29558,7 +29558,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Board Liljenstolpe",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -29575,7 +29575,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Board Liljenstolpe",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -40180,7 +40180,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Birago",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "15",
             "wait_cap": "15"
           }
