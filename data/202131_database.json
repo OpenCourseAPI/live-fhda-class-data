@@ -73,7 +73,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -431,7 +431,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ponleithner",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -778,7 +778,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mendizabal",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4845,7 +4845,7 @@
             "units": "5.00",
             "instructor": "Alderkamp",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           },
           {
@@ -4862,7 +4862,7 @@
             "units": "5.00",
             "instructor": "Alderkamp",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -4989,7 +4989,7 @@
             "units": "5.00",
             "instructor": "Golubev",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "8"
           },
           {
@@ -5006,7 +5006,7 @@
             "units": "5.00",
             "instructor": "Golubev",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "8"
           },
           {
@@ -5023,7 +5023,7 @@
             "units": "5.00",
             "instructor": "Golubev",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "8"
           }
         ],
@@ -5301,7 +5301,7 @@
             "course": "BIOL F040B07Z",
             "CRN": "31928",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -5310,7 +5310,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lagna",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "4",
             "wait_cap": "4"
           },
@@ -5318,7 +5318,7 @@
             "course": "BIOL F040B07Z",
             "CRN": "31928",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "F",
             "time": "02:30 PM-05:20 PM",
             "start": "01/04/2021",
@@ -5327,7 +5327,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Folse",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "4",
             "wait_cap": "4"
           },
@@ -5335,7 +5335,7 @@
             "course": "BIOL F040B07Z",
             "CRN": "31928",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "F",
             "time": "12:30 PM-02:20 PM",
             "start": "01/04/2021",
@@ -5344,7 +5344,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lagna",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "4",
             "wait_cap": "4"
           }
@@ -7937,7 +7937,7 @@
             "units": "5.00",
             "instructor": "Larson",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -7954,7 +7954,7 @@
             "units": "5.00",
             "instructor": "Larson",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -8976,7 +8976,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Rollinger",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8993,9 +8993,28 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Rollinger",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
+          }
+        ],
+        "32109": [
+          {
+            "course": "CHLD F008.05W",
+            "CRN": "32109",
+            "desc": "CHILD,FAMILY & COMMUNITY",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Kerbey",
+            "seats": "40",
+            "wait_seats": "20",
+            "wait_cap": "20"
           }
         ],
         "31901": [
@@ -9147,8 +9166,8 @@
             "CRN": "31692",
             "desc": "PLANNING CREATIVE DRAMATICS",
             "status": "Open",
-            "days": "F",
-            "time": "05:00 PM-08:50 PM",
+            "days": "S",
+            "time": "09:00 AM-12:50 PM",
             "start": "02/26/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -9164,8 +9183,8 @@
             "CRN": "31692",
             "desc": "PLANNING CREATIVE DRAMATICS",
             "status": "Open",
-            "days": "S",
-            "time": "09:00 AM-12:50 PM",
+            "days": "F",
+            "time": "05:00 PM-08:50 PM",
             "start": "02/26/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -9988,7 +10007,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10019,7 +10038,7 @@
             "course": "COMM F012.02W",
             "CRN": "30274",
             "desc": "INTERCULTURAL COMMUNICATION",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -10029,7 +10048,7 @@
             "units": "5.00",
             "instructor": "Velasco",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -11627,7 +11646,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -19587,7 +19606,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -19974,7 +19993,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20055,7 +20074,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Barkley",
+            "instructor": "Carey",
             "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -20072,7 +20091,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Carey",
+            "instructor": "Barkley",
             "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -20151,6 +20170,25 @@
             "wait_seats": "20",
             "wait_cap": "20"
           }
+        ],
+        "32110": [
+          {
+            "course": "MUS F002D03W",
+            "CRN": "32110",
+            "desc": "WORLD MUSIC:ROOTS TO CONTMP",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Barkley",
+            "seats": "25",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
         ]
       },
       "3B": {
@@ -20188,7 +20226,24 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Hartwell",
+            "instructor": "Carey",
+            "seats": "0",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "MUS F008.01Z",
+            "CRN": "30138",
+            "desc": "MUSIC OF AMERICAN CULTURES",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Barkley",
             "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -20205,14 +20260,16 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Carey",
+            "instructor": "Hartwell",
             "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
-          },
+          }
+        ],
+        "30032": [
           {
-            "course": "MUS F008.01Z",
-            "CRN": "30138",
+            "course": "MUS F008.02Z",
+            "CRN": "30032",
             "desc": "MUSIC OF AMERICAN CULTURES",
             "status": "Waitlist",
             "days": "TBA",
@@ -20224,11 +20281,9 @@
             "units": "5.00",
             "instructor": "Barkley",
             "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
-        "30032": [
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
           {
             "course": "MUS F008.02Z",
             "CRN": "30032",
@@ -20259,23 +20314,6 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hartwell",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "MUS F008.02Z",
-            "CRN": "30032",
-            "desc": "MUSIC OF AMERICAN CULTURES",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Barkley",
             "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -20378,14 +20416,14 @@
             "CRN": "30139",
             "desc": "HONORS MUSIC OF AMER CULTURES",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Carey",
+            "instructor": "Barkley",
             "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -20395,14 +20433,14 @@
             "CRN": "30139",
             "desc": "HONORS MUSIC OF AMER CULTURES",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "12:00 PM-01:50 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Barkley",
+            "instructor": "Carey",
             "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -20421,7 +20459,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Hartwell",
+            "instructor": "Carey",
             "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -20438,7 +20476,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Carey",
+            "instructor": "Hartwell",
             "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -20553,6 +20591,23 @@
             "CRN": "30146",
             "desc": "BEGINNING CLASS PIANO",
             "status": "Open",
+            "days": "M",
+            "time": "10:00 AM-11:50 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Lin",
+            "seats": "6",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "MUS F012A01V",
+            "CRN": "30146",
+            "desc": "BEGINNING CLASS PIANO",
+            "status": "Open",
             "days": "W",
             "time": "10:00 AM-10:50 AM",
             "start": "01/04/2021",
@@ -20570,25 +20625,8 @@
             "CRN": "30146",
             "desc": "BEGINNING CLASS PIANO",
             "status": "Open",
-            "days": "M",
-            "time": "10:00 AM-11:50 AM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Lin",
-            "seats": "6",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "MUS F012A01V",
-            "CRN": "30146",
-            "desc": "BEGINNING CLASS PIANO",
-            "status": "Open",
-            "days": "M",
-            "time": "10:00 AM-11:50 AM",
+            "days": "W",
+            "time": "10:00 AM-10:50 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -20607,6 +20645,23 @@
             "desc": "BEGINNING CLASS PIANO",
             "status": "Open",
             "days": "S",
+            "time": "12:00 PM-12:50 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Lin",
+            "seats": "9",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "MUS F012A02V",
+            "CRN": "30149",
+            "desc": "BEGINNING CLASS PIANO",
+            "status": "Open",
+            "days": "S",
             "time": "10:00 AM-11:50 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
@@ -20624,24 +20679,7 @@
             "desc": "BEGINNING CLASS PIANO",
             "status": "Open",
             "days": "S",
-            "time": "12:00 PM-12:50 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Lin",
-            "seats": "9",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "MUS F012A02V",
-            "CRN": "30149",
-            "desc": "BEGINNING CLASS PIANO",
-            "status": "Open",
-            "days": "S",
-            "time": "12:00 PM-12:50 PM",
+            "time": "10:00 AM-11:50 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -20661,6 +20699,23 @@
             "CRN": "30846",
             "desc": "INTERMEDIATE CLASS PIANO",
             "status": "Open",
+            "days": "W",
+            "time": "10:00 AM-10:50 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Lin",
+            "seats": "2",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "MUS F012B01V",
+            "CRN": "30846",
+            "desc": "INTERMEDIATE CLASS PIANO",
+            "status": "Open",
             "days": "M",
             "time": "10:00 AM-11:50 AM",
             "start": "01/04/2021",
@@ -20678,25 +20733,8 @@
             "CRN": "30846",
             "desc": "INTERMEDIATE CLASS PIANO",
             "status": "Open",
-            "days": "W",
-            "time": "10:00 AM-10:50 AM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Lin",
-            "seats": "2",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "MUS F012B01V",
-            "CRN": "30846",
-            "desc": "INTERMEDIATE CLASS PIANO",
-            "status": "Open",
-            "days": "W",
-            "time": "10:00 AM-10:50 AM",
+            "days": "M",
+            "time": "10:00 AM-11:50 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
