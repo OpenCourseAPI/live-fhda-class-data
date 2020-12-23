@@ -249,7 +249,7 @@
             "units": "5.00",
             "instructor": "Benson",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ]
@@ -391,7 +391,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bowman",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -431,7 +431,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ponleithner",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -554,7 +554,7 @@
             "units": "4.00",
             "instructor": "Negrete",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -615,7 +615,7 @@
             "units": "5.00",
             "instructor": "Van Hulsen",
             "seats": "1",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -778,7 +778,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mendizabal",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -7107,7 +7107,7 @@
             "units": "4.50",
             "instructor": "Riordan",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
@@ -7124,7 +7124,7 @@
             "units": "4.50",
             "instructor": "Riordan",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -7608,7 +7608,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7625,7 +7625,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9113,7 +9113,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dave",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9307,7 +9307,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Giotta",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11773,7 +11773,58 @@
             "room": "SV104",
             "campus": "FC",
             "units": "5.00",
+            "instructor": "Calderon",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "10"
+          },
+          {
+            "course": "EMS F052.01R",
+            "CRN": "32014",
+            "desc": "EMT: BASIC PART A",
+            "status": "Full",
+            "days": "W",
+            "time": "05:30 PM-09:30 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "5.00",
+            "instructor": "Carlsen",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "10"
+          },
+          {
+            "course": "EMS F052.01R",
+            "CRN": "32014",
+            "desc": "EMT: BASIC PART A",
+            "status": "Full",
+            "days": "W",
+            "time": "05:30 PM-09:30 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "5.00",
             "instructor": "Huseman",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "10"
+          },
+          {
+            "course": "EMS F052.01R",
+            "CRN": "32014",
+            "desc": "EMT: BASIC PART A",
+            "status": "Full",
+            "days": "W",
+            "time": "05:30 PM-09:30 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "5.00",
+            "instructor": "Chew",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
@@ -11866,23 +11917,6 @@
             "room": "SV104",
             "campus": "FC",
             "units": "3.00",
-            "instructor": "Dito",
-            "seats": "5",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EMS F061B01",
-            "CRN": "31072",
-            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
-            "status": "Open",
-            "days": "Th",
-            "time": "09:00 AM-03:15 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "3.00",
             "instructor": "Covey",
             "seats": "5",
             "wait_seats": "5",
@@ -11900,24 +11934,7 @@
             "room": "SV104",
             "campus": "FC",
             "units": "3.00",
-            "instructor": "Ikegami",
-            "seats": "5",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EMS F061B01",
-            "CRN": "31072",
-            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
-            "status": "Open",
-            "days": "Th",
-            "time": "09:00 AM-03:15 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "3.00",
-            "instructor": "Acuna",
+            "instructor": "Dito",
             "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -12019,7 +12036,7 @@
             "room": "SV104",
             "campus": "FC",
             "units": "3.00",
-            "instructor": "Flanagan",
+            "instructor": "Ikegami",
             "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -12108,6 +12125,40 @@
             "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
+          },
+          {
+            "course": "EMS F061B01",
+            "CRN": "31072",
+            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
+            "status": "Open",
+            "days": "Th",
+            "time": "09:00 AM-03:15 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "3.00",
+            "instructor": "Flanagan",
+            "seats": "5",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F061B01",
+            "CRN": "31072",
+            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
+            "status": "Open",
+            "days": "Th",
+            "time": "09:00 AM-03:15 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "3.00",
+            "instructor": "Acuna",
+            "seats": "5",
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -12142,7 +12193,7 @@
             "room": "SV",
             "campus": "FC",
             "units": "2.00",
-            "instructor": "Ikegami",
+            "instructor": "Culbertson",
             "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -12159,7 +12210,7 @@
             "room": "SV",
             "campus": "FC",
             "units": "2.00",
-            "instructor": "Culbertson",
+            "instructor": "Ikegami",
             "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -12168,23 +12219,6 @@
       },
       "64B": {
         "31840": [
-          {
-            "course": "EMS F064B01",
-            "CRN": "31840",
-            "desc": "PARAMD AMBULANCE FLD INTRN II",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "13.00",
-            "instructor": "Culbertson",
-            "seats": "14",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
           {
             "course": "EMS F064B01",
             "CRN": "31840",
@@ -12231,6 +12265,23 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "13.00",
+            "instructor": "Culbertson",
+            "seats": "14",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "EMS F064B01",
+            "CRN": "31840",
+            "desc": "PARAMD AMBULANCE FLD INTRN II",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "HOSP",
+            "campus": "FO",
+            "units": "13.00",
             "instructor": "Ikegami",
             "seats": "14",
             "wait_seats": "0",
@@ -12246,7 +12297,7 @@
             "desc": "EMT: BASIC CONTINUING ED",
             "status": "Open",
             "days": "MW",
-            "time": "08:00 PM-09:30 PM",
+            "time": "06:00 PM-07:50 PM",
             "start": "01/04/2021",
             "end": "02/14/2021",
             "room": "SV102",
@@ -12263,7 +12314,7 @@
             "desc": "EMT: BASIC CONTINUING ED",
             "status": "Open",
             "days": "MW",
-            "time": "06:00 PM-07:50 PM",
+            "time": "08:00 PM-09:30 PM",
             "start": "01/04/2021",
             "end": "02/14/2021",
             "room": "SV102",
@@ -19365,7 +19416,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Shidler",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
