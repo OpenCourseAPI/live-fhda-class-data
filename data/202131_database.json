@@ -363,7 +363,7 @@
             "course": "ACTG F058.01W",
             "CRN": "30191",
             "desc": "AUDITING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -372,7 +372,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bowman",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -483,7 +483,7 @@
             "course": "ACTG F064A01W",
             "CRN": "30314",
             "desc": "COMPUTERIZED ACTG PRAC:QUICKBO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -492,8 +492,8 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ]
@@ -6521,7 +6521,7 @@
             "course": "C S F001A01Z",
             "CRN": "30239",
             "desc": "OBJ-ORIENTED PROG METHOD JAVA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "02:00 PM-03:50 PM",
             "start": "01/04/2021",
@@ -6530,7 +6530,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6538,7 +6538,7 @@
             "course": "C S F001A01Z",
             "CRN": "30239",
             "desc": "OBJ-ORIENTED PROG METHOD JAVA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -6547,7 +6547,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6741,7 +6741,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -6758,7 +6758,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8744,8 +8744,8 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Painter",
-            "seats": "2",
-            "wait_seats": "-1",
+            "seats": "1",
+            "wait_seats": "0",
             "wait_cap": "0"
           },
           {
@@ -8761,8 +8761,8 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Painter",
-            "seats": "2",
-            "wait_seats": "-1",
+            "seats": "1",
+            "wait_seats": "0",
             "wait_cap": "0"
           }
         ],
@@ -8771,7 +8771,7 @@
             "course": "CHEM F12BL02Z",
             "CRN": "30567",
             "desc": "ORGANIC CHEMISTRY LABORATORY",
-            "status": "Open",
+            "status": "Full",
             "days": "MW",
             "time": "05:30 PM-07:20 PM",
             "start": "01/04/2021",
@@ -8780,15 +8780,15 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Painter",
-            "seats": "2",
-            "wait_seats": "-2",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "0"
           },
           {
             "course": "CHEM F12BL02Z",
             "CRN": "30567",
             "desc": "ORGANIC CHEMISTRY LABORATORY",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -8797,8 +8797,8 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Painter",
-            "seats": "2",
-            "wait_seats": "-2",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "0"
           }
         ],
@@ -11773,24 +11773,7 @@
             "room": "SV104",
             "campus": "FC",
             "units": "5.00",
-            "instructor": "Calderon",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
-          },
-          {
-            "course": "EMS F052.01R",
-            "CRN": "32014",
-            "desc": "EMT: BASIC PART A",
-            "status": "Full",
-            "days": "W",
-            "time": "05:30 PM-09:30 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "5.00",
-            "instructor": "Carlsen",
+            "instructor": "Toback",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
@@ -11879,6 +11862,57 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
+          },
+          {
+            "course": "EMS F052.01R",
+            "CRN": "32014",
+            "desc": "EMT: BASIC PART A",
+            "status": "Full",
+            "days": "W",
+            "time": "05:30 PM-09:30 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "5.00",
+            "instructor": "Carlsen",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "10"
+          },
+          {
+            "course": "EMS F052.01R",
+            "CRN": "32014",
+            "desc": "EMT: BASIC PART A",
+            "status": "Full",
+            "days": "W",
+            "time": "05:30 PM-09:30 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "5.00",
+            "instructor": "Nelson",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "10"
+          },
+          {
+            "course": "EMS F052.01R",
+            "CRN": "32014",
+            "desc": "EMT: BASIC PART A",
+            "status": "Full",
+            "days": "W",
+            "time": "05:30 PM-09:30 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "5.00",
+            "instructor": "Calderon",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "10"
           }
         ]
       },
@@ -11905,23 +11939,6 @@
       },
       "61B": {
         "31072": [
-          {
-            "course": "EMS F061B01",
-            "CRN": "31072",
-            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
-            "status": "Open",
-            "days": "Th",
-            "time": "09:00 AM-03:15 PM",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "3.00",
-            "instructor": "Covey",
-            "seats": "5",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
           {
             "course": "EMS F061B01",
             "CRN": "31072",
@@ -12036,7 +12053,7 @@
             "room": "SV104",
             "campus": "FC",
             "units": "3.00",
-            "instructor": "Ikegami",
+            "instructor": "Covey",
             "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -12159,28 +12176,28 @@
             "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
+          },
+          {
+            "course": "EMS F061B01",
+            "CRN": "31072",
+            "desc": "PARAMED COG/AFFECT/PSYCH IIB",
+            "status": "Open",
+            "days": "Th",
+            "time": "09:00 AM-03:15 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "3.00",
+            "instructor": "Ikegami",
+            "seats": "5",
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
       "63A": {
         "30632": [
-          {
-            "course": "EMS F063A01",
-            "CRN": "30632",
-            "desc": "PARAMD HOSPITAL SPECLTY ROTATN",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "SV",
-            "campus": "FC",
-            "units": "2.00",
-            "instructor": "Middleton",
-            "seats": "17",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
           {
             "course": "EMS F063A01",
             "CRN": "30632",
@@ -12214,6 +12231,23 @@
             "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
+          },
+          {
+            "course": "EMS F063A01",
+            "CRN": "30632",
+            "desc": "PARAMD HOSPITAL SPECLTY ROTATN",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "SV",
+            "campus": "FC",
+            "units": "2.00",
+            "instructor": "Middleton",
+            "seats": "17",
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -12231,7 +12265,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "13.00",
-            "instructor": "Middleton",
+            "instructor": "Ikegami",
             "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -12282,7 +12316,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "13.00",
-            "instructor": "Ikegami",
+            "instructor": "Middleton",
             "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -12580,7 +12614,7 @@
             "course": "ENGL F001A3CW",
             "CRN": "30318",
             "desc": "COMPOSITION & READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -12589,8 +12623,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lewis",
-            "seats": "1",
-            "wait_seats": "15",
+            "seats": "0",
+            "wait_seats": "16",
             "wait_cap": "25"
           }
         ],
@@ -19143,7 +19177,7 @@
             "units": "5.00",
             "instructor": "Low",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -20488,7 +20522,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Barkley",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -20505,7 +20539,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Carey",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20634,8 +20668,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "5",
-            "wait_seats": "4",
+            "seats": "4",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ]
@@ -23553,7 +23587,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Su",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -23570,7 +23604,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Su",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
