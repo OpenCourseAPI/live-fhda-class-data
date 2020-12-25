@@ -17672,7 +17672,7 @@
             "course": "MATH F001B05Z",
             "CRN": "30601",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "06:00 PM-07:15 PM",
             "start": "01/04/2021",
@@ -17681,32 +17681,13 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nosratieh",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
           {
             "course": "MATH F001B05Z",
             "CRN": "30601",
-            "desc": "CALCULUS",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Nosratieh",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "30627": [
-          {
-            "course": "MATH F001B06W",
-            "CRN": "30627",
             "desc": "CALCULUS",
             "status": "Open",
             "days": "TBA",
@@ -17716,8 +17697,27 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Oruganti",
+            "instructor": "Nosratieh",
             "seats": "1",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ],
+        "30627": [
+          {
+            "course": "MATH F001B06W",
+            "CRN": "30627",
+            "desc": "CALCULUS",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Oruganti",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24740,7 +24740,7 @@
             "course": "PSYC F001.06W",
             "CRN": "30102",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -24749,7 +24749,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
