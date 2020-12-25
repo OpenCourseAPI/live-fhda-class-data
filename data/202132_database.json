@@ -1625,7 +1625,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Alem",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1642,7 +1642,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Alem",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7108,7 +7108,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7125,7 +7125,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10715,7 +10715,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Taylor",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13239,7 +13239,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hernando",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -23902,25 +23902,6 @@
             "course": "GEOL D010.53Z",
             "CRN": "00949",
             "desc": "INTRODUCTORY GEOLOGY",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Dileonardo",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "6"
-          }
-        ],
-        "35580": [
-          {
-            "course": "GEOL D010.54Z",
-            "CRN": "35580",
-            "desc": "INTRODUCTORY GEOLOGY",
             "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
@@ -23932,6 +23913,25 @@
             "instructor": "Dileonardo",
             "seats": "0",
             "wait_seats": "1",
+            "wait_cap": "6"
+          }
+        ],
+        "35580": [
+          {
+            "course": "GEOL D010.54Z",
+            "CRN": "35580",
+            "desc": "INTRODUCTORY GEOLOGY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Dileonardo",
+            "seats": "0",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
