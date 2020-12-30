@@ -1793,7 +1793,7 @@
             "course": "ANTH D001.01Z",
             "CRN": "00074",
             "desc": "PHYS ANTHRO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "09:30 AM-10:20 AM",
             "start": "01/04/2021",
@@ -1802,15 +1802,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tiwana",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "2"
           },
           {
             "course": "ANTH D001.01Z",
             "CRN": "00074",
             "desc": "PHYS ANTHRO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -1819,8 +1819,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tiwana",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ],
@@ -2095,7 +2095,7 @@
             "course": "ANTH D001L53Z",
             "CRN": "33778",
             "desc": "PHYS ANTHRO LAB",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -2104,8 +2104,8 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Tiwana",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ],
@@ -2457,7 +2457,7 @@
             "units": "4.00",
             "instructor": "Mjelde",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ]
@@ -3616,7 +3616,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cody",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -3633,7 +3633,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cody",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -5404,7 +5404,7 @@
             "units": "5.00",
             "instructor": "Cuff-Alvarado",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ],
@@ -7406,8 +7406,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Park",
-            "seats": "3",
-            "wait_seats": "1",
+            "seats": "1",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -8583,7 +8583,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Kennedy",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11292,8 +11292,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "15",
-            "wait_seats": "-14",
+            "seats": "6",
+            "wait_seats": "-4",
             "wait_cap": "0"
           },
           {
@@ -11309,8 +11309,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "15",
-            "wait_seats": "-14",
+            "seats": "6",
+            "wait_seats": "-4",
             "wait_cap": "0"
           },
           {
@@ -11326,8 +11326,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "15",
-            "wait_seats": "-14",
+            "seats": "6",
+            "wait_seats": "-4",
             "wait_cap": "0"
           }
         ],
@@ -11336,7 +11336,7 @@
             "course": "CIS D022A08Z",
             "CRN": "33762",
             "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11345,15 +11345,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-3",
+            "wait_cap": "6"
           },
           {
             "course": "CIS D022A08Z",
             "CRN": "33762",
             "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "09:30 AM-11:20 AM",
             "start": "01/04/2021",
@@ -11362,9 +11362,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-3",
+            "wait_cap": "6"
           }
         ],
         "32257": [
@@ -11518,7 +11518,7 @@
             "course": "CIS D022B02Z",
             "CRN": "32253",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "11:30 AM-01:20 PM",
             "start": "01/04/2021",
@@ -11527,15 +11527,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022B02Z",
             "CRN": "32253",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11544,9 +11544,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ],
         "32255": [
@@ -11616,8 +11616,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "15",
-            "wait_seats": "-13",
+            "seats": "4",
+            "wait_seats": "-2",
             "wait_cap": "0"
           },
           {
@@ -11633,8 +11633,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "15",
-            "wait_seats": "-13",
+            "seats": "4",
+            "wait_seats": "-2",
             "wait_cap": "0"
           }
         ],
@@ -11643,7 +11643,7 @@
             "course": "CIS D022B06Z",
             "CRN": "34071",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11652,15 +11652,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022B06Z",
             "CRN": "34071",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "01:30 PM-03:20 PM",
             "start": "01/04/2021",
@@ -11669,9 +11669,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ],
         "32265": [
@@ -11755,7 +11755,7 @@
             "course": "CIS D022C13Z",
             "CRN": "32256",
             "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11765,14 +11765,14 @@
             "units": "4.50",
             "instructor": "Parrish",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D022C13Z",
             "CRN": "32256",
             "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "Th",
             "time": "01:30 PM-02:45 PM",
             "start": "01/04/2021",
@@ -11782,7 +11782,7 @@
             "units": "4.50",
             "instructor": "Parrish",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -11827,7 +11827,7 @@
             "course": "CIS D022C54Z",
             "CRN": "34068",
             "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11837,7 +11837,7 @@
             "units": "4.50",
             "instructor": "Goel",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -11876,8 +11876,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "10",
-            "wait_seats": "-4",
+            "seats": "6",
+            "wait_seats": "0",
             "wait_cap": "0"
           },
           {
@@ -11893,8 +11893,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "10",
-            "wait_seats": "-4",
+            "seats": "6",
+            "wait_seats": "0",
             "wait_cap": "0"
           },
           {
@@ -11910,8 +11910,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "10",
-            "wait_seats": "-4",
+            "seats": "6",
+            "wait_seats": "0",
             "wait_cap": "0"
           }
         ]
@@ -13706,7 +13706,7 @@
             "course": "COMM D001.14Z",
             "CRN": "35214",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "02:30 PM-04:20 PM",
             "start": "01/04/2021",
@@ -13715,15 +13715,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cano",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
             "course": "COMM D001.14Z",
             "CRN": "35214",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -13732,8 +13732,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cano",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -14129,7 +14129,7 @@
             "course": "COMM D001.59Z",
             "CRN": "35206",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -14139,7 +14139,7 @@
             "units": "5.00",
             "instructor": "Lim",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -14583,7 +14583,7 @@
             "course": "COMM D010.06Z",
             "CRN": "35231",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -14593,14 +14593,14 @@
             "units": "5.00",
             "instructor": "Hamilton",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "COMM D010.06Z",
             "CRN": "35231",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "09:30 AM-11:20 AM",
             "start": "01/04/2021",
@@ -14610,7 +14610,7 @@
             "units": "5.00",
             "instructor": "Hamilton",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -15337,7 +15337,7 @@
             "units": "2.00",
             "instructor": "Benzio",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -15354,7 +15354,7 @@
             "units": "2.00",
             "instructor": "Benzio",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -18274,7 +18274,7 @@
             "course": "ESCI D001.54Z",
             "CRN": "36264",
             "desc": "ENVIRON SCIENCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -18283,8 +18283,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Poffenroth",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -18971,7 +18971,7 @@
             "units": "3.00",
             "instructor": "Bankston",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -23689,7 +23689,7 @@
             "course": "GEO D001.01Z",
             "CRN": "00939",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Open",
+            "status": "Full",
             "days": "M",
             "time": "01:30 PM-02:20 PM",
             "start": "01/04/2021",
@@ -23698,7 +23698,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Fernandez",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "3"
           },
@@ -23706,7 +23706,7 @@
             "course": "GEO D001.01Z",
             "CRN": "00939",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -23715,7 +23715,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Fernandez",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "3"
           }
@@ -23822,7 +23822,7 @@
             "course": "GEO D010.63Z",
             "CRN": "34214",
             "desc": "WORLD REGIONAL GEOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -23831,8 +23831,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pena",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "3"
           }
         ],
@@ -24690,7 +24690,7 @@
             "course": "HTEC D060A01Z",
             "CRN": "01013",
             "desc": "BASIC MEDI TERMINOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -24699,8 +24699,8 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Miramontes",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -26352,7 +26352,7 @@
             "course": "HUMI D001.09Z",
             "CRN": "33524",
             "desc": "CREATIVE MINDS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "03:30 PM-04:20 PM",
             "start": "01/04/2021",
@@ -26361,15 +26361,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "White",
-            "seats": "1",
-            "wait_seats": "14",
+            "seats": "0",
+            "wait_seats": "15",
             "wait_cap": "15"
           },
           {
             "course": "HUMI D001.09Z",
             "CRN": "33524",
             "desc": "CREATIVE MINDS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -26378,8 +26378,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "White",
-            "seats": "1",
-            "wait_seats": "14",
+            "seats": "0",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ],
@@ -27050,7 +27050,7 @@
             "units": "4.00",
             "instructor": "Franks",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ],
@@ -27088,7 +27088,7 @@
             "units": "4.00",
             "instructor": "Choi",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "7"
           }
         ]
@@ -28204,7 +28204,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kragalott",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -29985,7 +29985,7 @@
             "units": "5.00",
             "instructor": "Lopez",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -31716,7 +31716,7 @@
             "course": "MATH D011.47Z",
             "CRN": "31763",
             "desc": "FINITE MATHEMATICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "06:30 PM-08:45 PM",
             "start": "01/04/2021",
@@ -31725,7 +31725,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mazmanyan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "6"
           }
@@ -32256,7 +32256,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Desilets",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -36215,7 +36215,7 @@
             "course": "PARA D090A01Z",
             "CRN": "35113",
             "desc": "LEGAL ASPECTS OF EVIDNCE (CP4)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "06:00 PM-08:00 PM",
             "start": "01/04/2021",
@@ -36224,15 +36224,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Burns",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
             "course": "PARA D090A01Z",
             "CRN": "35113",
             "desc": "LEGAL ASPECTS OF EVIDNCE (CP4)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -36241,8 +36241,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Burns",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -36291,7 +36291,7 @@
             "course": "PARA D095.01Z",
             "CRN": "34211",
             "desc": "OVERVIEW OF AMER LAW",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "06:00 PM-07:50 PM",
             "start": "01/04/2021",
@@ -36300,15 +36300,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "PARA D095.01Z",
             "CRN": "34211",
             "desc": "OVERVIEW OF AMER LAW",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -36317,8 +36317,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -37939,7 +37939,7 @@
             "course": "PHYS D050.40Z",
             "CRN": "01802",
             "desc": "PREP PHYSICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "05:30 PM-07:20 PM",
             "start": "01/04/2021",
@@ -37948,8 +37948,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ho",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -38982,7 +38982,7 @@
             "units": "4.00",
             "instructor": "Schulte",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "8"
           }
         ],
@@ -39324,7 +39324,7 @@
             "units": "4.00",
             "instructor": "Johnson",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "8"
           }
         ]
@@ -39485,7 +39485,7 @@
             "course": "PSYC D010H63Z",
             "CRN": "30481",
             "desc": "CHLD GROWTH/DEV:MID CHLDH/ADOL",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -39494,8 +39494,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Leal",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -40099,7 +40099,7 @@
             "course": "SOC D001.01Z",
             "CRN": "35642",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "08:30 AM-09:20 AM",
             "start": "01/04/2021",
@@ -40108,15 +40108,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "15"
           },
           {
             "course": "SOC D001.01Z",
             "CRN": "35642",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -40125,8 +40125,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ],
