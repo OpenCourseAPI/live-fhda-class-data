@@ -365,7 +365,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -382,7 +382,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -538,7 +538,7 @@
             "course": "ACCT D001B65Z",
             "CRN": "37139",
             "desc": "FINAN ACCOUNTG II",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "02/15/2021",
@@ -547,9 +547,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Botsford",
-            "seats": "0",
-            "wait_seats": "9",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-1",
+            "wait_cap": "0"
           }
         ],
         "00020": [
@@ -707,7 +707,7 @@
             "course": "ACCT D001C04Z",
             "CRN": "32499",
             "desc": "MANAG ACCOUNTG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "M",
             "time": "10:30 AM-11:20 AM",
             "start": "01/04/2021",
@@ -716,15 +716,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "10"
+            "seats": "5",
+            "wait_seats": "-1",
+            "wait_cap": "5"
           },
           {
             "course": "ACCT D001C04Z",
             "CRN": "32499",
             "desc": "MANAG ACCOUNTG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -733,9 +733,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "10"
+            "seats": "5",
+            "wait_seats": "-1",
+            "wait_cap": "5"
           }
         ],
         "00033": [
@@ -5686,7 +5686,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kang'a",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -5703,7 +5703,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kang'a",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -11082,7 +11082,7 @@
             "course": "CIS D018A63Z",
             "CRN": "00443",
             "desc": "INTRO TO UNIX/LINUX",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11091,7 +11091,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "May-Pumphrey",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "15"
           }
@@ -11960,7 +11960,7 @@
             "course": "CIS D029.01Z",
             "CRN": "34926",
             "desc": "ADV C++ PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "01:30 PM-03:20 PM",
             "start": "01/04/2021",
@@ -11969,15 +11969,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Bentley",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-14",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D029.01Z",
             "CRN": "34926",
             "desc": "ADV C++ PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11986,9 +11986,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Bentley",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-14",
+            "wait_cap": "0"
           }
         ]
       },
@@ -16546,7 +16546,7 @@
             "course": "E S D003.51Z",
             "CRN": "37039",
             "desc": "IMAGERY OF THE ENVIRONMENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -16555,7 +16555,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thorensen",
-            "seats": "2",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20903,7 +20903,7 @@
             "units": "5.00",
             "instructor": "Pesano",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -22991,7 +22991,7 @@
             "units": "4.00",
             "instructor": "Abramson",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -24142,7 +24142,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Edgar",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -26827,7 +26827,7 @@
             "units": "4.00",
             "instructor": "Ramsey",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ],
@@ -27442,7 +27442,7 @@
             "units": "4.00",
             "instructor": "Kensler",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ]
@@ -32369,7 +32369,7 @@
             "units": "5.00",
             "instructor": "Allmann",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -33166,7 +33166,7 @@
             "units": "2.50",
             "instructor": "Allmann",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -37958,7 +37958,7 @@
             "course": "PHYS D050.42Z",
             "CRN": "33160",
             "desc": "PREP PHYSICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "01/04/2021",
@@ -37967,7 +37967,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Filane",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -39982,7 +39982,7 @@
             "course": "REST D061.63Z",
             "CRN": "36590",
             "desc": "REAL ESTATE INVESTMENTS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -39991,9 +39991,9 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Shih",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ]
       }
@@ -40820,7 +40820,7 @@
             "course": "SPAN D001.02Z",
             "CRN": "01986",
             "desc": "ELEMEN SPANISH (1ST QTR)",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "M",
             "time": "06:30 PM-08:45 PM",
             "start": "01/04/2021",
@@ -40830,14 +40830,14 @@
             "units": "5.00",
             "instructor": "Vinall",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "7"
           },
           {
             "course": "SPAN D001.02Z",
             "CRN": "01986",
             "desc": "ELEMEN SPANISH (1ST QTR)",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -40847,7 +40847,7 @@
             "units": "5.00",
             "instructor": "Vinall",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ],
