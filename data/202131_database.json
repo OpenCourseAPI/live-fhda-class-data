@@ -321,7 +321,7 @@
             "course": "ACTG F053.01W",
             "CRN": "30277",
             "desc": "FINANCIAL STATEMENT ANALYSIS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -330,8 +330,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Fakoor",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ]
@@ -403,7 +403,7 @@
             "course": "ACTG F059.01W",
             "CRN": "30278",
             "desc": "FRAUD EXAMINATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -412,7 +412,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mayer",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6521,7 +6521,7 @@
             "course": "C S F001A01Z",
             "CRN": "30239",
             "desc": "OBJ-ORIENTED PROG METHOD JAVA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "02:00 PM-03:50 PM",
             "start": "01/04/2021",
@@ -6530,32 +6530,13 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
           {
             "course": "C S F001A01Z",
             "CRN": "30239",
-            "desc": "OBJ-ORIENTED PROG METHOD JAVA",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Weusijana",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "30399": [
-          {
-            "course": "C S F001A02W",
-            "CRN": "30399",
             "desc": "OBJ-ORIENTED PROG METHOD JAVA",
             "status": "Open",
             "days": "TBA",
@@ -6565,9 +6546,28 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "4.50",
-            "instructor": "Meade",
+            "instructor": "Weusijana",
             "seats": "1",
-            "wait_seats": "3",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ],
+        "30399": [
+          {
+            "course": "C S F001A02W",
+            "CRN": "30399",
+            "desc": "OBJ-ORIENTED PROG METHOD JAVA",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.50",
+            "instructor": "Meade",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -6635,7 +6635,7 @@
             "course": "C S F001B02W",
             "CRN": "30550",
             "desc": "INTERM SOFTWARE DESIGN IN JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -6644,8 +6644,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -6879,7 +6879,7 @@
             "units": "4.50",
             "instructor": "Reed",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
@@ -6896,7 +6896,7 @@
             "units": "4.50",
             "instructor": "Reed",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -6934,7 +6934,7 @@
             "units": "4.50",
             "instructor": "Mazloom",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -7028,7 +7028,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "9",
             "wait_cap": "10"
           },
@@ -7045,7 +7045,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -8589,7 +8589,7 @@
             "course": "CHEM F030B01Z",
             "CRN": "30727",
             "desc": "SURVEY OF ORGANIC/BIOCHEM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "06:00 PM-07:50 PM",
             "start": "01/04/2021",
@@ -8598,7 +8598,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8606,7 +8606,7 @@
             "course": "CHEM F030B01Z",
             "CRN": "30727",
             "desc": "SURVEY OF ORGANIC/BIOCHEM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -8615,7 +8615,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14027,7 +14027,7 @@
             "course": "GEOG F001.01Z",
             "CRN": "30289",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "02:00 PM-03:50 PM",
             "start": "01/04/2021",
@@ -14036,7 +14036,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gutierrez",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -14044,7 +14044,7 @@
             "course": "GEOG F001.01Z",
             "CRN": "30289",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -14053,7 +14053,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gutierrez",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14769,7 +14769,7 @@
             "course": "HIST F004B01W",
             "CRN": "30057",
             "desc": "HISTORY OF WESTN CIV 700-1800",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -14778,8 +14778,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Coburn",
-            "seats": "1",
-            "wait_seats": "19",
+            "seats": "0",
+            "wait_seats": "20",
             "wait_cap": "20"
           }
         ]
@@ -15049,7 +15049,7 @@
             "course": "HLTH F021.03V",
             "CRN": "31168",
             "desc": "CONTEMPORARY HEALTH CONCERNS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "05:00 PM-06:50 PM",
             "start": "01/04/2021",
@@ -15058,7 +15058,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Draper",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -15070,7 +15070,7 @@
             "course": "HLTH F022.01W",
             "CRN": "31591",
             "desc": "HEALTH & SOCIAL JUSTICE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -15079,7 +15079,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -16340,7 +16340,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "9",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -16382,7 +16382,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Edwards",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16415,7 +16415,7 @@
             "course": "KINS F009.01W",
             "CRN": "30257",
             "desc": "BASIC NUTRITION SPORTS/FITNESS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -16424,7 +16424,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mac Neil",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -19345,7 +19345,7 @@
             "course": "MDIA F002A01W",
             "CRN": "30344",
             "desc": "HISTORY OF FILM 1895-1945",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -19354,7 +19354,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Shidler",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22180,7 +22180,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Mac Neil",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22989,7 +22989,7 @@
             "course": "PHOT F004A01W",
             "CRN": "30224",
             "desc": "PHOTOSHOP FOR PHOTOGRAPHERS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -22998,7 +22998,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Herman",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -25798,7 +25798,7 @@
             "units": "1.50",
             "instructor": "Campbell",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "25"
           }
         ]
@@ -27082,7 +27082,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Crespo-Martin",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "25",
             "wait_cap": "25"
           }
