@@ -223,7 +223,7 @@
             "course": "ACCT D001A07Z",
             "CRN": "32072",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -232,15 +232,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Claire",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-9",
+            "wait_cap": "0"
           },
           {
             "course": "ACCT D001A07Z",
             "CRN": "32072",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "11:30 AM-01:20 PM",
             "start": "01/04/2021",
@@ -249,9 +249,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Claire",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-9",
+            "wait_cap": "0"
           }
         ],
         "30459": [
@@ -5470,7 +5470,7 @@
             "course": "BIOL D010.55Z",
             "CRN": "30356",
             "desc": "INTRO BIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -5480,7 +5480,7 @@
             "units": "5.00",
             "instructor": "Bram",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ],
@@ -7891,7 +7891,7 @@
             "units": "4.00",
             "instructor": "Talamantez",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "15"
           },
           {
@@ -7908,7 +7908,7 @@
             "units": "4.00",
             "instructor": "Talamantez",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ],
@@ -8982,7 +8982,7 @@
             "course": "CHEM D001A40Z",
             "CRN": "32199",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "02:30 PM-03:45 PM",
             "start": "01/04/2021",
@@ -8991,7 +8991,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -8999,7 +8999,7 @@
             "course": "CHEM D001A40Z",
             "CRN": "32199",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "06:00 PM-07:15 PM",
             "start": "01/04/2021",
@@ -9008,7 +9008,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -9016,7 +9016,7 @@
             "course": "CHEM D001A40Z",
             "CRN": "32199",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -9025,7 +9025,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -9098,7 +9098,7 @@
             "units": "5.00",
             "instructor": "Lo",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
@@ -9115,7 +9115,7 @@
             "units": "5.00",
             "instructor": "Eiteneer",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
@@ -9132,7 +9132,7 @@
             "units": "5.00",
             "instructor": "Eiteneer",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -11969,7 +11969,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Bentley",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "-2",
             "wait_cap": "0"
           },
@@ -11986,7 +11986,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Bentley",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "-2",
             "wait_cap": "0"
           }
@@ -31346,7 +31346,7 @@
             "units": "5.00",
             "instructor": "Lane",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -32668,7 +32668,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rudolf",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33005,7 +33005,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -33022,7 +33022,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -33384,7 +33384,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mullens",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -33401,7 +33401,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mullens",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -36851,7 +36851,7 @@
             "units": "4.00",
             "instructor": "Baiamonte",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -37579,7 +37579,7 @@
             "units": "6.00",
             "instructor": "Luna",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           },
           {
@@ -37596,7 +37596,7 @@
             "units": "6.00",
             "instructor": "Luna",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -40017,7 +40017,7 @@
             "units": "5.00",
             "instructor": "Chiriaeva",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ]
