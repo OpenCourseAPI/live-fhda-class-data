@@ -4139,27 +4139,6 @@
           }
         ]
       },
-      "60H": {
-        "36331": [
-          {
-            "course": "AUTO D060H45Z",
-            "CRN": "36331",
-            "desc": "ADV DRIVABIL/ONBRD DIAG",
-            "status": "Open",
-            "days": "TTh",
-            "time": "06:00 PM-10:15 PM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Silva",
-            "seats": "13",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
       "60J": {
         "36332": [
           {
@@ -4808,27 +4787,6 @@
             "time": "06:00 PM-10:15 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.00",
-            "instructor": "Silva",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "360H": {
-        "37093": [
-          {
-            "course": "AUTO D360H45Z",
-            "CRN": "37093",
-            "desc": "ADV DRIVABIL/ONBRD DIAG",
-            "status": "Waitlist",
-            "days": "TTh",
-            "time": "06:00 PM-10:15 PM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
             "room": "ONLINE",
             "campus": "DA",
             "units": "0.00",
@@ -5912,7 +5870,7 @@
             "course": "BIOL D040A02Z",
             "CRN": "32160",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "09:30 AM-12:20 PM",
             "start": "01/04/2021",
@@ -5921,15 +5879,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Pane",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "7"
           },
           {
             "course": "BIOL D040A02Z",
             "CRN": "32160",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -5938,8 +5896,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Pane",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ],
@@ -7272,7 +7230,7 @@
             "units": "5.00",
             "instructor": "Ritchie",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -7289,7 +7247,7 @@
             "units": "5.00",
             "instructor": "Ritchie",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -11050,7 +11008,7 @@
             "units": "4.50",
             "instructor": "May-Pumphrey",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -11423,7 +11381,7 @@
             "course": "CIS D022B01Z",
             "CRN": "32251",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "09:30 AM-10:20 AM",
             "start": "01/04/2021",
@@ -11433,14 +11391,14 @@
             "units": "4.50",
             "instructor": "Alameer",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "CIS D022B01Z",
             "CRN": "32251",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11450,14 +11408,14 @@
             "units": "4.50",
             "instructor": "Alameer",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "CIS D022B01Z",
             "CRN": "32251",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -11467,7 +11425,7 @@
             "units": "4.50",
             "instructor": "Alameer",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -11966,7 +11924,7 @@
             "units": "5.00",
             "instructor": "Linn Jr",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -12571,7 +12529,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Eftekhari",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12593,7 +12551,7 @@
             "units": "4.50",
             "instructor": "Oldham",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ]
@@ -13304,7 +13262,7 @@
             "course": "COMM D001.04Z",
             "CRN": "35204",
             "desc": "PUBLIC SPEAKING",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -13313,7 +13271,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Iyengar",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           },
@@ -13321,7 +13279,7 @@
             "course": "COMM D001.04Z",
             "CRN": "35204",
             "desc": "PUBLIC SPEAKING",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "09:30 AM-11:20 AM",
             "start": "01/04/2021",
@@ -13330,7 +13288,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Iyengar",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           }
@@ -14975,25 +14933,6 @@
   "COUN": {
     "1": {
       "5": {
-        "36811": [
-          {
-            "course": "COUN D005.02Z",
-            "CRN": "36811",
-            "desc": "INTRODUCTION TO COLLEGE",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "01/22/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.00",
-            "instructor": "Fu",
-            "seats": "0",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ],
         "36812": [
           {
             "course": "COUN D005.10Z",
@@ -15250,8 +15189,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lucas",
-            "seats": "2",
-            "wait_seats": "3",
+            "seats": "1",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ],
@@ -21310,7 +21249,7 @@
             "course": "EWRT D002.17Z",
             "CRN": "33201",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "12:30 PM-01:20 PM",
             "start": "01/04/2021",
@@ -21319,7 +21258,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Howland",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -21327,7 +21266,7 @@
             "course": "EWRT D002.17Z",
             "CRN": "33201",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -21336,7 +21275,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Howland",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -26000,25 +25939,6 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
-        ],
-        "37262": [
-          {
-            "course": "HUMA D010H65Z",
-            "CRN": "37262",
-            "desc": "HUMAN SEXUALITY - HONORS",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/26/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Jackler",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
         ]
       },
       "20": {
@@ -26293,7 +26213,7 @@
             "course": "HUMI D001.07Z",
             "CRN": "32919",
             "desc": "CREATIVE MINDS",
-            "status": "Open",
+            "status": "Full",
             "days": "TTh",
             "time": "01:30 PM-03:20 PM",
             "start": "01/04/2021",
@@ -26302,7 +26222,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Breiter",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -30414,7 +30334,7 @@
             "course": "MATH D001B40Z",
             "CRN": "32473",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "06:30 PM-08:45 PM",
             "start": "01/04/2021",
@@ -30424,7 +30344,7 @@
             "units": "5.00",
             "instructor": "Yu",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -33145,7 +33065,7 @@
             "units": "5.00",
             "instructor": "Chadda",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ]
@@ -34523,27 +34443,6 @@
           }
         ]
       },
-      "91A": {
-        "36954": [
-          {
-            "course": "NURS D091A01Z",
-            "CRN": "36954",
-            "desc": "HEALTH ASSESSMENT",
-            "status": "Full",
-            "days": "T",
-            "time": "06:30 AM-10:20 AM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Hrycyk",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "91B": {
         "36957": [
           {
@@ -35237,25 +35136,6 @@
         ]
       },
       "94AL": {
-        "36990": [
-          {
-            "course": "NURS D94AL01F",
-            "CRN": "36990",
-            "desc": "PSYCH/MNTL HLTH NURS CLINICAL",
-            "status": "Open",
-            "days": "TW",
-            "time": "07:00 AM-01:15 PM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "HOSP",
-            "campus": "DO",
-            "units": "2.00",
-            "instructor": "Gifford",
-            "seats": "1",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "36991": [
           {
             "course": "NURS D94AL02F",
@@ -39649,7 +39529,7 @@
             "units": "4.00",
             "instructor": "Kondo",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "8"
           }
         ]
