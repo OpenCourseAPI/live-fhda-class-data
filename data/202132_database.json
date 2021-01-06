@@ -1435,7 +1435,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1452,7 +1452,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -4223,44 +4223,6 @@
           }
         ]
       },
-      "92B": {
-        "34732": [
-          {
-            "course": "AUTO D092B32Z",
-            "CRN": "34732",
-            "desc": "AUTOMOTIVE ALIGNMENT",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "07:30 AM-09:20 AM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "6.00",
-            "instructor": "Maynard",
-            "seats": "2",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "AUTO D092B32Z",
-            "CRN": "34732",
-            "desc": "AUTOMOTIVE ALIGNMENT",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "09:30 AM-12:20 PM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "6.00",
-            "instructor": "Maynard",
-            "seats": "2",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
       "92C": {
         "34748": [
           {
@@ -4892,6 +4854,23 @@
             "CRN": "00218",
             "desc": "FORM/FUNCT IN THE BIOLGCL WRLD",
             "status": "Open",
+            "days": "W",
+            "time": "09:30 AM-11:20 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "6.00",
+            "instructor": "Mcpartlan",
+            "seats": "3",
+            "wait_seats": "0",
+            "wait_cap": "7"
+          },
+          {
+            "course": "BIOL D006A01Z",
+            "CRN": "00218",
+            "desc": "FORM/FUNCT IN THE BIOLGCL WRLD",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -4909,8 +4888,8 @@
             "CRN": "00218",
             "desc": "FORM/FUNCT IN THE BIOLGCL WRLD",
             "status": "Open",
-            "days": "W",
-            "time": "09:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -4923,6 +4902,23 @@
           }
         ],
         "36233": [
+          {
+            "course": "BIOL D006A02Z",
+            "CRN": "36233",
+            "desc": "FORM/FUNCT IN THE BIOLGCL WRLD",
+            "status": "Full",
+            "days": "W",
+            "time": "09:30 AM-11:20 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "6.00",
+            "instructor": "Mcpartlan",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "7"
+          },
           {
             "course": "BIOL D006A02Z",
             "CRN": "36233",
@@ -4945,8 +4941,8 @@
             "CRN": "36233",
             "desc": "FORM/FUNCT IN THE BIOLGCL WRLD",
             "status": "Full",
-            "days": "W",
-            "time": "09:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -5630,8 +5626,8 @@
             "CRN": "37189",
             "desc": "HUMAN BIOLOGY",
             "status": "Open",
-            "days": "T",
-            "time": "11:30 AM-02:20 PM",
+            "days": "TTh",
+            "time": "09:30 AM-11:20 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -5647,8 +5643,8 @@
             "CRN": "37189",
             "desc": "HUMAN BIOLOGY",
             "status": "Open",
-            "days": "TTh",
-            "time": "09:30 AM-11:20 AM",
+            "days": "T",
+            "time": "11:30 AM-02:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -5666,8 +5662,8 @@
             "CRN": "37118",
             "desc": "HUMAN BIOLOGY",
             "status": "Open",
-            "days": "S",
-            "time": "09:30 AM-01:20 PM",
+            "days": "F",
+            "time": "01:30 PM-04:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -5683,8 +5679,8 @@
             "CRN": "37118",
             "desc": "HUMAN BIOLOGY",
             "status": "Open",
-            "days": "F",
-            "time": "01:30 PM-04:20 PM",
+            "days": "S",
+            "time": "09:30 AM-01:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6017,8 +6013,8 @@
             "CRN": "33000",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
-            "days": "TTh",
-            "time": "12:20 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6034,8 +6030,8 @@
             "CRN": "33000",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "12:20 PM-02:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6089,8 +6085,8 @@
             "CRN": "00254",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
-            "days": "W",
-            "time": "11:30 AM-02:20 PM",
+            "days": "MW",
+            "time": "09:30 AM-11:20 AM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6106,8 +6102,8 @@
             "CRN": "00254",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "09:30 AM-11:20 AM",
+            "days": "W",
+            "time": "11:30 AM-02:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6161,8 +6157,8 @@
             "CRN": "31564",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "05:30 PM-07:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6178,8 +6174,8 @@
             "CRN": "31564",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "05:30 PM-07:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6417,8 +6413,8 @@
             "CRN": "32173",
             "desc": "INTRO HUMAN NUTRITION",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "06:30 PM-07:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6434,8 +6430,8 @@
             "CRN": "32173",
             "desc": "INTRO HUMAN NUTRITION",
             "status": "Open",
-            "days": "TTh",
-            "time": "06:30 PM-07:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -6445,27 +6441,6 @@
             "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
-          }
-        ]
-      },
-      "54I": {
-        "36219": [
-          {
-            "course": "BIOL D054I02Z",
-            "CRN": "36219",
-            "desc": "APPL ANAT & PHYSIO(COORDIN/TRN",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.50",
-            "instructor": "Cuff-Alvarado",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "7"
           }
         ]
       },
@@ -7024,7 +6999,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7041,7 +7016,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7230,7 +7205,7 @@
             "units": "5.00",
             "instructor": "Ritchie",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -7247,7 +7222,7 @@
             "units": "5.00",
             "instructor": "Ritchie",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -7766,7 +7741,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sun",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "13",
             "wait_cap": "15"
           }
@@ -10744,7 +10719,7 @@
             "units": "4.50",
             "instructor": "Georgiou",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ]
@@ -11008,7 +10983,7 @@
             "units": "4.50",
             "instructor": "May-Pumphrey",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ]
@@ -12677,7 +12652,7 @@
             "units": "4.50",
             "instructor": "Holmes",
             "seats": "5",
-            "wait_seats": "13",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ]
@@ -14026,7 +14001,7 @@
             "course": "COMM D001.58Z",
             "CRN": "35864",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -14035,7 +14010,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Anderson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -21277,7 +21252,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Howland",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -21294,7 +21269,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Howland",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24037,8 +24012,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Jackson",
-            "seats": "2",
-            "wait_seats": "5",
+            "seats": "1",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ]
@@ -28829,7 +28804,7 @@
             "course": "KNES D26AX50Z",
             "CRN": "37075",
             "desc": "BASIC PILATES MAT EXERCISE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "02/15/2021",
@@ -28838,7 +28813,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Catuiza",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -29864,7 +29839,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -32036,7 +32011,7 @@
             "units": "5.00",
             "instructor": "Shi",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ]
@@ -34661,25 +34636,6 @@
         ]
       },
       "93A": {
-        "36979": [
-          {
-            "course": "NURS D093A01Z",
-            "CRN": "36979",
-            "desc": "PEDIATRIC NURSING",
-            "status": "Open",
-            "days": "W",
-            "time": "06:30 AM-10:20 AM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Marinas",
-            "seats": "1",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "36980": [
           {
             "course": "NURS D093A02Z",
@@ -34722,25 +34678,6 @@
         ]
       },
       "94": {
-        "36984": [
-          {
-            "course": "NURS D094.01Z",
-            "CRN": "36984",
-            "desc": "GERONTOLOGY NURSING",
-            "status": "Open",
-            "days": "W",
-            "time": "08:00 AM-11:50 AM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Valadez",
-            "seats": "1",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "36985": [
           {
             "course": "NURS D094.02Z",
@@ -35046,46 +34983,6 @@
             "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
-          }
-        ]
-      },
-      "91AL": {
-        "36955": [
-          {
-            "course": "NURS D91AL01",
-            "CRN": "36955",
-            "desc": "HEALTH ASSESSMENT LAB",
-            "status": "Full",
-            "days": "WTh",
-            "time": "06:30 AM-01:45 PM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "S81",
-            "campus": "DA",
-            "units": "2.50",
-            "instructor": "Quevedo",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "36956": [
-          {
-            "course": "NURS D91AL02",
-            "CRN": "36956",
-            "desc": "HEALTH ASSESSMENT LAB",
-            "status": "Full",
-            "days": "WTh",
-            "time": "06:30 AM-01:45 PM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "S82",
-            "campus": "DA",
-            "units": "2.50",
-            "instructor": "White",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ]
       },
@@ -41045,8 +40942,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Alvarez",
-            "seats": "2",
-            "wait_seats": "13",
+            "seats": "1",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ]
