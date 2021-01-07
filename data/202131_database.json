@@ -2885,7 +2885,7 @@
             "units": "4.50",
             "instructor": "Brannvall",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -3434,7 +3434,7 @@
             "course": "ART F045A01Z",
             "CRN": "30863",
             "desc": "BEGINNING CERAMICS HANDBUILDIN",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "F",
             "time": "10:00 AM-11:15 AM",
             "start": "01/04/2021",
@@ -3443,7 +3443,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ruble",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -3451,7 +3451,7 @@
             "course": "ART F045A01Z",
             "CRN": "30863",
             "desc": "BEGINNING CERAMICS HANDBUILDIN",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "F",
             "time": "02:30 PM-03:45 PM",
             "start": "01/04/2021",
@@ -3460,7 +3460,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ruble",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -3468,7 +3468,7 @@
             "course": "ART F045A01Z",
             "CRN": "30863",
             "desc": "BEGINNING CERAMICS HANDBUILDIN",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -3477,7 +3477,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ruble",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -4668,7 +4668,7 @@
             "course": "BIOL F010.06Z",
             "CRN": "30569",
             "desc": "GEN BIOL-BASIC PRINCPLES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "05:30 PM-08:20 PM",
             "start": "01/04/2021",
@@ -4677,7 +4677,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Webb",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4685,7 +4685,7 @@
             "course": "BIOL F010.06Z",
             "CRN": "30569",
             "desc": "GEN BIOL-BASIC PRINCPLES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -4694,7 +4694,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Poffenroth",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -9144,7 +9144,7 @@
             "course": "CHLD F072.01W",
             "CRN": "31697",
             "desc": "LANGUAGE, LITERACY/DEVLP CHILD",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "02/01/2021",
@@ -9153,7 +9153,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Kennedy",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "10"
           }
@@ -9796,6 +9796,25 @@
             "wait_seats": "6",
             "wait_cap": "10"
           }
+        ],
+        "32116": [
+          {
+            "course": "COMM F002.05W",
+            "CRN": "32116",
+            "desc": "INTERPERSONAL COMMUNICATION",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "02/15/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Kellner",
+            "seats": "30",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
         ]
       },
       "3": {
@@ -9987,7 +10006,7 @@
             "units": "5.00",
             "instructor": "Ni",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -10214,13 +10233,13 @@
         ],
         "32047": [
           {
-            "course": "CRLP F071.4DW",
+            "course": "CRLP F071.4DV",
             "CRN": "32047",
             "desc": "EXPLORING CAREER FIELDS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
+            "days": "W",
+            "time": "10:30 AM-11:40 AM",
+            "start": "01/25/2021",
             "end": "03/26/2021",
             "room": "AVHS",
             "campus": "FO",
@@ -11387,7 +11406,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Gong",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -14522,7 +14541,7 @@
             "course": "GID F044A01W",
             "CRN": "31102",
             "desc": "FUNDAMENTALS OF 3-D ANIMATION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -14531,7 +14550,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17705,8 +17724,8 @@
             "CRN": "30601",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "MW",
-            "time": "06:00 PM-07:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17722,8 +17741,8 @@
             "CRN": "30601",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "06:00 PM-07:15 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17800,8 +17819,8 @@
             "CRN": "30128",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "TTh",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17817,8 +17836,8 @@
             "CRN": "30128",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "01:30 PM-03:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17950,8 +17969,8 @@
             "CRN": "31870",
             "desc": "CALCULUS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TF",
+            "time": "11:00 AM-12:15 PM",
             "start": "01/04/2021",
             "end": "03/19/2021",
             "room": "MVHS",
@@ -17967,8 +17986,8 @@
             "CRN": "31870",
             "desc": "CALCULUS",
             "status": "Full",
-            "days": "TF",
-            "time": "11:00 AM-12:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/19/2021",
             "room": "MVHS",
@@ -18994,6 +19013,25 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "32115": [
+          {
+            "course": "MATH F070R02",
+            "CRN": "32115",
+            "desc": "INDEPENDENT STUDY MATHEMATICS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "TBA",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Lee",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "71R": {
@@ -19480,7 +19518,7 @@
             "course": "MDIA F005.01W",
             "CRN": "31606",
             "desc": "AMERICAN CINEMA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "02/15/2021",
@@ -19489,7 +19527,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rufeisen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -20458,7 +20496,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Barkley",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -20475,7 +20513,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Carey",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22292,7 +22330,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22599,7 +22637,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "29",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
