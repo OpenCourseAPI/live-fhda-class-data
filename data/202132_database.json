@@ -2296,7 +2296,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hedges",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -7313,7 +7313,7 @@
             "course": "BUS D055.63Z",
             "CRN": "00288",
             "desc": "INTRO TO ENTREPRENEURSHIP",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -7322,7 +7322,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bennett",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -13460,7 +13460,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ahern",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "3",
             "wait_cap": "5"
           },
@@ -13477,7 +13477,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ahern",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "3",
             "wait_cap": "5"
           }
@@ -18178,7 +18178,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "McCluskey",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20759,7 +20759,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cudahy",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20996,7 +20996,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Modirzadeh",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -21013,7 +21013,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Modirzadeh",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22091,6 +22091,44 @@
           }
         ]
       },
+      "1AH": {
+        "37343": [
+          {
+            "course": "EWRT D01AH22Z",
+            "CRN": "37343",
+            "desc": "COMPOSITION AND READING-HONORS",
+            "status": "Full",
+            "days": "TTh",
+            "time": "09:30 AM-10:20 AM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Hanzimanolis",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "EWRT D01AH22Z",
+            "CRN": "37343",
+            "desc": "COMPOSITION AND READING-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Hanzimanolis",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "1AS": {
         "36496": [
           {
@@ -22299,8 +22337,8 @@
             "CRN": "36491",
             "desc": "INTENSIVE COMP/READ STRETCH: 2",
             "status": "Open",
-            "days": "MW",
-            "time": "11:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22316,8 +22354,8 @@
             "CRN": "36491",
             "desc": "INTENSIVE COMP/READ STRETCH: 2",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "11:30 AM-12:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22392,8 +22430,8 @@
             "CRN": "36495",
             "desc": "INTENSIVE COMP/READ STRETCH: 2",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:00 AM-12:15 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22409,8 +22447,8 @@
             "CRN": "36495",
             "desc": "INTENSIVE COMP/READ STRETCH: 2",
             "status": "Open",
-            "days": "T",
-            "time": "10:00 AM-12:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22466,8 +22504,8 @@
             "CRN": "37284",
             "desc": "READNG, WRTNG & RESRCH-HONORS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "01:30 PM-03:45 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -22483,8 +22521,8 @@
             "CRN": "37284",
             "desc": "READNG, WRTNG & RESRCH-HONORS",
             "status": "Full",
-            "days": "W",
-            "time": "01:30 PM-03:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -23498,7 +23536,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Fernandez",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "3"
           },
@@ -23515,7 +23553,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Fernandez",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -25975,7 +26013,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "White",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "14",
             "wait_cap": "15"
           },
@@ -25992,7 +26030,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "White",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "14",
             "wait_cap": "15"
           }
@@ -31033,7 +31071,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Vanniasegaram",
-            "seats": "21",
+            "seats": "22",
             "wait_seats": "6",
             "wait_cap": "6"
           }
