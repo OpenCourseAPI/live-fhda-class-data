@@ -827,43 +827,7 @@
   "AHS": {
     "1": {
       "50B": {
-        "30784": [
-          {
-            "course": "AHS F050B02W",
-            "CRN": "30784",
-            "desc": "INTERPROFESSIONAL PATIENT COMP",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "0.50",
-            "instructor": "Hanning",
-            "seats": "7",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "30707": [
-          {
-            "course": "AHS F050B03Y",
-            "CRN": "30707",
-            "desc": "INTERPROFESSIONAL PATIENT COMP",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "0.50",
-            "instructor": "Su",
-            "seats": "15",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
           {
             "course": "AHS F050B03Y",
             "CRN": "30707",
@@ -880,12 +844,10 @@
             "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
-          }
-        ],
-        "31550": [
+          },
           {
-            "course": "AHS F050B05W",
-            "CRN": "31550",
+            "course": "AHS F050B03Y",
+            "CRN": "30707",
             "desc": "INTERPROFESSIONAL PATIENT COMP",
             "status": "Open",
             "days": "TBA",
@@ -895,8 +857,8 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "0.50",
-            "instructor": "Villanueva",
-            "seats": "5",
+            "instructor": "Su",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18701,7 +18663,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Florero Salinas",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19122,7 +19084,7 @@
             "course": "MATH F105.02V",
             "CRN": "30626",
             "desc": "INTERMEDIATE ALGEBRA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "01:30 PM-03:45 PM",
             "start": "01/04/2021",
@@ -19131,7 +19093,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Uilecan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -25839,7 +25801,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "10.50",
-            "instructor": "DeMaggio",
+            "instructor": "Staff",
             "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -25873,7 +25835,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "10.50",
-            "instructor": "Staff",
+            "instructor": "DeMaggio",
             "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -25918,27 +25880,6 @@
           }
         ]
       },
-      "200L": {
-        "30540": [
-          {
-            "course": "R T F200L51R",
-            "CRN": "30540",
-            "desc": "RADIOLOGIC TECHNOLOGY AS A CAR",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.50",
-            "instructor": "Campbell",
-            "seats": "0",
-            "wait_seats": "19",
-            "wait_cap": "25"
-          }
-        ]
-      },
       "53CL": {
         "31726": [
           {
@@ -25953,7 +25894,7 @@
             "room": "5305",
             "campus": "FH",
             "units": "1.00",
-            "instructor": "Lackey",
+            "instructor": "Wu",
             "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -25970,7 +25911,7 @@
             "room": "5305",
             "campus": "FH",
             "units": "1.00",
-            "instructor": "Wu",
+            "instructor": "Lackey",
             "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"

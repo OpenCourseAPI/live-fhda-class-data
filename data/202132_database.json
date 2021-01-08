@@ -1865,7 +1865,7 @@
             "course": "ANTH D001.50Z",
             "CRN": "34271",
             "desc": "PHYS ANTHRO",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/04/2021",
@@ -1874,7 +1874,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tiwana",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "2"
           }
@@ -2499,7 +2499,7 @@
             "units": "4.00",
             "instructor": "Pasturel",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ]
@@ -4218,44 +4218,6 @@
             "units": "4.50",
             "instructor": "Loiacono",
             "seats": "16",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "92C": {
-        "34748": [
-          {
-            "course": "AUTO D092C32Z",
-            "CRN": "34748",
-            "desc": "AUTO ELECTRNC CHASSIS CONTROLS",
-            "status": "Open",
-            "days": "F",
-            "time": "07:30 AM-10:20 AM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Maynard",
-            "seats": "2",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "AUTO D092C32Z",
-            "CRN": "34748",
-            "desc": "AUTO ELECTRNC CHASSIS CONTROLS",
-            "status": "Open",
-            "days": "F",
-            "time": "10:30 AM-01:20 PM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Maynard",
-            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -14884,7 +14846,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Goldie",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -17837,7 +17799,7 @@
             "units": "4.50",
             "instructor": "Zand",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "6"
           },
           {
@@ -17854,7 +17816,7 @@
             "units": "4.50",
             "instructor": "Zand",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -26637,10 +26599,10 @@
             "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Berney",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -31569,6 +31531,27 @@
           }
         ]
       },
+      "10H": {
+        "37342": [
+          {
+            "course": "MATH D010H25Z",
+            "CRN": "37342",
+            "desc": "INTRODUCTORY STATS - HONORS",
+            "status": "Full",
+            "days": "TTh",
+            "time": "01:30 PM-03:45 PM",
+            "start": "01/04/2021",
+            "end": "03/26/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Parrish",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "11": {
         "01274": [
           {
@@ -32371,8 +32354,8 @@
             "CRN": "36864",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "M",
-            "time": "01:30 PM-03:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -32388,8 +32371,8 @@
             "CRN": "36864",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "01:30 PM-03:45 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -34526,42 +34509,6 @@
         ]
       },
       "93": {
-        "36975": [
-          {
-            "course": "NURS D093.01Z",
-            "CRN": "36975",
-            "desc": "REPRODUCTIVE HEALTH NURSING",
-            "status": "Open",
-            "days": "F",
-            "time": "08:30 AM-12:20 PM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Libova",
-            "seats": "1",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "NURS D093.01Z",
-            "CRN": "36975",
-            "desc": "REPRODUCTIVE HEALTH NURSING",
-            "status": "Open",
-            "days": "Th",
-            "time": "01:30 PM-05:20 PM",
-            "start": "01/04/2021",
-            "end": "02/14/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Libova",
-            "seats": "1",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "36976": [
           {
             "course": "NURS D093.02Z",
