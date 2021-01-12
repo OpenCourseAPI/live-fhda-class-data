@@ -816,7 +816,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mendizabal",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2808,7 +2808,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Gomes",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -6360,7 +6360,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Perry",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "18",
             "wait_cap": "20"
           }
@@ -16442,25 +16442,6 @@
         ]
       },
       "16A": {
-        "31650": [
-          {
-            "course": "KINS F016A1DW",
-            "CRN": "31650",
-            "desc": "PREVENTION OF ATHLETIC INJURIE",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/05/2021",
-            "end": "02/23/2021",
-            "room": "SVCTE",
-            "campus": "FO",
-            "units": "3.00",
-            "instructor": "Rockett",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "32028": [
           {
             "course": "KINS F016A2DW",
@@ -17665,8 +17646,8 @@
             "CRN": "30601",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "06:00 PM-07:15 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17682,8 +17663,8 @@
             "CRN": "30601",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "MW",
-            "time": "06:00 PM-07:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17760,8 +17741,8 @@
             "CRN": "30128",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "01:30 PM-03:20 PM",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17777,8 +17758,8 @@
             "CRN": "30128",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "TTh",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/26/2021",
             "room": "ONLINE",
@@ -17863,42 +17844,6 @@
             "campus": "FO",
             "units": "5.00",
             "instructor": "Park Lee",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "31869": [
-          {
-            "course": "MATH F001D4DZ",
-            "CRN": "31869",
-            "desc": "CALCULUS",
-            "status": "Full",
-            "days": "TF",
-            "time": "09:30 AM-10:45 AM",
-            "start": "01/04/2021",
-            "end": "03/19/2021",
-            "room": "LAHS",
-            "campus": "FO",
-            "units": "5.00",
-            "instructor": "Lublin",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "MATH F001D4DZ",
-            "CRN": "31869",
-            "desc": "CALCULUS",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/19/2021",
-            "room": "LAHS",
-            "campus": "FO",
-            "units": "5.00",
-            "instructor": "Lublin",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -19752,7 +19697,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -21155,7 +21100,7 @@
             "course": "NCEL F405.01V",
             "CRN": "31345",
             "desc": "INTRO TO COMP/INTRNET LANG ESL",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "06:00 PM-08:20 PM",
             "start": "01/04/2021",
@@ -21164,7 +21109,7 @@
             "campus": "FC",
             "units": "0.00",
             "instructor": "Lanz",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -21920,7 +21865,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Staff",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21960,7 +21905,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Galas",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23306,60 +23251,7 @@
         ]
       },
       "102": {
-        "31853": [
-          {
-            "course": "PHT F102.01Y",
-            "CRN": "31853",
-            "desc": "PHARMACY CAREERS B",
-            "status": "Open",
-            "days": "T",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/12/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Su",
-            "seats": "12",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "PHT F102.01Y",
-            "CRN": "31853",
-            "desc": "PHARMACY CAREERS B",
-            "status": "Open",
-            "days": "T",
-            "time": "06:00 PM-08:20 PM",
-            "start": "01/04/2021",
-            "end": "03/12/2021",
-            "room": "RWCBGC",
-            "campus": "FO",
-            "units": "4.00",
-            "instructor": "Su",
-            "seats": "12",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "31856": [
-          {
-            "course": "PHT F102.02Y",
-            "CRN": "31856",
-            "desc": "PHARMACY CAREERS B",
-            "status": "Open",
-            "days": "Th",
-            "time": "06:00 PM-08:30 PM",
-            "start": "01/04/2021",
-            "end": "03/12/2021",
-            "room": "RWCBGC",
-            "campus": "FO",
-            "units": "4.00",
-            "instructor": "Su",
-            "seats": "12",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
           {
             "course": "PHT F102.02Y",
             "CRN": "31856",
@@ -23371,6 +23263,23 @@
             "end": "03/12/2021",
             "room": "ONLINE",
             "campus": "FH",
+            "units": "4.00",
+            "instructor": "Su",
+            "seats": "12",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "PHT F102.02Y",
+            "CRN": "31856",
+            "desc": "PHARMACY CAREERS B",
+            "status": "Open",
+            "days": "Th",
+            "time": "06:00 PM-08:30 PM",
+            "start": "01/04/2021",
+            "end": "03/12/2021",
+            "room": "RWCBGC",
+            "campus": "FO",
             "units": "4.00",
             "instructor": "Su",
             "seats": "12",
@@ -23391,6 +23300,23 @@
             "room": "8708",
             "campus": "FH",
             "units": "4.00",
+            "instructor": "Tsuboi",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "PHT F102.03Y",
+            "CRN": "31857",
+            "desc": "PHARMACY CAREERS B",
+            "status": "Full",
+            "days": "W",
+            "time": "06:00 PM-08:30 PM",
+            "start": "01/04/2021",
+            "end": "03/12/2021",
+            "room": "8708",
+            "campus": "FH",
+            "units": "4.00",
             "instructor": "DeNagel",
             "seats": "0",
             "wait_seats": "0",
@@ -23435,14 +23361,14 @@
             "CRN": "31857",
             "desc": "PHARMACY CAREERS B",
             "status": "Full",
-            "days": "W",
-            "time": "06:00 PM-08:30 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/04/2021",
             "end": "03/12/2021",
-            "room": "8708",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Tsuboi",
+            "instructor": "Su",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -23494,23 +23420,6 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jha",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "PHT F102.03Y",
-            "CRN": "31857",
-            "desc": "PHARMACY CAREERS B",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/04/2021",
-            "end": "03/12/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Su",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -26569,7 +26478,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Roberts",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "20",
             "wait_cap": "20"
           }
