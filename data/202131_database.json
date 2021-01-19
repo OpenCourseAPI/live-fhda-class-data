@@ -268,7 +268,7 @@
             "units": "4.00",
             "instructor": "Carducci",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "15",
             "wait_cap": "20"
           }
         ]
@@ -915,7 +915,29 @@
     }
   },
   "ITRN": {
-    "1": {}
+    "1": {
+      "50": {
+        "32118": [
+          {
+            "course": "ITRN F050.04V",
+            "CRN": "32118",
+            "desc": "INTERNSHIP",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "03/29/2021",
+            "end": "04/02/2021",
+            "room": "",
+            "campus": "",
+            "units": "1.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      }
+    }
   },
   "JAPN": {
     "1": {}
