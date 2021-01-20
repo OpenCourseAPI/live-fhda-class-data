@@ -82,7 +82,84 @@
     "1": {}
   },
   "APSM": {
-    "1": {}
+    "1": {
+      "117": {
+        "32139": [
+          {
+            "course": "APSM F117.04",
+            "CRN": "32139",
+            "desc": "SMQ-17 SUBMITTALS & SHOP DRAWI",
+            "status": "Open",
+            "days": "MTWThF",
+            "time": "06:30 AM-01:00 PM",
+            "start": "01/11/2021",
+            "end": "01/15/2021",
+            "room": "FAIRFIELD",
+            "campus": "FO",
+            "units": "2.50",
+            "instructor": "Fain",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "APSM F117.04",
+            "CRN": "32139",
+            "desc": "SMQ-17 SUBMITTALS & SHOP DRAWI",
+            "status": "Open",
+            "days": "MTWThF",
+            "time": "01:00 PM-02:05 PM",
+            "start": "01/11/2021",
+            "end": "01/15/2021",
+            "room": "FAIRFIELD",
+            "campus": "FO",
+            "units": "2.50",
+            "instructor": "Fain",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "153A": {
+        "32152": [
+          {
+            "course": "APSM F153A09",
+            "CRN": "32152",
+            "desc": "FIELD INSTALL FOR SERVCE TECHN",
+            "status": "Open",
+            "days": "MTWThF",
+            "time": "06:30 AM-12:20 PM",
+            "start": "01/25/2021",
+            "end": "01/29/2021",
+            "room": "CASTRO",
+            "campus": "FO",
+            "units": "2.50",
+            "instructor": "Seoud",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "APSM F153A09",
+            "CRN": "32152",
+            "desc": "FIELD INSTALL FOR SERVCE TECHN",
+            "status": "Open",
+            "days": "MTWThF",
+            "time": "12:20 PM-02:10 PM",
+            "start": "01/25/2021",
+            "end": "01/29/2021",
+            "room": "CASTRO",
+            "campus": "FO",
+            "units": "2.50",
+            "instructor": "Seoud",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      }
+    }
   },
   "ART": {
     "1": {}
@@ -270,8 +347,8 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Carducci",
-            "seats": "5",
-            "wait_seats": "15",
+            "seats": "2",
+            "wait_seats": "19",
             "wait_cap": "20"
           }
         ]
@@ -282,7 +359,7 @@
             "course": "CHLD F008.05W",
             "CRN": "32109",
             "desc": "CHILD,FAMILY & COMMUNITY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "02/15/2021",
@@ -291,8 +368,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "8",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ],
@@ -332,7 +409,7 @@
             "units": "4.00",
             "instructor": "Daha",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -521,7 +598,7 @@
             "units": "5.00",
             "instructor": "Kellner",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -910,7 +987,7 @@
             "units": "4.00",
             "instructor": "Dargahi",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ]
@@ -2478,7 +2555,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Gray",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
