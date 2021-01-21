@@ -309,7 +309,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Carducci",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "19",
             "wait_cap": "20"
           }
@@ -509,7 +509,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Latta",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1146,7 +1146,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Bissell",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1155,50 +1155,7 @@
     }
   },
   "LA": {
-    "1": {
-      "61A": {
-        "31936": [
-          {
-            "course": "L A F061A03V",
-            "CRN": "31936",
-            "desc": "TUTOR TRAINING I",
-            "status": "Full",
-            "days": "Th",
-            "time": "01:00 PM-02:05 PM",
-            "start": "01/11/2021",
-            "end": "03/12/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Menendez",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "61B": {
-        "31939": [
-          {
-            "course": "L A F061B03V",
-            "CRN": "31939",
-            "desc": "TUTOR TRAINING II",
-            "status": "Open",
-            "days": "Th",
-            "time": "01:00 PM-02:05 PM",
-            "start": "01/11/2021",
-            "end": "03/12/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Menendez",
-            "seats": "4",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "LIBR": {
     "1": {}
@@ -1418,7 +1375,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Cavada",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1458,7 +1415,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Randall",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -1475,7 +1432,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Pereira",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1614,7 +1571,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Randall",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1656,7 +1613,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Tolnai",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2224,25 +2181,6 @@
             "wait_cap": "10"
           }
         ],
-        "31736": [
-          {
-            "course": "NCP F402A05V",
-            "CRN": "31736",
-            "desc": "FAMLY IN LIVES CHLD I:ERLY YRS",
-            "status": "Open",
-            "days": "Th",
-            "time": "06:00 PM-07:50 PM",
-            "start": "01/21/2021",
-            "end": "02/11/2021",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Galas",
-            "seats": "35",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "31737": [
           {
             "course": "NCP F402A06V",
@@ -2443,50 +2381,7 @@
     "1": {}
   },
   "PSE": {
-    "1": {
-      "61A": {
-        "31922": [
-          {
-            "course": "PSE F061A03V",
-            "CRN": "31922",
-            "desc": "TUTOR TRAINING I",
-            "status": "Full",
-            "days": "Th",
-            "time": "12:15 PM-01:20 PM",
-            "start": "01/11/2021",
-            "end": "03/12/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Gray",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "61B": {
-        "31925": [
-          {
-            "course": "PSE F061B03V",
-            "CRN": "31925",
-            "desc": "TUTOR TRAINING II",
-            "status": "Open",
-            "days": "Th",
-            "time": "12:15 PM-01:20 PM",
-            "start": "01/11/2021",
-            "end": "03/12/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Gray",
-            "seats": "1",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "PSYC": {
     "1": {}
