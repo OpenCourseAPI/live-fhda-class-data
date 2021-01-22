@@ -81,6 +81,9 @@
   "APPT": {
     "1": {}
   },
+  "APSC": {
+    "1": {}
+  },
   "APSM": {
     "1": {
       "153A": {
@@ -534,7 +537,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Nava",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -1787,7 +1790,7 @@
             "course": "MDIA F005.01W",
             "CRN": "31606",
             "desc": "AMERICAN CINEMA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "02/15/2021",
@@ -1796,8 +1799,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rufeisen",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
