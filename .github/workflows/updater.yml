@@ -2,13 +2,11 @@ name: Update Data
 
 on:
   push:
-    branches-ignore:
-      - '**'
-#     branches: [ master ]
-#   watch:
-#     types: [ started ]
-#   schedule:
-#     - cron:  '*/5 * * * *'
+    branches: [ master ]
+  watch:
+    types: [ started ]
+  schedule:
+    - cron: '*/5 * * * *'
 
 jobs:
   update:
@@ -25,7 +23,7 @@ jobs:
       with:
         path: OwlAPI
         repository: OpenCourseAPI/OwlAPI
-        ref: 09c55479cb2138478a57358372bdcf761e17010c
+        ref: c2eea75d99c6aafa196de48e93e77c447a1207c6
 
     - name: Setup OwlAPI
       working-directory: OwlAPI
