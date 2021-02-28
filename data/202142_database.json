@@ -735,7 +735,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Breen",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -773,7 +773,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kwak",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5694,8 +5694,8 @@
             "CRN": "46070",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
-            "days": "MW",
-            "time": "11:30 AM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -5711,8 +5711,8 @@
             "CRN": "46070",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "11:30 AM-01:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -6107,7 +6107,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "6.00",
-            "instructor": "Staff",
+            "instructor": "Heyer",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -6124,7 +6124,43 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "6.00",
-            "instructor": "Staff",
+            "instructor": "Heyer",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "47456": [
+          {
+            "course": "BIOL D06CH03Z",
+            "CRN": "47456",
+            "desc": "ECOLOGY AND EVOLUTION-HONORS",
+            "status": "Full",
+            "days": "MW",
+            "time": "01:30 PM-04:20 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "6.00",
+            "instructor": "Heyer",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "BIOL D06CH03Z",
+            "CRN": "47456",
+            "desc": "ECOLOGY AND EVOLUTION-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "6.00",
+            "instructor": "Heyer",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -6669,7 +6705,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Barbeau",
-            "seats": "41",
+            "seats": "40",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6686,7 +6722,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Barbeau",
-            "seats": "41",
+            "seats": "40",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10555,7 +10591,7 @@
             "course": "CIS D022B01Z",
             "CRN": "42520",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -10564,15 +10600,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "15"
           },
           {
             "course": "CIS D022B01Z",
             "CRN": "42520",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "11:30 AM-12:20 PM",
             "start": "04/05/2021",
@@ -10581,8 +10617,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ],
@@ -15658,7 +15694,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24507,6 +24543,27 @@
           }
         ]
       },
+      "10H": {
+        "47457": [
+          {
+            "course": "HUMA D010H10Z",
+            "CRN": "47457",
+            "desc": "HUMAN SEXUALITY - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "",
+            "campus": "",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "20": {
         "46787": [
           {
@@ -25665,7 +25722,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ebrat",
-            "seats": "24",
+            "seats": "25",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -25987,7 +26044,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Coronado",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -29582,7 +29639,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shukla",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "6",
             "wait_cap": "6"
           }
