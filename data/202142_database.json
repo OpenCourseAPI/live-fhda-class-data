@@ -553,7 +553,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -570,7 +570,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -745,7 +745,7 @@
             "course": "ACCT D001C67Z",
             "CRN": "47164",
             "desc": "MANAG ACCOUNTG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -754,7 +754,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kwak",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -773,7 +773,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kwak",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1539,7 +1539,7 @@
             "course": "ADMJ D084.01Z",
             "CRN": "47077",
             "desc": "FORENSIC SCIENCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "06:00 PM-08:00 PM",
             "start": "04/05/2021",
@@ -1548,7 +1548,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Garrido",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1556,7 +1556,7 @@
             "course": "ADMJ D084.01Z",
             "CRN": "47077",
             "desc": "FORENSIC SCIENCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -1565,7 +1565,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Garrido",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7730,7 +7730,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roy",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -10008,7 +10008,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "West",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12772,7 +12772,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hinerman",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -12789,7 +12789,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hinerman",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -12989,7 +12989,7 @@
             "units": "5.00",
             "instructor": "Isacson",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "6"
           },
           {
@@ -13006,7 +13006,7 @@
             "units": "5.00",
             "instructor": "Isacson",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -13186,7 +13186,7 @@
             "course": "COMM D001.59Z",
             "CRN": "45515",
             "desc": "PUBLIC SPEAKING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -13196,7 +13196,7 @@
             "units": "5.00",
             "instructor": "Anderson",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -15507,7 +15507,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sellers",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -15524,7 +15524,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sellers",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15814,7 +15814,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17024,6 +17024,44 @@
             "seats": "43",
             "wait_seats": "6",
             "wait_cap": "6"
+          }
+        ]
+      },
+      "10H": {
+        "47467": [
+          {
+            "course": "ELIT D010H01Z",
+            "CRN": "47467",
+            "desc": "INTRO TO FICTION - HONORS",
+            "status": "Full",
+            "days": "M",
+            "time": "11:30 AM-01:20 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Quigley",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ELIT D010H01Z",
+            "CRN": "47467",
+            "desc": "INTRO TO FICTION - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Quigley",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -20657,7 +20695,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Limcolioc",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20695,7 +20733,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Brennan",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -21427,7 +21465,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Abramson",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -22647,7 +22685,7 @@
             "units": "4.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -22855,7 +22893,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "38",
+            "seats": "37",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -34469,7 +34507,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rudich",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -36612,6 +36650,27 @@
           }
         ]
       },
+      "1H": {
+        "47466": [
+          {
+            "course": "POLI D001H1EZ",
+            "CRN": "47466",
+            "desc": "AMERICAN GOVT & POLIT - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Nguyen",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "2": {
         "46683": [
           {
@@ -37008,7 +37067,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Avera",
-            "seats": "72",
+            "seats": "71",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -37025,7 +37084,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Avera",
-            "seats": "72",
+            "seats": "71",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -38461,7 +38520,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Myhre",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -38748,7 +38807,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -39162,7 +39221,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Gallegos",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
