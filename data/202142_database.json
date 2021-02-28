@@ -9450,7 +9450,7 @@
             "course": "CHEM D030A31Z",
             "CRN": "42690",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "05:30 PM-07:20 PM",
             "start": "04/05/2021",
@@ -9460,14 +9460,14 @@
             "units": "5.00",
             "instructor": "Staff",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D030A31Z",
             "CRN": "42690",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "W",
             "time": "07:30 PM-10:20 PM",
             "start": "04/05/2021",
@@ -9477,7 +9477,7 @@
             "units": "5.00",
             "instructor": "Staff",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -26693,7 +26693,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Rabbitt",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -26937,7 +26937,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Catuiza",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -27057,7 +27057,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Staff",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -27413,7 +27413,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Johnson",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -27494,7 +27494,7 @@
             "units": "1.00",
             "instructor": "Evans",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -30009,8 +30009,8 @@
             "CRN": "42230",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -30026,8 +30026,8 @@
             "CRN": "42230",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -30045,8 +30045,8 @@
             "CRN": "47389",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -30062,8 +30062,8 @@
             "CRN": "47389",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -30122,6 +30122,25 @@
             "desc": "INTRODUCTORY STATS - HONORS",
             "status": "Full",
             "days": "MW",
+            "time": "04:00 PM-06:15 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Geraghty",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "47451": [
+          {
+            "course": "MATH D010H29Z",
+            "CRN": "47451",
+            "desc": "INTRODUCTORY STATS - HONORS",
+            "status": "Full",
+            "days": "TTh",
             "time": "04:00 PM-06:15 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
@@ -30604,8 +30623,8 @@
             "CRN": "47318",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -30621,8 +30640,8 @@
             "CRN": "47318",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -30849,8 +30868,8 @@
             "CRN": "47301",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "MW",
-            "time": "01:30 PM-03:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -30866,8 +30885,8 @@
             "CRN": "47301",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "01:30 PM-03:45 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -32486,7 +32505,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Rowe",
-            "seats": "62",
+            "seats": "61",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -33708,7 +33727,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Mattis",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -35263,7 +35282,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Khazeni",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -35280,7 +35299,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Luna",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           }
