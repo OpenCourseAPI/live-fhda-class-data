@@ -1609,7 +1609,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kadkly",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -2077,7 +2077,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mjelde",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2991,7 +2991,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Easter",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3180,7 +3180,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "41",
+            "seats": "40",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -7734,7 +7734,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Roy",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13672,7 +13672,7 @@
             "units": "5.00",
             "instructor": "Capurso",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -18484,7 +18484,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Marin",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -18600,7 +18600,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cabral",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -19559,7 +19559,7 @@
             "course": "EWRT D001B51Z",
             "CRN": "41217",
             "desc": "READNG, WRTNG & RESRCH",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -19568,7 +19568,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cudahy",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "5"
           }
@@ -20070,8 +20070,8 @@
             "CRN": "45646",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "12:30 PM-02:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -20087,8 +20087,8 @@
             "CRN": "45646",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "T",
-            "time": "12:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -20106,8 +20106,8 @@
             "CRN": "44289",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "M",
-            "time": "01:30 PM-03:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -20123,8 +20123,8 @@
             "CRN": "44289",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "01:30 PM-03:45 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -20142,23 +20142,6 @@
             "CRN": "40510",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Giardino",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EWRT D002.16Z",
-            "CRN": "40510",
-            "desc": "CRIT READ, WRIT & THINK",
-            "status": "Waitlist",
             "days": "W",
             "time": "01:30 PM-03:20 PM",
             "start": "04/05/2021",
@@ -20168,7 +20151,24 @@
             "units": "5.00",
             "instructor": "Giardino",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EWRT D002.16Z",
+            "CRN": "40510",
+            "desc": "CRIT READ, WRIT & THINK",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Giardino",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -20187,7 +20187,7 @@
             "units": "5.00",
             "instructor": "Caparas",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           },
           {
@@ -20204,7 +20204,7 @@
             "units": "5.00",
             "instructor": "Caparas",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -20641,8 +20641,8 @@
             "CRN": "47368",
             "desc": "INTENSIVE COMP/READ STRETCH: 1",
             "status": "Open",
-            "days": "T",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -20658,8 +20658,8 @@
             "CRN": "47368",
             "desc": "INTENSIVE COMP/READ STRETCH: 1",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "01:30 PM-03:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -20743,6 +20743,80 @@
             "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
+          }
+        ]
+      },
+      "1BH": {
+        "47443": [
+          {
+            "course": "EWRT D01BH01Z",
+            "CRN": "47443",
+            "desc": "READNG, WRTNG & RESRCH-HONORS",
+            "status": "Full",
+            "days": "MW",
+            "time": "10:30 AM-11:20 AM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Pesano",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "EWRT D01BH01Z",
+            "CRN": "47443",
+            "desc": "READNG, WRTNG & RESRCH-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Pesano",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "47444": [
+          {
+            "course": "EWRT D01BH03Z",
+            "CRN": "47444",
+            "desc": "READNG, WRTNG & RESRCH-HONORS",
+            "status": "Full",
+            "days": "MW",
+            "time": "12:30 PM-01:20 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Pesano",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "EWRT D01BH03Z",
+            "CRN": "47444",
+            "desc": "READNG, WRTNG & RESRCH-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Pesano",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -24641,8 +24715,8 @@
             "CRN": "01042",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "05:30 PM-06:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -24658,8 +24732,8 @@
             "CRN": "01042",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "TTh",
-            "time": "05:30 PM-06:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -24802,6 +24876,27 @@
             "seats": "33",
             "wait_seats": "15",
             "wait_cap": "15"
+          }
+        ]
+      },
+      "1H": {
+        "47445": [
+          {
+            "course": "HUMI D001H04Z",
+            "CRN": "47445",
+            "desc": "CREATIVE MINDS-HONORS",
+            "status": "Full",
+            "days": "MTWTh",
+            "time": "12:30 PM-01:20 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Breiter",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -30051,7 +30146,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shariatmadari",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35067,7 +35162,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Khazeni",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -35084,7 +35179,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Luna",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "6",
             "wait_cap": "6"
           }
