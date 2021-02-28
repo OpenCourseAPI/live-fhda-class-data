@@ -10008,7 +10008,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -10025,7 +10025,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -10042,7 +10042,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12566,8 +12566,8 @@
             "CRN": "45505",
             "desc": "PUBLIC SPEAKING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "01:30 PM-03:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -12583,8 +12583,8 @@
             "CRN": "45505",
             "desc": "PUBLIC SPEAKING",
             "status": "Open",
-            "days": "TTh",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -12969,7 +12969,7 @@
             "course": "COMM D001.58Z",
             "CRN": "45514",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -12979,7 +12979,7 @@
             "units": "5.00",
             "instructor": "Anderson",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -13014,10 +13014,10 @@
             "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Anderson",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -13707,6 +13707,27 @@
           }
         ]
       },
+      "10H": {
+        "47438": [
+          {
+            "course": "COMM D010H50Z",
+            "CRN": "47438",
+            "desc": "FUND OF ORAL COMM - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Anderson",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "15": {
         "45541": [
           {
@@ -13761,6 +13782,27 @@
             "seats": "0",
             "wait_seats": "4",
             "wait_cap": "6"
+          }
+        ]
+      },
+      "15H": {
+        "47439": [
+          {
+            "course": "COMM D015H50Z",
+            "CRN": "47439",
+            "desc": "CRIT DECISION-MKNG GRPS-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Anderson",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -23803,7 +23845,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Milano",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -28608,7 +28650,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gutierrez",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
