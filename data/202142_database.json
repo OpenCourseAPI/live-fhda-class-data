@@ -625,7 +625,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -642,7 +642,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1628,7 +1628,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kadkly",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -1858,7 +1858,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Patel",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -6483,7 +6483,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6500,7 +6500,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12844,7 +12844,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cunningham",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -12861,7 +12861,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cunningham",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -24550,14 +24550,86 @@
             "CRN": "47457",
             "desc": "HUMAN SEXUALITY - HONORS",
             "status": "Full",
+            "days": "W",
+            "time": "01:30 PM-03:20 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Jackler",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "HUMA D010H10Z",
+            "CRN": "47457",
+            "desc": "HUMAN SEXUALITY - HONORS",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Jackler",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "47459": [
+          {
+            "course": "HUMA D010H11Z",
+            "CRN": "47459",
+            "desc": "HUMAN SEXUALITY - HONORS",
+            "status": "Full",
+            "days": "T",
+            "time": "08:30 AM-10:20 AM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Joplin",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "HUMA D010H11Z",
+            "CRN": "47459",
+            "desc": "HUMAN SEXUALITY - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Joplin",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "47458": [
+          {
+            "course": "HUMA D010H65Z",
+            "CRN": "47458",
+            "desc": "HUMAN SEXUALITY - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Jackler",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -27863,7 +27935,7 @@
             "course": "KNES D32AX50Z",
             "CRN": "47373",
             "desc": "BEGINNING TENNIS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -27872,7 +27944,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Staff",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -28578,7 +28650,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lai",
-            "seats": "36",
+            "seats": "37",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -28595,7 +28667,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lai",
-            "seats": "36",
+            "seats": "37",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -30333,7 +30405,7 @@
             "course": "MATH D011.50Z",
             "CRN": "43467",
             "desc": "FINITE MATHEMATICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -30342,7 +30414,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Moen",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31737,7 +31809,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tayerle",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -39164,7 +39236,7 @@
             "units": "4.00",
             "instructor": "Coronado",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "15"
           }
         ],
