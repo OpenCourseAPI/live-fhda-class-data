@@ -1742,7 +1742,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hui",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -5206,7 +5206,7 @@
             "units": "5.00",
             "instructor": "Cuff-Alvarado",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "7"
           }
         ]
@@ -9417,7 +9417,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "6"
           },
           {
@@ -9434,7 +9434,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "6"
           },
           {
@@ -9451,7 +9451,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -13427,7 +13427,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kramer",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -14053,7 +14053,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -14070,7 +14070,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -14131,7 +14131,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -14148,7 +14148,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -19766,7 +19766,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Giardino",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20214,7 +20214,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Jahan",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20231,7 +20231,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Jahan",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20322,7 +20322,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dickson",
-            "seats": "27",
+            "seats": "28",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20339,7 +20339,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dickson",
-            "seats": "27",
+            "seats": "28",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22597,7 +22597,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pena",
-            "seats": "41",
+            "seats": "40",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -29629,7 +29629,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ison",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -30657,8 +30657,8 @@
             "CRN": "42230",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -30674,8 +30674,8 @@
             "CRN": "42230",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -31034,6 +31034,44 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "47478": [
+          {
+            "course": "MATH D01BH03Z",
+            "CRN": "47478",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "08:30 AM-09:20 AM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Taylor",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "47479": [
+          {
+            "course": "MATH D01BH07Z",
+            "CRN": "47479",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "10:30 AM-11:20 AM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Taylor",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "1DH": {
@@ -31151,6 +31189,27 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "6"
+          }
+        ]
+      },
+      "2AH": {
+        "47480": [
+          {
+            "course": "MATH D02AH03Z",
+            "CRN": "47480",
+            "desc": "DIFFERENTIAL EQUATIONS-HONORS",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "09:30 AM-10:20 AM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Taylor",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -39425,7 +39484,7 @@
             "units": "5.00",
             "instructor": "Vinall",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "7"
           },
           {
@@ -39442,7 +39501,7 @@
             "units": "5.00",
             "instructor": "Vinall",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ],
