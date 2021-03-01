@@ -1778,10 +1778,10 @@
             "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Tiwana",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -6910,7 +6910,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lilly",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7053,7 +7053,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Andrews-Bingham",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8183,7 +8183,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -8200,7 +8200,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -8217,7 +8217,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -10398,7 +10398,7 @@
             "course": "CIS D022A02Z",
             "CRN": "42525",
             "desc": "BEG PROG METHOD C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "11:30 AM-12:20 PM",
             "start": "04/05/2021",
@@ -10407,7 +10407,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -10415,7 +10415,7 @@
             "course": "CIS D022A02Z",
             "CRN": "42525",
             "desc": "BEG PROG METHOD C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -10424,7 +10424,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -10432,7 +10432,7 @@
             "course": "CIS D022A02Z",
             "CRN": "42525",
             "desc": "BEG PROG METHOD C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -10441,7 +10441,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13869,7 +13869,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yee",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -13886,7 +13886,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yee",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -16281,8 +16281,8 @@
             "CRN": "00569",
             "desc": "PRIN MACROECONOMICS",
             "status": "Open",
-            "days": "Th",
-            "time": "10:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -16298,8 +16298,8 @@
             "CRN": "00569",
             "desc": "PRIN MACROECONOMICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "10:30 AM-11:20 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -16557,6 +16557,25 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "47483": [
+          {
+            "course": "ECON D001H02Z",
+            "CRN": "47483",
+            "desc": "PRIN MACROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "MTWTh",
+            "time": "11:30 AM-12:20 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "West",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "2": {
@@ -16566,8 +16585,8 @@
             "CRN": "00589",
             "desc": "PRIN MICROECONOMICS",
             "status": "Open",
-            "days": "W",
-            "time": "01:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -16583,8 +16602,8 @@
             "CRN": "00589",
             "desc": "PRIN MICROECONOMICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "01:30 PM-02:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -16602,8 +16621,8 @@
             "CRN": "00582",
             "desc": "PRIN MICROECONOMICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "01:30 PM-02:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -16619,8 +16638,8 @@
             "CRN": "00582",
             "desc": "PRIN MICROECONOMICS",
             "status": "Open",
-            "days": "Th",
-            "time": "01:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -31327,7 +31346,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Krestas",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "6",
             "wait_cap": "6"
           }
