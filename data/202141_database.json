@@ -7133,7 +7133,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lamble",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8431,7 +8431,7 @@
             "course": "CHEM F012C02V",
             "CRN": "40732",
             "desc": "ORGANIC CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "04/05/2021",
@@ -8441,8 +8441,8 @@
             "units": "4.00",
             "instructor": "Painter",
             "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "10"
+            "wait_seats": "-4",
+            "wait_cap": "0"
           }
         ]
       },
@@ -9086,8 +9086,8 @@
             "units": "2.00",
             "instructor": "Painter",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "wait_seats": "-10",
+            "wait_cap": "0"
           },
           {
             "course": "CHEM F12CL03Z",
@@ -9103,8 +9103,8 @@
             "units": "2.00",
             "instructor": "Painter",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ]
       }
@@ -10114,7 +10114,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -10131,7 +10131,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10771,7 +10771,7 @@
             "course": "CRWR F025A01Z",
             "CRN": "41400",
             "desc": "POETRY IN COMMUNITY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -10780,7 +10780,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Huerta",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "24",
             "wait_cap": "25"
           },
@@ -10788,7 +10788,7 @@
             "course": "CRWR F025A01Z",
             "CRN": "41400",
             "desc": "POETRY IN COMMUNITY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "04:00 PM-05:50 PM",
             "start": "04/05/2021",
@@ -10797,7 +10797,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Huerta",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "24",
             "wait_cap": "25"
           }
@@ -12856,7 +12856,7 @@
             "course": "ENGL F001B08W",
             "CRN": "40169",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -12865,7 +12865,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Treanor",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13939,7 +13939,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Davis",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14642,7 +14642,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Bush",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15975,7 +15975,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rakow",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -17526,7 +17526,7 @@
             "course": "MATH F001C04W",
             "CRN": "41513",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -17535,8 +17535,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Litrus",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -17665,7 +17665,7 @@
             "course": "MATH F002B02Z",
             "CRN": "40526",
             "desc": "LINEAR ALGEBRA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "01:30 PM-02:45 PM",
             "start": "04/05/2021",
@@ -17674,15 +17674,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nosratieh",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
             "course": "MATH F002B02Z",
             "CRN": "40526",
             "desc": "LINEAR ALGEBRA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -17691,8 +17691,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nosratieh",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -19217,7 +19217,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davies",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -19479,7 +19479,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Carey",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -19496,7 +19496,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Barkley",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21502,7 +21502,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chang",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -22072,7 +22072,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Natarajan",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -22089,7 +22089,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Natarajan",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -22106,7 +22106,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Natarajan",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -22123,7 +22123,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Natarajan",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -22140,7 +22140,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Natarajan",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -25621,7 +25621,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cormier",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
