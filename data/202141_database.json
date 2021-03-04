@@ -189,7 +189,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Fowler",
-            "seats": "24",
+            "seats": "25",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -227,7 +227,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Drake",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4020,7 +4020,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Mathews",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6038,7 +6038,7 @@
             "units": "6.00",
             "instructor": "Gosavi",
             "seats": "1",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -6055,7 +6055,7 @@
             "units": "6.00",
             "instructor": "Nekrep",
             "seats": "1",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -7194,7 +7194,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Mcdaniel",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7567,7 +7567,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Reed",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7584,7 +7584,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Reed",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7605,7 +7605,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9420,7 +9420,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dave",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9684,7 +9684,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Latta",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12054,6 +12054,74 @@
             "CRN": "41493",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
+            "days": "T",
+            "time": "05:30 PM-09:30 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "6.00",
+            "instructor": "Huseman",
+            "seats": "20",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F053.01R",
+            "CRN": "41493",
+            "desc": "EMT: BASIC PART B",
+            "status": "Open",
+            "days": "T",
+            "time": "05:30 PM-09:30 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "6.00",
+            "instructor": "Lomeli Franco",
+            "seats": "20",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F053.01R",
+            "CRN": "41493",
+            "desc": "EMT: BASIC PART B",
+            "status": "Open",
+            "days": "W",
+            "time": "05:30 PM-09:30 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "6.00",
+            "instructor": "Lomeli Franco",
+            "seats": "20",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F053.01R",
+            "CRN": "41493",
+            "desc": "EMT: BASIC PART B",
+            "status": "Open",
+            "days": "W",
+            "time": "05:30 PM-09:30 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "6.00",
+            "instructor": "Huseman",
+            "seats": "20",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F053.01R",
+            "CRN": "41493",
+            "desc": "EMT: BASIC PART B",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -12065,44 +12133,29 @@
             "seats": "20",
             "wait_seats": "5",
             "wait_cap": "5"
-          },
+          }
+        ],
+        "41659": [
           {
-            "course": "EMS F053.01R",
-            "CRN": "41493",
+            "course": "EMS F053.02R",
+            "CRN": "41659",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
-            "days": "W",
+            "days": "Th",
             "time": "05:30 PM-09:30 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "6.00",
-            "instructor": "Huseman",
-            "seats": "20",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EMS F053.01R",
-            "CRN": "41493",
-            "desc": "EMT: BASIC PART B",
-            "status": "Open",
-            "days": "W",
-            "time": "05:30 PM-09:30 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "SV104",
+            "room": "ONLINE",
             "campus": "FC",
             "units": "6.00",
             "instructor": "Lomeli Franco",
-            "seats": "20",
-            "wait_seats": "5",
-            "wait_cap": "5"
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
           },
           {
-            "course": "EMS F053.01R",
-            "CRN": "41493",
+            "course": "EMS F053.02R",
+            "CRN": "41659",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
             "days": "T",
@@ -12113,26 +12166,26 @@
             "campus": "FC",
             "units": "6.00",
             "instructor": "Huseman",
-            "seats": "20",
-            "wait_seats": "5",
-            "wait_cap": "5"
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
           },
           {
-            "course": "EMS F053.01R",
-            "CRN": "41493",
+            "course": "EMS F053.02R",
+            "CRN": "41659",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
-            "days": "T",
+            "days": "Th",
             "time": "05:30 PM-09:30 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
             "campus": "FC",
             "units": "6.00",
-            "instructor": "Lomeli Franco",
-            "seats": "20",
-            "wait_seats": "5",
-            "wait_cap": "5"
+            "instructor": "Huseman",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
           }
         ]
       },
@@ -12165,64 +12218,13 @@
             "desc": "PARAMED COG/AFFECT/PSYCH IIIB",
             "status": "Open",
             "days": "W",
-            "time": "09:00 AM-03:15 PM",
+            "time": "08:00 AM-08:50 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "SV104",
             "campus": "FC",
             "units": "3.00",
             "instructor": "Villanueva",
-            "seats": "35",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EMS F062B01",
-            "CRN": "41207",
-            "desc": "PARAMED COG/AFFECT/PSYCH IIIB",
-            "status": "Open",
-            "days": "W",
-            "time": "09:00 AM-03:15 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "3.00",
-            "instructor": "Calderon",
-            "seats": "35",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EMS F062B01",
-            "CRN": "41207",
-            "desc": "PARAMED COG/AFFECT/PSYCH IIIB",
-            "status": "Open",
-            "days": "W",
-            "time": "09:00 AM-03:15 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "3.00",
-            "instructor": "Acuna",
-            "seats": "35",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EMS F062B01",
-            "CRN": "41207",
-            "desc": "PARAMED COG/AFFECT/PSYCH IIIB",
-            "status": "Open",
-            "days": "W",
-            "time": "09:00 AM-03:15 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "3.00",
-            "instructor": "Ikegami",
             "seats": "35",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -12256,7 +12258,7 @@
             "room": "SV104",
             "campus": "FC",
             "units": "3.00",
-            "instructor": "Levis",
+            "instructor": "Ikegami",
             "seats": "35",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -12267,13 +12269,64 @@
             "desc": "PARAMED COG/AFFECT/PSYCH IIIB",
             "status": "Open",
             "days": "W",
-            "time": "08:00 AM-08:50 AM",
+            "time": "09:00 AM-03:15 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "3.00",
+            "instructor": "Acuna",
+            "seats": "35",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F062B01",
+            "CRN": "41207",
+            "desc": "PARAMED COG/AFFECT/PSYCH IIIB",
+            "status": "Open",
+            "days": "W",
+            "time": "09:00 AM-03:15 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "3.00",
+            "instructor": "Calderon",
+            "seats": "35",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F062B01",
+            "CRN": "41207",
+            "desc": "PARAMED COG/AFFECT/PSYCH IIIB",
+            "status": "Open",
+            "days": "W",
+            "time": "09:00 AM-03:15 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "SV104",
             "campus": "FC",
             "units": "3.00",
             "instructor": "Villanueva",
+            "seats": "35",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F062B01",
+            "CRN": "41207",
+            "desc": "PARAMED COG/AFFECT/PSYCH IIIB",
+            "status": "Open",
+            "days": "W",
+            "time": "09:00 AM-03:15 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "3.00",
+            "instructor": "Levis",
             "seats": "35",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -13072,7 +13125,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fernandez",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -13089,7 +13142,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fernandez",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13404,7 +13457,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15606,7 +15659,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Gandhi",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -15623,7 +15676,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Gandhi",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18436,7 +18489,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Uilecan",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18705,7 +18758,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tripp Caldwell",
-            "seats": "24",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23932,7 +23985,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -23949,7 +24002,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24031,7 +24084,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Stefonik",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -24048,7 +24101,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Stefonik",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "20",
             "wait_cap": "20"
           }
