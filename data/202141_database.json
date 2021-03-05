@@ -54,7 +54,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -315,7 +315,7 @@
             "course": "ACTG F001C04W",
             "CRN": "40628",
             "desc": "MANAGERIAL ACCOUNTING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -324,7 +324,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Drake",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "13",
             "wait_cap": "15"
           }
@@ -2709,12 +2709,29 @@
       "207": {
         "40805": [
           {
-            "course": "ALTW F207.01V",
+            "course": "ALTW F207.01Z",
             "CRN": "40805",
             "desc": "RSRCES IN COMMNTY STD LRN DIFF",
             "status": "Open",
-            "days": "M",
-            "time": "10:00 AM-11:50 AM",
+            "days": "T",
+            "time": "09:00 AM-09:50 AM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Kaupp",
+            "seats": "35",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ALTW F207.01Z",
+            "CRN": "40805",
+            "desc": "RSRCES IN COMMNTY STD LRN DIFF",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -2751,12 +2768,29 @@
       "212": {
         "40804": [
           {
-            "course": "ALTW F212.02V",
+            "course": "ALTW F212.02Z",
             "CRN": "40804",
             "desc": "JOB SEARCH SKILLS: THE RESUME",
             "status": "Open",
             "days": "T",
-            "time": "10:00 AM-11:50 AM",
+            "time": "02:00 PM-02:50 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Kaupp",
+            "seats": "35",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ALTW F212.02Z",
+            "CRN": "40804",
+            "desc": "JOB SEARCH SKILLS: THE RESUME",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -2793,7 +2827,7 @@
       "218": {
         "41625": [
           {
-            "course": "ALTW F218.01W",
+            "course": "ALTW F218.01Z",
             "CRN": "41625",
             "desc": "CRNT EVENTS FOR STD W/LRN DIFF",
             "status": "Open",
@@ -9737,7 +9771,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Latta",
-            "seats": "32",
+            "seats": "33",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12425,7 +12459,7 @@
             "units": "5.00",
             "instructor": "Herman",
             "seats": "0",
-            "wait_seats": "24",
+            "wait_seats": "23",
             "wait_cap": "25"
           }
         ],
@@ -13443,7 +13477,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lewis",
-            "seats": "38",
+            "seats": "37",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -17698,7 +17732,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Oruganti",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18704,7 +18738,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Papay",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19568,7 +19602,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Barkley",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20725,7 +20759,7 @@
             "units": "0.00",
             "instructor": "Herman",
             "seats": "1",
-            "wait_seats": "23",
+            "wait_seats": "22",
             "wait_cap": "25"
           }
         ],
@@ -22564,7 +22598,7 @@
             "course": "PHYS F002A02V",
             "CRN": "40816",
             "desc": "GENERAL PHYSICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "06:00 PM-07:50 PM",
             "start": "04/05/2021",
@@ -22573,7 +22607,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wienands",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -22581,7 +22615,7 @@
             "course": "PHYS F002A02V",
             "CRN": "40816",
             "desc": "GENERAL PHYSICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "08:00 PM-10:50 PM",
             "start": "04/05/2021",
@@ -22590,7 +22624,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wienands",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25988,7 +26022,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rivera-Montanez",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "25",
             "wait_cap": "25"
           }
