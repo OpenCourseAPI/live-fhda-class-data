@@ -561,7 +561,7 @@
             "course": "ACTG F064A01W",
             "CRN": "40347",
             "desc": "COMPUTERIZED ACTG PRAC:QUICKBO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -570,7 +570,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2831,6 +2831,23 @@
             "CRN": "41625",
             "desc": "CRNT EVENTS FOR STD W/LRN DIFF",
             "status": "Open",
+            "days": "W",
+            "time": "03:20 PM-04:20 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FO",
+            "units": "2.00",
+            "instructor": "Kaupp",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ALTW F218.01Z",
+            "CRN": "41625",
+            "desc": "CRNT EVENTS FOR STD W/LRN DIFF",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -2848,12 +2865,29 @@
       "229": {
         "40806": [
           {
-            "course": "ALTW F229.01V",
+            "course": "ALTW F229.01Z",
             "CRN": "40806",
             "desc": "HEALTHY RELATIONSHIPS",
             "status": "Open",
-            "days": "W",
-            "time": "09:00 AM-11:50 AM",
+            "days": "T",
+            "time": "10:00 AM-11:50 AM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Kaupp",
+            "seats": "34",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ALTW F229.01Z",
+            "CRN": "40806",
+            "desc": "HEALTHY RELATIONSHIPS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -2923,7 +2957,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Wolf",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -4920,7 +4954,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rouhbakhsh",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5025,7 +5059,7 @@
             "course": "BIOL F010.05Z",
             "CRN": "40764",
             "desc": "GEN BIOL-BASIC PRINCPLES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -5034,7 +5068,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Derugin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "12"
           },
@@ -5042,7 +5076,7 @@
             "course": "BIOL F010.05Z",
             "CRN": "40764",
             "desc": "GEN BIOL-BASIC PRINCPLES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "S",
             "time": "09:00 AM-11:50 AM",
             "start": "04/05/2021",
@@ -5051,7 +5085,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Derugin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "12"
           }
@@ -5440,7 +5474,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Alderkamp",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -5457,7 +5491,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Alderkamp",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -6043,7 +6077,7 @@
             "course": "BIOL F041.01V",
             "CRN": "40056",
             "desc": "MICROBIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "09:00 AM-11:50 AM",
             "start": "04/05/2021",
@@ -6053,14 +6087,14 @@
             "units": "6.00",
             "instructor": "Edwards",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "BIOL F041.01V",
             "CRN": "40056",
             "desc": "MICROBIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "12:00 PM-01:50 PM",
             "start": "04/05/2021",
@@ -6070,7 +6104,7 @@
             "units": "6.00",
             "instructor": "Nekrep",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -9604,7 +9638,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Koukoutsakis",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9621,7 +9655,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Koukoutsakis",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9638,7 +9672,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Koukoutsakis",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10928,7 +10962,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Barao",
-            "seats": "15",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -11894,7 +11928,7 @@
             "course": "ECON F001B01W",
             "CRN": "40532",
             "desc": "PRINCIPLES OF MICROECONOMICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -11903,7 +11937,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -12553,7 +12587,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Herman",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13043,7 +13077,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fernandez",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -13060,7 +13094,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fernandez",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14921,7 +14955,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ziegenhorn",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15100,7 +15134,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryan",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -15323,7 +15357,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Black",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15375,7 +15409,7 @@
             "course": "HUMN F001.02W",
             "CRN": "40826",
             "desc": "THE ANCIENT WORLD",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -15384,7 +15418,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Dargahi",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15742,7 +15776,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sohn",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -15759,7 +15793,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hui",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -16045,7 +16079,7 @@
             "course": "JAPN F001.01W",
             "CRN": "40150",
             "desc": "ELEMENTARY JAPANESE I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -16054,7 +16088,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wortz",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -17597,7 +17631,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Litrus",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17732,7 +17766,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Oruganti",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18944,7 +18978,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Erickson-Feinstein",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19026,7 +19060,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Thornton",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19297,7 +19331,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20251,7 +20285,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "2",
             "wait_cap": "2"
           },
@@ -20268,7 +20302,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "2",
             "wait_cap": "2"
           },
@@ -20285,7 +20319,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -20637,7 +20671,7 @@
             "units": "0.00",
             "instructor": "McCormick",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "20"
           },
           {
@@ -20654,7 +20688,7 @@
             "units": "0.00",
             "instructor": "McCormick",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ]
@@ -20733,7 +20767,7 @@
             "campus": "FC",
             "units": "0.00",
             "instructor": "Kuo",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -21773,7 +21807,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chang",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24341,7 +24375,7 @@
             "course": "PSYC F040.01W",
             "CRN": "41066",
             "desc": "HUMAN DEVELOPMENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -24350,7 +24384,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
