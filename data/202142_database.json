@@ -475,7 +475,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Martinelli",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -918,7 +918,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Botsford",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2397,7 +2397,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -7105,6 +7105,27 @@
           }
         ]
       },
+      "85": {
+        "45829": [
+          {
+            "course": "BUS D085.64Z",
+            "CRN": "45829",
+            "desc": "BUSINESS COMMUNICATION",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "05/17/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "3.00",
+            "instructor": "Takyi",
+            "seats": "50",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ]
+      },
       "87": {
         "45591": [
           {
@@ -8935,7 +8956,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Zlatogorov",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -8952,7 +8973,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Zlatogorov",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11063,7 +11084,7 @@
             "course": "CIS D022C02Z",
             "CRN": "42519",
             "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -11073,14 +11094,14 @@
             "units": "4.50",
             "instructor": "Parrish",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "CIS D022C02Z",
             "CRN": "42519",
             "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "Th",
             "time": "11:30 AM-12:20 PM",
             "start": "04/05/2021",
@@ -11090,7 +11111,7 @@
             "units": "4.50",
             "instructor": "Parrish",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -12154,7 +12175,7 @@
             "course": "CIS D21JA01Z",
             "CRN": "41976",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "11:30 AM-12:20 PM",
             "start": "04/05/2021",
@@ -12164,14 +12185,14 @@
             "units": "4.50",
             "instructor": "Alameer",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D21JA01Z",
             "CRN": "41976",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -12181,14 +12202,14 @@
             "units": "4.50",
             "instructor": "Alameer",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D21JA01Z",
             "CRN": "41976",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -12198,7 +12219,7 @@
             "units": "4.50",
             "instructor": "Alameer",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -12207,7 +12228,7 @@
             "course": "CIS D21JA02Z",
             "CRN": "45155",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:30 PM-03:20 PM",
             "start": "04/05/2021",
@@ -12217,14 +12238,14 @@
             "units": "4.50",
             "instructor": "Eftekhari",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "15"
           },
           {
             "course": "CIS D21JA02Z",
             "CRN": "45155",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -12234,7 +12255,7 @@
             "units": "4.50",
             "instructor": "Eftekhari",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ],
@@ -12252,7 +12273,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "38",
+            "seats": "34",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14443,7 +14464,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Shaw",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -14497,7 +14518,7 @@
             "course": "DANC D023L50Z",
             "CRN": "47136",
             "desc": "THEOR/TECHN HIP-HOP I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -14506,7 +14527,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Gray",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -16413,7 +16434,7 @@
             "course": "ECON D001.54Z",
             "CRN": "46820",
             "desc": "PRIN MACROECONOMICS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -16422,7 +16443,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Malek",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "2"
           }
@@ -17329,7 +17350,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Joseph",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -17346,7 +17367,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Joseph",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -21811,7 +21832,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Staff",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -21828,7 +21849,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Staff",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -22618,7 +22639,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Fernandez",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -25626,7 +25647,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rueda",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -26142,7 +26163,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Choi",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -26479,7 +26500,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Blume",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -27530,7 +27551,7 @@
             "course": "KNES D045.64Z",
             "CRN": "47311",
             "desc": "INTRO TO KINESIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "05/17/2021",
@@ -27539,7 +27560,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kragalott",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -27833,7 +27854,7 @@
             "course": "KNES D11AX51Z",
             "CRN": "45095",
             "desc": "CARDIO KICK",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -27842,7 +27863,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Catuiza",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -28158,7 +28179,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Johnson",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -29287,7 +29308,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "4",
+            "seats": "9",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -29304,7 +29325,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "4",
+            "seats": "9",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -32566,7 +32587,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tayerle",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -34557,7 +34578,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Miller",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -35732,7 +35753,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hammerud",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -38251,7 +38272,7 @@
             "units": "4.00",
             "instructor": "Hassett",
             "seats": "1",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "8"
           }
         ],
@@ -38349,7 +38370,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tucker",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -38389,7 +38410,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Johnson",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -39387,7 +39408,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -39404,7 +39425,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -40080,7 +40101,7 @@
             "course": "WMST D001.61Z",
             "CRN": "45841",
             "desc": "INTRO WOMEN'S STDS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -40089,7 +40110,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Alvarez",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "15"
           }
