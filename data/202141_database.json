@@ -286,7 +286,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Benson",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -561,7 +561,7 @@
             "course": "ACTG F064A01W",
             "CRN": "40347",
             "desc": "COMPUTERIZED ACTG PRAC:QUICKBO",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -570,7 +570,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -669,7 +669,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Negrete",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -917,7 +917,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Sturgess",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -1453,12 +1453,29 @@
         ],
         "41586": [
           {
-            "course": "ALCB F408Y02V",
+            "course": "ALCB F408Y02Z",
             "CRN": "41586",
             "desc": "ART APPRECIATION",
             "status": "Open",
             "days": "W",
-            "time": "04:25 PM-06:15 PM",
+            "time": "11:00 AM-11:50 AM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Shintani",
+            "seats": "39",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ALCB F408Y02Z",
+            "CRN": "41586",
+            "desc": "ART APPRECIATION",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -1495,8 +1512,8 @@
             "CRN": "41636",
             "desc": "ART APPRECIATION",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "03:00 PM-03:50 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -1512,8 +1529,8 @@
             "CRN": "41636",
             "desc": "ART APPRECIATION",
             "status": "Open",
-            "days": "W",
-            "time": "02:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -1531,12 +1548,12 @@
             "CRN": "41587",
             "desc": "ART APPRECIATION",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "03:00 PM-04:50 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FO",
             "units": "0.00",
             "instructor": "Shintani",
             "seats": "40",
@@ -1548,8 +1565,8 @@
             "CRN": "41587",
             "desc": "ART APPRECIATION",
             "status": "Open",
-            "days": "M",
-            "time": "01:00 PM-01:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -1568,7 +1585,7 @@
             "desc": "ART APPRECIATION",
             "status": "Open",
             "days": "W",
-            "time": "10:00 AM-10:50 AM",
+            "time": "09:00 AM-09:50 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -1599,16 +1616,33 @@
         ],
         "41638": [
           {
-            "course": "ALCB F408Y06V",
+            "course": "ALCB F408Y06Z",
             "CRN": "41638",
             "desc": "ART APPRECIATION",
             "status": "Open",
             "days": "W",
-            "time": "11:55 AM-01:45 PM",
+            "time": "01:00 PM-01:50 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Shintani",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ALCB F408Y06Z",
+            "CRN": "41638",
+            "desc": "ART APPRECIATION",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FO",
             "units": "0.00",
             "instructor": "Shintani",
             "seats": "30",
@@ -2065,8 +2099,8 @@
             "CRN": "41532",
             "desc": "AROUND THE WORLD IN TRAVEL STU",
             "status": "Open",
-            "days": "F",
-            "time": "11:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -2082,8 +2116,8 @@
             "CRN": "41532",
             "desc": "AROUND THE WORLD IN TRAVEL STU",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "F",
+            "time": "11:00 AM-11:50 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -2101,12 +2135,12 @@
             "CRN": "41531",
             "desc": "AROUND THE WORLD IN TRAVEL STU",
             "status": "Open",
-            "days": "Th",
-            "time": "11:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FO",
+            "room": "",
+            "campus": "",
             "units": "0.00",
             "instructor": "Fillin",
             "seats": "40",
@@ -2118,12 +2152,12 @@
             "CRN": "41531",
             "desc": "AROUND THE WORLD IN TRAVEL STU",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "11:00 AM-11:50 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FO",
             "units": "0.00",
             "instructor": "Fillin",
             "seats": "40",
@@ -2667,24 +2701,7 @@
         ],
         "41585": [
           {
-            "course": "ALCB F465Y05Z",
-            "CRN": "41585",
-            "desc": "CREATIVE SELF EXPRESSION",
-            "status": "Open",
-            "days": "M",
-            "time": "03:00 PM-03:50 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Shintani",
-            "seats": "40",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "ALCB F465Y05Z",
+            "course": "ALCB F465Y05W",
             "CRN": "41585",
             "desc": "CREATIVE SELF EXPRESSION",
             "status": "Open",
@@ -2938,7 +2955,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3341,7 +3358,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Connell",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3803,7 +3820,7 @@
             "units": "4.00",
             "instructor": "Gomes",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "7",
             "wait_cap": "10"
           },
           {
@@ -3820,7 +3837,7 @@
             "units": "4.00",
             "instructor": "Gomes",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "7",
             "wait_cap": "10"
           },
           {
@@ -3837,7 +3854,7 @@
             "units": "4.00",
             "instructor": "Gomes",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -3919,7 +3936,7 @@
             "units": "4.00",
             "instructor": "Cook",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -5466,8 +5483,8 @@
             "CRN": "41662",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "05:30 PM-08:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -5483,8 +5500,8 @@
             "CRN": "41662",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Waitlist",
-            "days": "M",
-            "time": "05:30 PM-08:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -5493,6 +5510,25 @@
             "instructor": "Alderkamp",
             "seats": "0",
             "wait_seats": "5",
+            "wait_cap": "8"
+          }
+        ],
+        "41663": [
+          {
+            "course": "BIOL F040A07W",
+            "CRN": "41663",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "32",
+            "wait_seats": "8",
             "wait_cap": "8"
           }
         ]
@@ -6612,7 +6648,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wang-Nava",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7043,7 +7079,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Trinh",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7083,7 +7119,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ibrahim",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7254,7 +7290,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lamble",
-            "seats": "15",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7372,7 +7408,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7975,7 +8011,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Scovil",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8106,7 +8142,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salari",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8123,7 +8159,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salari",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8140,7 +8176,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salari",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8838,7 +8874,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salehi",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8855,7 +8891,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salehi",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10693,7 +10729,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11899,7 +11935,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sandhu",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -11916,7 +11952,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sandhu",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -14150,7 +14186,7 @@
             "units": "5.00",
             "instructor": "Hansell",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ],
@@ -14360,7 +14396,7 @@
             "units": "4.00",
             "instructor": "Fong",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -14829,7 +14865,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fung",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -16143,7 +16179,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wortz",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -17687,7 +17723,7 @@
             "units": "5.00",
             "instructor": "Williams",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -18175,7 +18211,7 @@
             "course": "MATH F010.10W",
             "CRN": "40705",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -18184,7 +18220,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -18433,7 +18469,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Witschorik",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22580,7 +22616,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Jha",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -22597,7 +22633,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Jha",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -23346,7 +23382,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Marasco",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -23363,7 +23399,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Marasco",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -23948,7 +23984,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "26",
+            "seats": "24",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23967,7 +24003,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24083,7 +24119,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stefonik",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24380,7 +24416,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gerry",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24420,7 +24456,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Clark",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -26073,7 +26109,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rivera-Montanez",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -26231,7 +26267,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Giraldez Betron",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "20",
             "wait_cap": "20"
           }
