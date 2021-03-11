@@ -2198,7 +2198,7 @@
             "units": "4.00",
             "instructor": "Pasturel",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -5153,7 +5153,7 @@
             "units": "5.00",
             "instructor": "Cuff-Alvarado",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ],
@@ -5228,7 +5228,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cuff-Alvarado",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -6090,7 +6090,7 @@
             "units": "4.00",
             "instructor": "Miller",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "15"
           },
           {
@@ -6107,7 +6107,7 @@
             "units": "4.00",
             "instructor": "Miller",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ]
@@ -6664,7 +6664,7 @@
             "course": "BUS D010.66Z",
             "CRN": "00268",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -6674,7 +6674,7 @@
             "units": "5.00",
             "instructor": "Garbe",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -8198,8 +8198,8 @@
             "CRN": "42663",
             "desc": "GENERAL CHEMISTRY",
             "status": "Waitlist",
-            "days": "MWF",
-            "time": "11:30 AM-12:20 PM",
+            "days": "MW",
+            "time": "02:30 PM-04:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8215,8 +8215,8 @@
             "CRN": "42663",
             "desc": "GENERAL CHEMISTRY",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "02:30 PM-04:20 PM",
+            "days": "MWF",
+            "time": "11:30 AM-12:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8305,7 +8305,7 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Full",
             "days": "TTh",
-            "time": "02:30 PM-03:45 PM",
+            "time": "12:00 PM-01:15 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8322,7 +8322,7 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Full",
             "days": "TTh",
-            "time": "12:00 PM-01:15 PM",
+            "time": "02:30 PM-03:45 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8358,7 +8358,7 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Full",
             "days": "MW",
-            "time": "06:00 PM-07:15 PM",
+            "time": "12:30 PM-02:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8375,7 +8375,7 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Full",
             "days": "MW",
-            "time": "12:30 PM-02:20 PM",
+            "time": "06:00 PM-07:15 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8411,7 +8411,7 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Full",
             "days": "MW",
-            "time": "07:30 PM-09:20 PM",
+            "time": "06:00 PM-07:15 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8428,7 +8428,7 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Full",
             "days": "MW",
-            "time": "06:00 PM-07:15 PM",
+            "time": "07:30 PM-09:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8541,8 +8541,25 @@
             "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "30",
+            "wait_seats": "6",
+            "wait_cap": "6"
+          },
+          {
+            "course": "CHEM D001B03Z",
+            "CRN": "47518",
+            "desc": "GENERAL CHEMISTRY",
+            "status": "Open",
+            "days": "T",
+            "time": "02:30 PM-04:20 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
             "seats": "30",
@@ -8557,13 +8574,13 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Full",
             "days": "TTh",
-            "time": "06:00 PM-07:15 PM",
+            "time": "03:30 PM-05:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Lo",
+            "instructor": "Staff",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "6"
@@ -8574,13 +8591,13 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Full",
             "days": "TTh",
-            "time": "03:30 PM-05:20 PM",
+            "time": "06:00 PM-07:15 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Lo",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "6"
@@ -8609,8 +8626,8 @@
             "CRN": "44845",
             "desc": "GENERAL CHEMISTRY",
             "status": "Full",
-            "days": "TTh",
-            "time": "06:00 PM-07:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8643,8 +8660,8 @@
             "CRN": "44845",
             "desc": "GENERAL CHEMISTRY",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "06:00 PM-07:15 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8664,8 +8681,8 @@
             "CRN": "42672",
             "desc": "GEN CHEM/QUAL ANALYSIS",
             "status": "Open",
-            "days": "MW",
-            "time": "04:30 PM-05:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8681,8 +8698,8 @@
             "CRN": "42672",
             "desc": "GEN CHEM/QUAL ANALYSIS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "04:30 PM-05:45 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8789,6 +8806,23 @@
             "CRN": "46957",
             "desc": "GEN CHEM/QUAL ANALYSIS",
             "status": "Full",
+            "days": "TTh",
+            "time": "01:00 PM-02:15 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Deming",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "6"
+          },
+          {
+            "course": "CHEM D001C04Z",
+            "CRN": "46957",
+            "desc": "GEN CHEM/QUAL ANALYSIS",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -8808,23 +8842,6 @@
             "status": "Full",
             "days": "TTh",
             "time": "04:00 PM-05:15 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Deming",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D001C04Z",
-            "CRN": "46957",
-            "desc": "GEN CHEM/QUAL ANALYSIS",
-            "status": "Full",
-            "days": "TTh",
-            "time": "01:00 PM-02:15 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8895,8 +8912,8 @@
             "CRN": "44849",
             "desc": "GEN CHEM/QUAL ANALYSIS",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "07:30 PM-09:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8929,8 +8946,8 @@
             "CRN": "44849",
             "desc": "GEN CHEM/QUAL ANALYSIS",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "07:30 PM-09:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -11292,7 +11309,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Forouzan",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15426,7 +15443,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Appio",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -15443,7 +15460,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Appio",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -15460,7 +15477,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Appio",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15907,7 +15924,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16709,7 +16726,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "29",
+            "seats": "30",
             "wait_seats": "2",
             "wait_cap": "2"
           },
@@ -16726,7 +16743,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "29",
+            "seats": "30",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -18688,7 +18705,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Lee",
-            "seats": "20",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -18785,7 +18802,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Newman",
-            "seats": "15",
+            "seats": "16",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -18882,7 +18899,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Chai",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -18899,7 +18916,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Chai",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -19023,7 +19040,7 @@
             "course": "ESL D272.03Z",
             "CRN": "00722",
             "desc": "ADV READNG & VOCAB",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "04:00 PM-06:15 PM",
             "start": "04/05/2021",
@@ -19032,7 +19049,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Marin",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -19040,7 +19057,7 @@
             "course": "ESL D272.03Z",
             "CRN": "00722",
             "desc": "ADV READNG & VOCAB",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -19049,7 +19066,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Marin",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -19220,7 +19237,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yee",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -23228,7 +23245,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Edgar",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -28081,7 +28098,7 @@
             "units": "1.00",
             "instructor": "Johnson",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -28298,7 +28315,7 @@
             "units": "1.00",
             "instructor": "Johnson",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -30388,7 +30405,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -30901,7 +30918,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fischer",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -30918,7 +30935,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fischer",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -31656,7 +31673,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -32380,7 +32397,7 @@
             "course": "MET D010.01Z",
             "CRN": "45764",
             "desc": "WEATHER AND CLIMATE PROCESSES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -32389,7 +32406,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mullens",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "6"
           },
@@ -32397,7 +32414,7 @@
             "course": "MET D010.01Z",
             "CRN": "45764",
             "desc": "WEATHER AND CLIMATE PROCESSES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "09:30 AM-11:20 AM",
             "start": "04/05/2021",
@@ -32406,7 +32423,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mullens",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "6"
           }
@@ -32475,7 +32492,7 @@
             "course": "MET D010L65Z",
             "CRN": "46187",
             "desc": "METEOROLOGY LAB",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -32484,7 +32501,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Mullens",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -33145,7 +33162,7 @@
             "units": "1.50",
             "instructor": "Thomsen",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
@@ -33162,7 +33179,7 @@
             "units": "1.50",
             "instructor": "Thomsen",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
@@ -33182,7 +33199,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Thomsen",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -33199,7 +33216,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Thomsen",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -34517,7 +34534,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -34538,7 +34555,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Acker",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -35137,7 +35154,7 @@
             "course": "PARA D088.01Z",
             "CRN": "47110",
             "desc": "PARALGL & PROF RESPONSIBLTY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "06:00 PM-07:50 PM",
             "start": "05/17/2021",
@@ -35146,7 +35163,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Mills",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -35154,7 +35171,7 @@
             "course": "PARA D088.01Z",
             "CRN": "47110",
             "desc": "PARALGL & PROF RESPONSIBLTY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "05/17/2021",
@@ -35163,7 +35180,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Mills",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -35633,7 +35650,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hanson",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -36929,7 +36946,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Newton",
-            "seats": "35",
+            "seats": "36",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -37939,7 +37956,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Baldwin",
-            "seats": "41",
+            "seats": "39",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -38760,7 +38777,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hassett",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -38777,7 +38794,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hassett",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -40276,7 +40293,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Solomon",
-            "seats": "20",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
