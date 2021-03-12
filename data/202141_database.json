@@ -1119,7 +1119,7 @@
             "campus": "FO",
             "units": "1.50",
             "instructor": "Su",
-            "seats": "48",
+            "seats": "49",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -1136,7 +1136,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Su",
-            "seats": "48",
+            "seats": "49",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1300,7 +1300,7 @@
             "units": "4.00",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ],
@@ -1318,7 +1318,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Murphy",
-            "seats": "39",
+            "seats": "36",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -3280,7 +3280,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jenkins",
-            "seats": "45",
+            "seats": "44",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -3297,7 +3297,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jenkins",
-            "seats": "45",
+            "seats": "44",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5386,7 +5386,7 @@
             "units": "5.00",
             "instructor": "Melia",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "8"
           },
           {
@@ -5403,7 +5403,7 @@
             "units": "5.00",
             "instructor": "Melia",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "8"
           }
         ],
@@ -7176,7 +7176,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lamble",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10652,7 +10652,7 @@
             "units": "5.00",
             "instructor": "Ni",
             "seats": "1",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ]
@@ -11689,7 +11689,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Gong",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -15332,7 +15332,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Niccoli",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -16556,7 +16556,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -16573,7 +16573,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17137,21 +17137,23 @@
             "seats": "32",
             "wait_seats": "0",
             "wait_cap": "0"
-          },
+          }
+        ],
+        "41682": [
           {
-            "course": "LINC F067.01W",
-            "CRN": "41343",
+            "course": "LINC F067.02W",
+            "CRN": "41682",
             "desc": "DESIGN WEB-BASED LEARN PROJECT",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
-            "start": "05/31/2021",
+            "start": "06/07/2021",
             "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
+            "room": "",
+            "campus": "",
             "units": "1.00",
-            "instructor": "Tolnai",
-            "seats": "32",
+            "instructor": "Staff",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17193,23 +17195,6 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Pereira",
-            "seats": "35",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "LINC F075C01W",
-            "CRN": "41339",
-            "desc": "DESIGNING ONLINE INSTRUCTION",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "05/02/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Tolnai",
             "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -17352,23 +17337,6 @@
             "seats": "29",
             "wait_seats": "0",
             "wait_cap": "0"
-          },
-          {
-            "course": "LINC F083F01W",
-            "CRN": "41344",
-            "desc": "INTRO DIGITAL VIDEO EDITING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "05/31/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Tolnai",
-            "seats": "29",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ]
       },
@@ -17425,23 +17393,6 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Randall",
-            "seats": "33",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "LINC F091B01W",
-            "CRN": "41342",
-            "desc": "EVAL TECH-BASED LEARN OUTCOMES",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "05/03/2021",
-            "end": "05/30/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Tolnai",
             "seats": "33",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -19088,7 +19039,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tripp Caldwell",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19210,7 +19161,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rufeisen",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19712,7 +19663,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davies",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -22494,7 +22445,7 @@
             "course": "PHOT F005.02W",
             "CRN": "40108",
             "desc": "INTRODUCTION TO PHOTOGRAPHY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -22503,7 +22454,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jordahl",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25966,7 +25917,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -25983,7 +25934,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "20",
             "wait_cap": "20"
           }
