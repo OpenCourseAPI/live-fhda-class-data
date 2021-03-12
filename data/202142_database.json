@@ -367,7 +367,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -384,7 +384,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -876,7 +876,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hammond",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1002,7 +1002,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Hammond",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8562,7 +8562,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Saunders",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "4",
             "wait_cap": "6"
           },
@@ -8579,7 +8579,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Saunders",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "4",
             "wait_cap": "6"
           }
@@ -8598,7 +8598,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -8615,7 +8615,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -18364,6 +18364,25 @@
             "instructor": "Lam",
             "seats": "0",
             "wait_seats": "0",
+            "wait_cap": "6"
+          }
+        ],
+        "47522": [
+          {
+            "course": "ESL D005.03Z",
+            "CRN": "47522",
+            "desc": "ESL:ADV COMP/READNG",
+            "status": "Open",
+            "days": "MW",
+            "time": "01:30 PM-03:45 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Cabral",
+            "seats": "30",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -29359,7 +29378,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Schnittgrund",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -29376,7 +29395,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Schnittgrund",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -30390,7 +30409,7 @@
             "course": "MATH D002B30Z",
             "CRN": "46292",
             "desc": "LINEAR ALGEBRA",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "06:30 PM-08:45 PM",
             "start": "04/05/2021",
@@ -30400,7 +30419,7 @@
             "units": "5.00",
             "instructor": "Bourgoub",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -30456,7 +30475,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Markus",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           }
