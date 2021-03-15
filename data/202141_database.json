@@ -1318,7 +1318,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Murphy",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1343,7 +1343,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Mastman",
-            "seats": "13",
+            "seats": "38",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1362,7 +1362,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Mastman",
-            "seats": "15",
+            "seats": "40",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1383,7 +1383,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Mastman",
-            "seats": "15",
+            "seats": "40",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -3574,6 +3574,25 @@
             "wait_seats": "4",
             "wait_cap": "10"
           }
+        ],
+        "41684": [
+          {
+            "course": "ART F001.03W",
+            "CRN": "41684",
+            "desc": "INTRODUCTION TO ART",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "05/17/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.50",
+            "instructor": "Cortez",
+            "seats": "50",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
         ]
       },
       "2A": {
@@ -3684,42 +3703,25 @@
             "CRN": "40597",
             "desc": "FUNDAMENTALS IN DRAWING",
             "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Levitch",
+            "seats": "0",
+            "wait_seats": "4",
+            "wait_cap": "5"
+          },
+          {
+            "course": "ART F004A03Z",
+            "CRN": "40597",
+            "desc": "FUNDAMENTALS IN DRAWING",
+            "status": "Waitlist",
             "days": "S",
             "time": "11:00 AM-12:50 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Levitch",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "5"
-          },
-          {
-            "course": "ART F004A03Z",
-            "CRN": "40597",
-            "desc": "FUNDAMENTALS IN DRAWING",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Levitch",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "5"
-          },
-          {
-            "course": "ART F004A03Z",
-            "CRN": "40597",
-            "desc": "FUNDAMENTALS IN DRAWING",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -4143,7 +4145,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Mathews",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4267,7 +4269,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mathews",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6278,7 +6280,7 @@
             "course": "BIOL F041.04V",
             "CRN": "40315",
             "desc": "MICROBIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "12:00 PM-01:50 PM",
             "start": "04/05/2021",
@@ -6288,14 +6290,14 @@
             "units": "6.00",
             "instructor": "Nekrep",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "BIOL F041.04V",
             "CRN": "40315",
             "desc": "MICROBIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "02:00 PM-04:50 PM",
             "start": "04/05/2021",
@@ -6305,7 +6307,7 @@
             "units": "6.00",
             "instructor": "Edwards",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -6627,7 +6629,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6846,7 +6848,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mancuso",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6930,7 +6932,7 @@
             "campus": "FC",
             "units": "3.00",
             "instructor": "Harmon",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7056,7 +7058,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chang",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7077,7 +7079,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Dubin",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8326,7 +8328,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ermut",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8343,7 +8345,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salehi",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9752,7 +9754,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Koukoutsakis",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9769,7 +9771,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Koukoutsakis",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9786,7 +9788,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Koukoutsakis",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9807,7 +9809,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Gonsoski",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9824,7 +9826,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Gonsoski",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10443,7 +10445,7 @@
             "units": "5.00",
             "instructor": "Clemmons",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -11937,7 +11939,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Patyk",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -13558,7 +13560,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Robbins",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -13663,7 +13665,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Glanting",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14556,7 +14558,7 @@
             "units": "4.00",
             "instructor": "Day",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -14618,7 +14620,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14769,7 +14771,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Meezan",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15145,7 +15147,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Marder",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -15162,7 +15164,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Marder",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15286,7 +15288,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryan",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -15928,7 +15930,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sohn",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -15945,7 +15947,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hui",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -16340,7 +16342,7 @@
             "units": "5.00",
             "instructor": "Rakow",
             "seats": "0",
-            "wait_seats": "22",
+            "wait_seats": "21",
             "wait_cap": "25"
           }
         ]
@@ -16360,7 +16362,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rakow",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -16379,7 +16381,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rakow",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -17174,7 +17176,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "31",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17216,7 +17218,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Pereira",
-            "seats": "31",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -17233,7 +17235,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Pereira",
-            "seats": "31",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17296,7 +17298,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Pereira",
-            "seats": "36",
+            "seats": "20",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -17313,7 +17315,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Pereira",
-            "seats": "36",
+            "seats": "20",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17374,7 +17376,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Pereira",
-            "seats": "31",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -17391,7 +17393,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Pereira",
-            "seats": "31",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17475,7 +17477,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Randall",
-            "seats": "49",
+            "seats": "32",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17515,7 +17517,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Randall",
-            "seats": "49",
+            "seats": "32",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17555,7 +17557,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Randall",
-            "seats": "49",
+            "seats": "32",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17812,7 +17814,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Knobel",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18932,7 +18934,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19910,7 +19912,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Barkley",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -19927,7 +19929,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Carey",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -19944,7 +19946,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hartwell",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21716,7 +21718,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Mac Neil",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -22412,7 +22414,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jordahl",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
