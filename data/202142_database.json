@@ -2449,7 +2449,7 @@
             "course": "ARTS D004A01Z",
             "CRN": "43908",
             "desc": "BEGINNING DRAWING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "09:30 AM-10:45 AM",
             "start": "04/05/2021",
@@ -2459,14 +2459,14 @@
             "units": "4.00",
             "instructor": "Feld",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "ARTS D004A01Z",
             "CRN": "43908",
             "desc": "BEGINNING DRAWING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -2476,7 +2476,7 @@
             "units": "4.00",
             "instructor": "Feld",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -2989,7 +2989,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hughes",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3779,7 +3779,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Silva",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6599,9 +6599,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "1",
-            "wait_seats": "6",
-            "wait_cap": "10"
+            "seats": "11",
+            "wait_seats": "-4",
+            "wait_cap": "0"
           },
           {
             "course": "BUS D010.14Z",
@@ -6616,9 +6616,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "1",
-            "wait_seats": "6",
-            "wait_cap": "10"
+            "seats": "11",
+            "wait_seats": "-4",
+            "wait_cap": "0"
           }
         ],
         "00272": [
@@ -6664,7 +6664,7 @@
             "course": "BUS D010.66Z",
             "CRN": "00268",
             "desc": "INTRO TO BUSINESS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -6673,9 +6673,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ],
         "47115": [
@@ -7210,7 +7210,7 @@
             "course": "BUS D090.64Z",
             "CRN": "44130",
             "desc": "PRIN MARKETING",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -7219,9 +7219,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ]
       },
@@ -8597,7 +8597,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Ferguson",
             "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
@@ -8614,7 +8614,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Ferguson",
             "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
@@ -10274,7 +10274,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -10291,7 +10291,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11815,7 +11815,7 @@
             "units": "4.50",
             "instructor": "Larkin",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "15"
           },
           {
@@ -11832,7 +11832,7 @@
             "units": "4.50",
             "instructor": "Larkin",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ],
@@ -12066,7 +12066,7 @@
             "units": "4.50",
             "instructor": "Taylor",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -14742,7 +14742,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dunsky",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -14759,7 +14759,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dunsky",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15496,7 +15496,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Appio",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -15513,7 +15513,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Appio",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -15530,7 +15530,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Appio",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21675,7 +21675,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Weisner",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23395,7 +23395,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Buyco",
-            "seats": "51",
+            "seats": "50",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -23412,7 +23412,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Buyco",
-            "seats": "51",
+            "seats": "50",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -23496,7 +23496,7 @@
             "course": "HIST D017C53Z",
             "CRN": "46034",
             "desc": "HIST U.S. 1900- PRESENT",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -23506,7 +23506,7 @@
             "units": "4.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -23515,7 +23515,7 @@
             "course": "HIST D017C54Z",
             "CRN": "46037",
             "desc": "HIST U.S. 1900- PRESENT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -23524,7 +23524,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kehew",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "5"
           }
@@ -25170,7 +25170,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Joplin",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -31512,7 +31512,7 @@
             "units": "5.00",
             "instructor": "Shi",
             "seats": "1",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -32638,7 +32638,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomsen",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -38831,7 +38831,7 @@
             "units": "4.00",
             "instructor": "Hassett",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "8"
           },
           {
@@ -38848,7 +38848,7 @@
             "units": "4.00",
             "instructor": "Hassett",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "8"
           }
         ]
@@ -39939,7 +39939,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lizardi-Folley",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           }
