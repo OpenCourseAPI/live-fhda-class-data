@@ -6424,7 +6424,7 @@
             "course": "BIOL F045.01W",
             "CRN": "40062",
             "desc": "INTRO TO HUMAN NUTRITION",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -6434,7 +6434,7 @@
             "units": "4.00",
             "instructor": "Markowitz",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -9881,7 +9881,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Rollinger",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -9898,7 +9898,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Rollinger",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9919,7 +9919,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -9936,7 +9936,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15711,7 +15711,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -17966,7 +17966,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryker",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18408,25 +18408,6 @@
             "wait_cap": "10"
           }
         ],
-        "41516": [
-          {
-            "course": "MATH F010.15W",
-            "CRN": "41516",
-            "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Martinez",
-            "seats": "38",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "41517": [
           {
             "course": "MATH F010.16W",
@@ -18473,8 +18454,8 @@
             "CRN": "40669",
             "desc": "CALCULUS FOR BUSINESS & ECONOM",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "10:00 AM-11:50 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -18490,8 +18471,8 @@
             "CRN": "40669",
             "desc": "CALCULUS FOR BUSINESS & ECONOM",
             "status": "Open",
-            "days": "TTh",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -22893,8 +22874,8 @@
             "CRN": "40125",
             "desc": "GENERAL PHYSICS",
             "status": "Full",
-            "days": "T",
-            "time": "03:00 PM-05:50 PM",
+            "days": "TTh",
+            "time": "06:00 PM-07:50 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -22910,8 +22891,8 @@
             "CRN": "40125",
             "desc": "GENERAL PHYSICS",
             "status": "Full",
-            "days": "TTh",
-            "time": "06:00 PM-07:50 PM",
+            "days": "T",
+            "time": "03:00 PM-05:50 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -23274,23 +23255,6 @@
             "CRN": "40129",
             "desc": "GENERAL PHYSICS (CALC)",
             "status": "Full",
-            "days": "F",
-            "time": "10:00 AM-10:50 AM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Cascarano",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
-          },
-          {
-            "course": "PHYS F004B02V",
-            "CRN": "40129",
-            "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
             "days": "MW",
             "time": "10:00 AM-11:50 AM",
             "start": "04/05/2021",
@@ -23319,26 +23283,26 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
-          }
-        ],
-        "40238": [
+          },
           {
-            "course": "PHYS F004B03V",
-            "CRN": "40238",
+            "course": "PHYS F004B02V",
+            "CRN": "40129",
             "desc": "GENERAL PHYSICS (CALC)",
             "status": "Full",
-            "days": "M",
-            "time": "08:00 PM-10:50 PM",
+            "days": "F",
+            "time": "10:00 AM-10:50 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
             "campus": "FH",
             "units": "6.00",
-            "instructor": "Yuen",
+            "instructor": "Cascarano",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
-          },
+          }
+        ],
+        "40238": [
           {
             "course": "PHYS F004B03V",
             "CRN": "40238",
@@ -23355,6 +23319,23 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
+          },
+          {
+            "course": "PHYS F004B03V",
+            "CRN": "40238",
+            "desc": "GENERAL PHYSICS (CALC)",
+            "status": "Full",
+            "days": "M",
+            "time": "08:00 PM-10:50 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Yuen",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "10"
           }
         ]
       },
@@ -23365,8 +23346,8 @@
             "CRN": "40130",
             "desc": "GENERAL PHYSICS (CALC)",
             "status": "Waitlist",
-            "days": "F",
-            "time": "10:00 AM-10:50 AM",
+            "days": "MW",
+            "time": "10:00 AM-11:50 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -23382,8 +23363,8 @@
             "CRN": "40130",
             "desc": "GENERAL PHYSICS (CALC)",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "10:00 AM-11:50 AM",
+            "days": "F",
+            "time": "10:00 AM-10:50 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -23553,59 +23534,6 @@
             "instructor": "Marasco",
             "seats": "0",
             "wait_seats": "9",
-            "wait_cap": "10"
-          }
-        ],
-        "40417": [
-          {
-            "course": "PHYS F004D02V",
-            "CRN": "40417",
-            "desc": "GENERL PHYSICS (CALC)",
-            "status": "Open",
-            "days": "TTh",
-            "time": "10:00 AM-11:50 AM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Marasco",
-            "seats": "31",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "PHYS F004D02V",
-            "CRN": "40417",
-            "desc": "GENERL PHYSICS (CALC)",
-            "status": "Open",
-            "days": "F",
-            "time": "11:00 AM-11:50 AM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Marasco",
-            "seats": "31",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "PHYS F004D02V",
-            "CRN": "40417",
-            "desc": "GENERL PHYSICS (CALC)",
-            "status": "Open",
-            "days": "Th",
-            "time": "12:00 PM-02:50 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Marasco",
-            "seats": "31",
-            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -24518,7 +24446,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Villanueva",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25134,7 +25062,7 @@
             "units": "1.50",
             "instructor": "Wu",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "25"
           }
         ]
