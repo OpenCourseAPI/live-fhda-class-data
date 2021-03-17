@@ -332,7 +332,7 @@
             "units": "5.00",
             "instructor": "Wong",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
@@ -349,7 +349,7 @@
             "units": "5.00",
             "instructor": "Wong",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -1870,7 +1870,7 @@
             "course": "ANTH D001L54Z",
             "CRN": "47159",
             "desc": "PHYS ANTHRO LAB",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -1880,7 +1880,7 @@
             "units": "1.00",
             "instructor": "Patel",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "2"
           }
         ]
@@ -5287,7 +5287,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -5304,7 +5304,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -7210,7 +7210,7 @@
             "course": "BUS D090.64Z",
             "CRN": "44130",
             "desc": "PRIN MARKETING",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -7219,7 +7219,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -7252,7 +7252,7 @@
             "course": "BUS D094.64Z",
             "CRN": "46569",
             "desc": "SOCIAL MEDIA MARKETING STRATEG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -7261,7 +7261,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morgan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "10"
           }
@@ -11981,7 +11981,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13939,8 +13939,8 @@
             "CRN": "45532",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "02:30 PM-04:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -13956,8 +13956,8 @@
             "CRN": "45532",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "02:30 PM-04:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -14019,7 +14019,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yee",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -14036,7 +14036,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yee",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -14342,6 +14342,25 @@
             "wait_seats": "0",
             "wait_cap": "20"
           }
+        ],
+        "47525": [
+          {
+            "course": "COMM D016.51Z",
+            "CRN": "47525",
+            "desc": "INTERPERSONAL COMMUNICATION",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "70": {
@@ -14351,8 +14370,8 @@
             "CRN": "45545",
             "desc": "EFFECTIVE ORGANIZATIONAL COMM",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "06:30 PM-08:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -14368,8 +14387,8 @@
             "CRN": "45545",
             "desc": "EFFECTIVE ORGANIZATIONAL COMM",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "06:30 PM-08:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -14395,7 +14414,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kaur",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17989,7 +18008,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sanders",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18581,7 +18600,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Norman",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -19670,7 +19689,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Trimble",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -19780,7 +19799,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gordon",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -19797,7 +19816,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gordon",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -19871,7 +19890,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hubbard",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -19888,7 +19907,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hubbard",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -25756,7 +25775,7 @@
             "units": "4.00",
             "instructor": "Hoffman",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ],
@@ -29101,7 +29120,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Trimble",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -29724,7 +29743,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Markus",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -30696,7 +30715,7 @@
             "course": "MATH D010.36Z",
             "CRN": "46159",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "06:30 PM-08:45 PM",
             "start": "04/05/2021",
@@ -30705,7 +30724,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yu",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "6"
           }
@@ -31199,7 +31218,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shi",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -32697,7 +32716,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dunn",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -33636,7 +33655,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Rowe",
-            "seats": "59",
+            "seats": "58",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -34686,7 +34705,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Miller",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -34794,7 +34813,7 @@
             "units": "2.00",
             "instructor": "Johnson",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -35340,7 +35359,7 @@
             "course": "PARA D096C01Z",
             "CRN": "47111",
             "desc": "COMP ASSIST LGL RSRCH & INVSTG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "Th",
             "time": "06:00 PM-07:50 PM",
             "start": "04/05/2021",
@@ -35349,7 +35368,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Guillouet",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -35357,7 +35376,7 @@
             "course": "PARA D096C01Z",
             "CRN": "47111",
             "desc": "COMP ASSIST LGL RSRCH & INVSTG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -35366,7 +35385,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Guillouet",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -37092,7 +37111,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Newton",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -38102,7 +38121,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Baldwin",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -38121,7 +38140,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Clifford Jr",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -38670,7 +38689,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Zarghami",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -39130,7 +39149,7 @@
             "units": "4.00",
             "instructor": "Kiamanesh",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
