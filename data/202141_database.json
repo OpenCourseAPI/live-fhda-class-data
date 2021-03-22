@@ -730,7 +730,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Novikov",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -1092,6 +1092,23 @@
             "CRN": "41508",
             "desc": "HEALTH CAREERS EXPLORATION",
             "status": "Full",
+            "days": "M",
+            "time": "06:00 PM-06:50 PM",
+            "start": "04/05/2021",
+            "end": "05/21/2021",
+            "room": "FMHS",
+            "campus": "FO",
+            "units": "1.50",
+            "instructor": "Su",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "AHS F051.1DV",
+            "CRN": "41508",
+            "desc": "HEALTH CAREERS EXPLORATION",
+            "status": "Full",
             "days": "T",
             "time": "08:30 AM-10:20 AM",
             "start": "04/05/2021",
@@ -1109,8 +1126,8 @@
             "CRN": "41508",
             "desc": "HEALTH CAREERS EXPLORATION",
             "status": "Full",
-            "days": "M",
-            "time": "06:00 PM-06:50 PM",
+            "days": "T",
+            "time": "08:30 AM-10:20 AM",
             "start": "04/05/2021",
             "end": "05/21/2021",
             "room": "FMHS",
@@ -1122,62 +1139,9 @@
             "wait_cap": "0"
           }
         ],
-        "41645": [
-          {
-            "course": "AHS F051.3DR",
-            "CRN": "41645",
-            "desc": "HEALTH CAREERS EXPLORATION",
-            "status": "Full",
-            "days": "M",
-            "time": "02:00 PM-03:50 PM",
-            "start": "04/05/2021",
-            "end": "05/20/2021",
-            "room": "CHS",
-            "campus": "FO",
-            "units": "1.50",
-            "instructor": "Draper",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "AHS F051.3DR",
-            "CRN": "41645",
-            "desc": "HEALTH CAREERS EXPLORATION",
-            "status": "Full",
-            "days": "M",
-            "time": "06:00 PM-06:50 PM",
-            "start": "04/05/2021",
-            "end": "05/20/2021",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "1.50",
-            "instructor": "Draper",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "AHS F051.3DR",
-            "CRN": "41645",
-            "desc": "HEALTH CAREERS EXPLORATION",
-            "status": "Full",
-            "days": "M",
-            "time": "06:00 PM-06:50 PM",
-            "start": "04/05/2021",
-            "end": "05/20/2021",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "1.50",
-            "instructor": "Draper",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "41653": [
           {
-            "course": "AHS F051.4DR",
+            "course": "AHS F051.4DV",
             "CRN": "41653",
             "desc": "HEALTH CAREERS EXPLORATION",
             "status": "Full",
@@ -1194,7 +1158,7 @@
             "wait_cap": "0"
           },
           {
-            "course": "AHS F051.4DR",
+            "course": "AHS F051.4DV",
             "CRN": "41653",
             "desc": "HEALTH CAREERS EXPLORATION",
             "status": "Full",
@@ -1202,7 +1166,7 @@
             "time": "06:00 PM-06:50 PM",
             "start": "04/05/2021",
             "end": "05/20/2021",
-            "room": "ONLINE",
+            "room": "CHS",
             "campus": "FO",
             "units": "1.50",
             "instructor": "Draper",
@@ -1211,7 +1175,7 @@
             "wait_cap": "0"
           },
           {
-            "course": "AHS F051.4DR",
+            "course": "AHS F051.4DV",
             "CRN": "41653",
             "desc": "HEALTH CAREERS EXPLORATION",
             "status": "Full",
@@ -1219,7 +1183,7 @@
             "time": "06:00 PM-06:50 PM",
             "start": "04/05/2021",
             "end": "05/20/2021",
-            "room": "ONLINE",
+            "room": "CHS",
             "campus": "FO",
             "units": "1.50",
             "instructor": "Draper",
@@ -1429,7 +1393,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Shintani",
-            "seats": "40",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -1446,7 +1410,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Shintani",
-            "seats": "40",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1556,7 +1520,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Shintani",
-            "seats": "30",
+            "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -1573,7 +1537,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Shintani",
-            "seats": "30",
+            "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2679,7 +2643,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Shintani",
-            "seats": "35",
+            "seats": "5",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -2696,7 +2660,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Shintani",
-            "seats": "35",
+            "seats": "5",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2995,7 +2959,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jenkins",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -3012,7 +2976,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jenkins",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -4093,7 +4057,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Mathews",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5336,7 +5300,7 @@
             "units": "5.00",
             "instructor": "Melia",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "8"
           },
           {
@@ -5353,7 +5317,7 @@
             "units": "5.00",
             "instructor": "Melia",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "8"
           }
         ],
@@ -6264,7 +6228,7 @@
             "course": "BIOL F041.05Z",
             "CRN": "40059",
             "desc": "MICROBIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -6274,14 +6238,14 @@
             "units": "6.00",
             "instructor": "Liles",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "BIOL F041.05Z",
             "CRN": "40059",
             "desc": "MICROBIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "04/05/2021",
@@ -6291,14 +6255,14 @@
             "units": "6.00",
             "instructor": "Hawkins",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "BIOL F041.05Z",
             "CRN": "40059",
             "desc": "MICROBIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "06:00 PM-06:50 PM",
             "start": "04/05/2021",
@@ -6308,7 +6272,7 @@
             "units": "6.00",
             "instructor": "Liles",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -7147,7 +7111,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ibrahim",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11736,7 +11700,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gong",
-            "seats": "15",
+            "seats": "16",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13185,7 +13149,7 @@
             "course": "ENGL F001B09Z",
             "CRN": "40761",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "T",
             "time": "10:00 AM-11:50 AM",
             "start": "04/05/2021",
@@ -13194,7 +13158,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fernandez",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -13202,7 +13166,7 @@
             "course": "ENGL F001B09Z",
             "CRN": "40761",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -13211,7 +13175,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fernandez",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13325,7 +13289,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "La Piana",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13649,7 +13613,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Glanting",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14562,7 +14526,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24104,7 +24068,7 @@
             "units": "5.00",
             "instructor": "Tuttle",
             "seats": "1",
-            "wait_seats": "18",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ],
@@ -24668,7 +24632,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Clark",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -26094,7 +26058,7 @@
             "course": "SOC F014.01W",
             "CRN": "40793",
             "desc": "SOCIOLOGY OF CRIME",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -26103,7 +26067,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "McNamara",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
