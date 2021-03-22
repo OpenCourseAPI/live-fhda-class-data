@@ -54,7 +54,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -92,7 +92,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "38",
+            "seats": "37",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -305,7 +305,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Benson",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -345,7 +345,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Butler",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -730,7 +730,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Novikov",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -936,7 +936,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Sturgess",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2472,7 +2472,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Fariss",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -2489,7 +2489,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Fariss",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -3612,7 +3612,7 @@
             "course": "ART F004A01W",
             "CRN": "40472",
             "desc": "FUNDAMENTALS IN DRAWING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -3621,8 +3621,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gomes",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -3935,7 +3935,7 @@
             "course": "ART F020B01W",
             "CRN": "40517",
             "desc": "COLOR II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -3944,8 +3944,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cook",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ]
@@ -5470,7 +5470,7 @@
             "course": "BIOL F040A06Z",
             "CRN": "41662",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "05:30 PM-08:20 PM",
             "start": "04/05/2021",
@@ -5479,15 +5479,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Alderkamp",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "8"
           },
           {
             "course": "BIOL F040A06Z",
             "CRN": "41662",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -5496,8 +5496,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Alderkamp",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "8"
           }
         ],
@@ -6557,7 +6557,7 @@
             "units": "4.00",
             "instructor": "Lew",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ]
@@ -7737,7 +7737,7 @@
             "course": "C S F030A01W",
             "CRN": "40321",
             "desc": "INTRODUCTION TO LINUX",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -7746,8 +7746,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -7904,7 +7904,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ryan",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7921,7 +7921,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ryan",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8903,7 +8903,7 @@
             "units": "5.00",
             "instructor": "Cormia",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           },
           {
@@ -8920,7 +8920,7 @@
             "units": "5.00",
             "instructor": "Cormia",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -9030,7 +9030,7 @@
             "units": "5.00",
             "instructor": "Esfandiari",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -9048,7 +9048,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salehi",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9065,7 +9065,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Painter",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9185,7 +9185,7 @@
             "course": "CHEM F030B03W",
             "CRN": "41416",
             "desc": "SURVEY OF ORGANIC/BIOCHEM",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -9194,7 +9194,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hong",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9466,7 +9466,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9544,7 +9544,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Daha",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10307,7 +10307,7 @@
             "course": "COMM F001A02V",
             "CRN": "40326",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "F",
             "time": "08:00 AM-12:50 PM",
             "start": "04/05/2021",
@@ -10316,7 +10316,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -10628,7 +10628,7 @@
             "course": "COMM F002.06W",
             "CRN": "41421",
             "desc": "INTERPERSONAL COMMUNICATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -10637,8 +10637,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -10784,7 +10784,7 @@
             "course": "COMM F010.02W",
             "CRN": "40672",
             "desc": "GENDER, COMMUNICATION & CULTUR",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -10793,7 +10793,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -10862,7 +10862,7 @@
             "course": "COMM F012.03W",
             "CRN": "40235",
             "desc": "INTERCULTURAL COMMUNICATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -10871,8 +10871,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cunningham",
-            "seats": "1",
-            "wait_seats": "14",
+            "seats": "0",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ],
@@ -14450,7 +14450,7 @@
             "course": "GID F031.01W",
             "CRN": "40809",
             "desc": "GRAPHIC DESIGN DRAWING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -14459,8 +14459,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -14471,7 +14471,7 @@
             "course": "GID F033.01W",
             "CRN": "41436",
             "desc": "GRAPHIC DESIGN STUDIO I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -14480,8 +14480,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -14929,7 +14929,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fung",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15032,7 +15032,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ziegenhorn",
-            "seats": "35",
+            "seats": "36",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -17928,7 +17928,7 @@
             "course": "MATH F001D02V",
             "CRN": "40254",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "06:00 PM-08:15 PM",
             "start": "04/05/2021",
@@ -17937,8 +17937,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Park Lee",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -18941,7 +18941,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19531,7 +19531,7 @@
             "course": "MTEC F057A01W",
             "CRN": "40958",
             "desc": "SOUND DESIGN FOR FILM & VIDEO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -19540,8 +19540,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -21413,7 +21413,7 @@
             "course": "PHED F021A01W",
             "CRN": "41373",
             "desc": "BEGINNING HATHA YOGA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -21422,8 +21422,8 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "3",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -21481,8 +21481,8 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "7",
-            "wait_seats": "5",
+            "seats": "3",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -21521,8 +21521,8 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "5",
-            "wait_seats": "7",
+            "seats": "2",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -22513,7 +22513,7 @@
             "course": "PHOT F008.01W",
             "CRN": "40249",
             "desc": "PHOTOGRAPHY OF MULTICULTURAL A",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "TBA",
             "start": "04/05/2021",
@@ -22522,15 +22522,15 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Herman",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
             "course": "PHOT F008.01W",
             "CRN": "40249",
             "desc": "PHOTOGRAPHY OF MULTICULTURAL A",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -22539,8 +22539,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Herman",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -23690,7 +23690,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Woolcock",
-            "seats": "33",
+            "seats": "34",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24311,7 +24311,7 @@
             "course": "PSYC F004.02Z",
             "CRN": "40153",
             "desc": "INTRO TO BIOPSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "10:00 AM-10:50 AM",
             "start": "04/05/2021",
@@ -24320,7 +24320,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rideaux",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -24328,7 +24328,7 @@
             "course": "PSYC F004.02Z",
             "CRN": "40153",
             "desc": "INTRO TO BIOPSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -24337,7 +24337,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rideaux",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24667,7 +24667,7 @@
             "course": "PSYC F049.01W",
             "CRN": "40710",
             "desc": "HUMAN SEXUALITY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -24676,8 +24676,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gerry",
-            "seats": "1",
-            "wait_seats": "17",
+            "seats": "0",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ]
@@ -27930,7 +27930,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Peter",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "0",
             "wait_cap": "0"
           }
