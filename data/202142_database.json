@@ -3627,7 +3627,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wishart",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -3644,7 +3644,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wishart",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3675,7 +3675,7 @@
             "course": "AUTO D050B51Z",
             "CRN": "47120",
             "desc": "APPLIED AUTO PRINCIPLES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -3684,7 +3684,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Tran",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6969,7 +6969,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Salah",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8082,7 +8082,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Maleksalehi",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -10236,7 +10236,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -10253,7 +10253,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10398,7 +10398,7 @@
             "course": "CIS D018A64Z",
             "CRN": "00435",
             "desc": "INTRO TO UNIX/LINUX",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -10407,7 +10407,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "May-Pumphrey",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -10483,7 +10483,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -10500,7 +10500,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11532,7 +11532,7 @@
             "units": "4.50",
             "instructor": "Singh",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -13066,8 +13066,8 @@
             "CRN": "45505",
             "desc": "PUBLIC SPEAKING",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "01:30 PM-03:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -13083,8 +13083,8 @@
             "CRN": "45505",
             "desc": "PUBLIC SPEAKING",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -13797,8 +13797,8 @@
             "CRN": "45525",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "09:30 AM-11:20 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -13814,8 +13814,8 @@
             "CRN": "45525",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "09:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -13833,8 +13833,8 @@
             "CRN": "45526",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "11:30 AM-01:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -13850,8 +13850,8 @@
             "CRN": "45526",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Full",
-            "days": "MW",
-            "time": "11:30 AM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -13869,8 +13869,8 @@
             "CRN": "45529",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "10:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -13886,8 +13886,8 @@
             "CRN": "45529",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:30 AM-12:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -13905,8 +13905,8 @@
             "CRN": "45530",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "11:30 AM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -13922,8 +13922,8 @@
             "CRN": "45530",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "11:30 AM-01:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -13941,8 +13941,8 @@
             "CRN": "45531",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "12:30 PM-02:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -13958,8 +13958,8 @@
             "CRN": "45531",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "12:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -14013,8 +14013,8 @@
             "CRN": "45535",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Full",
-            "days": "TTh",
-            "time": "03:30 PM-05:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -14030,8 +14030,8 @@
             "CRN": "45535",
             "desc": "FUNDAMENTALS OF ORAL COMM",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "03:30 PM-05:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -14150,6 +14150,25 @@
             "instructor": "Capurso",
             "seats": "0",
             "wait_seats": "0",
+            "wait_cap": "6"
+          }
+        ],
+        "47534": [
+          {
+            "course": "COMM D010.52Z",
+            "CRN": "47534",
+            "desc": "FUNDAMENTALS OF ORAL COMM",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Anderson",
+            "seats": "30",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -18250,7 +18269,7 @@
             "course": "ESCI D019.50Z",
             "CRN": "00633",
             "desc": "ENVIRON BIOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -18259,7 +18278,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "De Toro",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -18617,7 +18636,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Haven",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -18657,7 +18676,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Norman",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -18695,7 +18714,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Thot-Johnson",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -18754,7 +18773,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lam",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -23354,7 +23373,7 @@
             "units": "4.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -23814,7 +23833,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Erickson",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -26357,7 +26376,7 @@
             "course": "ICS D004.64Z",
             "CRN": "45690",
             "desc": "RACE, ETHNICITY & INEQUALITY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -26366,7 +26385,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Choi",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -26404,7 +26423,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Choi",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -31914,7 +31933,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Arabhi",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -32329,7 +32348,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -32548,7 +32567,7 @@
             "campus": "DA",
             "units": "2.50",
             "instructor": "Arabhi",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34741,7 +34760,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Acker",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -36948,7 +36967,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Francis",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -36965,7 +36984,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Francis",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -37353,7 +37372,7 @@
             "course": "POLI D001.2EZ",
             "CRN": "45409",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -37362,7 +37381,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -37571,7 +37590,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -40265,7 +40284,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tran",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
