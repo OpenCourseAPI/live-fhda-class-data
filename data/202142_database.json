@@ -2437,7 +2437,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -3241,7 +3241,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3732,7 +3732,7 @@
             "course": "AUTO D051A49Z",
             "CRN": "00202",
             "desc": "INTRO AUTO PRIN-CHASSIS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "06:00 PM-07:15 PM",
             "start": "04/05/2021",
@@ -3741,7 +3741,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wishart",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -3749,7 +3749,7 @@
             "course": "AUTO D051A49Z",
             "CRN": "00202",
             "desc": "INTRO AUTO PRIN-CHASSIS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -3758,7 +3758,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wishart",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5592,8 +5592,8 @@
             "CRN": "00248",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Full",
-            "days": "T",
-            "time": "02:30 PM-03:45 PM",
+            "days": "TTh",
+            "time": "12:30 PM-02:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -5609,8 +5609,8 @@
             "CRN": "00248",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Full",
-            "days": "TTh",
-            "time": "12:30 PM-02:20 PM",
+            "days": "T",
+            "time": "02:30 PM-03:45 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -5645,8 +5645,8 @@
             "CRN": "00249",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Full",
-            "days": "Th",
-            "time": "02:30 PM-03:45 PM",
+            "days": "TTh",
+            "time": "12:30 PM-02:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -5662,8 +5662,8 @@
             "CRN": "00249",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Full",
-            "days": "TTh",
-            "time": "12:30 PM-02:20 PM",
+            "days": "Th",
+            "time": "02:30 PM-03:45 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -5804,42 +5804,6 @@
             "wait_cap": "7"
           }
         ],
-        "46071": [
-          {
-            "course": "BIOL D040C02Z",
-            "CRN": "46071",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "MW",
-            "time": "11:30 AM-01:20 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Kalpin",
-            "seats": "27",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL D040C02Z",
-            "CRN": "46071",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Kalpin",
-            "seats": "27",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ],
         "41771": [
           {
             "course": "BIOL D040C03Z",
@@ -5918,8 +5882,8 @@
             "CRN": "00254",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Full",
-            "days": "MW",
-            "time": "09:30 AM-11:20 AM",
+            "days": "M",
+            "time": "11:30 AM-02:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -5935,8 +5899,8 @@
             "CRN": "00254",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Full",
-            "days": "M",
-            "time": "11:30 AM-02:20 PM",
+            "days": "MW",
+            "time": "09:30 AM-11:20 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -5954,8 +5918,8 @@
             "CRN": "00255",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
-            "days": "W",
-            "time": "11:30 AM-02:20 PM",
+            "days": "MW",
+            "time": "09:30 AM-11:20 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -5971,8 +5935,8 @@
             "CRN": "00255",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "09:30 AM-11:20 AM",
+            "days": "W",
+            "time": "11:30 AM-02:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -5990,8 +5954,8 @@
             "CRN": "45354",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "05:30 PM-07:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -6007,8 +5971,8 @@
             "CRN": "45354",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "05:30 PM-07:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -6026,8 +5990,8 @@
             "CRN": "43660",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "05:30 PM-07:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -6043,8 +6007,8 @@
             "CRN": "43660",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
-            "days": "MW",
-            "time": "05:30 PM-07:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -12104,7 +12068,7 @@
             "units": "4.50",
             "instructor": "Taylor",
             "seats": "1",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ]
@@ -16114,7 +16078,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thorensen",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17258,7 +17222,7 @@
             "campus": "DA",
             "units": "10.00",
             "instructor": "De Carvalho",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -17275,7 +17239,7 @@
             "campus": "DA",
             "units": "10.00",
             "instructor": "De Carvalho",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -17660,7 +17624,7 @@
             "course": "ELIT D024.01Z",
             "CRN": "47330",
             "desc": "ASIAN PACIFIC AMERICAN LIT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "10:30 AM-11:20 AM",
             "start": "04/05/2021",
@@ -17669,7 +17633,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mendoza",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -17677,7 +17641,7 @@
             "course": "ELIT D024.01Z",
             "CRN": "47330",
             "desc": "ASIAN PACIFIC AMERICAN LIT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -17686,7 +17650,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mendoza",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -19803,7 +19767,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Argyriou",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -19820,7 +19784,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Argyriou",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -27399,7 +27363,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Deck",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -27416,7 +27380,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Deck",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -29261,7 +29225,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Swanner",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -30914,7 +30878,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mesh",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -32638,7 +32602,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomsen",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -34086,7 +34050,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sales",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -34126,7 +34090,7 @@
             "campus": "DO",
             "units": "4.50",
             "instructor": "Mcelwain",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -34816,7 +34780,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Landefeld",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -35880,7 +35844,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hanson",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -39731,7 +39695,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Kaufman",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -40217,7 +40181,7 @@
             "units": "4.00",
             "instructor": "Coronado",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ],
