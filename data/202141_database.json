@@ -3229,7 +3229,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "King",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -14102,7 +14102,7 @@
             "units": "5.00",
             "instructor": "Davis",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ],
@@ -14354,7 +14354,7 @@
             "units": "4.00",
             "instructor": "Fong",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -15018,7 +15018,7 @@
             "course": "HLTH F021.02W",
             "CRN": "41608",
             "desc": "CONTEMPORARY HEALTH CONCERNS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -15028,7 +15028,7 @@
             "units": "4.00",
             "instructor": "Horowitz",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -15312,7 +15312,7 @@
             "units": "3.00",
             "instructor": "Northrup",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -17553,7 +17553,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tomutiu",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18630,7 +18630,7 @@
             "room": "TBA",
             "campus": "FH",
             "units": "1.00",
-            "instructor": "Staff",
+            "instructor": "Lee",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -19224,7 +19224,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19245,7 +19245,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -19287,7 +19287,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -19350,7 +19350,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23718,7 +23718,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryer",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24071,7 +24071,7 @@
             "course": "PSYC F001.06W",
             "CRN": "40269",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -24080,7 +24080,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -27715,6 +27715,23 @@
             "CRN": "40442",
             "desc": "CLIN PATHOLOGY METHODS",
             "status": "Full",
+            "days": "F",
+            "time": "01:00 PM-03:50 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "8507",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Eshman",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "1"
+          },
+          {
+            "course": "V T F081.02Z",
+            "CRN": "40442",
+            "desc": "CLIN PATHOLOGY METHODS",
+            "status": "Full",
             "days": "Th",
             "time": "01:00 PM-02:50 PM",
             "start": "04/05/2021",
@@ -27737,23 +27754,6 @@
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Eshman",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "1"
-          },
-          {
-            "course": "V T F081.02Z",
-            "CRN": "40442",
-            "desc": "CLIN PATHOLOGY METHODS",
-            "status": "Full",
-            "days": "F",
-            "time": "01:00 PM-03:50 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "8507",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Eshman",
@@ -27870,6 +27870,23 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
+          },
+          {
+            "course": "V T F084L01",
+            "CRN": "40774",
+            "desc": "VET ANESTHESIA LABORATORY",
+            "status": "Full",
+            "days": "MT",
+            "time": "12:00 PM-02:50 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "8507",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Hansen",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "40775": [
@@ -27936,6 +27953,23 @@
             "room": "8507",
             "campus": "FH",
             "units": "2.00",
+            "instructor": "Hansen",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "V T F084L02",
+            "CRN": "40775",
+            "desc": "VET ANESTHESIA LABORATORY",
+            "status": "Full",
+            "days": "WTh",
+            "time": "12:00 PM-02:50 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "8507",
+            "campus": "FH",
+            "units": "2.00",
             "instructor": "St Onge-Cole",
             "seats": "0",
             "wait_seats": "0",
@@ -27979,7 +28013,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Peter",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -28030,12 +28064,12 @@
             "CRN": "40071",
             "desc": "CLINICAL INTERNSHIP IV",
             "status": "Open",
-            "days": "T",
-            "time": "10:00 AM-10:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
+            "room": "HOSP",
+            "campus": "FO",
             "units": "3.00",
             "instructor": "Zeytoonian",
             "seats": "7",
@@ -28047,12 +28081,12 @@
             "CRN": "40071",
             "desc": "CLINICAL INTERNSHIP IV",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:00 AM-10:50 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "HOSP",
-            "campus": "FO",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "3.00",
             "instructor": "Zeytoonian",
             "seats": "7",
