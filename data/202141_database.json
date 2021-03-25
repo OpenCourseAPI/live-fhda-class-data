@@ -345,7 +345,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Butler",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -387,7 +387,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bullock",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -896,7 +896,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lui",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -9031,7 +9031,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9048,7 +9048,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9522,7 +9522,7 @@
             "course": "CHLD F056N01Z",
             "CRN": "40803",
             "desc": "PRINC/PRACT OF TEACH YNG CHLD",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "06:30 PM-08:20 PM",
             "start": "04/05/2021",
@@ -9531,7 +9531,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -9539,7 +9539,7 @@
             "course": "CHLD F056N01Z",
             "CRN": "40803",
             "desc": "PRINC/PRACT OF TEACH YNG CHLD",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -9548,7 +9548,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11811,7 +11811,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Patyk",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11963,7 +11963,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sandhu",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -11980,7 +11980,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sandhu",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -14311,7 +14311,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14542,7 +14542,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14884,7 +14884,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ziegenhorn",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -16080,7 +16080,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wortz",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -16977,6 +16977,23 @@
             "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
+          },
+          {
+            "course": "LINC F067.01W",
+            "CRN": "41343",
+            "desc": "DESIGN WEB-BASED LEARN PROJECT",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "05/31/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Tolnai",
+            "seats": "13",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "41682": [
@@ -17191,7 +17208,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18116,7 +18133,7 @@
             "course": "MATH F010.09W",
             "CRN": "40100",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -18125,7 +18142,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19135,7 +19152,7 @@
             "units": "4.00",
             "instructor": "Kuehnl",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -21512,7 +21529,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Macias",
-            "seats": "29",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
