@@ -1313,7 +1313,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Mastman",
-            "seats": "40",
+            "seats": "27",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1596,7 +1596,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Lovejoy",
-            "seats": "30",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1925,7 +1925,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Peterson",
-            "seats": "40",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2149,7 +2149,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Peterson",
-            "seats": "40",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -4560,7 +4560,7 @@
             "units": "6.00",
             "instructor": "Pallesen",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -4577,7 +4577,7 @@
             "units": "6.00",
             "instructor": "Pallesen",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -9569,7 +9569,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dave",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10643,7 +10643,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Velasco",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13073,7 +13073,7 @@
             "course": "ENGL F001B11W",
             "CRN": "40190",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -13082,7 +13082,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Harvey",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -22336,6 +22336,25 @@
             "wait_seats": "10",
             "wait_cap": "10"
           }
+        ],
+        "41720": [
+          {
+            "course": "PHOT F005.04W",
+            "CRN": "41720",
+            "desc": "INTRODUCTION TO PHOTOGRAPHY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "05/17/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "8": {
@@ -23756,7 +23775,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Heiser-Duron",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24175,7 +24194,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "20",
             "wait_cap": "20"
           }
