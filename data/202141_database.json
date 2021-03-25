@@ -531,7 +531,7 @@
             "units": "5.00",
             "instructor": "Ghodrat",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ],
@@ -589,7 +589,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -896,7 +896,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lui",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -7172,7 +7172,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -7189,7 +7189,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -9276,7 +9276,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -9373,7 +9373,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Rentschler",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10163,27 +10163,6 @@
             "units": "1.50",
             "instructor": "Meacham",
             "seats": "1",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ]
-      },
-      "275": {
-        "41491": [
-          {
-            "course": "CNSL F275.01W",
-            "CRN": "41491",
-            "desc": "EOPS:ROAD TO CLG SUCCESS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/12/2021",
-            "end": "05/21/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Wu",
-            "seats": "26",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -22350,7 +22329,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Jordahl",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -25891,12 +25870,29 @@
       "7": {
         "40251": [
           {
-            "course": "SOC F007.01V",
+            "course": "SOC F007.01Z",
             "CRN": "40251",
             "desc": "STATISTICS FOR BEHAV SCIENCES",
             "status": "Waitlist",
             "days": "TTh",
-            "time": "12:00 PM-02:15 PM",
+            "time": "12:00 PM-01:15 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Lin",
+            "seats": "0",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "SOC F007.01Z",
+            "CRN": "40251",
+            "desc": "STATISTICS FOR BEHAV SCIENCES",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
