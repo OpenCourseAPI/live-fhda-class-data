@@ -286,7 +286,7 @@
             "course": "ACCT D001B02Z",
             "CRN": "44994",
             "desc": "FINAN ACCOUNTG II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "10:30 AM-12:20 PM",
             "start": "04/05/2021",
@@ -295,7 +295,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ratchford",
-            "seats": "2",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -303,7 +303,7 @@
             "course": "ACCT D001B02Z",
             "CRN": "44994",
             "desc": "FINAN ACCOUNTG II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -312,7 +312,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ratchford",
-            "seats": "2",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -478,7 +478,7 @@
             "units": "5.00",
             "instructor": "Botsford",
             "seats": "1",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -3629,7 +3629,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Tran",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5132,7 +5132,7 @@
             "units": "5.00",
             "instructor": "Cuff-Alvarado",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ]
@@ -14622,7 +14622,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Gallegos",
-            "seats": "20",
+            "seats": "21",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14754,7 +14754,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Klingman",
             "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -14762,76 +14762,6 @@
         ]
       },
       "61A": {
-        "44027": [
-          {
-            "course": "DMT D061A01Z",
-            "CRN": "44027",
-            "desc": "SOLIDWORKS (INTERMEDIATE)",
-            "status": "Open",
-            "days": "W",
-            "time": "08:30 AM-09:20 AM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Klingman",
-            "seats": "17",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "DMT D061A01Z",
-            "CRN": "44027",
-            "desc": "SOLIDWORKS (INTERMEDIATE)",
-            "status": "Open",
-            "days": "W",
-            "time": "09:30 AM-10:20 AM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Klingman",
-            "seats": "17",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "DMT D061A01Z",
-            "CRN": "44027",
-            "desc": "SOLIDWORKS (INTERMEDIATE)",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Klingman",
-            "seats": "17",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "DMT D061A01Z",
-            "CRN": "44027",
-            "desc": "SOLIDWORKS (INTERMEDIATE)",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Klingman",
-            "seats": "17",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "44028": [
           {
             "course": "DMT D061A64Z",
@@ -14916,8 +14846,8 @@
             "CRN": "47416",
             "desc": "SOLIDWORKS: SURFACE MODELING",
             "status": "Open",
-            "days": "M",
-            "time": "08:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -14933,8 +14863,8 @@
             "CRN": "47416",
             "desc": "SOLIDWORKS: SURFACE MODELING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "08:30 AM-10:20 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -14973,40 +14903,6 @@
             "CRN": "46752",
             "desc": "CREO PARAMETRIC (INTRODUCTION)",
             "status": "Open",
-            "days": "T",
-            "time": "06:00 PM-06:50 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Sanchez",
-            "seats": "5",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "DMT D065B01Z",
-            "CRN": "46752",
-            "desc": "CREO PARAMETRIC (INTRODUCTION)",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Sanchez",
-            "seats": "5",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "DMT D065B01Z",
-            "CRN": "46752",
-            "desc": "CREO PARAMETRIC (INTRODUCTION)",
-            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -15025,6 +14921,23 @@
             "desc": "CREO PARAMETRIC (INTRODUCTION)",
             "status": "Open",
             "days": "Th",
+            "time": "06:00 PM-06:50 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Sanchez",
+            "seats": "5",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "DMT D065B01Z",
+            "CRN": "46752",
+            "desc": "CREO PARAMETRIC (INTRODUCTION)",
+            "status": "Open",
+            "days": "T",
             "time": "06:00 PM-06:50 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
@@ -15064,6 +14977,23 @@
             "CRN": "46681",
             "desc": "CREO PARAMET: TOP-DOWN DESIGN",
             "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Sanchez",
+            "seats": "7",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          },
+          {
+            "course": "DMT D067B01Z",
+            "CRN": "46681",
+            "desc": "CREO PARAMET: TOP-DOWN DESIGN",
+            "status": "Open",
             "days": "Th",
             "time": "06:00 PM-06:50 PM",
             "start": "04/05/2021",
@@ -15081,42 +15011,8 @@
             "CRN": "46681",
             "desc": "CREO PARAMET: TOP-DOWN DESIGN",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Sanchez",
-            "seats": "7",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "DMT D067B01Z",
-            "CRN": "46681",
-            "desc": "CREO PARAMET: TOP-DOWN DESIGN",
-            "status": "Open",
             "days": "T",
             "time": "06:00 PM-06:50 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Sanchez",
-            "seats": "7",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "DMT D067B01Z",
-            "CRN": "46681",
-            "desc": "CREO PARAMET: TOP-DOWN DESIGN",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -20006,7 +19902,7 @@
             "course": "EWRT D001A57Z",
             "CRN": "46986",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -20015,7 +19911,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -21011,7 +20907,7 @@
             "course": "EWRT D002.56Z",
             "CRN": "43068",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -21020,7 +20916,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Limcolioc",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "5"
           }
@@ -23569,7 +23465,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Erickson",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -30346,7 +30242,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tran",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31652,7 +31548,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bambhania",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31877,7 +31773,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -32243,7 +32139,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomsen",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           }
