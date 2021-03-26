@@ -1649,7 +1649,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tiwana",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -7290,7 +7290,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Qian",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12249,7 +12249,7 @@
             "units": "4.50",
             "instructor": "Alameer",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ],
@@ -15964,7 +15964,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17991,7 +17991,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "McCluskey",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20340,7 +20340,7 @@
             "course": "EWRT D002.06Z",
             "CRN": "44402",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "09:30 AM-10:20 AM",
             "start": "04/05/2021",
@@ -20349,7 +20349,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gravener",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20357,7 +20357,7 @@
             "course": "EWRT D002.06Z",
             "CRN": "44402",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -20366,7 +20366,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gravener",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -26306,7 +26306,7 @@
             "course": "ICS D007.62Z",
             "CRN": "01087",
             "desc": "INTERCULTURAL COMMUNICATION",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -26316,7 +26316,7 @@
             "units": "4.00",
             "instructor": "Franks",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -27577,7 +27577,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guevara",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -30346,7 +30346,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tran",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -30792,8 +30792,8 @@
             "CRN": "47389",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -30809,8 +30809,8 @@
             "CRN": "47389",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -31257,7 +31257,7 @@
             "course": "MATH D022.51Z",
             "CRN": "47507",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -31267,7 +31267,7 @@
             "units": "5.00",
             "instructor": "Shi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -31657,42 +31657,6 @@
             "wait_cap": "6"
           }
         ],
-        "47300": [
-          {
-            "course": "MATH D032.MP1",
-            "CRN": "47300",
-            "desc": "PRECALCULUS II",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Bensidi",
-            "seats": "25",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "MATH D032.MP1",
-            "CRN": "47300",
-            "desc": "PRECALCULUS II",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "08:30 AM-10:20 AM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Bensidi",
-            "seats": "25",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
         "47301": [
           {
             "course": "MATH D032.MP2",
@@ -31918,25 +31882,6 @@
             "wait_cap": "6"
           }
         ],
-        "41875": [
-          {
-            "course": "MATH D114.07Z",
-            "CRN": "41875",
-            "desc": "MATH PREP LEVEL 3:INTERMED ALG",
-            "status": "Open",
-            "days": "MTWThF",
-            "time": "10:30 AM-11:20 AM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Janak",
-            "seats": "23",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "01270": [
           {
             "course": "MATH D114.21Z",
@@ -32072,25 +32017,6 @@
             "units": "2.50",
             "instructor": "Bambhania",
             "seats": "5",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "46765": [
-          {
-            "course": "MATH D210XQ05",
-            "CRN": "46765",
-            "desc": "SUPPORT FOR STATISTICS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.50",
-            "instructor": "Mesh",
-            "seats": "22",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -32317,7 +32243,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomsen",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -35619,7 +35545,7 @@
             "units": "4.00",
             "instructor": "Baiamonte",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ],
@@ -37314,7 +37240,7 @@
             "units": "4.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "2"
           },
           {
@@ -37331,7 +37257,7 @@
             "units": "4.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ]
@@ -38281,7 +38207,7 @@
             "course": "PSYC D010H01Z",
             "CRN": "40538",
             "desc": "CHLD GROWTH/DEV:MID CHLDH/ADOL",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "11:30 AM-01:20 PM",
             "start": "04/05/2021",
@@ -38290,7 +38216,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Zarghami",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -40000,7 +39926,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Alvarez",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "7",
             "wait_cap": "7"
           }
