@@ -5738,7 +5738,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kalpin",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -5755,7 +5755,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kalpin",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -6550,7 +6550,7 @@
             "course": "BUS D010.67Z",
             "CRN": "47115",
             "desc": "INTRO TO BUSINESS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -6559,7 +6559,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hernandez",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6760,7 +6760,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Salah",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8725,7 +8725,7 @@
             "course": "CHEM D001C04Z",
             "CRN": "46957",
             "desc": "GEN CHEM/QUAL ANALYSIS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -8735,14 +8735,14 @@
             "units": "5.00",
             "instructor": "Deming",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001C04Z",
             "CRN": "46957",
             "desc": "GEN CHEM/QUAL ANALYSIS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "04:00 PM-05:15 PM",
             "start": "04/05/2021",
@@ -8752,14 +8752,14 @@
             "units": "5.00",
             "instructor": "Deming",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001C04Z",
             "CRN": "46957",
             "desc": "GEN CHEM/QUAL ANALYSIS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "01:00 PM-02:15 PM",
             "start": "04/05/2021",
@@ -8769,7 +8769,7 @@
             "units": "5.00",
             "instructor": "Deming",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -16551,7 +16551,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Uy-Barreta",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -17991,7 +17991,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "McCluskey",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19556,7 +19556,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -19873,7 +19873,7 @@
             "course": "EWRT D001A50Z",
             "CRN": "00769",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -19883,7 +19883,7 @@
             "units": "5.00",
             "instructor": "Giardino",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -26296,7 +26296,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ebrat",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -27814,7 +27814,7 @@
             "course": "KNES D15CX51Z",
             "CRN": "47340",
             "desc": "TOTAL FITNESS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "05/17/2021",
@@ -27823,7 +27823,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Mattis",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -28913,7 +28913,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Staff",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -30313,25 +30313,6 @@
             "wait_cap": "6"
           }
         ],
-        "40213": [
-          {
-            "course": "MATH D010.05Z",
-            "CRN": "40213",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
-            "days": "MTWThF",
-            "time": "09:30 AM-10:20 AM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Nguyen",
-            "seats": "28",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "44481": [
           {
             "course": "MATH D010.06Z",
@@ -30811,8 +30792,8 @@
             "CRN": "47389",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -30828,8 +30809,8 @@
             "CRN": "47389",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -30856,25 +30837,6 @@
             "units": "5.00",
             "instructor": "Bambhania",
             "seats": "5",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "46786": [
-          {
-            "course": "MATH D010.Q05",
-            "CRN": "46786",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
-            "days": "TTh",
-            "time": "01:30 PM-03:45 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Mesh",
-            "seats": "23",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31492,8 +31454,8 @@
             "CRN": "47318",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -31509,8 +31471,8 @@
             "CRN": "47318",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -31701,8 +31663,8 @@
             "CRN": "47300",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "08:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -31718,8 +31680,8 @@
             "CRN": "47300",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "08:30 AM-10:20 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -31736,24 +31698,7 @@
             "course": "MATH D032.MP2",
             "CRN": "47301",
             "desc": "PRECALCULUS II",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Rashid",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "MATH D032.MP2",
-            "CRN": "47301",
-            "desc": "PRECALCULUS II",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "01:30 PM-03:45 PM",
             "start": "04/05/2021",
@@ -31762,7 +31707,24 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rashid",
-            "seats": "0",
+            "seats": "1",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "MATH D032.MP2",
+            "CRN": "47301",
+            "desc": "PRECALCULUS II",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Rashid",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -32566,7 +32528,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Thomsen",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -32583,7 +32545,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Thomsen",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -32631,7 +32593,7 @@
             "course": "MUSI D012C02Z",
             "CRN": "44820",
             "desc": "CLASS PIANO III",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "01:30 PM-02:20 PM",
             "start": "04/05/2021",
@@ -32640,7 +32602,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Thomsen",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -32648,7 +32610,7 @@
             "course": "MUSI D012C02Z",
             "CRN": "44820",
             "desc": "CLASS PIANO III",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "01:30 PM-03:20 PM",
             "start": "04/05/2021",
@@ -32657,7 +32619,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Thomsen",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -33195,7 +33157,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Lai",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -33212,7 +33174,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Lai",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -33229,7 +33191,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Lai",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -37256,7 +37218,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ovetz",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "7",
             "wait_cap": "7"
           }

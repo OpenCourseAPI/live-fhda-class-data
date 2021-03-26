@@ -1334,7 +1334,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Rock",
-            "seats": "40",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1374,7 +1374,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Rock",
-            "seats": "40",
+            "seats": "16",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2130,7 +2130,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Peterson",
-            "seats": "40",
+            "seats": "20",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2267,7 +2267,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Rock",
-            "seats": "40",
+            "seats": "17",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6768,7 +6768,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wang-Nava",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6790,7 +6790,7 @@
             "units": "3.00",
             "instructor": "Harmon",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ]
@@ -7218,7 +7218,7 @@
             "course": "C S F002A03W",
             "CRN": "40230",
             "desc": "OBJ-ORIENT PROG METHOD IN C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -7227,7 +7227,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lamble",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -7646,7 +7646,7 @@
             "course": "C S F030A01W",
             "CRN": "40321",
             "desc": "INTRODUCTION TO LINUX",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -7655,7 +7655,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10622,9 +10622,9 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Velasco",
-            "seats": "3",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "seats": "5",
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -11944,7 +11944,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11963,7 +11963,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sandhu",
-            "seats": "22",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -11980,7 +11980,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sandhu",
-            "seats": "22",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -13546,7 +13546,7 @@
             "units": "5.00",
             "instructor": "Wang",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -15027,7 +15027,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryan",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -15044,7 +15044,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Baldwin",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16396,7 +16396,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -16413,7 +16413,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17732,7 +17732,7 @@
             "course": "MATH F001C04W",
             "CRN": "41513",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -17742,7 +17742,7 @@
             "units": "5.00",
             "instructor": "Litrus",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -23192,7 +23192,7 @@
             "course": "PHYS F004B02V",
             "CRN": "40129",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "10:00 AM-11:50 AM",
             "start": "04/05/2021",
@@ -23201,7 +23201,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cascarano",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           },
@@ -23209,7 +23209,7 @@
             "course": "PHYS F004B02V",
             "CRN": "40129",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "W",
             "time": "12:00 PM-02:50 PM",
             "start": "04/05/2021",
@@ -23218,7 +23218,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cascarano",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           },
@@ -23226,7 +23226,7 @@
             "course": "PHYS F004B02V",
             "CRN": "40129",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "F",
             "time": "10:00 AM-10:50 AM",
             "start": "04/05/2021",
@@ -23235,7 +23235,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cascarano",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -24525,7 +24525,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gerry",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -26515,7 +26515,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rivera-Montanez",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
