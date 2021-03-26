@@ -1864,7 +1864,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Das",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -3282,7 +3282,7 @@
             "course": "ASTR D004.01Z",
             "CRN": "00190",
             "desc": "SOLAR SYSTEM ASTRONOMY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "01:30 PM-02:20 PM",
             "start": "04/05/2021",
@@ -3291,7 +3291,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cichanski",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "6"
           },
@@ -3299,7 +3299,7 @@
             "course": "ASTR D004.01Z",
             "CRN": "00190",
             "desc": "SOLAR SYSTEM ASTRONOMY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -3308,7 +3308,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cichanski",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "6"
           }
@@ -3399,7 +3399,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cody",
-            "seats": "34",
+            "seats": "35",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -3416,7 +3416,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cody",
-            "seats": "34",
+            "seats": "35",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -5065,7 +5065,7 @@
             "course": "BIOL D010.51Z",
             "CRN": "00235",
             "desc": "INTRO BIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -5075,7 +5075,7 @@
             "units": "5.00",
             "instructor": "Cuff-Alvarado",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ],
@@ -6643,7 +6643,7 @@
             "course": "BUS D018.13Z",
             "CRN": "47143",
             "desc": "BUSINESS LAW I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "10:30 AM-11:45 AM",
             "start": "04/05/2021",
@@ -6653,14 +6653,14 @@
             "units": "5.00",
             "instructor": "Ritchie",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "BUS D018.13Z",
             "CRN": "47143",
             "desc": "BUSINESS LAW I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -6670,7 +6670,7 @@
             "units": "5.00",
             "instructor": "Ritchie",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -6798,7 +6798,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Salah",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14639,7 +14639,7 @@
             "CRN": "47323",
             "desc": "3D PRINT, RVRSE ENG/RAPID PROT",
             "status": "Open",
-            "days": "M",
+            "days": "W",
             "time": "06:00 PM-07:50 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
@@ -14656,7 +14656,7 @@
             "CRN": "47323",
             "desc": "3D PRINT, RVRSE ENG/RAPID PROT",
             "status": "Open",
-            "days": "W",
+            "days": "M",
             "time": "06:00 PM-07:50 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
@@ -14761,27 +14761,6 @@
           }
         ]
       },
-      "61A": {
-        "44028": [
-          {
-            "course": "DMT D061A64Z",
-            "CRN": "44028",
-            "desc": "SOLIDWORKS (INTERMEDIATE)",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Klingman",
-            "seats": "17",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
       "62A": {
         "47418": [
           {
@@ -14846,8 +14825,8 @@
             "CRN": "47416",
             "desc": "SOLIDWORKS: SURFACE MODELING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "08:30 AM-10:20 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -14863,8 +14842,8 @@
             "CRN": "47416",
             "desc": "SOLIDWORKS: SURFACE MODELING",
             "status": "Open",
-            "days": "M",
-            "time": "08:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -15051,8 +15030,8 @@
             "CRN": "46662",
             "desc": "INTRO TO CAD USING SIEMENS NX",
             "status": "Open",
-            "days": "M",
-            "time": "06:00 PM-06:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -15085,25 +15064,8 @@
             "CRN": "46662",
             "desc": "INTRO TO CAD USING SIEMENS NX",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Blank",
-            "seats": "7",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "DMT D075B01Z",
-            "CRN": "46662",
-            "desc": "INTRO TO CAD USING SIEMENS NX",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "06:00 PM-06:50 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -15609,7 +15571,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "2.00",
-            "instructor": "Appio",
+            "instructor": "Klingman",
             "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -15630,7 +15592,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "2.00",
-            "instructor": "Appio",
+            "instructor": "Klingman",
             "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -15672,7 +15634,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "2.00",
-            "instructor": "Appio",
+            "instructor": "Klingman",
             "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -15693,7 +15655,7 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "2.00",
-            "instructor": "Appio",
+            "instructor": "Klingman",
             "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -19350,7 +19312,7 @@
             "course": "EWRT D001A07Q",
             "CRN": "00763",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "01:30 PM-02:20 PM",
             "start": "04/05/2021",
@@ -19359,7 +19321,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Penkethman",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -19367,7 +19329,7 @@
             "course": "EWRT D001A07Q",
             "CRN": "00763",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -19376,7 +19338,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Penkethman",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -19462,7 +19424,7 @@
             "course": "EWRT D001A31Z",
             "CRN": "00737",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "08:30 AM-09:20 AM",
             "start": "04/05/2021",
@@ -19471,7 +19433,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Argyriou",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -19479,7 +19441,7 @@
             "course": "EWRT D001A31Z",
             "CRN": "00737",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -19488,7 +19450,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Argyriou",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22712,7 +22674,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dileonardo",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -25492,7 +25454,7 @@
             "course": "HUMI D001.53Z",
             "CRN": "43263",
             "desc": "CREATIVE MINDS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -25501,7 +25463,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rueda",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -26335,7 +26297,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Blume",
-            "seats": "28",
+            "seats": "29",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -27849,7 +27811,7 @@
             "course": "KNES D19EX53Z",
             "CRN": "46815",
             "desc": "BODY SCULPTING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -27858,7 +27820,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Johnson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "5"
           }
@@ -27929,7 +27891,7 @@
             "course": "KNES D22AX50Z",
             "CRN": "47268",
             "desc": "HATHA YOGA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -27938,7 +27900,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Johnson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -28106,7 +28068,7 @@
             "course": "KNES D22DX51Z",
             "CRN": "47269",
             "desc": "FLOW YOGA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -28115,7 +28077,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Johnson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -28207,7 +28169,7 @@
             "course": "KNES D25BX50Z",
             "CRN": "47275",
             "desc": "ACTIVE ISOLATED STRETCHING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -28216,7 +28178,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Damjanovic",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -28247,7 +28209,7 @@
             "course": "KNES D26AX61Z",
             "CRN": "46811",
             "desc": "BASIC PILATES MAT EXERCISE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -28256,7 +28218,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Ghiasvand",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -28724,7 +28686,7 @@
             "course": "LART D250.07Q",
             "CRN": "46780",
             "desc": "ACADEMIC READING AND WRITING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -28733,7 +28695,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Penkethman",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -31115,7 +31077,7 @@
             "course": "MATH D022.37Z",
             "CRN": "01250",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "06:30 PM-08:45 PM",
             "start": "04/05/2021",
@@ -31125,7 +31087,7 @@
             "units": "5.00",
             "instructor": "Schaffer",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -31153,7 +31115,7 @@
             "course": "MATH D022.51Z",
             "CRN": "47507",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -31162,7 +31124,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shi",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -31802,7 +31764,7 @@
             "course": "MATH D114.29Z",
             "CRN": "42159",
             "desc": "MATH PREP LEVEL 3:INTERMED ALG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "04:00 PM-06:15 PM",
             "start": "04/05/2021",
@@ -31811,7 +31773,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Abb",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35223,7 +35185,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hammerud",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -36998,7 +36960,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Armitage",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -39087,7 +39049,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           }
