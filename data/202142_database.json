@@ -246,7 +246,7 @@
             "course": "ACCT D001A69Z",
             "CRN": "47263",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -255,7 +255,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Botsford",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10608,7 +10608,7 @@
             "course": "CIS D022A64Z",
             "CRN": "43319",
             "desc": "BEG PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -10617,9 +10617,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Pape",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ]
       },
