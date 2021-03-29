@@ -367,7 +367,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -384,7 +384,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -936,7 +936,7 @@
             "course": "ACCT D088.64Z",
             "CRN": "46706",
             "desc": "EXCEL SPRDSHTS FOR ACCT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -945,9 +945,9 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Hatter",
-            "seats": "0",
-            "wait_seats": "8",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "3",
+            "wait_cap": "5"
           }
         ]
       },
@@ -2022,7 +2022,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Cerda Aguilar",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -6738,7 +6738,7 @@
             "course": "BUS D055.64Z",
             "CRN": "00284",
             "desc": "INTRO TO ENTREPRENEURSHIP",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -6747,9 +6747,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "0",
-            "wait_seats": "8",
-            "wait_cap": "10"
+            "seats": "5",
+            "wait_seats": "3",
+            "wait_cap": "5"
           }
         ]
       },
@@ -6780,7 +6780,7 @@
             "course": "BUS D057.64Z",
             "CRN": "45909",
             "desc": "HUMAN RESOURCE MGMNT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -6789,9 +6789,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Andrews-Bingham",
-            "seats": "0",
-            "wait_seats": "9",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-1",
+            "wait_cap": "0"
           }
         ]
       },
@@ -9921,7 +9921,7 @@
             "course": "CIS D003.74Z",
             "CRN": "00429",
             "desc": "BUSINESS INFO SYSTEMS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -9931,7 +9931,7 @@
             "units": "4.50",
             "instructor": "Morgan Jr",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -10077,7 +10077,7 @@
             "course": "CIS D018A41Z",
             "CRN": "00436",
             "desc": "INTRO TO UNIX/LINUX",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -10086,7 +10086,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -10094,7 +10094,7 @@
             "course": "CIS D018A41Z",
             "CRN": "00436",
             "desc": "INTRO TO UNIX/LINUX",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "06:00 PM-07:50 PM",
             "start": "04/05/2021",
@@ -10103,7 +10103,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -10861,7 +10861,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -10881,7 +10881,7 @@
             "units": "4.50",
             "instructor": "Pacheco",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ]
@@ -11809,7 +11809,7 @@
             "course": "CIS D089A64Z",
             "CRN": "42103",
             "desc": "WEB PAGE DEVELOPMENT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -11818,9 +11818,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Taylor",
-            "seats": "0",
-            "wait_seats": "14",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-1",
+            "wait_cap": "0"
           }
         ]
       },
@@ -15607,7 +15607,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sanders",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -16635,7 +16635,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Seshadri",
-            "seats": "38",
+            "seats": "37",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -17107,7 +17107,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Joseph",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -17124,7 +17124,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Joseph",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -24973,7 +24973,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Woo",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -24990,7 +24990,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Woo",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -25106,7 +25106,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "White",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -29858,7 +29858,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bourgoub",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "3",
             "wait_cap": "6"
           }
@@ -30119,7 +30119,7 @@
             "course": "MATH D010.28Z",
             "CRN": "40979",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "04:00 PM-06:15 PM",
             "start": "04/05/2021",
@@ -30128,7 +30128,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Geraghty",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -30166,7 +30166,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sales",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31092,7 +31092,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Krestas",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -38431,7 +38431,7 @@
             "course": "REST D053.64Z",
             "CRN": "46739",
             "desc": "REAL ESTATE FINANCE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -38440,9 +38440,9 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hatter",
-            "seats": "0",
-            "wait_seats": "8",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "3",
+            "wait_cap": "5"
           }
         ]
       }
