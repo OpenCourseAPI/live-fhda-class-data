@@ -92,7 +92,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "25",
+            "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7707,7 +7707,7 @@
             "course": "C S F053A02W",
             "CRN": "41614",
             "desc": "CYBERSECURITY FUNDAMENTALS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -7716,7 +7716,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ryan",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7773,7 +7773,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ryan",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8181,7 +8181,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8198,7 +8198,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ermut",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8215,7 +8215,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8227,7 +8227,7 @@
             "course": "CHEM F001B01W",
             "CRN": "40838",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -8236,7 +8236,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rao",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -10157,7 +10157,7 @@
             "course": "COMM F001A03Z",
             "CRN": "40224",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "08:00 AM-09:50 AM",
             "start": "04/05/2021",
@@ -10167,14 +10167,14 @@
             "units": "5.00",
             "instructor": "Hasan",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "COMM F001A03Z",
             "CRN": "40224",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -10184,7 +10184,7 @@
             "units": "5.00",
             "instructor": "Hasan",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -11735,7 +11735,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Patyk",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -12087,11 +12087,11 @@
             "CRN": "41493",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
-            "days": "W",
+            "days": "T",
             "time": "05:30 PM-09:30 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "SV104",
+            "room": "ONLINE",
             "campus": "FC",
             "units": "6.00",
             "instructor": "Lomeli Franco",
@@ -12121,11 +12121,11 @@
             "CRN": "41493",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
-            "days": "T",
+            "days": "W",
             "time": "05:30 PM-09:30 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "ONLINE",
+            "room": "SV104",
             "campus": "FC",
             "units": "6.00",
             "instructor": "Lomeli Franco",
@@ -12174,11 +12174,11 @@
             "CRN": "41659",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
-            "days": "Th",
+            "days": "T",
             "time": "05:30 PM-09:30 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "SV104",
+            "room": "ONLINE",
             "campus": "FC",
             "units": "6.00",
             "instructor": "Huseman",
@@ -12208,11 +12208,11 @@
             "CRN": "41659",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
-            "days": "T",
+            "days": "Th",
             "time": "05:30 PM-09:30 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "ONLINE",
+            "room": "SV104",
             "campus": "FC",
             "units": "6.00",
             "instructor": "Huseman",
@@ -12359,7 +12359,7 @@
             "room": "SV104",
             "campus": "FC",
             "units": "3.00",
-            "instructor": "Villanueva",
+            "instructor": "Levis",
             "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -12376,10 +12376,48 @@
             "room": "SV104",
             "campus": "FC",
             "units": "3.00",
-            "instructor": "Levis",
+            "instructor": "Villanueva",
             "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
+          }
+        ]
+      },
+      "402": {
+        "41728": [
+          {
+            "course": "EMS F402.01R",
+            "CRN": "41728",
+            "desc": "EMT: BASIC PART B NC",
+            "status": "Open",
+            "days": "T",
+            "time": "04:10 PM-09:35 PM",
+            "start": "04/28/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "0.00",
+            "instructor": "Staff",
+            "seats": "20",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "EMS F402.01R",
+            "CRN": "41728",
+            "desc": "EMT: BASIC PART B NC",
+            "status": "Open",
+            "days": "W",
+            "time": "04:10 PM-09:35 PM",
+            "start": "04/28/2021",
+            "end": "06/25/2021",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "0.00",
+            "instructor": "Staff",
+            "seats": "20",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
@@ -13967,7 +14005,7 @@
             "units": "5.00",
             "instructor": "Davis",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ],
@@ -13985,7 +14023,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Aguilar",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14006,7 +14044,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davis",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -16281,7 +16319,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Lum",
             "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -16298,7 +16336,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Lum",
             "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -16319,7 +16357,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Lum",
             "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -16336,7 +16374,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Lum",
             "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -23020,7 +23058,7 @@
             "units": "6.00",
             "instructor": "Lau",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           },
           {
@@ -23037,7 +23075,7 @@
             "units": "6.00",
             "instructor": "Lau",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -23621,7 +23659,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryer",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -23638,7 +23676,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryer",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24290,7 +24328,7 @@
             "units": "5.00",
             "instructor": "Gauthier",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ]
@@ -25899,7 +25937,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Bauermeister",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
