@@ -2809,7 +2809,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -4484,7 +4484,7 @@
             "units": "6.00",
             "instructor": "Pallesen",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
@@ -4501,7 +4501,7 @@
             "units": "6.00",
             "instructor": "Pallesen",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -5898,7 +5898,7 @@
             "course": "BIOL F040C09Z",
             "CRN": "40430",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "S",
             "time": "11:00 AM-01:50 PM",
             "start": "04/05/2021",
@@ -5908,14 +5908,14 @@
             "units": "5.00",
             "instructor": "Benton",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "8"
           },
           {
             "course": "BIOL F040C09Z",
             "CRN": "40430",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -5925,14 +5925,14 @@
             "units": "5.00",
             "instructor": "Benton",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "8"
           },
           {
             "course": "BIOL F040C09Z",
             "CRN": "40430",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "S",
             "time": "09:00 AM-10:50 AM",
             "start": "04/05/2021",
@@ -5942,7 +5942,7 @@
             "units": "5.00",
             "instructor": "Benton",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "8"
           }
         ]
@@ -6980,7 +6980,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ibrahim",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8955,7 +8955,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8972,7 +8972,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11868,7 +11868,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -12873,7 +12873,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chan",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -15260,7 +15260,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cammin",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "2",
             "wait_cap": "2"
           },
@@ -15277,7 +15277,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cammin",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -16799,7 +16799,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17010,11 +17010,30 @@
             "time": "TBA",
             "start": "05/01/2021",
             "end": "06/25/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "2.00",
-            "instructor": "Staff",
+            "instructor": "Pereira",
             "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "41727": [
+          {
+            "course": "LINC F077C02W",
+            "CRN": "41727",
+            "desc": "DESIGN THINKING FOR TEACHERS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "05/01/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Pereira",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -24552,7 +24571,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Lin",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -26200,7 +26219,7 @@
             "units": "5.00",
             "instructor": "Crespo-Martin",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "25"
           }
         ],
