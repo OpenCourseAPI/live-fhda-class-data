@@ -508,7 +508,7 @@
             "course": "ACCT D001C01Z",
             "CRN": "42816",
             "desc": "MANAG ACCOUNTG",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -518,14 +518,14 @@
             "units": "5.00",
             "instructor": "Hung",
             "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "10"
+            "wait_seats": "0",
+            "wait_cap": "5"
           },
           {
             "course": "ACCT D001C01Z",
             "CRN": "42816",
             "desc": "MANAG ACCOUNTG",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "10:30 AM-11:30 AM",
             "start": "04/05/2021",
@@ -535,8 +535,8 @@
             "units": "5.00",
             "instructor": "Hung",
             "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "10"
+            "wait_seats": "0",
+            "wait_cap": "5"
           }
         ],
         "45163": [
@@ -652,7 +652,7 @@
             "course": "ACCT D001C64Z",
             "CRN": "00036",
             "desc": "MANAG ACCOUNTG",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -661,7 +661,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Osborne",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -728,7 +728,7 @@
             "course": "ACCT D001C68Z",
             "CRN": "47283",
             "desc": "MANAG ACCOUNTG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -737,7 +737,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kwak",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -6434,7 +6434,7 @@
             "course": "BUS D010.65Z",
             "CRN": "00270",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -6444,8 +6444,8 @@
             "units": "5.00",
             "instructor": "Fritz",
             "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "10"
+            "wait_seats": "-9",
+            "wait_cap": "0"
           }
         ],
         "00268": [
@@ -6472,7 +6472,7 @@
             "course": "BUS D010.67Z",
             "CRN": "47115",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -6482,8 +6482,8 @@
             "units": "5.00",
             "instructor": "Hernandez",
             "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -6502,9 +6502,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Barbeau",
-            "seats": "5",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "0"
           },
           {
             "course": "BUS D018.12Z",
@@ -6519,9 +6519,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Barbeau",
-            "seats": "5",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "47143": [
@@ -6822,7 +6822,7 @@
             "course": "BUS D060.64Z",
             "CRN": "00288",
             "desc": "INTERNATL BUSINESS MANAGEMENT",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -6831,9 +6831,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yurtseven",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "seats": "1",
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -7017,8 +7017,8 @@
             "units": "5.00",
             "instructor": "Fritz",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ]
       }
@@ -9902,7 +9902,7 @@
             "course": "CIS D003.65Z",
             "CRN": "43045",
             "desc": "BUSINESS INFO SYSTEMS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -9912,7 +9912,7 @@
             "units": "4.50",
             "instructor": "Dundurs",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -11044,7 +11044,7 @@
             "units": "4.50",
             "instructor": "Goel",
             "seats": "1",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "15"
           },
           {
@@ -11061,7 +11061,7 @@
             "units": "4.50",
             "instructor": "Goel",
             "seats": "1",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "15"
           },
           {
@@ -11078,7 +11078,7 @@
             "units": "4.50",
             "instructor": "Goel",
             "seats": "1",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ],
@@ -11296,7 +11296,7 @@
             "course": "CIS D036A02Z",
             "CRN": "43651",
             "desc": "INTRO TO COMP PROG USING JAVA",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -11306,14 +11306,14 @@
             "units": "4.50",
             "instructor": "Parrish",
             "seats": "0",
-            "wait_seats": "11",
-            "wait_cap": "15"
+            "wait_seats": "-4",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D036A02Z",
             "CRN": "43651",
             "desc": "INTRO TO COMP PROG USING JAVA",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "Th",
             "time": "09:30 AM-10:45 AM",
             "start": "04/05/2021",
@@ -11323,8 +11323,8 @@
             "units": "4.50",
             "instructor": "Parrish",
             "seats": "0",
-            "wait_seats": "11",
-            "wait_cap": "15"
+            "wait_seats": "-4",
+            "wait_cap": "0"
           }
         ],
         "43317": [
@@ -11353,7 +11353,7 @@
             "course": "CIS D036B01Z",
             "CRN": "43840",
             "desc": "INTERMED PROBLEM SOLVING JAVA",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -11363,14 +11363,14 @@
             "units": "4.50",
             "instructor": "Parrish",
             "seats": "0",
-            "wait_seats": "12",
-            "wait_cap": "15"
+            "wait_seats": "-3",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D036B01Z",
             "CRN": "43840",
             "desc": "INTERMED PROBLEM SOLVING JAVA",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "W",
             "time": "09:30 AM-10:45 AM",
             "start": "04/05/2021",
@@ -11380,8 +11380,8 @@
             "units": "4.50",
             "instructor": "Parrish",
             "seats": "0",
-            "wait_seats": "12",
-            "wait_cap": "15"
+            "wait_seats": "-3",
+            "wait_cap": "0"
           }
         ]
       },
@@ -12330,7 +12330,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Andrade",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -12347,7 +12347,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Andrade",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -26860,7 +26860,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Deck",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -26877,7 +26877,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Deck",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -26974,7 +26974,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Deck",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -32468,7 +32468,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Dunn",
-            "seats": "6",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -32485,7 +32485,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Dunn",
-            "seats": "6",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -38584,7 +38584,7 @@
             "course": "SOC D001.02Z",
             "CRN": "43273",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "04:30 PM-05:20 PM",
             "start": "04/05/2021",
@@ -38593,7 +38593,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Myhre",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -38601,7 +38601,7 @@
             "course": "SOC D001.02Z",
             "CRN": "43273",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -38610,7 +38610,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Myhre",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -38734,7 +38734,7 @@
             "course": "SOC D015.50Z",
             "CRN": "41799",
             "desc": "STAT RSRCH/METHS IN SOCSCI",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -38744,7 +38744,7 @@
             "units": "4.00",
             "instructor": "Olsen",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "4"
           }
         ]
@@ -39586,7 +39586,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hickling",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "5",
             "wait_cap": "5"
           }
