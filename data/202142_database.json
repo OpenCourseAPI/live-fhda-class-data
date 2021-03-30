@@ -1649,7 +1649,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tiwana",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -1864,7 +1864,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Das",
-            "seats": "20",
+            "seats": "21",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -14508,7 +14508,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Gallegos",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -18346,7 +18346,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -27302,7 +27302,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guevara",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -30214,7 +30214,7 @@
             "course": "MATH D010.40Z",
             "CRN": "01238",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "09:00 PM-11:15 PM",
             "start": "04/05/2021",
@@ -30223,7 +30223,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ky",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33239,25 +33239,6 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
-        ],
-        "47537": [
-          {
-            "course": "NURS D093A03Z",
-            "CRN": "47537",
-            "desc": "PEDIATRIC NURSING",
-            "status": "Open",
-            "days": "Th",
-            "time": "09:30 AM-01:20 PM",
-            "start": "05/17/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Gifford",
-            "seats": "10",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
         ]
       },
       "93L": {
@@ -33356,6 +33337,25 @@
             "units": "2.00",
             "instructor": "Gifford",
             "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "47538": [
+          {
+            "course": "NURS D094A04Z",
+            "CRN": "47538",
+            "desc": "PSYCH/MENTAL HEALTH NURSING",
+            "status": "Open",
+            "days": "Th",
+            "time": "09:30 AM-01:20 PM",
+            "start": "05/17/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "2.00",
+            "instructor": "Gifford",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
