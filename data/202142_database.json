@@ -12027,7 +12027,7 @@
             "units": "4.50",
             "instructor": "Alameer",
             "seats": "4",
-            "wait_seats": "-7",
+            "wait_seats": "-6",
             "wait_cap": "0"
           },
           {
@@ -12044,7 +12044,7 @@
             "units": "4.50",
             "instructor": "Alameer",
             "seats": "4",
-            "wait_seats": "-7",
+            "wait_seats": "-6",
             "wait_cap": "0"
           },
           {
@@ -12061,7 +12061,7 @@
             "units": "4.50",
             "instructor": "Alameer",
             "seats": "4",
-            "wait_seats": "-7",
+            "wait_seats": "-6",
             "wait_cap": "0"
           }
         ],
@@ -14408,7 +14408,7 @@
             "units": "1.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -23268,7 +23268,7 @@
             "course": "HTEC D060H01Z",
             "CRN": "47221",
             "desc": "ADV MEDICAL TERMINOLOGY II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "10:30 AM-12:20 PM",
             "start": "04/05/2021",
@@ -23277,7 +23277,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Sherlekar",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -26084,7 +26084,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lewis",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -37363,8 +37363,8 @@
             "CRN": "46595",
             "desc": "EXPER METHODS IN PSYC/BEHAV SC",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TWTh",
+            "time": "09:30 AM-10:20 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -37380,8 +37380,8 @@
             "CRN": "46595",
             "desc": "EXPER METHODS IN PSYC/BEHAV SC",
             "status": "Waitlist",
-            "days": "TWTh",
-            "time": "09:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -37505,15 +37505,49 @@
             "CRN": "47540",
             "desc": "EXPER METHODS IN PSYC/BEHAV SC",
             "status": "Open",
+            "days": "TTh",
+            "time": "09:30 AM-10:20 AM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "6.00",
+            "instructor": "Chelberg",
+            "seats": "28",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "PSYC D002.04Z",
+            "CRN": "47540",
+            "desc": "EXPER METHODS IN PSYC/BEHAV SC",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "6.00",
-            "instructor": "Staff",
-            "seats": "30",
+            "instructor": "Chelberg",
+            "seats": "28",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "PSYC D002.04Z",
+            "CRN": "47540",
+            "desc": "EXPER METHODS IN PSYC/BEHAV SC",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "6.00",
+            "instructor": "Chelberg",
+            "seats": "28",
             "wait_seats": "5",
             "wait_cap": "5"
           }
