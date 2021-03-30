@@ -88,7 +88,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -105,7 +105,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -819,7 +819,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kwak",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5937,7 +5937,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Cuff-Alvarado",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6502,7 +6502,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Barbeau",
-            "seats": "7",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -6519,7 +6519,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Barbeau",
-            "seats": "7",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10037,7 +10037,7 @@
             "course": "CIS D009.01Z",
             "CRN": "47182",
             "desc": "INTRO TO DATA SCIENCE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -10046,15 +10046,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "0",
-            "wait_seats": "14",
-            "wait_cap": "15"
+            "seats": "5",
+            "wait_seats": "4",
+            "wait_cap": "5"
           },
           {
             "course": "CIS D009.01Z",
             "CRN": "47182",
             "desc": "INTRO TO DATA SCIENCE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "11:30 AM-12:20 PM",
             "start": "04/05/2021",
@@ -10063,9 +10063,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "0",
-            "wait_seats": "14",
-            "wait_cap": "15"
+            "seats": "5",
+            "wait_seats": "4",
+            "wait_cap": "5"
           }
         ]
       },
@@ -11613,7 +11613,7 @@
             "course": "CIS D041B02Z",
             "CRN": "46055",
             "desc": "ADVANCED PYTHON PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -11622,15 +11622,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-14",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D041B02Z",
             "CRN": "46055",
             "desc": "ADVANCED PYTHON PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "11:30 AM-01:20 PM",
             "start": "04/05/2021",
@@ -11639,9 +11639,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-14",
+            "wait_cap": "0"
           }
         ]
       },
@@ -17311,7 +17311,7 @@
             "course": "ELIT D046A01Z",
             "CRN": "46753",
             "desc": "MAJOR BRITISH WRITRS:MED",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -17320,7 +17320,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Malone",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "6"
           }
@@ -17562,7 +17562,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ratsirarson",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -19411,7 +19411,7 @@
             "units": "5.00",
             "instructor": "Gordon",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
@@ -19428,7 +19428,7 @@
             "units": "5.00",
             "instructor": "Gordon",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -23374,7 +23374,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Shurtliff",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "10"
           },
@@ -23391,7 +23391,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Shurtliff",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -24238,7 +24238,7 @@
             "units": "1.00",
             "instructor": "Atwood",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "7"
           }
         ]
@@ -25600,7 +25600,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "White",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -26799,7 +26799,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dada",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -32966,7 +32966,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Rowe",
-            "seats": "50",
+            "seats": "49",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -35090,7 +35090,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hanson",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -37227,7 +37227,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Avera",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -37244,7 +37244,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Avera",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -39264,7 +39264,7 @@
             "units": "5.00",
             "instructor": "Lizardi-Folley",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ]
