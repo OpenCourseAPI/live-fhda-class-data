@@ -8301,7 +8301,7 @@
             "course": "CHEM F001B04Z",
             "CRN": "40113",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "03:00 PM-04:15 PM",
             "start": "04/05/2021",
@@ -8310,7 +8310,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Katsir",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "10"
           },
@@ -8318,7 +8318,7 @@
             "course": "CHEM F001B04Z",
             "CRN": "40113",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -8327,7 +8327,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Katsir",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "10"
           }
@@ -12386,24 +12386,7 @@
       "402": {
         "41728": [
           {
-            "course": "EMS F402.01R",
-            "CRN": "41728",
-            "desc": "EMT: BASIC PART B NC",
-            "status": "Full",
-            "days": "T",
-            "time": "04:10 PM-09:30 PM",
-            "start": "04/27/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "0.00",
-            "instructor": "Huseman",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "EMS F402.01R",
+            "course": "EMS F402.01T",
             "CRN": "41728",
             "desc": "EMT: BASIC PART B NC",
             "status": "Full",
@@ -12412,6 +12395,23 @@
             "start": "04/27/2021",
             "end": "06/25/2021",
             "room": "SV104",
+            "campus": "FC",
+            "units": "0.00",
+            "instructor": "Huseman",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "EMS F402.01T",
+            "CRN": "41728",
+            "desc": "EMT: BASIC PART B NC",
+            "status": "Full",
+            "days": "T",
+            "time": "04:20 PM-09:30 PM",
+            "start": "04/27/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
             "campus": "FC",
             "units": "0.00",
             "instructor": "Huseman",
@@ -14044,7 +14044,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davis",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -22002,7 +22002,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rawal",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -22019,7 +22019,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rawal",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -22120,7 +22120,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Provost",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           }
