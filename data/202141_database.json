@@ -286,7 +286,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Benson",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6990,7 +6990,7 @@
             "course": "C S F001B02W",
             "CRN": "40482",
             "desc": "INTERM SOFTWARE DESIGN IN JAVA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -6999,7 +6999,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Meade",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "10"
           }
@@ -8825,7 +8825,7 @@
             "units": "5.00",
             "instructor": "Esfandiari",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -9949,7 +9949,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Freeman",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13901,6 +13901,23 @@
             "CRN": "40281",
             "desc": "PHYSICAL GEOGRAPHY",
             "status": "Open",
+            "days": "TTh",
+            "time": "01:00 PM-01:50 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Aguilar",
+            "seats": "15",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          },
+          {
+            "course": "GEOG F001.01Z",
+            "CRN": "40281",
+            "desc": "PHYSICAL GEOGRAPHY",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -13918,8 +13935,8 @@
             "CRN": "40281",
             "desc": "PHYSICAL GEOGRAPHY",
             "status": "Open",
-            "days": "TTh",
-            "time": "01:00 PM-01:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -14043,27 +14060,6 @@
             "units": "4.00",
             "instructor": "Davis",
             "seats": "24",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
-        ]
-      },
-      "10": {
-        "40533": [
-          {
-            "course": "GEOG F010.01W",
-            "CRN": "40533",
-            "desc": "WORLD REGIONAL GEOGRAPHY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Aguilar",
-            "seats": "36",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -17588,7 +17584,7 @@
             "units": "5.00",
             "instructor": "Nghiem",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -17723,7 +17719,7 @@
             "units": "5.00",
             "instructor": "Litrus",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -18491,7 +18487,7 @@
             "units": "5.00",
             "instructor": "Anderson",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -19947,7 +19943,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Sult",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23274,7 +23270,7 @@
             "units": "6.00",
             "instructor": "Low",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
@@ -23291,7 +23287,7 @@
             "units": "6.00",
             "instructor": "Low",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
@@ -23308,7 +23304,7 @@
             "units": "6.00",
             "instructor": "McCusker",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
