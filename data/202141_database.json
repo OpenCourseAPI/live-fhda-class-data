@@ -390,7 +390,7 @@
             "units": "5.00",
             "instructor": "Fakoor",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ]
@@ -641,7 +641,7 @@
             "course": "ACTG F065.01W",
             "CRN": "40020",
             "desc": "PAYROLL/BUSINESS TAX ACCOUNTIN",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -650,7 +650,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Negrete",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5231,7 +5231,7 @@
             "course": "BIOL F040A04Z",
             "CRN": "40046",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -5241,14 +5241,14 @@
             "units": "5.00",
             "instructor": "Folse",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "8"
           },
           {
             "course": "BIOL F040A04Z",
             "CRN": "40046",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "W",
             "time": "10:00 AM-11:50 AM",
             "start": "04/05/2021",
@@ -5258,7 +5258,7 @@
             "units": "5.00",
             "instructor": "Folse",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "8"
           }
         ],
@@ -7003,25 +7003,6 @@
             "wait_seats": "2",
             "wait_cap": "10"
           }
-        ],
-        "41224": [
-          {
-            "course": "C S F001B04W",
-            "CRN": "41224",
-            "desc": "INTERM SOFTWARE DESIGN IN JAVA",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Trinh",
-            "seats": "39",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
         ]
       },
       "1C": {
@@ -7360,8 +7341,8 @@
             "CRN": "41395",
             "desc": "ADV DATA STRUCT/ALGRTHM PYTHON",
             "status": "Open",
-            "days": "MW",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -7377,8 +7358,8 @@
             "CRN": "41395",
             "desc": "ADV DATA STRUCT/ALGRTHM PYTHON",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "01:30 PM-03:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -7591,7 +7572,7 @@
             "course": "C S F031A01W",
             "CRN": "40369",
             "desc": "INTRO DATABASE MGMT SYSTEMS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -7601,7 +7582,7 @@
             "units": "4.50",
             "instructor": "Ibrahim",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -21386,7 +21367,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Mac Neil",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "30",
             "wait_cap": "30"
           }
