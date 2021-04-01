@@ -4557,7 +4557,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Schultheis",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4574,7 +4574,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Schultheis",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5728,8 +5728,8 @@
             "units": "5.00",
             "instructor": "Schinske",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "8"
+            "wait_seats": "-4",
+            "wait_cap": "4"
           },
           {
             "course": "BIOL F040C01Z",
@@ -5745,8 +5745,8 @@
             "units": "5.00",
             "instructor": "Schinske",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "8"
+            "wait_seats": "-4",
+            "wait_cap": "4"
           },
           {
             "course": "BIOL F040C01Z",
@@ -5762,8 +5762,8 @@
             "units": "5.00",
             "instructor": "Schinske",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "8"
+            "wait_seats": "-4",
+            "wait_cap": "4"
           }
         ],
         "40370": [
@@ -5781,8 +5781,8 @@
             "units": "5.00",
             "instructor": "Schinske",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "8"
+            "wait_seats": "-4",
+            "wait_cap": "4"
           },
           {
             "course": "BIOL F040C02Z",
@@ -5798,8 +5798,8 @@
             "units": "5.00",
             "instructor": "Schinske",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "8"
+            "wait_seats": "-4",
+            "wait_cap": "4"
           }
         ],
         "41046": [
@@ -14610,7 +14610,7 @@
             "course": "HIST F003C01W",
             "CRN": "40801",
             "desc": "WORLD HIST 1750 CE TO PRESENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -14619,7 +14619,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Glickman",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -17555,7 +17555,7 @@
             "course": "MATH F001B01V",
             "CRN": "40094",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "10:00 AM-12:15 PM",
             "start": "04/05/2021",
@@ -17564,7 +17564,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nghiem",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
