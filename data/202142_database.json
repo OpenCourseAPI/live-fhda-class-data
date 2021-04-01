@@ -124,7 +124,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -141,7 +141,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6278,7 +6278,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bennett",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6295,7 +6295,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bennett",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7157,7 +7157,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Qian",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -7778,7 +7778,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Maleksalehi",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11408,7 +11408,7 @@
             "course": "CIS D040.02Z",
             "CRN": "44673",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -11417,15 +11417,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Whitehill",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D040.02Z",
             "CRN": "44673",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "03:30 PM-05:20 PM",
             "start": "04/05/2021",
@@ -11434,8 +11434,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Whitehill",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -11660,7 +11660,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Goel",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11677,7 +11677,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Goel",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11694,7 +11694,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Goel",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11779,7 +11779,7 @@
             "units": "5.00",
             "instructor": "Georgiou",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
@@ -13816,7 +13816,7 @@
             "course": "COMM D010.50Z",
             "CRN": "45523",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -13825,8 +13825,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Anderson",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -13835,7 +13835,7 @@
             "course": "COMM D010.51Z",
             "CRN": "45539",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -13844,8 +13844,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Capurso",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -23327,7 +23327,7 @@
             "course": "HTEC D064A50Z",
             "CRN": "44738",
             "desc": "CLINICAL LAB PROCEDURES I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -23336,8 +23336,8 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Miramontes",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -29003,7 +29003,7 @@
             "course": "MATH D001A11Z",
             "CRN": "46760",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWThF",
             "time": "11:30 AM-12:20 PM",
             "start": "04/05/2021",
@@ -29012,8 +29012,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gutierrez",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -30041,7 +30041,7 @@
             "course": "MATH D010.28Z",
             "CRN": "40979",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "04:00 PM-06:15 PM",
             "start": "04/05/2021",
@@ -30050,8 +30050,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Geraghty",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -31930,7 +31930,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dunn",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -38307,7 +38307,7 @@
             "course": "REST D051.64Z",
             "CRN": "46682",
             "desc": "REAL ESTATE PRACTICES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -38316,8 +38316,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sherby",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
