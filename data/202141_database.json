@@ -35,7 +35,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Polivka",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -601,7 +601,7 @@
             "course": "ACTG F064B02W",
             "CRN": "40349",
             "desc": "COMPUTERIZD ACTG PRAC:EXCEL",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -610,7 +610,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Glass",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6467,7 +6467,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Firenzi",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7133,7 +7133,7 @@
             "units": "4.50",
             "instructor": "Lamble",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -7539,7 +7539,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8641,7 +8641,7 @@
             "units": "5.00",
             "instructor": "Rotsides",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -8964,23 +8964,6 @@
             "CRN": "40689",
             "desc": "SURVEY OF ORGANIC/BIOCHEM",
             "status": "Open",
-            "days": "MW",
-            "time": "06:30 PM-08:20 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Wang",
-            "seats": "31",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "CHEM F030B02Z",
-            "CRN": "40689",
-            "desc": "SURVEY OF ORGANIC/BIOCHEM",
-            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -8988,7 +8971,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Wang",
+            "instructor": "Staff",
             "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -10193,7 +10176,7 @@
             "course": "COMM F001A05W",
             "CRN": "40253",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -10203,7 +10186,7 @@
             "units": "5.00",
             "instructor": "Mohammadi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -16768,6 +16751,25 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "41730": [
+          {
+            "course": "L A F061B3QV",
+            "CRN": "41730",
+            "desc": "TUTOR TRAINING II",
+            "status": "Full",
+            "days": "Th",
+            "time": "04:00 PM-05:05 PM",
+            "start": "04/12/2021",
+            "end": "06/11/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Menendez",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       }
     }
@@ -17185,7 +17187,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18034,7 +18036,7 @@
             "course": "MATH F010.04V",
             "CRN": "40291",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:30 PM-03:45 PM",
             "start": "04/05/2021",
@@ -18043,7 +18045,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Morriss",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18869,7 +18871,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tripp Caldwell",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19140,7 +19142,7 @@
             "course": "MDIA F030.01W",
             "CRN": "41408",
             "desc": "DIGITAL VIDEO EDITING I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -19149,7 +19151,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "10"
           }
@@ -20213,7 +20215,7 @@
             "course": "MUS F012C01V",
             "CRN": "41035",
             "desc": "ADVANCED CLASS PIANO",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "M",
             "time": "10:00 AM-11:50 AM",
             "start": "04/05/2021",
@@ -20222,7 +20224,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20230,7 +20232,7 @@
             "course": "MUS F012C01V",
             "CRN": "41035",
             "desc": "ADVANCED CLASS PIANO",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "10:00 AM-10:50 AM",
             "start": "04/05/2021",
@@ -20239,7 +20241,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20247,7 +20249,7 @@
             "course": "MUS F012C01V",
             "CRN": "41035",
             "desc": "ADVANCED CLASS PIANO",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "10:00 AM-10:50 AM",
             "start": "04/05/2021",
@@ -20256,7 +20258,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20739,7 +20741,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Mason",
-            "seats": "8",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -24146,7 +24148,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24186,7 +24188,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stefonik",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24333,7 +24335,7 @@
             "course": "PSYC F014.01W",
             "CRN": "40241",
             "desc": "CHILD & ADOLESCENT DEVLPMT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -24342,7 +24344,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Villanueva",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -26368,25 +26370,6 @@
             "instructor": "Crespo-Martin",
             "seats": "0",
             "wait_seats": "20",
-            "wait_cap": "25"
-          }
-        ],
-        "41522": [
-          {
-            "course": "SPAN F003.02W",
-            "CRN": "41522",
-            "desc": "ELEMENTARY SPANISH III",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Crespo-Martin",
-            "seats": "0",
-            "wait_seats": "22",
             "wait_cap": "25"
           }
         ]
