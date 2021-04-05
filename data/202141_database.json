@@ -54,7 +54,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -338,7 +338,7 @@
             "course": "ACTG F051C01W",
             "CRN": "40276",
             "desc": "INTERMEDIATE ACCOUNTING III",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -347,8 +347,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ardizzone",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -2921,7 +2921,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Connell",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2952,7 +2952,7 @@
             "course": "ANTH F001H1HW",
             "CRN": "40362",
             "desc": "HONORS INTRO PHYSICAL ANTHROP",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -2961,7 +2961,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Wolf",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3195,7 +3195,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Wolf",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3896,7 +3896,7 @@
             "course": "ASTR F010B1QV",
             "CRN": "40132",
             "desc": "GEN ASTRONOMY:STARS, GALXIES,",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:00 PM-03:15 PM",
             "start": "04/05/2021",
@@ -3905,8 +3905,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mathews",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -3945,7 +3945,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Mathews",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4402,7 +4402,7 @@
             "course": "BIOL F001A01V",
             "CRN": "40001",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:00 PM-01:50 PM",
             "start": "04/05/2021",
@@ -4411,15 +4411,15 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Erickson",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "10"
           },
           {
             "course": "BIOL F001A01V",
             "CRN": "40001",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "10:00 AM-12:50 PM",
             "start": "04/05/2021",
@@ -4428,8 +4428,8 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Erickson",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -7561,7 +7561,7 @@
             "units": "4.50",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -9955,25 +9955,6 @@
             "wait_seats": "15",
             "wait_cap": "15"
           }
-        ],
-        "41082": [
-          {
-            "course": "CNSL F008HHUV",
-            "CRN": "41082",
-            "desc": "HONORS TRANSFER READINESS",
-            "status": "Open",
-            "days": "MW",
-            "time": "01:00 PM-01:50 PM",
-            "start": "04/05/2021",
-            "end": "05/16/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Cunningham",
-            "seats": "10",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
         ]
       },
       "72": {
@@ -11756,7 +11737,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sandhu",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -11773,7 +11754,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sandhu",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -13324,7 +13305,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Chan",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -15393,7 +15374,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Dargahi",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16001,7 +15982,7 @@
             "units": "5.00",
             "instructor": "Yasutake",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "17",
             "wait_cap": "25"
           }
         ],
@@ -17839,7 +17820,7 @@
             "units": "5.00",
             "instructor": "Florero Salinas",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -18361,7 +18342,7 @@
             "course": "MATH F022.03W",
             "CRN": "41657",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -18370,7 +18351,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Witschorik",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           }
@@ -18708,7 +18689,7 @@
             "units": "5.00",
             "instructor": "Papay",
             "seats": "1",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -20008,7 +19989,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20025,7 +20006,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20042,7 +20023,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20061,7 +20042,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20078,7 +20059,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20095,7 +20076,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20548,7 +20529,7 @@
             "units": "0.00",
             "instructor": "Sarver",
             "seats": "1",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "25"
           }
         ]
@@ -20628,7 +20609,7 @@
             "units": "0.00",
             "instructor": "McCormick",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "15",
             "wait_cap": "20"
           },
           {
@@ -20645,7 +20626,7 @@
             "units": "0.00",
             "instructor": "McCormick",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "15",
             "wait_cap": "20"
           }
         ]
@@ -20694,7 +20675,7 @@
             "course": "NCEL F437.1QZ",
             "CRN": "41485",
             "desc": "BASIC COMPOSITION SKILLS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "08:00 AM-09:25 AM",
             "start": "04/05/2021",
@@ -20703,15 +20684,15 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Wiley",
-            "seats": "1",
-            "wait_seats": "12",
+            "seats": "0",
+            "wait_seats": "13",
             "wait_cap": "20"
           },
           {
             "course": "NCEL F437.1QZ",
             "CRN": "41485",
             "desc": "BASIC COMPOSITION SKILLS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -20720,8 +20701,8 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Wiley",
-            "seats": "1",
-            "wait_seats": "12",
+            "seats": "0",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ]
@@ -21879,7 +21860,7 @@
             "units": "5.00",
             "instructor": "Chang",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "19",
             "wait_cap": "20"
           }
         ]
@@ -23090,7 +23071,7 @@
             "units": "6.00",
             "instructor": "Lau",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -23107,7 +23088,7 @@
             "units": "6.00",
             "instructor": "Parikh",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -23118,7 +23099,7 @@
             "course": "PHYS F004B01V",
             "CRN": "40128",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "M",
             "time": "12:00 PM-02:50 PM",
             "start": "04/05/2021",
@@ -23128,14 +23109,14 @@
             "units": "6.00",
             "instructor": "Cascarano",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
             "course": "PHYS F004B01V",
             "CRN": "40128",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "10:00 AM-11:50 AM",
             "start": "04/05/2021",
@@ -23145,14 +23126,14 @@
             "units": "6.00",
             "instructor": "Cascarano",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
             "course": "PHYS F004B01V",
             "CRN": "40128",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "F",
             "time": "10:00 AM-10:50 AM",
             "start": "04/05/2021",
@@ -23162,7 +23143,7 @@
             "units": "6.00",
             "instructor": "Cascarano",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -23792,7 +23773,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Woolcock",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23999,7 +23980,7 @@
             "units": "5.00",
             "instructor": "Petcu",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "19",
             "wait_cap": "20"
           },
           {
@@ -24016,7 +23997,7 @@
             "units": "5.00",
             "instructor": "Petcu",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "19",
             "wait_cap": "20"
           }
         ],
