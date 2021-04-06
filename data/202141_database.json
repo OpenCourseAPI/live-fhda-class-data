@@ -1269,14 +1269,33 @@
             "wait_cap": "0"
           }
         ],
+        "41734": [
+          {
+            "course": "ALCB F408Y02V",
+            "CRN": "41734",
+            "desc": "ART APPRECIATION",
+            "status": "Open",
+            "days": "M",
+            "time": "03:00 PM-04:50 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "Shintani",
+            "seats": "35",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "41586": [
           {
             "course": "ALCB F408Y02Z",
             "CRN": "41586",
             "desc": "ART APPRECIATION",
             "status": "Open",
-            "days": "W",
-            "time": "11:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -1292,8 +1311,8 @@
             "CRN": "41586",
             "desc": "ART APPRECIATION",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "11:00 AM-11:50 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -1881,8 +1900,8 @@
             "CRN": "41532",
             "desc": "AROUND THE WORLD IN TRAVEL STU",
             "status": "Open",
-            "days": "F",
-            "time": "11:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -1898,8 +1917,8 @@
             "CRN": "41532",
             "desc": "AROUND THE WORLD IN TRAVEL STU",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "F",
+            "time": "11:00 AM-11:50 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -1917,12 +1936,12 @@
             "CRN": "41531",
             "desc": "AROUND THE WORLD IN TRAVEL STU",
             "status": "Open",
-            "days": "Th",
-            "time": "11:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FO",
+            "room": "",
+            "campus": "",
             "units": "0.00",
             "instructor": "Fillin",
             "seats": "18",
@@ -1934,12 +1953,12 @@
             "CRN": "41531",
             "desc": "AROUND THE WORLD IN TRAVEL STU",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "11:00 AM-11:50 AM",
             "start": "04/05/2021",
             "end": "06/25/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FO",
             "units": "0.00",
             "instructor": "Fillin",
             "seats": "18",
@@ -2496,25 +2515,6 @@
             "units": "0.00",
             "instructor": "Shintani",
             "seats": "10",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "41686": [
-          {
-            "course": "ALCB F465Y06V",
-            "CRN": "41686",
-            "desc": "CREATIVE SELF EXPRESSION",
-            "status": "Open",
-            "days": "M",
-            "time": "03:00 PM-04:50 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Shintani",
-            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -3121,7 +3121,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Connell",
-            "seats": "22",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7665,7 +7665,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ryan",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7682,7 +7682,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ryan",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8064,7 +8064,7 @@
             "course": "CHEM F001A05Z",
             "CRN": "40837",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:00 PM-01:15 PM",
             "start": "04/05/2021",
@@ -8073,7 +8073,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ermut",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8081,7 +8081,7 @@
             "course": "CHEM F001A05Z",
             "CRN": "40837",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -8090,7 +8090,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salehi",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9175,21 +9175,21 @@
             "wait_cap": "20"
           }
         ],
-        "40693": [
+        "41733": [
           {
-            "course": "CHLD F002.02W",
-            "CRN": "40693",
+            "course": "CHLD F002.03W",
+            "CRN": "41733",
             "desc": "CHLD DEVL II:MIDDLE TO ADOLESC",
             "status": "Open",
             "days": "TBA",
             "time": "TBA",
-            "start": "04/05/2021",
+            "start": "05/17/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
-            "campus": "FC",
+            "campus": "FH",
             "units": "4.00",
             "instructor": "Rentschler",
-            "seats": "39",
+            "seats": "50",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -12592,7 +12592,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Starer",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13086,7 +13086,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Menendez",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -20516,7 +20516,7 @@
             "units": "0.00",
             "instructor": "McCormick",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "17",
             "wait_cap": "20"
           },
           {
@@ -20533,7 +20533,7 @@
             "units": "0.00",
             "instructor": "McCormick",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ]
@@ -20734,7 +20734,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Menendez",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -21808,7 +21808,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tapia",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -22355,7 +22355,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Natarajan",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -22372,7 +22372,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Natarajan",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -22389,7 +22389,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Natarajan",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -22406,7 +22406,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Natarajan",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -22423,7 +22423,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Natarajan",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
