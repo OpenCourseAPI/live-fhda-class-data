@@ -3290,7 +3290,7 @@
             "units": "5.00",
             "instructor": "Mastrapa",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "6"
           },
           {
@@ -3307,7 +3307,7 @@
             "units": "5.00",
             "instructor": "Mastrapa",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -14059,7 +14059,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Fu",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -14076,7 +14076,7 @@
             "campus": "",
             "units": "1.00",
             "instructor": "Fu",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -35568,7 +35568,7 @@
             "course": "PHYS D004B03Z",
             "CRN": "47498",
             "desc": "PHYS SCIEN/ENG:ELCTRCTY/MAGNET",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWThF",
             "time": "01:30 PM-02:20 PM",
             "start": "04/05/2021",
@@ -35577,15 +35577,15 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Ho",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "PHYS D004B03Z",
             "CRN": "47498",
             "desc": "PHYS SCIEN/ENG:ELCTRCTY/MAGNET",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "02:30 PM-05:20 PM",
             "start": "04/05/2021",
@@ -35594,8 +35594,8 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Ho",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
