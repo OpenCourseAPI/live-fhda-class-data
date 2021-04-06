@@ -3833,7 +3833,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mathews",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "10"
           }
@@ -4311,7 +4311,7 @@
             "room": "TCOURT",
             "campus": "FH",
             "units": "2.00",
-            "instructor": "Staff",
+            "instructor": "Macias",
             "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -6555,7 +6555,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Mancuso",
-            "seats": "11",
+            "seats": "8",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7853,8 +7853,8 @@
             "CRN": "40109",
             "desc": "GENERAL CHEMISTRY",
             "status": "Waitlist",
-            "days": "T",
-            "time": "02:00 PM-03:50 PM",
+            "days": "TTh",
+            "time": "12:00 PM-01:15 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -7870,8 +7870,8 @@
             "CRN": "40109",
             "desc": "GENERAL CHEMISTRY",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "12:00 PM-01:15 PM",
+            "days": "T",
+            "time": "02:00 PM-03:50 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8029,8 +8029,8 @@
             "CRN": "40836",
             "desc": "GENERAL CHEMISTRY",
             "status": "Open",
-            "days": "MW",
-            "time": "03:30 PM-05:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8046,8 +8046,8 @@
             "CRN": "40836",
             "desc": "GENERAL CHEMISTRY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "03:30 PM-05:20 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8691,8 +8691,8 @@
             "CRN": "40687",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
             "status": "Open",
-            "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8708,8 +8708,8 @@
             "CRN": "40687",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "12:00 PM-01:50 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -8901,25 +8901,6 @@
             "units": "5.00",
             "instructor": "Wang",
             "seats": "3",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "40689": [
-          {
-            "course": "CHEM F030B02Z",
-            "CRN": "40689",
-            "desc": "SURVEY OF ORGANIC/BIOCHEM",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Staff",
-            "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9425,7 +9406,7 @@
             "campus": "FC",
             "units": "1.00",
             "instructor": "Rollinger",
-            "seats": "22",
+            "seats": "23",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -9442,7 +9423,7 @@
             "campus": "FC",
             "units": "1.00",
             "instructor": "Rollinger",
-            "seats": "22",
+            "seats": "23",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -12657,7 +12638,7 @@
             "course": "ENGL F001A3CW",
             "CRN": "40976",
             "desc": "COMPOSITION & READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -12666,7 +12647,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sperry",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -18104,7 +18085,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sinclair",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20723,7 +20704,7 @@
             "course": "NCEN F401A3CV",
             "CRN": "41450",
             "desc": "BRIDGE TO TRANSFER ENGLISH",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "01:00 PM-02:50 PM",
             "start": "04/05/2021",
@@ -20732,7 +20713,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Sperry",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -21087,7 +21068,7 @@
             "campus": "FO",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -21934,7 +21915,7 @@
             "course": "PHIL F008.01W",
             "CRN": "40273",
             "desc": "ETHICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -21943,7 +21924,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tapia",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23285,7 +23266,7 @@
             "units": "6.00",
             "instructor": "Low",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -23302,7 +23283,7 @@
             "units": "6.00",
             "instructor": "Low",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -23858,7 +23839,7 @@
             "course": "PSYC F001.01W",
             "CRN": "40066",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -23867,7 +23848,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -26048,7 +26029,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Roberts",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "20",
             "wait_cap": "20"
           }
