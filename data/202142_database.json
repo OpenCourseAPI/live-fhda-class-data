@@ -1777,7 +1777,7 @@
             "course": "ANTH D001L53Z",
             "CRN": "42243",
             "desc": "PHYS ANTHRO LAB",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -1787,7 +1787,7 @@
             "units": "1.00",
             "instructor": "Solomon",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ],
@@ -1864,7 +1864,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hedges",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -3361,7 +3361,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cody",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -3378,7 +3378,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cody",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -9726,7 +9726,7 @@
             "units": "4.50",
             "instructor": "Georgiou",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "15"
           },
           {
@@ -9743,7 +9743,7 @@
             "units": "4.50",
             "instructor": "Georgiou",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ],
@@ -11258,7 +11258,7 @@
             "course": "CIS D040.01Z",
             "CRN": "44500",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -11268,14 +11268,14 @@
             "units": "4.50",
             "instructor": "Gupta",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "CIS D040.01Z",
             "CRN": "44500",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "W",
             "time": "09:30 AM-10:20 AM",
             "start": "04/05/2021",
@@ -11285,7 +11285,7 @@
             "units": "4.50",
             "instructor": "Gupta",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -12709,7 +12709,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Isacson",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -12726,7 +12726,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Isacson",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -18782,8 +18782,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wilson",
-            "seats": "2",
-            "wait_seats": "1",
+            "seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
@@ -18799,8 +18799,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wilson",
-            "seats": "2",
-            "wait_seats": "1",
+            "seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -19429,7 +19429,7 @@
             "course": "EWRT D001A52Z",
             "CRN": "00767",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -19438,7 +19438,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Giardino",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "5"
           }
@@ -20254,7 +20254,7 @@
             "course": "EWRT D002.17Z",
             "CRN": "41360",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -20263,15 +20263,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Caparas",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "5"
           },
           {
             "course": "EWRT D002.17Z",
             "CRN": "41360",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "01:30 PM-03:20 PM",
             "start": "04/05/2021",
@@ -20280,8 +20280,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Caparas",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -22626,8 +22626,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nguyen",
-            "seats": "7",
-            "wait_seats": "2",
+            "seats": "6",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ]
@@ -25565,7 +25565,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Choi",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -27983,7 +27983,7 @@
             "units": "5.00",
             "instructor": "Kim",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "7"
           }
         ],
@@ -28093,8 +28093,8 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Wilson",
-            "seats": "2",
-            "wait_seats": "1",
+            "seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -29058,8 +29058,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gutierrez",
-            "seats": "2",
-            "wait_seats": "1",
+            "seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -29570,7 +29570,7 @@
             "course": "MATH D002B09Z",
             "CRN": "45430",
             "desc": "LINEAR ALGEBRA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWThF",
             "time": "11:30 AM-12:20 PM",
             "start": "04/05/2021",
@@ -29579,8 +29579,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Khosravi",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -29790,7 +29790,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Geraghty",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31138,7 +31138,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shariatmadari",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33532,7 +33532,7 @@
             "course": "NUTR D062.01Z",
             "CRN": "47228",
             "desc": "NUTRN & ATHLTC PRFRMNCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "09:30 AM-11:20 AM",
             "start": "04/05/2021",
@@ -33541,7 +33541,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Acker",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -34650,7 +34650,7 @@
             "course": "PHIL D003.50Z",
             "CRN": "01700",
             "desc": "CRIT THINKNG & WRITNG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -34659,7 +34659,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Baiamonte",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "3",
             "wait_cap": "5"
           }
