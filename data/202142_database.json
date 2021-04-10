@@ -1687,7 +1687,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hui",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -4767,7 +4767,7 @@
             "units": "5.00",
             "instructor": "Mcpartlan",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "10"
           },
           {
@@ -4784,7 +4784,7 @@
             "units": "5.00",
             "instructor": "Mcpartlan",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -17663,8 +17663,8 @@
             "CRN": "00650",
             "desc": "ESL:ADV COMP/READNG",
             "status": "Open",
-            "days": "W",
-            "time": "06:30 PM-08:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -17682,6 +17682,40 @@
             "status": "Open",
             "days": "TBA",
             "time": "TBA",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Haven",
+            "seats": "4",
+            "wait_seats": "6",
+            "wait_cap": "6"
+          },
+          {
+            "course": "ESL D005.02Z",
+            "CRN": "00650",
+            "desc": "ESL:ADV COMP/READNG",
+            "status": "Open",
+            "days": "W",
+            "time": "06:30 PM-08:45 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Haven",
+            "seats": "4",
+            "wait_seats": "6",
+            "wait_cap": "6"
+          },
+          {
+            "course": "ESL D005.02Z",
+            "CRN": "00650",
+            "desc": "ESL:ADV COMP/READNG",
+            "status": "Open",
+            "days": "W",
+            "time": "06:30 PM-08:45 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -18004,6 +18038,23 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lam",
+            "seats": "16",
+            "wait_seats": "6",
+            "wait_cap": "6"
+          },
+          {
+            "course": "ESL D253.04Z",
+            "CRN": "46747",
+            "desc": "HIGH INTERM. GRAMM/WRITG",
+            "status": "Open",
+            "days": "TTh",
+            "time": "04:30 PM-06:20 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Hamilton",
             "seats": "16",
             "wait_seats": "6",
             "wait_cap": "6"
@@ -18389,6 +18440,23 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
+            "instructor": "Barasch-Kane",
+            "seats": "12",
+            "wait_seats": "6",
+            "wait_cap": "6"
+          },
+          {
+            "course": "ESL D272.02Z",
+            "CRN": "44924",
+            "desc": "ADV READNG & VOCAB",
+            "status": "Open",
+            "days": "TTh",
+            "time": "01:30 PM-03:45 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
             "instructor": "Lam",
             "seats": "12",
             "wait_seats": "6",
@@ -18396,23 +18464,6 @@
           }
         ],
         "00722": [
-          {
-            "course": "ESL D272.03Z",
-            "CRN": "00722",
-            "desc": "ADV READNG & VOCAB",
-            "status": "Waitlist",
-            "days": "M",
-            "time": "04:00 PM-06:15 PM",
-            "start": "04/05/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Marin",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          },
           {
             "course": "ESL D272.03Z",
             "CRN": "00722",
@@ -18429,6 +18480,23 @@
             "seats": "0",
             "wait_seats": "5",
             "wait_cap": "6"
+          },
+          {
+            "course": "ESL D272.03Z",
+            "CRN": "00722",
+            "desc": "ADV READNG & VOCAB",
+            "status": "Waitlist",
+            "days": "M",
+            "time": "04:00 PM-06:15 PM",
+            "start": "04/05/2021",
+            "end": "06/25/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Marin",
+            "seats": "0",
+            "wait_seats": "5",
+            "wait_cap": "6"
           }
         ],
         "00723": [
@@ -18437,8 +18505,8 @@
             "CRN": "00723",
             "desc": "ADV READNG & VOCAB",
             "status": "Open",
-            "days": "M",
-            "time": "10:00 AM-12:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -18454,8 +18522,8 @@
             "CRN": "00723",
             "desc": "ADV READNG & VOCAB",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "10:00 AM-12:15 PM",
             "start": "04/05/2021",
             "end": "06/25/2021",
             "room": "ONLINE",
@@ -19548,7 +19616,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cudahy",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "5"
           }
@@ -22162,7 +22230,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Jackman",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22383,7 +22451,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nguyen",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "4",
             "wait_cap": "5"
           }
@@ -22573,7 +22641,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "4",
             "wait_cap": "5"
           }
@@ -22592,7 +22660,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nguyen",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23669,7 +23737,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Milano",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24799,7 +24867,7 @@
             "course": "HUMI D001.54Z",
             "CRN": "46585",
             "desc": "CREATIVE MINDS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -24808,7 +24876,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Berney",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "13",
             "wait_cap": "15"
           }
@@ -25322,7 +25390,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Choi",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -25518,7 +25586,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lewis",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -33413,7 +33481,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Mattis",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -35763,7 +35831,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -36968,7 +37036,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Firpo",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "8",
             "wait_cap": "8"
           }
