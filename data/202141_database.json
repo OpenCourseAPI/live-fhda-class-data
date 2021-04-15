@@ -16330,25 +16330,6 @@
   "LA": {
     "1": {
       "61A": {
-        "41651": [
-          {
-            "course": "L A F061A2QV",
-            "CRN": "41651",
-            "desc": "TUTOR TRAINING I",
-            "status": "Full",
-            "days": "Th",
-            "time": "01:00 PM-02:05 PM",
-            "start": "04/12/2021",
-            "end": "06/11/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Menendez",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "41737": [
           {
             "course": "L A F061A3QV",
@@ -16370,25 +16351,6 @@
         ]
       },
       "61B": {
-        "41652": [
-          {
-            "course": "L A F061B2QV",
-            "CRN": "41652",
-            "desc": "TUTOR TRAINING II",
-            "status": "Open",
-            "days": "Th",
-            "time": "01:00 PM-02:05 PM",
-            "start": "04/12/2021",
-            "end": "06/11/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Menendez",
-            "seats": "10",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "41730": [
           {
             "course": "L A F061B3QV",
@@ -17163,7 +17125,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nghiem",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23229,50 +23191,7 @@
     }
   },
   "PSE": {
-    "1": {
-      "61A": {
-        "41621": [
-          {
-            "course": "PSE F061A03V",
-            "CRN": "41621",
-            "desc": "TUTOR TRAINING I",
-            "status": "Full",
-            "days": "Th",
-            "time": "12:15 PM-01:20 PM",
-            "start": "04/12/2021",
-            "end": "06/11/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Gray",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "61B": {
-        "41624": [
-          {
-            "course": "PSE F061B03V",
-            "CRN": "41624",
-            "desc": "TUTOR TRAINING II",
-            "status": "Open",
-            "days": "Th",
-            "time": "12:15 PM-01:20 PM",
-            "start": "04/12/2021",
-            "end": "06/11/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Gray",
-            "seats": "8",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "PSYC": {
     "1": {
