@@ -6142,7 +6142,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Lew",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7304,7 +7304,7 @@
             "course": "C S F030A01W",
             "CRN": "40321",
             "desc": "INTRODUCTION TO LINUX",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "04/05/2021",
@@ -7313,7 +7313,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20483,6 +20483,42 @@
         ]
       },
       "402A": {
+        "41476": [
+          {
+            "course": "NCP F402A02V",
+            "CRN": "41476",
+            "desc": "FAMLY IN LIVES CHLD I:ERLY YRS",
+            "status": "Open",
+            "days": "W",
+            "time": "06:00 PM-07:50 PM",
+            "start": "04/14/2021",
+            "end": "05/12/2021",
+            "room": "ONLINE",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Galas",
+            "seats": "34",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "NCP F402A02V",
+            "CRN": "41476",
+            "desc": "FAMLY IN LIVES CHLD I:ERLY YRS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "04/14/2021",
+            "end": "05/12/2021",
+            "room": "",
+            "campus": "",
+            "units": "0.00",
+            "instructor": "Galas",
+            "seats": "34",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ],
         "41477": [
           {
             "course": "NCP F402A03V",
