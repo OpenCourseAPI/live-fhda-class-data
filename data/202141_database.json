@@ -509,7 +509,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -999,50 +999,7 @@
     }
   },
   "LA": {
-    "1": {
-      "61A": {
-        "41737": [
-          {
-            "course": "L A F061A3QV",
-            "CRN": "41737",
-            "desc": "TUTOR TRAINING I",
-            "status": "Full",
-            "days": "Th",
-            "time": "04:00 PM-05:05 PM",
-            "start": "04/12/2021",
-            "end": "06/11/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Menendez",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "61B": {
-        "41730": [
-          {
-            "course": "L A F061B3QV",
-            "CRN": "41730",
-            "desc": "TUTOR TRAINING II",
-            "status": "Full",
-            "days": "Th",
-            "time": "04:00 PM-05:05 PM",
-            "start": "04/12/2021",
-            "end": "06/11/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Menendez",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "LIBR": {
     "1": {}
@@ -1529,25 +1486,6 @@
   "NCP": {
     "1": {
       "400C": {
-        "41471": [
-          {
-            "course": "NCP F400C02V",
-            "CRN": "41471",
-            "desc": "STRONG START CHLD III:PATH COL",
-            "status": "Open",
-            "days": "Th",
-            "time": "06:00 PM-07:50 PM",
-            "start": "04/22/2021",
-            "end": "05/13/2021",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Vas Conde",
-            "seats": "35",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "41472": [
           {
             "course": "NCP F400C03V",
@@ -1584,25 +1522,6 @@
             "units": "0.00",
             "instructor": "Galas",
             "seats": "34",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "41477": [
-          {
-            "course": "NCP F402A03V",
-            "CRN": "41477",
-            "desc": "FAMLY IN LIVES CHLD I:ERLY YRS",
-            "status": "Open",
-            "days": "Th",
-            "time": "06:00 PM-07:50 PM",
-            "start": "04/22/2021",
-            "end": "05/13/2021",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Galas",
-            "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2122,42 +2041,6 @@
             "seats": "34",
             "wait_seats": "5",
             "wait_cap": "5"
-          }
-        ],
-        "41699": [
-          {
-            "course": "V T F051.1DR",
-            "CRN": "41699",
-            "desc": "INTRO TO VET TECH",
-            "status": "Open",
-            "days": "MTTh",
-            "time": "07:30 AM-08:20 AM",
-            "start": "04/19/2021",
-            "end": "06/02/2021",
-            "room": "SVCTE",
-            "campus": "FO",
-            "units": "2.00",
-            "instructor": "Belaski",
-            "seats": "9",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "V T F051.1DR",
-            "CRN": "41699",
-            "desc": "INTRO TO VET TECH",
-            "status": "Open",
-            "days": "W",
-            "time": "07:30 AM-08:20 AM",
-            "start": "04/19/2021",
-            "end": "06/02/2021",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "2.00",
-            "instructor": "Belaski",
-            "seats": "9",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ]
       }
