@@ -567,7 +567,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Verissimo Ira",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -752,7 +752,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Harvey",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -948,7 +948,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Macias",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2007,29 +2007,7 @@
     }
   },
   "VT": {
-    "1": {
-      "51": {
-        "41738": [
-          {
-            "course": "V T F051.02W",
-            "CRN": "41738",
-            "desc": "INTRO TO VET TECH",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/19/2021",
-            "end": "06/02/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Hoeven",
-            "seats": "32",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "WMN": {
     "1": {}
