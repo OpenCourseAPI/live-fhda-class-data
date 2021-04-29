@@ -672,7 +672,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "da Silva",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -796,27 +796,6 @@
             "units": "4.00",
             "instructor": "Bush",
             "seats": "33",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
-        ]
-      },
-      "4C": {
-        "41729": [
-          {
-            "course": "HIST F004C02W",
-            "CRN": "41729",
-            "desc": "HISTORY OF WEST CIV 1789-PRES",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/19/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Standish",
-            "seats": "29",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -1963,29 +1942,7 @@
     }
   },
   "THTR": {
-    "1": {
-      "8": {
-        "41596": [
-          {
-            "course": "THTR F008.01W",
-            "CRN": "41596",
-            "desc": "MULTICULT THEATRE ARTS IN MOD",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/19/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Mc Leod",
-            "seats": "22",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "VT": {
     "1": {}
