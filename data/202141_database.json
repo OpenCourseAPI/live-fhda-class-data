@@ -16,7 +16,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mayer",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -459,7 +459,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Bertani",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -576,63 +576,7 @@
     }
   },
   "EMS": {
-    "1": {
-      "402": {
-        "41728": [
-          {
-            "course": "EMS F402.01T",
-            "CRN": "41728",
-            "desc": "EMT: BASIC PART B NC",
-            "status": "Open",
-            "days": "T",
-            "time": "04:20 PM-09:30 PM",
-            "start": "04/27/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "0.00",
-            "instructor": "Huseman",
-            "seats": "10",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "EMS F402.01T",
-            "CRN": "41728",
-            "desc": "EMT: BASIC PART B NC",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "04/27/2021",
-            "end": "06/25/2021",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Huseman",
-            "seats": "10",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "EMS F402.01T",
-            "CRN": "41728",
-            "desc": "EMT: BASIC PART B NC",
-            "status": "Open",
-            "days": "Th",
-            "time": "04:20 PM-09:30 PM",
-            "start": "04/27/2021",
-            "end": "06/25/2021",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "0.00",
-            "instructor": "Huseman",
-            "seats": "10",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "ENGL": {
     "1": {
