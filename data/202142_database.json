@@ -783,7 +783,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Deck",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -1331,29 +1331,7 @@
     }
   },
   "NUTR": {
-    "1": {
-      "10": {
-        "47404": [
-          {
-            "course": "NUTR D010.50Z",
-            "CRN": "47404",
-            "desc": "CONTEMP NUTRITION",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "05/03/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Campbell",
-            "seats": "0",
-            "wait_seats": "8",
-            "wait_cap": "10"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "PE": {
     "1": {}
