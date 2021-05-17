@@ -19,48 +19,6 @@
   },
   "AUTO": {
     "1": {
-      "60E": {
-        "45923": [
-          {
-            "course": "AUTO D060E44Z",
-            "CRN": "45923",
-            "desc": "AUTO FUEL INJECTION",
-            "status": "Waitlist",
-            "days": "MW",
-            "time": "06:00 PM-10:15 PM",
-            "start": "05/17/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Silva",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "69Y": {
-        "46076": [
-          {
-            "course": "AUTO D069Y40Z",
-            "CRN": "46076",
-            "desc": "SMOG CHECK UPDATE",
-            "status": "Open",
-            "days": "MW",
-            "time": "12:30 PM-01:45 PM",
-            "start": "05/17/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.50",
-            "instructor": "Vernazza",
-            "seats": "3",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "93E": {
         "44848": [
           {
@@ -172,27 +130,6 @@
             "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
-          }
-        ]
-      },
-      "360E": {
-        "47133": [
-          {
-            "course": "AUTO D360E44Z",
-            "CRN": "47133",
-            "desc": "AUTO FUEL INJECTION",
-            "status": "Open",
-            "days": "MW",
-            "time": "06:00 PM-10:15 PM",
-            "start": "05/17/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.00",
-            "instructor": "Silva",
-            "seats": "1",
-            "wait_seats": "5",
-            "wait_cap": "5"
           }
         ]
       }
@@ -315,61 +252,6 @@
             "instructor": "Lam",
             "seats": "0",
             "wait_seats": "0",
-            "wait_cap": "15"
-          }
-        ]
-      },
-      "18C": {
-        "47186": [
-          {
-            "course": "CIS D018C01Z",
-            "CRN": "47186",
-            "desc": "BASH SCRIPTING",
-            "status": "Open",
-            "days": "MW",
-            "time": "09:30 AM-10:20 AM",
-            "start": "05/17/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Nguyen",
-            "seats": "2",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D018C01Z",
-            "CRN": "47186",
-            "desc": "BASH SCRIPTING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "05/17/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Nguyen",
-            "seats": "2",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D018C01Z",
-            "CRN": "47186",
-            "desc": "BASH SCRIPTING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "05/17/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Nguyen",
-            "seats": "2",
-            "wait_seats": "15",
             "wait_cap": "15"
           }
         ]
@@ -860,7 +742,7 @@
             "course": "KNES D045.65Z",
             "CRN": "45107",
             "desc": "INTRO TO KINESIOLOGY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "05/17/2021",
@@ -869,7 +751,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Owiesny",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "8"
           }
@@ -1162,27 +1044,6 @@
           }
         ]
       },
-      "93L": {
-        "47253": [
-          {
-            "course": "NURS D093L02F",
-            "CRN": "47253",
-            "desc": "REPRO HEALTH NURS CLINICAL",
-            "status": "Full",
-            "days": "MT",
-            "time": "02:30 PM-09:00 PM",
-            "start": "05/17/2021",
-            "end": "06/25/2021",
-            "room": "HOSP",
-            "campus": "DO",
-            "units": "2.00",
-            "instructor": "Miller",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "94": {
         "47409": [
           {
@@ -1219,27 +1080,6 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Gifford",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "94L": {
-        "47352": [
-          {
-            "course": "NURS D094L02F",
-            "CRN": "47352",
-            "desc": "GERONTOLOGY NURSING CLINICAL",
-            "status": "Full",
-            "days": "MT",
-            "time": "06:30 AM-01:25 PM",
-            "start": "05/17/2021",
-            "end": "06/25/2021",
-            "room": "HOSP",
-            "campus": "DO",
-            "units": "2.00",
-            "instructor": "Valadez",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -1286,27 +1126,6 @@
           }
         ]
       },
-      "93AL": {
-        "47539": [
-          {
-            "course": "NURS D93AL03F",
-            "CRN": "47539",
-            "desc": "PEDIATRIC NURSING CLINICAL",
-            "status": "Open",
-            "days": "MT",
-            "time": "06:00 AM-12:30 PM",
-            "start": "05/17/2021",
-            "end": "06/25/2021",
-            "room": "HOSP",
-            "campus": "DO",
-            "units": "2.00",
-            "instructor": "Marinas",
-            "seats": "1",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "94AL": {
         "47355": [
           {
@@ -1337,46 +1156,7 @@
     "1": {}
   },
   "PARA": {
-    "1": {
-      "88": {
-        "47110": [
-          {
-            "course": "PARA D088.01Z",
-            "CRN": "47110",
-            "desc": "PARALGL & PROF RESPONSIBLTY",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "05/17/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Mills",
-            "seats": "0",
-            "wait_seats": "14",
-            "wait_cap": "15"
-          },
-          {
-            "course": "PARA D088.01Z",
-            "CRN": "47110",
-            "desc": "PARALGL & PROF RESPONSIBLTY",
-            "status": "Waitlist",
-            "days": "M",
-            "time": "06:00 PM-07:50 PM",
-            "start": "05/17/2021",
-            "end": "06/25/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Mills",
-            "seats": "0",
-            "wait_seats": "14",
-            "wait_cap": "15"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "PEA": {
     "1": {}
