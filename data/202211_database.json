@@ -757,7 +757,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Murphy",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -1097,44 +1097,6 @@
             "wait_cap": "0"
           }
         ],
-        "10473": [
-          {
-            "course": "ALCB F413Y07V",
-            "CRN": "10473",
-            "desc": "RELAXATION TECHNIQUES",
-            "status": "Open",
-            "days": "M",
-            "time": "10:00 AM-12:20 PM",
-            "start": "06/28/2021",
-            "end": "09/03/2021",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Echeverria",
-            "seats": "35",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "10474": [
-          {
-            "course": "ALCB F413Y08V",
-            "CRN": "10474",
-            "desc": "RELAXATION TECHNIQUES",
-            "status": "Open",
-            "days": "T",
-            "time": "10:30 AM-12:40 PM",
-            "start": "06/28/2021",
-            "end": "09/03/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "Echeverria",
-            "seats": "35",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10543": [
           {
             "course": "ALCB F413Y09V",
@@ -1189,25 +1151,6 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Rock",
-            "seats": "35",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "10475": [
-          {
-            "course": "ALCB F414Y03V",
-            "CRN": "10475",
-            "desc": "STRESS MANAGEMENT",
-            "status": "Open",
-            "days": "W",
-            "time": "11:00 AM-01:10 PM",
-            "start": "06/28/2021",
-            "end": "09/03/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "Echeverria",
             "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -2771,7 +2714,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Harp",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2957,7 +2900,7 @@
             "desc": "EVLUTN,SYSTEMATICS & ECOLOGY",
             "status": "Open",
             "days": "MTWTh",
-            "time": "10:00 AM-11:50 AM",
+            "time": "12:30 PM-03:20 PM",
             "start": "06/28/2021",
             "end": "08/06/2021",
             "room": "ONLINE",
@@ -2974,7 +2917,7 @@
             "desc": "EVLUTN,SYSTEMATICS & ECOLOGY",
             "status": "Open",
             "days": "MTWTh",
-            "time": "12:30 PM-03:20 PM",
+            "time": "10:00 AM-11:50 AM",
             "start": "06/28/2021",
             "end": "08/06/2021",
             "room": "ONLINE",
@@ -3032,8 +2975,8 @@
             "CRN": "10006",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:00 AM-10:50 AM",
+            "days": "MW",
+            "time": "01:00 PM-01:50 PM",
             "start": "06/28/2021",
             "end": "08/06/2021",
             "room": "ONLINE",
@@ -3049,8 +2992,8 @@
             "CRN": "10006",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Open",
-            "days": "MW",
-            "time": "01:00 PM-01:50 PM",
+            "days": "MTWTh",
+            "time": "10:00 AM-10:50 AM",
             "start": "06/28/2021",
             "end": "08/06/2021",
             "room": "ONLINE",
@@ -3095,10 +3038,84 @@
             "wait_seats": "15",
             "wait_cap": "15"
           }
+        ],
+        "10803": [
+          {
+            "course": "BIOL F040A12D",
+            "CRN": "10803",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/11/2021",
+            "end": "12/16/2021",
+            "room": "PAHS",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Scilingo",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10804": [
+          {
+            "course": "BIOL F040A13D",
+            "CRN": "10804",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/11/2021",
+            "end": "12/16/2021",
+            "room": "PAHS",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Scilingo",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10805": [
+          {
+            "course": "BIOL F040A14D",
+            "CRN": "10805",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/11/2021",
+            "end": "12/16/2021",
+            "room": "PAHS",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Scilingo",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "40B": {
         "10023": [
+          {
+            "course": "BIOL F040B01Z",
+            "CRN": "10023",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
+            "status": "Waitlist",
+            "days": "Th",
+            "time": "03:00 PM-04:50 PM",
+            "start": "06/28/2021",
+            "end": "08/06/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Markowitz",
+            "seats": "0",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          },
           {
             "course": "BIOL F040B01Z",
             "CRN": "10023",
@@ -3121,8 +3138,8 @@
             "CRN": "10023",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
             "status": "Waitlist",
-            "days": "Th",
-            "time": "03:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/28/2021",
             "end": "08/06/2021",
             "room": "ONLINE",
@@ -3195,8 +3212,8 @@
             "CRN": "10256",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Open",
-            "days": "MW",
-            "time": "12:30 PM-03:20 PM",
+            "days": "MTWTh",
+            "time": "10:00 AM-11:50 AM",
             "start": "06/28/2021",
             "end": "08/06/2021",
             "room": "ONLINE",
@@ -3212,8 +3229,8 @@
             "CRN": "10256",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:00 AM-11:50 AM",
+            "days": "MW",
+            "time": "12:30 PM-03:20 PM",
             "start": "06/28/2021",
             "end": "08/06/2021",
             "room": "ONLINE",
@@ -3270,6 +3287,23 @@
             "desc": "MICROBIOLOGY",
             "status": "Open",
             "days": "MTWTh",
+            "time": "12:00 PM-01:15 PM",
+            "start": "06/28/2021",
+            "end": "08/20/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Rouhbakhsh",
+            "seats": "7",
+            "wait_seats": "12",
+            "wait_cap": "12"
+          },
+          {
+            "course": "BIOL F041.01Z",
+            "CRN": "10664",
+            "desc": "MICROBIOLOGY",
+            "status": "Open",
+            "days": "MTWTh",
             "time": "09:30 AM-10:50 AM",
             "start": "06/28/2021",
             "end": "08/20/2021",
@@ -3297,23 +3331,6 @@
             "seats": "7",
             "wait_seats": "12",
             "wait_cap": "12"
-          },
-          {
-            "course": "BIOL F041.01Z",
-            "CRN": "10664",
-            "desc": "MICROBIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:00 PM-01:15 PM",
-            "start": "06/28/2021",
-            "end": "08/20/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Rouhbakhsh",
-            "seats": "7",
-            "wait_seats": "12",
-            "wait_cap": "12"
           }
         ],
         "10282": [
@@ -3323,7 +3340,7 @@
             "desc": "MICROBIOLOGY",
             "status": "Waitlist",
             "days": "MTWTh",
-            "time": "07:00 PM-09:30 PM",
+            "time": "05:30 PM-06:45 PM",
             "start": "06/28/2021",
             "end": "08/20/2021",
             "room": "ONLINE",
@@ -3340,7 +3357,7 @@
             "desc": "MICROBIOLOGY",
             "status": "Waitlist",
             "days": "MTWTh",
-            "time": "05:30 PM-06:45 PM",
+            "time": "07:00 PM-09:30 PM",
             "start": "06/28/2021",
             "end": "08/20/2021",
             "room": "ONLINE",
@@ -6009,7 +6026,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Herman",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -8578,7 +8595,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Witschorik",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8707,6 +8724,27 @@
             "seats": "26",
             "wait_seats": "15",
             "wait_cap": "15"
+          }
+        ]
+      },
+      "217": {
+        "10806": [
+          {
+            "course": "MATH F217.01D",
+            "CRN": "10806",
+            "desc": "INTEGRATED STATISTICS I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/16/2021",
+            "end": "12/16/2021",
+            "room": "FMHS",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Mccomb",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
