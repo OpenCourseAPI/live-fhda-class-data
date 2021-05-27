@@ -194,7 +194,7 @@
             "units": "5.00",
             "instructor": "James",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -235,7 +235,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Hammond",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -695,7 +695,7 @@
             "course": "ARTS D001A52Z",
             "CRN": "12466",
             "desc": "INTRO TO VISUAL ARTS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -705,7 +705,7 @@
             "units": "4.00",
             "instructor": "Karmi",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -1312,9 +1312,9 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Vernazza",
-            "seats": "9",
-            "wait_seats": "15",
-            "wait_cap": "15"
+            "seats": "4",
+            "wait_seats": "10",
+            "wait_cap": "10"
           }
         ]
       },
@@ -1333,9 +1333,9 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Vernazza",
-            "seats": "9",
-            "wait_seats": "15",
-            "wait_cap": "15"
+            "seats": "4",
+            "wait_seats": "10",
+            "wait_cap": "10"
           }
         ]
       },
@@ -1345,7 +1345,7 @@
             "course": "AUTO D366.49Y",
             "CRN": "13124",
             "desc": "AUTO AIR CONDITIONING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "M",
             "time": "06:00 PM-10:15 PM",
             "start": "06/28/2021",
@@ -1354,7 +1354,7 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Silva",
-            "seats": "0",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1362,7 +1362,7 @@
             "course": "AUTO D366.49Y",
             "CRN": "13124",
             "desc": "AUTO AIR CONDITIONING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "06:00 PM-10:15 PM",
             "start": "06/28/2021",
@@ -1371,7 +1371,7 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Silva",
-            "seats": "0",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2696,7 +2696,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -2713,7 +2713,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -2730,7 +2730,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -3195,7 +3195,7 @@
             "course": "CHEM D030A25Z",
             "CRN": "12278",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "02:30 PM-03:20 PM",
             "start": "06/28/2021",
@@ -3205,14 +3205,14 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "6"
+            "wait_seats": "9",
+            "wait_cap": "15"
           },
           {
             "course": "CHEM D030A25Z",
             "CRN": "12278",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "05:30 PM-07:20 PM",
             "start": "06/28/2021",
@@ -3222,14 +3222,14 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "6"
+            "wait_seats": "9",
+            "wait_cap": "15"
           },
           {
             "course": "CHEM D030A25Z",
             "CRN": "12278",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -3239,8 +3239,8 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "6"
+            "wait_seats": "9",
+            "wait_cap": "15"
           }
         ],
         "12279": [
@@ -3248,7 +3248,7 @@
             "course": "CHEM D030A26Z",
             "CRN": "12279",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "04:00 PM-04:50 PM",
             "start": "06/28/2021",
@@ -3258,14 +3258,14 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "6"
+            "wait_seats": "9",
+            "wait_cap": "15"
           },
           {
             "course": "CHEM D030A26Z",
             "CRN": "12279",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "05:30 PM-07:20 PM",
             "start": "06/28/2021",
@@ -3275,14 +3275,14 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "6"
+            "wait_seats": "9",
+            "wait_cap": "15"
           },
           {
             "course": "CHEM D030A26Z",
             "CRN": "12279",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -3292,8 +3292,8 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "6"
+            "wait_seats": "9",
+            "wait_cap": "15"
           }
         ]
       }
@@ -3635,7 +3635,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yeh",
-            "seats": "17",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -3652,7 +3652,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yeh",
-            "seats": "17",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3783,7 +3783,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3878,7 +3878,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Goel",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4425,7 +4425,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Janakiraman",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4446,7 +4446,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Staff",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5268,7 +5268,7 @@
             "units": "5.00",
             "instructor": "Gainer",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -6083,7 +6083,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Uy-Barreta",
-            "seats": "46",
+            "seats": "45",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6294,7 +6294,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Zill",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6566,7 +6566,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Saeidi Ashtiyani",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -6583,7 +6583,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Saeidi Ashtiyani",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -7004,7 +7004,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Yee",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -7206,7 +7206,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Marin",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -7246,7 +7246,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Newman",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -7616,7 +7616,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Roscher",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -7633,7 +7633,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Roscher",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8315,7 +8315,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sandel",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8895,7 +8895,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Liechty",
-            "seats": "24",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11432,7 +11432,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bourgoub",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11548,7 +11548,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Geraghty",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11839,7 +11839,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Legge",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11858,7 +11858,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shariatmadari",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11913,7 +11913,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shi",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -12179,7 +12179,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shukla",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -12302,7 +12302,7 @@
             "units": "1.00",
             "instructor": "Mullens",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ]
@@ -14158,7 +14158,7 @@
             "units": "4.00",
             "instructor": "Trafalis",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "8"
           }
         ],
@@ -14234,7 +14234,7 @@
             "units": "4.00",
             "instructor": "Healy",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "8"
           }
         ]
@@ -14273,7 +14273,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Bunce",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -14498,7 +14498,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Shih",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
