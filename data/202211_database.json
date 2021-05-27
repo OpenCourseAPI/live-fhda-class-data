@@ -132,7 +132,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Fowler",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -254,7 +254,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bullock",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -317,7 +317,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bowman",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4124,7 +4124,7 @@
             "units": "5.00",
             "instructor": "Katsir",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "15"
           },
           {
@@ -4141,7 +4141,7 @@
             "units": "5.00",
             "instructor": "Katsir",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "15"
           },
           {
@@ -4158,7 +4158,7 @@
             "units": "5.00",
             "instructor": "Katsir",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ]
@@ -8872,7 +8872,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
-            "seats": "15",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9775,7 +9775,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Durbin",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9880,7 +9880,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10502,7 +10502,7 @@
             "course": "PHYS F004B03V",
             "CRN": "10310",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:30 AM-12:45 PM",
             "start": "06/28/2021",
@@ -10511,15 +10511,15 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Ho",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
             "course": "PHYS F004B03V",
             "CRN": "10310",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:00 PM-03:50 PM",
             "start": "06/28/2021",
@@ -10528,8 +10528,8 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Ho",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
