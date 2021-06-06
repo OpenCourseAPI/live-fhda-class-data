@@ -214,7 +214,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Hatter",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -419,7 +419,7 @@
             "course": "ANTH D001.50Z",
             "CRN": "13059",
             "desc": "PHYS ANTHRO",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -428,7 +428,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mabie",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "2"
           }
@@ -1004,7 +1004,7 @@
             "course": "ASTR D010.61Z",
             "CRN": "13047",
             "desc": "STELLAR ASTRONOMY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -1014,7 +1014,7 @@
             "units": "5.00",
             "instructor": "Peterson",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -2057,7 +2057,7 @@
             "units": "5.00",
             "instructor": "Lilly",
             "seats": "1",
-            "wait_seats": "8",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -2740,7 +2740,7 @@
             "course": "CHEM D001A20Z",
             "CRN": "00210",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "02:30 PM-03:45 PM",
             "start": "06/28/2021",
@@ -2749,15 +2749,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Artun",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001A20Z",
             "CRN": "00210",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "11:30 AM-12:20 PM",
             "start": "06/28/2021",
@@ -2766,15 +2766,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Artun",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001A20Z",
             "CRN": "00210",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -2783,8 +2783,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Artun",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -3960,7 +3960,7 @@
             "course": "CIS D035A16Z",
             "CRN": "00234",
             "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "06:00 PM-07:50 PM",
             "start": "06/28/2021",
@@ -3970,14 +3970,14 @@
             "units": "4.50",
             "instructor": "Singh",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "CIS D035A16Z",
             "CRN": "00234",
             "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -3987,14 +3987,14 @@
             "units": "4.50",
             "instructor": "Singh",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "CIS D035A16Z",
             "CRN": "00234",
             "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -4004,7 +4004,7 @@
             "units": "4.50",
             "instructor": "Singh",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -4022,7 +4022,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Amoruwa",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -4039,7 +4039,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Amoruwa",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -4056,7 +4056,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Amoruwa",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5108,7 +5108,7 @@
             "course": "COMM D010.01Z",
             "CRN": "12574",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "07:30 AM-09:45 AM",
             "start": "06/28/2021",
@@ -5117,7 +5117,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hong",
-            "seats": "0",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -5125,7 +5125,7 @@
             "course": "COMM D010.01Z",
             "CRN": "12574",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -5134,7 +5134,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hong",
-            "seats": "0",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -6872,7 +6872,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Phillips",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -8180,7 +8180,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Board Liljenstolpe",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8344,7 +8344,7 @@
             "course": "EWRT D030.61Z",
             "CRN": "12589",
             "desc": "INTRO CREATIVE WRITING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -8353,8 +8353,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Giardino",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
@@ -9833,7 +9833,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Loyola",
-            "seats": "20",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -10158,7 +10158,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Owiesny",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11094,7 +11094,7 @@
             "course": "MATH D001B50Z",
             "CRN": "13025",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -11103,7 +11103,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sadeghi-Hassanvand",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -12137,7 +12137,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lopez",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -13275,7 +13275,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -13292,7 +13292,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13689,7 +13689,7 @@
             "course": "PHTG D001.50Z",
             "CRN": "13147",
             "desc": "BASIC PHOTOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -13698,8 +13698,8 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Teng",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -14009,7 +14009,7 @@
             "course": "POLI D001.61Z",
             "CRN": "12510",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -14018,8 +14018,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chin",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ],
@@ -14597,7 +14597,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Birago",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "5",
             "wait_cap": "5"
           }
