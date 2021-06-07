@@ -17,7 +17,7 @@
             "units": "5.00",
             "instructor": "Martinelli",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -556,7 +556,7 @@
             "course": "ANTH D002.50Z",
             "CRN": "12944",
             "desc": "CULTURAL ANTHROPOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -565,7 +565,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Cerda Aguilar",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -2153,7 +2153,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Salah",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6854,7 +6854,7 @@
             "units": "1.00",
             "instructor": "Phillips",
             "seats": "2",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ],
@@ -9901,6 +9901,27 @@
             "wait_cap": "15"
           }
         ]
+      },
+      "80X": {
+        "13259": [
+          {
+            "course": "ICS D080X65R",
+            "CRN": "13259",
+            "desc": "COMM BASED LRNG ICS - INTRAPRS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/28/2021",
+            "end": "08/08/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "2.00",
+            "instructor": "Staff",
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
       }
     }
   },
@@ -10158,7 +10179,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Owiesny",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14724,7 +14745,7 @@
             "course": "WMST D001.61Z",
             "CRN": "12869",
             "desc": "INTRO WOMEN'S STDS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -14733,7 +14754,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Coronado",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "34",
             "wait_cap": "35"
           }
