@@ -1397,7 +1397,7 @@
             "units": "6.00",
             "instructor": "Heyer",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "7"
           },
           {
@@ -1414,7 +1414,7 @@
             "units": "6.00",
             "instructor": "Heyer",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ]
@@ -2057,7 +2057,7 @@
             "units": "5.00",
             "instructor": "Lilly",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -2527,7 +2527,7 @@
             "course": "C D D052.01Z",
             "CRN": "12733",
             "desc": "OBSRVATN/ASSMT OF CHILDREN",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "F",
             "time": "06:30 PM-10:20 PM",
             "start": "06/28/2021",
@@ -2536,15 +2536,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roy",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "C D D052.01Z",
             "CRN": "12733",
             "desc": "OBSRVATN/ASSMT OF CHILDREN",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -2553,8 +2553,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roy",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -2645,7 +2645,7 @@
             "course": "C D D064.01Z",
             "CRN": "10968",
             "desc": "HLTH,SAFETY & NUTRITION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "01:30 PM-02:20 PM",
             "start": "06/28/2021",
@@ -2654,15 +2654,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Vargas",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "C D D064.01Z",
             "CRN": "10968",
             "desc": "HLTH,SAFETY & NUTRITION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -2671,8 +2671,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Vargas",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -3514,7 +3514,7 @@
             "course": "CIS D018A61Z",
             "CRN": "10680",
             "desc": "INTRO TO UNIX/LINUX",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -3523,8 +3523,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Metcalf",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ]
@@ -3698,7 +3698,7 @@
             "course": "CIS D022A61Z",
             "CRN": "11299",
             "desc": "BEG PROG METHOD C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -3707,8 +3707,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Pape",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -3791,7 +3791,7 @@
             "course": "CIS D022B53Z",
             "CRN": "13063",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -3800,7 +3800,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4560,7 +4560,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Fisk",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5873,7 +5873,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6100,7 +6100,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Uy-Barreta",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6625,7 +6625,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "De Toro",
-            "seats": "22",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7840,7 +7840,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cudahy",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8294,7 +8294,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Modirzadeh",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8641,7 +8641,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -8828,7 +8828,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Howard-Pitney",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9933,7 +9933,7 @@
             "course": "JAPN D001.40Z",
             "CRN": "10854",
             "desc": "ELEM JAPANESE (1ST QTR)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:00 AM-12:15 PM",
             "start": "06/28/2021",
@@ -9942,8 +9942,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kuo",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ]
@@ -10053,7 +10053,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Donahue",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -10322,7 +10322,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Owiesny",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10896,7 +10896,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Markus",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11548,7 +11548,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sales",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11672,7 +11672,7 @@
             "course": "MATH D010.52Z",
             "CRN": "12580",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -11681,8 +11681,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ky",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -12236,7 +12236,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rudolf",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -12280,7 +12280,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "James",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12665,7 +12665,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Miller",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12972,6 +12972,25 @@
             "wait_seats": "5",
             "wait_cap": "5"
           }
+        ],
+        "13260": [
+          {
+            "course": "P E D04XX57Z",
+            "CRN": "13260",
+            "desc": "HI-INTENS STRNGTH DEV/AT",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "07/12/2021",
+            "end": "08/08/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "1.00",
+            "instructor": "Catuiza",
+            "seats": "10",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
         ]
       },
       "99": {
@@ -13188,7 +13207,7 @@
             "course": "PARA D054.50Z",
             "CRN": "12928",
             "desc": "YOUTH AND THE LAW",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -13197,8 +13216,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rudich",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -14775,7 +14794,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Chow",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           }
