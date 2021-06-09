@@ -113,7 +113,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ponleithner",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -153,7 +153,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Benson",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -777,7 +777,7 @@
             "units": "4.00",
             "instructor": "Leicht",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ]
@@ -2135,7 +2135,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "32",
+            "seats": "33",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2319,7 +2319,7 @@
             "course": "ART F001.01W",
             "CRN": "10091",
             "desc": "INTRODUCTION TO ART",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -2328,7 +2328,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Cortez",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4429,7 +4429,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "18",
             "wait_cap": "20"
           }
@@ -4896,7 +4896,7 @@
             "course": "COMM F002.02Z",
             "CRN": "10658",
             "desc": "INTERPERSONAL COMMUNICATION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "05:00 PM-08:50 PM",
             "start": "06/28/2021",
@@ -4905,7 +4905,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4913,7 +4913,7 @@
             "course": "COMM F002.02Z",
             "CRN": "10658",
             "desc": "INTERPERSONAL COMMUNICATION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -4922,7 +4922,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5169,7 +5169,7 @@
             "units": "1.50",
             "instructor": "Brennan",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -5186,7 +5186,7 @@
             "units": "1.50",
             "instructor": "Spragge",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -5203,7 +5203,7 @@
             "units": "1.50",
             "instructor": "Brennan",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -5220,7 +5220,7 @@
             "units": "1.50",
             "instructor": "Spragge",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -5237,7 +5237,7 @@
             "units": "1.50",
             "instructor": "Spragge",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -5603,7 +5603,7 @@
             "course": "EMS F052.01R",
             "CRN": "10687",
             "desc": "EMT: BASIC PART A",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "W",
             "time": "12:00 PM-03:50 PM",
             "start": "06/28/2021",
@@ -5613,31 +5613,12 @@
             "units": "5.00",
             "instructor": "Casolary",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "EMS F052.01R",
             "CRN": "10687",
-            "desc": "EMT: BASIC PART A",
-            "status": "Waitlist",
-            "days": "T",
-            "time": "05:30 PM-09:30 PM",
-            "start": "06/28/2021",
-            "end": "09/17/2021",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "5.00",
-            "instructor": "Lomeli Franco",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "5"
-          }
-        ],
-        "10801": [
-          {
-            "course": "EMS F052.02R",
-            "CRN": "10801",
             "desc": "EMT: BASIC PART A",
             "status": "Full",
             "days": "T",
@@ -5651,12 +5632,31 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "5"
+          }
+        ],
+        "10801": [
+          {
+            "course": "EMS F052.02R",
+            "CRN": "10801",
+            "desc": "EMT: BASIC PART A",
+            "status": "Open",
+            "days": "T",
+            "time": "05:30 PM-09:30 PM",
+            "start": "06/28/2021",
+            "end": "09/17/2021",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "5.00",
+            "instructor": "Lomeli Franco",
+            "seats": "1",
+            "wait_seats": "0",
+            "wait_cap": "5"
           },
           {
             "course": "EMS F052.02R",
             "CRN": "10801",
             "desc": "EMT: BASIC PART A",
-            "status": "Full",
+            "status": "Open",
             "days": "W",
             "time": "05:30 PM-09:30 PM",
             "start": "06/28/2021",
@@ -5665,7 +5665,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Casolary",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           }
@@ -5914,7 +5914,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Finnegan",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -5933,7 +5933,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Finnegan",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -6094,7 +6094,7 @@
             "units": "4.00",
             "instructor": "Svetich",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "19",
             "wait_cap": "25"
           }
         ]
@@ -6368,7 +6368,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Davis",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6933,7 +6933,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hoekenga",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8464,7 +8464,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Robledo",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8851,7 +8851,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ward",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8931,7 +8931,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Thornton",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8973,7 +8973,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10217,7 +10217,7 @@
             "course": "PHIL F004.02W",
             "CRN": "10086",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -10226,7 +10226,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Provost",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "20"
           }
@@ -10342,7 +10342,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hoekenga",
-            "seats": "30",
+            "seats": "31",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10933,7 +10933,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "45",
+            "seats": "44",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11179,7 +11179,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Campbell",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -11200,7 +11200,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -11217,7 +11217,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -11310,7 +11310,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Campbell",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -11559,7 +11559,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Castellino",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -11576,7 +11576,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Wu",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -11593,7 +11593,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Campbell",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -12099,7 +12099,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "McNamara",
-            "seats": "18",
+            "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
           }
