@@ -287,7 +287,7 @@
             "course": "ACTG F058.02W",
             "CRN": "10064",
             "desc": "AUDITING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -296,8 +296,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bullock",
-            "seats": "2",
-            "wait_seats": "11",
+            "seats": "0",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -1947,7 +1947,7 @@
             "course": "ANTH F001.03W",
             "CRN": "10272",
             "desc": "INTRO TO PHYSICAL ANTHRO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -1956,8 +1956,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "King",
-            "seats": "1",
-            "wait_seats": "19",
+            "seats": "0",
+            "wait_seats": "20",
             "wait_cap": "20"
           }
         ],
@@ -2177,7 +2177,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Gonzalez",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -3539,7 +3539,7 @@
             "course": "C S F001A02W",
             "CRN": "10079",
             "desc": "OBJ-ORIENTED PROG METHOD JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -3548,8 +3548,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Dhagat",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -4264,6 +4264,25 @@
             "course": "CHEM F025.01W",
             "CRN": "10296",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/28/2021",
+            "end": "08/06/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Rotsides",
+            "seats": "1",
+            "wait_seats": "1",
+            "wait_cap": "10"
+          }
+        ],
+        "10241": [
+          {
+            "course": "CHEM F025.02W",
+            "CRN": "10241",
+            "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
@@ -4275,25 +4294,6 @@
             "instructor": "Rotsides",
             "seats": "0",
             "wait_seats": "1",
-            "wait_cap": "10"
-          }
-        ],
-        "10241": [
-          {
-            "course": "CHEM F025.02W",
-            "CRN": "10241",
-            "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/28/2021",
-            "end": "08/06/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Rotsides",
-            "seats": "1",
-            "wait_seats": "0",
             "wait_cap": "8"
           }
         ]
@@ -4995,7 +4995,7 @@
             "course": "COMM F012.02W",
             "CRN": "10249",
             "desc": "INTERCULTURAL COMMUNICATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -5004,8 +5004,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cunningham",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -5549,7 +5549,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6760,7 +6760,7 @@
             "course": "HLTH F021.01W",
             "CRN": "10173",
             "desc": "CONTEMPORARY HEALTH CONCERNS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -6769,8 +6769,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Baldwin",
-            "seats": "1",
-            "wait_seats": "27",
+            "seats": "0",
+            "wait_seats": "28",
             "wait_cap": "30"
           }
         ],
@@ -8474,7 +8474,7 @@
             "course": "MATH F010.05W",
             "CRN": "10087",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -8483,8 +8483,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
