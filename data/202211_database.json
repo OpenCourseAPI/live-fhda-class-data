@@ -662,7 +662,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "St Onge-Cole",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -679,7 +679,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "St Onge-Cole",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -4353,7 +4353,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "19",
             "wait_cap": "20"
           }
@@ -4395,7 +4395,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Carducci",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -4811,7 +4811,7 @@
             "units": "5.00",
             "instructor": "Kellner",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -4868,7 +4868,7 @@
             "units": "5.00",
             "instructor": "Cunningham",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -4928,7 +4928,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cunningham",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9222,7 +9222,7 @@
             "course": "NCEL F405.01R",
             "CRN": "10691",
             "desc": "INTRO TO COMP/INTRNET LANG ESL",
-            "status": "Open",
+            "status": "Full",
             "days": "MW",
             "time": "08:00 AM-09:50 AM",
             "start": "06/28/2021",
@@ -9231,15 +9231,15 @@
             "campus": "FC",
             "units": "0.00",
             "instructor": "Vozza",
-            "seats": "10",
-            "wait_seats": "25",
-            "wait_cap": "25"
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           },
           {
             "course": "NCEL F405.01R",
             "CRN": "10691",
             "desc": "INTRO TO COMP/INTRNET LANG ESL",
-            "status": "Open",
+            "status": "Full",
             "days": "T",
             "time": "08:00 AM-12:05 PM",
             "start": "06/28/2021",
@@ -9248,9 +9248,9 @@
             "campus": "FC",
             "units": "0.00",
             "instructor": "Vozza",
-            "seats": "10",
-            "wait_seats": "25",
-            "wait_cap": "25"
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "10770": [
@@ -9294,7 +9294,7 @@
             "course": "NCEL F405.03R",
             "CRN": "10771",
             "desc": "INTRO TO COMP/INTRNET LANG ESL",
-            "status": "Open",
+            "status": "Full",
             "days": "T",
             "time": "08:00 AM-12:05 PM",
             "start": "06/28/2021",
@@ -9303,15 +9303,15 @@
             "campus": "FC",
             "units": "0.00",
             "instructor": "Vozza",
-            "seats": "11",
-            "wait_seats": "12",
-            "wait_cap": "12"
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           },
           {
             "course": "NCEL F405.03R",
             "CRN": "10771",
             "desc": "INTRO TO COMP/INTRNET LANG ESL",
-            "status": "Open",
+            "status": "Full",
             "days": "MW",
             "time": "12:30 PM-02:20 PM",
             "start": "06/28/2021",
@@ -9320,9 +9320,9 @@
             "campus": "FC",
             "units": "0.00",
             "instructor": "Vozza",
-            "seats": "11",
-            "wait_seats": "12",
-            "wait_cap": "12"
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
