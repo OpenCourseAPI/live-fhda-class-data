@@ -54,7 +54,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hammond",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4022,7 +4022,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Amoruwa",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -4039,7 +4039,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Amoruwa",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -4056,7 +4056,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Amoruwa",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6625,7 +6625,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "De Toro",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7001,7 +7001,7 @@
             "units": "10.00",
             "instructor": "Ormeno",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ]
@@ -8731,7 +8731,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ramsey",
-            "seats": "18",
+            "seats": "19",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8790,7 +8790,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Howard-Pitney",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -10935,7 +10935,7 @@
             "units": "5.00",
             "instructor": "Gutierrez",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ]
@@ -10965,7 +10965,7 @@
             "course": "MATH D001B07Z",
             "CRN": "13026",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "10:00 AM-12:15 PM",
             "start": "06/28/2021",
@@ -10974,7 +10974,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yarahmadi",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -10982,7 +10982,7 @@
             "course": "MATH D001B07Z",
             "CRN": "13026",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -10991,7 +10991,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yarahmadi",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -14001,7 +14001,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Schendan",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -14216,6 +14216,25 @@
             "instructor": "Healy",
             "seats": "0",
             "wait_seats": "0",
+            "wait_cap": "8"
+          }
+        ],
+        "13262": [
+          {
+            "course": "PSYC D001.66Z",
+            "CRN": "13262",
+            "desc": "GENERAL PSYCHOLOGY",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/28/2021",
+            "end": "08/08/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Schulte",
+            "seats": "50",
+            "wait_seats": "8",
             "wait_cap": "8"
           }
         ]
@@ -14437,7 +14456,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Park",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14583,7 +14602,7 @@
             "units": "4.00",
             "instructor": "Dehaan",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ]
@@ -14688,7 +14707,7 @@
             "course": "WMST D001.61Z",
             "CRN": "12869",
             "desc": "INTRO WOMEN'S STDS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -14697,7 +14716,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Coronado",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "35",
             "wait_cap": "35"
           }
