@@ -93,7 +93,7 @@
             "units": "5.00",
             "instructor": "Kwak",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -2841,7 +2841,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
@@ -2858,7 +2858,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
@@ -2875,7 +2875,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -4593,7 +4593,7 @@
             "course": "CIS D21JA01Z",
             "CRN": "12196",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "06:00 PM-06:50 PM",
             "start": "06/28/2021",
@@ -4603,48 +4603,12 @@
             "units": "4.50",
             "instructor": "Eftekhari",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "CIS D21JA01Z",
             "CRN": "12196",
-            "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/28/2021",
-            "end": "08/08/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Eftekhari",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D21JA01Z",
-            "CRN": "12196",
-            "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/28/2021",
-            "end": "08/08/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Eftekhari",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "15"
-          }
-        ],
-        "13069": [
-          {
-            "course": "CIS D21JA62Z",
-            "CRN": "13069",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
             "status": "Full",
             "days": "TBA",
@@ -4654,9 +4618,45 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "4.50",
-            "instructor": "Lau",
+            "instructor": "Eftekhari",
             "seats": "0",
             "wait_seats": "0",
+            "wait_cap": "15"
+          },
+          {
+            "course": "CIS D21JA01Z",
+            "CRN": "12196",
+            "desc": "INTRO X86 PROC ASSMBLY LANG",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/28/2021",
+            "end": "08/08/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Eftekhari",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "15"
+          }
+        ],
+        "13069": [
+          {
+            "course": "CIS D21JA62Z",
+            "CRN": "13069",
+            "desc": "INTRO X86 PROC ASSMBLY LANG",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/28/2021",
+            "end": "08/08/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Lau",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -7880,7 +7880,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cragen",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -7897,7 +7897,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cragen",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -11172,7 +11172,7 @@
             "course": "MATH D001C20Z",
             "CRN": "10148",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/28/2021",
@@ -11181,7 +11181,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Du",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "6"
           }
@@ -13741,7 +13741,7 @@
             "course": "PHYS D010.02Z",
             "CRN": "12035",
             "desc": "CONCEPTS OF PHYSICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "01:00 PM-03:15 PM",
             "start": "06/28/2021",
@@ -13751,7 +13751,7 @@
             "units": "5.00",
             "instructor": "Francis",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
