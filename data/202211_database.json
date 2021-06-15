@@ -94,7 +94,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Fowler",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5988,29 +5988,12 @@
   },
   "ESLL": {
     "1": {
-      "125": {
-        "10220": [
+      "249": {
+        "10105": [
           {
-            "course": "ESLL F125.01Z",
-            "CRN": "10220",
-            "desc": "COMPOSITION & READING",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "11:00 AM-12:15 PM",
-            "start": "06/28/2021",
-            "end": "08/06/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "McCormick",
-            "seats": "17",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          },
-          {
-            "course": "ESLL F125.01Z",
-            "CRN": "10220",
-            "desc": "COMPOSITION & READING",
+            "course": "ESLL F249.01Z",
+            "CRN": "10105",
+            "desc": "ADVANCED READING",
             "status": "Open",
             "days": "TBA",
             "time": "TBA",
@@ -6020,14 +6003,10 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "17",
+            "seats": "12",
             "wait_seats": "25",
             "wait_cap": "25"
-          }
-        ]
-      },
-      "249": {
-        "10105": [
+          },
           {
             "course": "ESLL F249.01Z",
             "CRN": "10105",
@@ -6041,24 +6020,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "13",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          },
-          {
-            "course": "ESLL F249.01Z",
-            "CRN": "10105",
-            "desc": "ADVANCED READING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/28/2021",
-            "end": "08/06/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "McCormick",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -8843,7 +8805,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Sult",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
