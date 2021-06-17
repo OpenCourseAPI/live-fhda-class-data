@@ -1707,7 +1707,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Wolf",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -1831,7 +1831,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Gonzalez",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1852,7 +1852,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Prather",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6603,7 +6603,7 @@
             "course": "HUMN F009.01W",
             "CRN": "10163",
             "desc": "ONCE UPON A TIME? FAIRY TALES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -6612,7 +6612,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Vaughan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -9751,7 +9751,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "4.00",
-            "instructor": "Tsuboi",
+            "instructor": "Su",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -9765,6 +9765,27 @@
             "time": "TBA",
             "start": "06/28/2021",
             "end": "07/23/2021",
+            "room": "HOSP",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Tsuboi",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "64B": {
+        "10846": [
+          {
+            "course": "PHT F064B01",
+            "CRN": "10846",
+            "desc": "PHARMACY CLINICAL B",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/28/2021",
+            "end": "08/13/2021",
             "room": "HOSP",
             "campus": "FO",
             "units": "4.00",

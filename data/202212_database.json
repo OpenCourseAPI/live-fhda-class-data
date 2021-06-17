@@ -215,7 +215,7 @@
             "units": "2.00",
             "instructor": "Hatter",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -1582,7 +1582,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -1599,7 +1599,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -3897,7 +3897,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -3914,7 +3914,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -3931,7 +3931,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4351,7 +4351,7 @@
             "course": "CIS D066.61Z",
             "CRN": "12713",
             "desc": "INTRO DATA COM/NTWRKNG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -4360,7 +4360,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Forouzan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -11004,8 +11004,8 @@
             "CRN": "12990",
             "desc": "CALCULUS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "07:30 AM-09:45 AM",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -11021,8 +11021,8 @@
             "CRN": "12990",
             "desc": "CALCULUS",
             "status": "Full",
-            "days": "TTh",
-            "time": "07:30 AM-09:45 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -11439,25 +11439,6 @@
             "wait_cap": "6"
           }
         ],
-        "13032": [
-          {
-            "course": "MATH D010.32Z",
-            "CRN": "13032",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "03:00 PM-05:15 PM",
-            "start": "06/28/2021",
-            "end": "08/08/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Staff",
-            "seats": "39",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "00676": [
           {
             "course": "MATH D010.50Z",
@@ -11717,8 +11698,8 @@
             "CRN": "12374",
             "desc": "DISCRETE MATHEMATICS",
             "status": "Full",
-            "days": "MTWTh",
-            "time": "06:00 PM-06:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -11734,8 +11715,8 @@
             "CRN": "12374",
             "desc": "DISCRETE MATHEMATICS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "06:00 PM-06:50 PM",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -12028,25 +12009,6 @@
             "units": "5.00",
             "instructor": "Shukla",
             "seats": "8",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "13041": [
-          {
-            "course": "MATH D114.33Z",
-            "CRN": "13041",
-            "desc": "MATH PREP LEVEL 3:INTERMED ALG",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "03:00 PM-05:15 PM",
-            "start": "06/28/2021",
-            "end": "08/08/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Staff",
-            "seats": "32",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -14213,7 +14175,7 @@
             "course": "PSYC D014.61Z",
             "CRN": "00923",
             "desc": "DEVLPMNTL ASPECTS OF PSY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -14223,7 +14185,7 @@
             "units": "4.00",
             "instructor": "Tamas",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "8"
           }
         ]
