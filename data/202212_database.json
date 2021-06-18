@@ -93,7 +93,7 @@
             "units": "5.00",
             "instructor": "Kwak",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -766,7 +766,7 @@
             "units": "4.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
@@ -2028,7 +2028,7 @@
             "course": "BUS D010.61Z",
             "CRN": "10610",
             "desc": "INTRO TO BUSINESS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -2038,7 +2038,7 @@
             "units": "5.00",
             "instructor": "Lilly",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -2095,7 +2095,7 @@
             "units": "5.00",
             "instructor": "Bennett",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -4247,7 +4247,7 @@
             "units": "4.50",
             "instructor": "Larkin",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
@@ -4264,7 +4264,7 @@
             "units": "4.50",
             "instructor": "Larkin",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -5854,7 +5854,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "24",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5873,7 +5873,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Poffenroth",
-            "seats": "35",
+            "seats": "37",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5892,7 +5892,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Frisbee",
-            "seats": "33",
+            "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5953,7 +5953,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thorensen",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6644,7 +6644,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ratsirarson",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -6682,7 +6682,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "De Toro",
-            "seats": "38",
+            "seats": "39",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6701,7 +6701,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Poffenroth",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6739,7 +6739,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ratsirarson",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -7263,8 +7263,8 @@
             "CRN": "12792",
             "desc": "COMPOSITION AND READING",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "08:30 AM-10:45 AM",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7280,8 +7280,8 @@
             "CRN": "12792",
             "desc": "COMPOSITION AND READING",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "08:30 AM-10:45 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7335,8 +7335,8 @@
             "CRN": "00452",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "07:30 AM-09:45 AM",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7352,8 +7352,8 @@
             "CRN": "00452",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "MW",
-            "time": "07:30 AM-09:45 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7371,8 +7371,8 @@
             "CRN": "00457",
             "desc": "COMPOSITION AND READING",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "07:30 AM-09:45 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7388,8 +7388,8 @@
             "CRN": "00457",
             "desc": "COMPOSITION AND READING",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "07:30 AM-09:45 AM",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7443,8 +7443,8 @@
             "CRN": "11356",
             "desc": "COMPOSITION AND READING",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "12:30 PM-02:45 PM",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7460,8 +7460,8 @@
             "CRN": "11356",
             "desc": "COMPOSITION AND READING",
             "status": "Full",
-            "days": "MW",
-            "time": "12:30 PM-02:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7479,8 +7479,8 @@
             "CRN": "00466",
             "desc": "COMPOSITION AND READING",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "10:00 AM-12:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7496,8 +7496,8 @@
             "CRN": "00466",
             "desc": "COMPOSITION AND READING",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "10:00 AM-12:15 PM",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7515,8 +7515,8 @@
             "CRN": "13018",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "12:30 PM-02:45 PM",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7532,8 +7532,8 @@
             "CRN": "13018",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "TTh",
-            "time": "12:30 PM-02:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7551,8 +7551,8 @@
             "CRN": "13019",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "03:00 PM-05:15 PM",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7568,8 +7568,8 @@
             "CRN": "13019",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "MW",
-            "time": "03:00 PM-05:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -7579,42 +7579,6 @@
             "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
-          }
-        ],
-        "13105": [
-          {
-            "course": "EWRT D001A28Z",
-            "CRN": "13105",
-            "desc": "COMPOSITION AND READING",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/28/2021",
-            "end": "08/08/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Roscher",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "EWRT D001A28Z",
-            "CRN": "13105",
-            "desc": "COMPOSITION AND READING",
-            "status": "Full",
-            "days": "TTh",
-            "time": "03:00 PM-05:15 PM",
-            "start": "06/28/2021",
-            "end": "08/08/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Roscher",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ],
         "13111": [
@@ -7653,25 +7617,6 @@
             "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
-          }
-        ],
-        "00467": [
-          {
-            "course": "EWRT D001A61Z",
-            "CRN": "00467",
-            "desc": "COMPOSITION AND READING",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/28/2021",
-            "end": "08/08/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Gray",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ],
         "13016": [
@@ -8278,7 +8223,7 @@
             "units": "5.00",
             "instructor": "Giardino",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ]
@@ -8651,7 +8596,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pham",
-            "seats": "7",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -10143,7 +10088,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Altman",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10740,7 +10685,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ison",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -12605,7 +12550,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Johnson",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -12898,7 +12843,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Johnson",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
