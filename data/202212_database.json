@@ -727,7 +727,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -1647,7 +1647,7 @@
             "course": "BIOL D040A02Z",
             "CRN": "10829",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:30 AM-12:20 PM",
             "start": "06/28/2021",
@@ -1657,14 +1657,14 @@
             "units": "5.00",
             "instructor": "Balabanian",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           },
           {
             "course": "BIOL D040A02Z",
             "CRN": "10829",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-01:45 PM",
             "start": "06/28/2021",
@@ -1674,7 +1674,7 @@
             "units": "5.00",
             "instructor": "Balabanian",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ]
@@ -5036,7 +5036,7 @@
             "units": "5.00",
             "instructor": "Kramer",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -7916,7 +7916,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Board Liljenstolpe",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8295,7 +8295,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dutt",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -8333,7 +8333,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pena",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -8424,7 +8424,7 @@
             "units": "4.00",
             "instructor": "Edgar",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -9552,7 +9552,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ponce",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11353,7 +11353,7 @@
             "course": "MATH D022.40Z",
             "CRN": "12374",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "06:00 PM-06:50 PM",
             "start": "06/28/2021",
@@ -11362,32 +11362,13 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mazmanyan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "MATH D022.40Z",
             "CRN": "12374",
-            "desc": "DISCRETE MATHEMATICS",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/28/2021",
-            "end": "08/08/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Mazmanyan",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "6"
-          }
-        ],
-        "00686": [
-          {
-            "course": "MATH D022.50Z",
-            "CRN": "00686",
             "desc": "DISCRETE MATHEMATICS",
             "status": "Open",
             "days": "TBA",
@@ -11397,8 +11378,27 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Shi",
+            "instructor": "Mazmanyan",
             "seats": "1",
+            "wait_seats": "0",
+            "wait_cap": "6"
+          }
+        ],
+        "00686": [
+          {
+            "course": "MATH D022.50Z",
+            "CRN": "00686",
+            "desc": "DISCRETE MATHEMATICS",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/28/2021",
+            "end": "08/08/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Shi",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11514,7 +11514,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bambhania",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -11531,7 +11531,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bambhania",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11795,7 +11795,7 @@
             "units": "1.50",
             "instructor": "Thomsen",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
@@ -11812,7 +11812,7 @@
             "units": "1.50",
             "instructor": "Thomsen",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
@@ -12101,7 +12101,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Damjanovic",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12183,7 +12183,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Santos",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12322,7 +12322,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Santos",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13599,7 +13599,7 @@
             "course": "PSYC D004.50Z",
             "CRN": "12591",
             "desc": "ABNORMAL PSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -13609,7 +13609,7 @@
             "units": "4.00",
             "instructor": "Trafalis",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "0",
             "wait_cap": "8"
           }
         ],
@@ -13887,7 +13887,7 @@
             "course": "SOC D001.51Z",
             "CRN": "00954",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -13896,7 +13896,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           }
