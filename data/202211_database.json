@@ -198,7 +198,7 @@
             "units": "5.00",
             "instructor": "Bullock",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -240,7 +240,7 @@
             "units": "5.00",
             "instructor": "Bullock",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "15"
           }
         ]
@@ -322,7 +322,7 @@
             "units": "4.00",
             "instructor": "Gopal",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ]
@@ -523,7 +523,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mendizabal",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -1755,7 +1755,7 @@
             "units": "4.50",
             "instructor": "Cortez",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -1854,7 +1854,7 @@
             "units": "4.00",
             "instructor": "Gomes",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "30"
           }
         ],
@@ -2070,7 +2070,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Raivio",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2285,7 +2285,7 @@
             "units": "6.00",
             "instructor": "Schultz",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
@@ -2302,7 +2302,7 @@
             "units": "6.00",
             "instructor": "Schultz",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -2946,7 +2946,7 @@
             "course": "C S F001A02W",
             "CRN": "10079",
             "desc": "OBJ-ORIENTED PROG METHOD JAVA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -2955,7 +2955,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Dhagat",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "10"
           }
@@ -3266,7 +3266,7 @@
             "course": "C S F030A02W",
             "CRN": "10116",
             "desc": "INTRODUCTION TO LINUX",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -3276,8 +3276,8 @@
             "units": "4.50",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "3"
+            "wait_seats": "7",
+            "wait_cap": "10"
           }
         ]
       },
@@ -3375,7 +3375,7 @@
             "units": "4.50",
             "instructor": "Sandor",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -3964,7 +3964,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Freeman",
-            "seats": "21",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5392,7 +5392,7 @@
             "course": "ENGL F001C01W",
             "CRN": "10154",
             "desc": "ARGUMENTATIVE WRIT/CRITICAL TH",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -5401,7 +5401,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lewis",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "22",
             "wait_cap": "25"
           }
@@ -5662,7 +5662,7 @@
             "units": "5.00",
             "instructor": "Hansell",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ],
@@ -5786,7 +5786,7 @@
             "units": "4.00",
             "instructor": "Fong",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -5961,7 +5961,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Treanor",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "2"
           }
@@ -7149,25 +7149,6 @@
         ]
       },
       "91A": {
-        "10725": [
-          {
-            "course": "LINC F091A01W",
-            "CRN": "10725",
-            "desc": "INTRO TO ASSESSNG INSTRUC TECH",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/28/2021",
-            "end": "07/30/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Staff",
-            "seats": "32",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10738": [
           {
             "course": "LINC F091A03W",
@@ -8130,7 +8111,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cratty",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8687,7 +8668,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Durbin",
-            "seats": "1",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8851,7 +8832,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Raivio",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9342,7 +9323,7 @@
             "course": "PHYS F004A02V",
             "CRN": "10016",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "10:30 AM-12:45 PM",
             "start": "06/28/2021",
@@ -9352,14 +9333,14 @@
             "units": "6.00",
             "instructor": "Lau",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "PHYS F004A02V",
             "CRN": "10016",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "01:00 PM-03:50 PM",
             "start": "06/28/2021",
@@ -9369,7 +9350,7 @@
             "units": "6.00",
             "instructor": "Lau",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
