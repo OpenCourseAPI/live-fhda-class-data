@@ -36,7 +36,7 @@
             "units": "5.00",
             "instructor": "Mayer",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ],
@@ -95,7 +95,7 @@
             "units": "5.00",
             "instructor": "Fowler",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -157,7 +157,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ardizzone",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -198,7 +198,7 @@
             "units": "5.00",
             "instructor": "Bullock",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ]
@@ -240,7 +240,7 @@
             "units": "5.00",
             "instructor": "Bullock",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ]
@@ -261,7 +261,7 @@
             "units": "5.00",
             "instructor": "Bowman",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -333,7 +333,7 @@
             "course": "ACTG F064B02W",
             "CRN": "10098",
             "desc": "COMPUTERIZD ACTG PRAC:EXCEL",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -342,7 +342,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Glass",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -425,7 +425,7 @@
             "units": "5.00",
             "instructor": "Novikov",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "15"
           }
         ]
@@ -1500,7 +1500,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jenkins",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3163,7 +3163,7 @@
             "course": "C S F003A07W",
             "CRN": "10327",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -3172,7 +3172,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ibrahim",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -3192,7 +3192,7 @@
             "units": "4.50",
             "instructor": "Lamble",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -3277,7 +3277,7 @@
             "instructor": "Murphy",
             "seats": "0",
             "wait_seats": "0",
-            "wait_cap": "10"
+            "wait_cap": "3"
           }
         ]
       },
@@ -3871,7 +3871,7 @@
             "course": "CHLD F051A01W",
             "CRN": "10284",
             "desc": "AFFIRM DIVERSITY IN EDUCATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -3880,8 +3880,8 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dave",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -4897,7 +4897,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sandhu",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -4938,7 +4938,7 @@
             "units": "5.00",
             "instructor": "Sandhu",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ]
@@ -5295,7 +5295,7 @@
             "course": "ENGL F001B01W",
             "CRN": "10266",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -5304,7 +5304,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Svetich",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "19",
             "wait_cap": "25"
           }
@@ -5739,7 +5739,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hansell",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6736,25 +6736,6 @@
   "LINC": {
     "1": {
       "50": {
-        "10722": [
-          {
-            "course": "LINC F050.01W",
-            "CRN": "10722",
-            "desc": "TECH IN K-12 CLASSRM I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "07/05/2021",
-            "end": "07/30/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Staff",
-            "seats": "33",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10735": [
           {
             "course": "LINC F050.03W",
@@ -6928,25 +6909,6 @@
         ]
       },
       "80A": {
-        "10723": [
-          {
-            "course": "LINC F080A01W",
-            "CRN": "10723",
-            "desc": "MULTIMEDIA IN THE CLASSROOM I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "07/05/2021",
-            "end": "07/30/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Staff",
-            "seats": "31",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10734": [
           {
             "course": "LINC F080A03W",
@@ -6968,25 +6930,6 @@
         ]
       },
       "82B": {
-        "10720": [
-          {
-            "course": "LINC F082B01W",
-            "CRN": "10720",
-            "desc": "DEVELOPING INSTRUCTIONAL MATER",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "07/05/2021",
-            "end": "07/30/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Staff",
-            "seats": "35",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10732": [
           {
             "course": "LINC F082B03W",
@@ -7008,25 +6951,6 @@
         ]
       },
       "82C": {
-        "10727": [
-          {
-            "course": "LINC F082C01W",
-            "CRN": "10727",
-            "desc": "CREAT INTERACT MDIA FOR INSTRC",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "07/05/2021",
-            "end": "07/30/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Staff",
-            "seats": "34",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10733": [
           {
             "course": "LINC F082C03W",
@@ -7204,25 +7128,6 @@
         ]
       },
       "88": {
-        "10724": [
-          {
-            "course": "LINC F088.01W",
-            "CRN": "10724",
-            "desc": "INTRO COMPUTER OPERATING SYSTM",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/28/2021",
-            "end": "07/30/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Staff",
-            "seats": "33",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10737": [
           {
             "course": "LINC F088.03W",
@@ -7455,7 +7360,7 @@
             "course": "MATH F001C01W",
             "CRN": "10012",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -7465,7 +7370,7 @@
             "units": "5.00",
             "instructor": "Nosratieh",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -7523,7 +7428,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tomutiu",
-            "seats": "8",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7929,7 +7834,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ward",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -9173,7 +9078,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -9194,7 +9099,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tapia",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -9972,7 +9877,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Clark",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
