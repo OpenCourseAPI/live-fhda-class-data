@@ -36,7 +36,7 @@
             "units": "5.00",
             "instructor": "Martinelli",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -438,7 +438,7 @@
             "course": "ANTH D001.51Z",
             "CRN": "12943",
             "desc": "PHYS ANTHRO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -447,8 +447,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mabie",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "2"
           }
         ],
@@ -516,7 +516,7 @@
             "course": "ANTH D001L51Z",
             "CRN": "13131",
             "desc": "PHYS ANTHRO LAB",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -525,8 +525,8 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Tiwana",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ]
@@ -903,7 +903,7 @@
             "course": "ASAM D040.61Z",
             "CRN": "13113",
             "desc": "HIST OF ART: ARTS OF ASIA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -912,7 +912,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -1694,7 +1694,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -1711,7 +1711,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -1759,7 +1759,7 @@
             "course": "BIOL D045.01Z",
             "CRN": "12231",
             "desc": "INTRO HUMAN NUTRITION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "08:00 PM-08:50 PM",
             "start": "06/28/2021",
@@ -1768,15 +1768,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Miller",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "17"
           },
           {
             "course": "BIOL D045.01Z",
             "CRN": "12231",
             "desc": "INTRO HUMAN NUTRITION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -1785,8 +1785,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Miller",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "17"
           }
         ]
@@ -2078,7 +2078,7 @@
             "units": "5.00",
             "instructor": "Salah",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -2736,7 +2736,7 @@
             "course": "CHEM D001A30Z",
             "CRN": "00211",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "05:30 PM-06:45 PM",
             "start": "06/28/2021",
@@ -2745,15 +2745,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Brophy",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001A30Z",
             "CRN": "00211",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -2762,8 +2762,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Brophy",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -3288,7 +3288,7 @@
             "course": "CIS D003.01Z",
             "CRN": "12986",
             "desc": "BUSINESS INFO SYSTEMS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "M",
             "time": "06:00 PM-06:50 PM",
             "start": "06/28/2021",
@@ -3298,14 +3298,14 @@
             "units": "4.50",
             "instructor": "Lam",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "CIS D003.01Z",
             "CRN": "12986",
             "desc": "BUSINESS INFO SYSTEMS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -3315,14 +3315,14 @@
             "units": "4.50",
             "instructor": "Lam",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "CIS D003.01Z",
             "CRN": "12986",
             "desc": "BUSINESS INFO SYSTEMS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -3332,7 +3332,7 @@
             "units": "4.50",
             "instructor": "Lam",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -3391,7 +3391,7 @@
             "units": "4.50",
             "instructor": "Holmes",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ]
@@ -4448,7 +4448,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Linn Jr",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -4465,7 +4465,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Linn Jr",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -4482,7 +4482,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Linn Jr",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4804,7 +4804,7 @@
             "course": "COMM D001.05Z",
             "CRN": "12565",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "07:30 AM-09:45 AM",
             "start": "06/28/2021",
@@ -4813,7 +4813,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "2",
             "wait_cap": "6"
           },
@@ -4821,7 +4821,7 @@
             "course": "COMM D001.05Z",
             "CRN": "12565",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -4830,7 +4830,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "2",
             "wait_cap": "6"
           }
@@ -5026,7 +5026,7 @@
             "course": "COMM D001.65Z",
             "CRN": "13091",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -5035,8 +5035,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kramer",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -6005,7 +6005,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Uy-Barreta",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6511,7 +6511,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "De Toro",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7510,7 +7510,7 @@
             "course": "EWRT D001A66Z",
             "CRN": "10807",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -7519,7 +7519,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Quinn",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7916,7 +7916,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Board Liljenstolpe",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8166,7 +8166,7 @@
             "course": "F/TV D071G01Z",
             "CRN": "12925",
             "desc": "INTRO TO 3D COMP ANIM: MODLNG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TWTh",
             "time": "10:30 AM-12:20 PM",
             "start": "06/28/2021",
@@ -8175,15 +8175,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Freckelton",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "5"
           },
           {
             "course": "F/TV D071G01Z",
             "CRN": "12925",
             "desc": "INTRO TO 3D COMP ANIM: MODLNG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TWTh",
             "time": "12:30 PM-02:20 PM",
             "start": "06/28/2021",
@@ -8192,8 +8192,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Freckelton",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ]
@@ -8349,7 +8349,7 @@
             "course": "GEOL D010.55Z",
             "CRN": "13165",
             "desc": "INTRODUCTORY GEOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -8358,8 +8358,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dileonardo",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -8576,7 +8576,7 @@
             "course": "HIST D017C51Z",
             "CRN": "12724",
             "desc": "HIST U.S. 1900- PRESENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -8585,8 +8585,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pham",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -10318,7 +10318,7 @@
             "course": "KNES D31AX50Z",
             "CRN": "13208",
             "desc": "BEGINNING BADMINTON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -10327,8 +10327,8 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Landefeld",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -11157,7 +11157,7 @@
             "course": "MATH D010.52Z",
             "CRN": "12580",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -11166,8 +11166,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ky",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -11334,7 +11334,7 @@
             "course": "MATH D022.30Z",
             "CRN": "13099",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/28/2021",
@@ -11343,8 +11343,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shariatmadari",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -11353,7 +11353,7 @@
             "course": "MATH D022.40Z",
             "CRN": "12374",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "06:00 PM-06:50 PM",
             "start": "06/28/2021",
@@ -11362,15 +11362,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mazmanyan",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "MATH D022.40Z",
             "CRN": "12374",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -11379,8 +11379,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mazmanyan",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -12959,7 +12959,7 @@
             "course": "PHIL D001.65Z",
             "CRN": "12517",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -12968,8 +12968,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Booher",
-            "seats": "1",
-            "wait_seats": "14",
+            "seats": "0",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ],
@@ -13438,7 +13438,7 @@
             "units": "4.00",
             "instructor": "Firpo",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "8"
           },
           {
@@ -13455,7 +13455,7 @@
             "units": "4.00",
             "instructor": "Firpo",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "8"
           }
         ],
