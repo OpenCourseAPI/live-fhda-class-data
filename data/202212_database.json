@@ -73,7 +73,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Jeanpierre",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -669,7 +669,7 @@
             "units": "4.00",
             "instructor": "Olsen",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -1730,7 +1730,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -1747,7 +1747,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -2028,7 +2028,7 @@
             "course": "BUS D010.66Z",
             "CRN": "12859",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -2038,7 +2038,7 @@
             "units": "5.00",
             "instructor": "Niedermier",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -3103,8 +3103,8 @@
             "CRN": "13258",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
             "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "04:30 PM-05:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -3120,8 +3120,8 @@
             "CRN": "13258",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "04:30 PM-05:20 PM",
             "start": "06/28/2021",
             "end": "08/08/2021",
             "room": "ONLINE",
@@ -3147,6 +3147,25 @@
             "instructor": "Miller",
             "seats": "0",
             "wait_seats": "2",
+            "wait_cap": "6"
+          }
+        ],
+        "13267": [
+          {
+            "course": "CHEM D030A02Z",
+            "CRN": "13267",
+            "desc": "INTRO GEN, ORG AND BIOCHEM I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/28/2021",
+            "end": "08/08/2021",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "30",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -5089,7 +5108,7 @@
             "course": "COMM D010.01Z",
             "CRN": "12574",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "07:30 AM-09:45 AM",
             "start": "06/28/2021",
@@ -5099,14 +5118,14 @@
             "units": "5.00",
             "instructor": "Hong",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "COMM D010.01Z",
             "CRN": "12574",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -5116,7 +5135,7 @@
             "units": "5.00",
             "instructor": "Hong",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -5218,7 +5237,7 @@
             "course": "COMM D015.01Z",
             "CRN": "12578",
             "desc": "CRIT DECISION-MAKING IN GROUPS",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/28/2021",
@@ -5227,7 +5246,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hamilton",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -5235,7 +5254,7 @@
             "course": "COMM D015.01Z",
             "CRN": "12578",
             "desc": "CRIT DECISION-MAKING IN GROUPS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -5244,7 +5263,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hamilton",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -6053,7 +6072,7 @@
             "course": "ECON D001.61Z",
             "CRN": "10195",
             "desc": "PRIN MACROECONOMICS",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -6062,7 +6081,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -7671,7 +7690,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Brennan",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8138,7 +8157,7 @@
             "units": "4.00",
             "instructor": "Irwin",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
@@ -8155,7 +8174,7 @@
             "units": "4.00",
             "instructor": "Irwin",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -8546,7 +8565,7 @@
             "units": "4.00",
             "instructor": "Howard-Pitney",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ]
@@ -10202,7 +10221,7 @@
             "units": "1.00",
             "instructor": "May",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -10591,7 +10610,7 @@
             "units": "5.00",
             "instructor": "Gutierrez",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -10895,7 +10914,7 @@
             "units": "5.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -11362,7 +11381,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mazmanyan",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -11379,7 +11398,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mazmanyan",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -11708,7 +11727,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "James",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12141,7 +12160,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Mattis",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12202,7 +12221,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Santos",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12244,7 +12263,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Mattis",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12322,7 +12341,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Santos",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13393,7 +13412,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Schendan",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -13512,7 +13531,7 @@
             "units": "4.00",
             "instructor": "Clifford Jr",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "8"
           }
         ],
@@ -13531,7 +13550,7 @@
             "units": "4.00",
             "instructor": "Clifford Jr",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "8"
           }
         ],
@@ -14152,7 +14171,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Keiffer-Lewis",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
