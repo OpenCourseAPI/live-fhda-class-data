@@ -17,7 +17,7 @@
             "units": "5.00",
             "instructor": "Butler",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "15"
           }
         ],
@@ -1401,7 +1401,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Price",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -4333,7 +4333,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Threet",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5088,7 +5088,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "4.50",
-            "instructor": "Culbertson",
+            "instructor": "Ikegami",
             "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -5105,48 +5105,10 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "4.50",
-            "instructor": "Ikegami",
+            "instructor": "Culbertson",
             "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
-          }
-        ]
-      },
-      "203": {
-        "10800": [
-          {
-            "course": "EMS F203.01",
-            "CRN": "10800",
-            "desc": "EMT: BASIC CONTINUING ED",
-            "status": "Open",
-            "days": "M",
-            "time": "05:30 PM-09:50 PM",
-            "start": "06/28/2021",
-            "end": "08/06/2021",
-            "room": "SV101",
-            "campus": "FC",
-            "units": "2.50",
-            "instructor": "Chew",
-            "seats": "26",
-            "wait_seats": "2",
-            "wait_cap": "2"
-          },
-          {
-            "course": "EMS F203.01",
-            "CRN": "10800",
-            "desc": "EMT: BASIC CONTINUING ED",
-            "status": "Open",
-            "days": "W",
-            "time": "05:30 PM-08:20 PM",
-            "start": "06/28/2021",
-            "end": "08/06/2021",
-            "room": "SV101",
-            "campus": "FC",
-            "units": "2.50",
-            "instructor": "Chew",
-            "seats": "26",
-            "wait_seats": "2",
-            "wait_cap": "2"
           }
         ]
       },
