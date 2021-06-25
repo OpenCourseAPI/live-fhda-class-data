@@ -1769,7 +1769,7 @@
             "units": "4.00",
             "instructor": "Miller",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "17"
           },
           {
@@ -1786,7 +1786,7 @@
             "units": "4.00",
             "instructor": "Miller",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "17"
           }
         ]
@@ -2127,7 +2127,7 @@
             "course": "BUS D021.61Z",
             "CRN": "12689",
             "desc": "BUSINESS & SOCIETY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -2136,7 +2136,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lilly",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2211,7 +2211,7 @@
             "course": "BUS D060.61Z",
             "CRN": "11527",
             "desc": "INTERNATL BUSINESS MANAGEMENT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -2220,7 +2220,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yurtseven",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -2300,7 +2300,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Takyi",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4140,7 +4140,7 @@
             "course": "CIS D040.01Z",
             "CRN": "12712",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -4149,7 +4149,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Whitehill",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "-3",
             "wait_cap": "0"
           },
@@ -4157,7 +4157,7 @@
             "course": "CIS D040.01Z",
             "CRN": "12712",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Open",
+            "status": "Full",
             "days": "M",
             "time": "03:00 PM-03:50 PM",
             "start": "06/28/2021",
@@ -4166,7 +4166,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Whitehill",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "-3",
             "wait_cap": "0"
           }
@@ -4375,7 +4375,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Forouzan",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "-2",
             "wait_cap": "0"
           }
@@ -5131,7 +5131,7 @@
             "units": "5.00",
             "instructor": "Gainer",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ]
@@ -7506,7 +7506,7 @@
             "course": "EWRT D001A60Z",
             "CRN": "00455",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -7515,7 +7515,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gray",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7969,7 +7969,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Board Liljenstolpe",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -11296,7 +11296,7 @@
             "units": "5.00",
             "instructor": "Moen",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "13",
             "wait_cap": "20"
           }
         ]
@@ -11508,7 +11508,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Krestas",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11603,7 +11603,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bambhania",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -11620,7 +11620,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bambhania",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -12030,7 +12030,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Knoblaugh",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -12108,7 +12108,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Miller",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13833,7 +13833,7 @@
             "course": "REST D050.61Z",
             "CRN": "12888",
             "desc": "REAL ESTATE PRINCIPLES",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -13842,7 +13842,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hatter",
-            "seats": "0",
+            "seats": "10",
             "wait_seats": "-10",
             "wait_cap": "0"
           }
