@@ -322,7 +322,7 @@
             "units": "4.00",
             "instructor": "Gopal",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ]
@@ -4333,7 +4333,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Threet",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4389,7 +4389,7 @@
             "course": "CRLP F007.01W",
             "CRN": "10099",
             "desc": "SELF-ASSESSMENT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -4398,7 +4398,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5701,7 +5701,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hansell",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5954,7 +5954,7 @@
             "course": "HLTH F021.01W",
             "CRN": "10173",
             "desc": "CONTEMPORARY HEALTH CONCERNS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -5963,7 +5963,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Baldwin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "28",
             "wait_cap": "30"
           }
@@ -6209,7 +6209,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kashani",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6367,7 +6367,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Cammin",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -7777,7 +7777,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ward",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8064,7 +8064,7 @@
             "course": "MUS F003A01W",
             "CRN": "10199",
             "desc": "THEORY & MUSICIANSHIP I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -8073,7 +8073,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cratty",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8085,7 +8085,7 @@
             "course": "MUS F008.01W",
             "CRN": "10637",
             "desc": "MUSIC OF AMERICAN CULTURES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -8094,7 +8094,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Barkley",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "10"
           },
@@ -8102,7 +8102,7 @@
             "course": "MUS F008.01W",
             "CRN": "10637",
             "desc": "MUSIC OF AMERICAN CULTURES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -8111,7 +8111,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Carey",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "10"
           }
@@ -8487,7 +8487,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Chiba",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8548,48 +8548,6 @@
             "instructor": "Flannery",
             "seats": "0",
             "wait_seats": "6",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "23A": {
-        "10836": [
-          {
-            "course": "PHED F023A01W",
-            "CRN": "10836",
-            "desc": "TRAIL HIKING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "07/02/2021",
-            "end": "08/06/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Macias",
-            "seats": "27",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "23B": {
-        "10837": [
-          {
-            "course": "PHED F023B01W",
-            "CRN": "10837",
-            "desc": "DAY HIKING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "07/02/2021",
-            "end": "08/06/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Macias",
-            "seats": "31",
-            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -8736,7 +8694,7 @@
             "units": "1.00",
             "instructor": "O'Loughlin",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ]
@@ -9119,7 +9077,7 @@
             "course": "PHOT F005.01W",
             "CRN": "10110",
             "desc": "INTRODUCTION TO PHOTOGRAPHY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -9128,7 +9086,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Peeler",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -9397,7 +9355,7 @@
             "course": "PHYS F006.01W",
             "CRN": "10061",
             "desc": "INTRODUCTORY PHYSICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -9406,8 +9364,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "0",
-            "wait_seats": "1",
+            "seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -10643,7 +10601,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gibbs Stayte",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11427,7 +11385,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "St Onge-Cole",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
