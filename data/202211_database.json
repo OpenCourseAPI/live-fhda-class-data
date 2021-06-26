@@ -282,7 +282,7 @@
             "units": "5.00",
             "instructor": "Ghodrat",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ],
@@ -425,7 +425,7 @@
             "units": "5.00",
             "instructor": "Novikov",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ]
@@ -505,7 +505,7 @@
             "units": "5.00",
             "instructor": "Sturgess",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ],
@@ -1519,8 +1519,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Neff",
-            "seats": "1",
-            "wait_seats": "16",
+            "seats": "2",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ]
@@ -1561,7 +1561,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -1884,7 +1884,7 @@
             "course": "ART F004B03Z",
             "CRN": "10651",
             "desc": "INTERMEDIATE DRAWING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -1893,7 +1893,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -1901,7 +1901,7 @@
             "course": "ART F004B03Z",
             "CRN": "10651",
             "desc": "INTERMEDIATE DRAWING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "S",
             "time": "09:00 AM-10:50 AM",
             "start": "06/28/2021",
@@ -1910,7 +1910,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3730,7 +3730,7 @@
             "course": "CHEM F030A03V",
             "CRN": "10693",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWTh",
             "time": "12:00 PM-01:50 PM",
             "start": "06/28/2021",
@@ -3739,7 +3739,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cormia",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -3747,7 +3747,7 @@
             "course": "CHEM F030A03V",
             "CRN": "10693",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "02:00 PM-04:50 PM",
             "start": "06/28/2021",
@@ -3756,7 +3756,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cormia",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -3775,7 +3775,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cormia",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -3792,7 +3792,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cormia",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -3860,7 +3860,7 @@
             "units": "4.00",
             "instructor": "Carducci",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ]
@@ -5426,7 +5426,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Herman",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -5701,7 +5701,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hansell",
-            "seats": "6",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5759,7 +5759,7 @@
             "course": "GID F033.01W",
             "CRN": "10350",
             "desc": "GRAPHIC DESIGN STUDIO I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -5768,9 +5768,9 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "30"
+            "seats": "21",
+            "wait_seats": "-20",
+            "wait_cap": "0"
           }
         ]
       },
@@ -5780,7 +5780,7 @@
             "course": "GID F055.01W",
             "CRN": "10351",
             "desc": "USER EXPRNCE (UI/UX) DESIGN",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -5789,9 +5789,9 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "0",
-            "wait_seats": "20",
-            "wait_cap": "30"
+            "seats": "10",
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ]
       },
@@ -5878,7 +5878,7 @@
             "units": "4.00",
             "instructor": "Marder",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "8",
             "wait_cap": "20"
           }
         ]
@@ -8558,7 +8558,7 @@
             "course": "PHED F024.01",
             "CRN": "10706",
             "desc": "INTRODUCTION TO GOLF",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "S",
             "time": "09:00 AM-01:50 PM",
             "start": "06/28/2021",
@@ -8567,7 +8567,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Durbin",
-            "seats": "0",
+            "seats": "2",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -9317,7 +9317,7 @@
             "course": "PHYS F004B04V",
             "CRN": "10375",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "10:30 AM-12:45 PM",
             "start": "06/28/2021",
@@ -9327,14 +9327,14 @@
             "units": "6.00",
             "instructor": "Ho",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           },
           {
             "course": "PHYS F004B04V",
             "CRN": "10375",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "01:00 PM-03:50 PM",
             "start": "06/28/2021",
@@ -9344,7 +9344,7 @@
             "units": "6.00",
             "instructor": "Ho",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -10620,7 +10620,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "23",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10861,7 +10861,7 @@
             "units": "5.00",
             "instructor": "Crespo-Martin",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "25"
           }
         ]
