@@ -104,7 +104,7 @@
             "course": "ACCT D001B61Z",
             "CRN": "10304",
             "desc": "FINAN ACCOUNTG II",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -113,7 +113,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Botsford",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "-1",
             "wait_cap": "0"
           }
@@ -419,7 +419,7 @@
             "course": "ANTH D001.50Z",
             "CRN": "13059",
             "desc": "PHYS ANTHRO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -428,8 +428,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mabie",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "2"
           }
         ],
@@ -708,7 +708,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -1330,7 +1330,7 @@
             "course": "BIOL D006C01Z",
             "CRN": "00079",
             "desc": "ECOLOGY AND EVOLUTION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "09:30 AM-12:20 PM",
             "start": "06/28/2021",
@@ -1339,15 +1339,15 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Heyer",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           },
           {
             "course": "BIOL D006C01Z",
             "CRN": "00079",
             "desc": "ECOLOGY AND EVOLUTION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -1356,8 +1356,8 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Heyer",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ]
@@ -1459,7 +1459,7 @@
             "course": "BIOL D010.51Z",
             "CRN": "12784",
             "desc": "INTRO BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -1468,8 +1468,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bram",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ],
@@ -8017,7 +8017,7 @@
             "course": "EWRT D002.70Z",
             "CRN": "12421",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -8026,8 +8026,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Giardino",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -8559,7 +8559,7 @@
             "units": "4.00",
             "instructor": "Mujal",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ]
@@ -9350,7 +9350,7 @@
             "course": "HUMI D009.61Z",
             "CRN": "01104",
             "desc": "INTRO TO COMPARATIVE RELIGION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -9359,8 +9359,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Clinchard",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -10577,7 +10577,7 @@
             "course": "MATH D001A52Z",
             "CRN": "12532",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -10587,7 +10587,7 @@
             "units": "5.00",
             "instructor": "Markus",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -11210,7 +11210,7 @@
             "course": "MATH D010.52Z",
             "CRN": "12580",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -11219,8 +11219,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ky",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -11752,7 +11752,7 @@
             "course": "MET D010.65Z",
             "CRN": "11744",
             "desc": "WEATHER AND CLIMATE PROCESSES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -11761,7 +11761,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "James",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11773,7 +11773,7 @@
             "course": "MET D010L61Z",
             "CRN": "12805",
             "desc": "METEOROLOGY LAB",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -11782,8 +11782,8 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Mullens",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -11965,7 +11965,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Rowe",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13418,7 +13418,7 @@
             "course": "POLI D001.61Z",
             "CRN": "12510",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -13427,8 +13427,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chin",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ],
@@ -13491,7 +13491,7 @@
             "units": "4.00",
             "instructor": "Firpo",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "8"
           },
           {
@@ -13508,7 +13508,7 @@
             "units": "4.00",
             "instructor": "Firpo",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "8"
           }
         ],
@@ -13536,7 +13536,7 @@
             "course": "PSYC D001.51Z",
             "CRN": "00910",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -13545,8 +13545,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Trafalis",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "8"
           }
         ],
@@ -13921,7 +13921,7 @@
             "course": "SOC D001.50Z",
             "CRN": "10960",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -13930,8 +13930,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -14184,7 +14184,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Chow",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
