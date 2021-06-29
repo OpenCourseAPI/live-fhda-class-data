@@ -715,25 +715,6 @@
         ]
       },
       "413Y": {
-        "10268": [
-          {
-            "course": "ALCB F413Y01V",
-            "CRN": "10268",
-            "desc": "RELAXATION TECHNIQUES",
-            "status": "Open",
-            "days": "F",
-            "time": "10:00 AM-12:25 PM",
-            "start": "06/28/2021",
-            "end": "09/03/2021",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "O'Loughlin",
-            "seats": "2",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10269": [
           {
             "course": "ALCB F413Y02V",
@@ -865,6 +846,25 @@
             "units": "0.00",
             "instructor": "Peterson",
             "seats": "16",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10847": [
+          {
+            "course": "ALCB F414Y06V",
+            "CRN": "10847",
+            "desc": "STRESS MANAGEMENT",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/28/2021",
+            "end": "09/03/2021",
+            "room": "",
+            "campus": "",
+            "units": "0.00",
+            "instructor": "Staff",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1519,8 +1519,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Neff",
-            "seats": "5",
-            "wait_seats": "18",
+            "seats": "4",
+            "wait_seats": "19",
             "wait_cap": "20"
           }
         ]
@@ -2808,7 +2808,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Firenzi",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -2869,7 +2869,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Wang-Nava",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3255,7 +3255,7 @@
             "units": "4.50",
             "instructor": "Weusijana",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -3266,7 +3266,7 @@
             "course": "C S F030A02W",
             "CRN": "10116",
             "desc": "INTRODUCTION TO LINUX",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -3275,8 +3275,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -3297,7 +3297,7 @@
             "units": "4.50",
             "instructor": "Ibrahim",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -3817,8 +3817,8 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "2",
-            "wait_seats": "13",
+            "seats": "1",
+            "wait_seats": "14",
             "wait_cap": "20"
           }
         ]
@@ -4377,7 +4377,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4842,8 +4842,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sandhu",
-            "seats": "3",
-            "wait_seats": "17",
+            "seats": "2",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ]
@@ -5828,7 +5828,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Treanor",
-            "seats": "3",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "2"
           }
@@ -5887,7 +5887,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryan",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -6562,7 +6562,7 @@
             "course": "KINS F009.01W",
             "CRN": "10094",
             "desc": "BASIC NUTRITION SPORTS/FITNESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -6571,7 +6571,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mac Neil",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7197,7 +7197,7 @@
             "units": "5.00",
             "instructor": "Litrus",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -7969,7 +7969,7 @@
             "course": "MUS F003A01W",
             "CRN": "10199",
             "desc": "THEORY & MUSICIANSHIP I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/28/2021",
@@ -7978,7 +7978,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cratty",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8536,7 +8536,7 @@
             "units": "1.00",
             "instructor": "O'Loughlin",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
