@@ -6338,7 +6338,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Mazloom",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6355,7 +6355,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Mazloom",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9559,7 +9559,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Clemmons",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18835,7 +18835,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Witschorik",
-            "seats": "38",
+            "seats": "37",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25575,7 +25575,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Paulos",
-            "seats": "48",
+            "seats": "47",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -27787,45 +27787,28 @@
             "CRN": "20602",
             "desc": "INT SCENERY & PROPERTY CONSTRU",
             "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Mc Leod",
+            "seats": "10",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "THTR F021B01Y",
+            "CRN": "20602",
+            "desc": "INT SCENERY & PROPERTY CONSTRU",
+            "status": "Open",
             "days": "W",
             "time": "01:30 PM-04:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "8002",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Mc Leod",
-            "seats": "10",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "THTR F021B01Y",
-            "CRN": "20602",
-            "desc": "INT SCENERY & PROPERTY CONSTRU",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Mc Leod",
-            "seats": "10",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "THTR F021B01Y",
-            "CRN": "20602",
-            "desc": "INT SCENERY & PROPERTY CONSTRU",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Mc Leod",
@@ -27842,6 +27825,23 @@
             "CRN": "20603",
             "desc": "ADV SCENERY & PROPERTIES CONST",
             "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Mc Leod",
+            "seats": "30",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "THTR F021C01Y",
+            "CRN": "20603",
+            "desc": "ADV SCENERY & PROPERTIES CONST",
+            "status": "Open",
             "days": "W",
             "time": "01:30 PM-04:20 PM",
             "start": "09/20/2021",
@@ -27853,45 +27853,28 @@
             "seats": "30",
             "wait_seats": "5",
             "wait_cap": "5"
-          },
-          {
-            "course": "THTR F021C01Y",
-            "CRN": "20603",
-            "desc": "ADV SCENERY & PROPERTIES CONST",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Mc Leod",
-            "seats": "30",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "THTR F021C01Y",
-            "CRN": "20603",
-            "desc": "ADV SCENERY & PROPERTIES CONST",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Mc Leod",
-            "seats": "30",
-            "wait_seats": "5",
-            "wait_cap": "5"
           }
         ]
       },
       "40A": {
         "21783": [
+          {
+            "course": "THTR F040A01Y",
+            "CRN": "21783",
+            "desc": "BASIC THEATRICAL MAKEUP",
+            "status": "Open",
+            "days": "Th",
+            "time": "01:30 PM-02:20 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "1001",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Engelbrecht",
+            "seats": "29",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
           {
             "course": "THTR F040A01Y",
             "CRN": "21783",
@@ -27931,23 +27914,6 @@
             "CRN": "21783",
             "desc": "BASIC THEATRICAL MAKEUP",
             "status": "Open",
-            "days": "Th",
-            "time": "01:30 PM-02:20 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "1001",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Engelbrecht",
-            "seats": "29",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "THTR F040A01Y",
-            "CRN": "21783",
-            "desc": "BASIC THEATRICAL MAKEUP",
-            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -27969,8 +27935,8 @@
             "CRN": "21808",
             "desc": "THEATRICAL MAKEUP FOR PRODUCTN",
             "status": "Open",
-            "days": "Th",
-            "time": "01:30 PM-02:20 PM",
+            "days": "T",
+            "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "1001",
@@ -27986,8 +27952,8 @@
             "CRN": "21808",
             "desc": "THEATRICAL MAKEUP FOR PRODUCTN",
             "status": "Open",
-            "days": "T",
-            "time": "01:30 PM-03:20 PM",
+            "days": "Th",
+            "time": "01:30 PM-02:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "1001",
@@ -28225,6 +28191,69 @@
             "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
+          }
+        ]
+      },
+      "49A": {
+        "21834": [
+          {
+            "course": "THTR F049A01",
+            "CRN": "21834",
+            "desc": "PERFORMANCE PRODUCTION I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "8002",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Mc Leod",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ]
+      },
+      "49B": {
+        "21835": [
+          {
+            "course": "THTR F049B01",
+            "CRN": "21835",
+            "desc": "PERFORMANCE PRODUCTION II",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "8002",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Mc Leod",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ]
+      },
+      "49C": {
+        "21836": [
+          {
+            "course": "THTR F049C01",
+            "CRN": "21836",
+            "desc": "PERFORMANCE PRODUCTION III",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "8002",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Staff",
+            "seats": "35",
+            "wait_seats": "10",
+            "wait_cap": "10"
           }
         ]
       },
