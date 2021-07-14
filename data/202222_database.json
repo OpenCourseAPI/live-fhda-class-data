@@ -308,7 +308,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Osborne",
-            "seats": "34",
+            "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1022,7 +1022,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Botsford",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11284,7 +11284,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11301,7 +11301,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11318,7 +11318,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15780,7 +15780,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Kelly",
-            "seats": "35",
+            "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -15797,7 +15797,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Kelly",
-            "seats": "35",
+            "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -15814,7 +15814,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Kelly",
-            "seats": "35",
+            "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -16274,7 +16274,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Gallegos",
-            "seats": "46",
+            "seats": "47",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -18627,23 +18627,23 @@
   "ELIT": {
     "1": {
       "10": {
-        "23863": [
+        "26814": [
           {
-            "course": "ELIT D010.50",
-            "CRN": "23863",
+            "course": "ELIT D010.01Y",
+            "CRN": "26814",
             "desc": "INTRO TO FICTION",
-            "status": "Full",
-            "days": "MTWTh",
-            "time": "09:30 AM-10:20 AM",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "LCW16",
-            "campus": "DA",
+            "room": "",
+            "campus": "",
             "units": "4.00",
-            "instructor": "Fleming",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "instructor": "Staff",
+            "seats": "50",
+            "wait_seats": "6",
+            "wait_cap": "6"
           }
         ],
         "00674": [
@@ -18660,7 +18660,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Quinn",
-            "seats": "50",
+            "seats": "49",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21405,7 +21405,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Penkethman",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -21422,7 +21422,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Penkethman",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23347,11 +23347,11 @@
             "CRN": "21999",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "T",
+            "days": "Th",
             "time": "10:30 AM-12:45 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "MLC260",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Agius",
@@ -23364,11 +23364,11 @@
             "CRN": "21999",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "Th",
+            "days": "T",
             "time": "10:30 AM-12:45 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "ONLINE",
+            "room": "MLC260",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Agius",
@@ -23474,8 +23474,8 @@
             "CRN": "00881",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "W",
-            "time": "09:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -23491,8 +23491,8 @@
             "CRN": "00881",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "09:30 AM-11:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -23753,8 +23753,8 @@
             "CRN": "02690",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:30 AM-11:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -23770,8 +23770,8 @@
             "CRN": "02690",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "MW",
-            "time": "10:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -23897,11 +23897,11 @@
             "CRN": "24606",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "W",
-            "time": "01:30 PM-03:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "SEM2",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cragen",
@@ -23914,11 +23914,11 @@
             "CRN": "24606",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "01:30 PM-03:45 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "ONLINE",
+            "room": "SEM2",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cragen",
@@ -23933,11 +23933,11 @@
             "CRN": "24572",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "01:30 PM-03:45 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "ONLINE",
+            "room": "SEM2",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cragen",
@@ -23950,11 +23950,11 @@
             "CRN": "24572",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "Th",
-            "time": "01:30 PM-03:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "SEM2",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cragen",
@@ -24094,44 +24094,6 @@
             "seats": "30",
             "wait_seats": "5",
             "wait_cap": "5"
-          }
-        ],
-        "23987": [
-          {
-            "course": "EWRT D002.58",
-            "CRN": "23987",
-            "desc": "CRIT READ, WRIT & THINK",
-            "status": "Full",
-            "days": "MTWThF",
-            "time": "10:30 AM-11:20 AM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "LCW16",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Fleming",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "24409": [
-          {
-            "course": "EWRT D002.59",
-            "CRN": "24409",
-            "desc": "CRIT READ, WRIT & THINK",
-            "status": "Full",
-            "days": "MTWThF",
-            "time": "11:30 AM-12:20 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "LCW16",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Fleming",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ],
         "24410": [
@@ -26155,7 +26117,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pham",
-            "seats": "49",
+            "seats": "48",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -26406,7 +26368,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nguyen",
-            "seats": "47",
+            "seats": "46",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -26610,7 +26572,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gupta",
-            "seats": "33",
+            "seats": "34",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -28314,7 +28276,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Huynh",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -31992,7 +31954,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Penkethman",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -33276,7 +33238,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yu",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34102,7 +34064,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yarahmadi",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34581,7 +34543,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shukla",
-            "seats": "38",
+            "seats": "37",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35147,7 +35109,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mesh",
-            "seats": "35",
+            "seats": "36",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35244,7 +35206,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Moen",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35284,7 +35246,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Du",
-            "seats": "38",
+            "seats": "37",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35303,7 +35265,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shi",
-            "seats": "38",
+            "seats": "39",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -36405,7 +36367,7 @@
             "campus": "DA",
             "units": "2.50",
             "instructor": "Mesh",
-            "seats": "35",
+            "seats": "36",
             "wait_seats": "6",
             "wait_cap": "6"
           }
