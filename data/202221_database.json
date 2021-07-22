@@ -2954,7 +2954,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6545,7 +6545,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Meade",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6700,7 +6700,7 @@
             "units": "4.50",
             "instructor": "Harden",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -7142,7 +7142,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7584,7 +7584,7 @@
             "course": "CHEM F001A05W",
             "CRN": "21677",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7593,7 +7593,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Esfandiari",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "10"
           }
@@ -8210,7 +8210,7 @@
             "course": "CHEM F030A03W",
             "CRN": "20615",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -8219,7 +8219,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9161,7 +9161,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9992,7 +9992,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10234,7 +10234,7 @@
             "course": "COMM F012.01W",
             "CRN": "20438",
             "desc": "INTERCULTURAL COMMUNICATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -10243,7 +10243,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Velasco",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10367,7 +10367,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -10582,8 +10582,8 @@
             "CRN": "21875",
             "desc": "INTRO TO CHAIRSIDE DENTAL ASSI",
             "status": "Open",
-            "days": "W",
-            "time": "09:00 AM-11:20 AM",
+            "days": "M",
+            "time": "08:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
@@ -10633,8 +10633,8 @@
             "CRN": "21875",
             "desc": "INTRO TO CHAIRSIDE DENTAL ASSI",
             "status": "Open",
-            "days": "M",
-            "time": "08:00 AM-11:50 AM",
+            "days": "W",
+            "time": "09:00 AM-11:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
@@ -10765,6 +10765,23 @@
             "room": "5113",
             "campus": "FH",
             "units": "3.00",
+            "instructor": "Barao",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "D A F053A01",
+            "CRN": "21877",
+            "desc": "INTRODUCTION TO RADIOGRAPHY I",
+            "status": "Open",
+            "days": "M",
+            "time": "02:00 PM-02:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "3.00",
             "instructor": "Yamamoto",
             "seats": "12",
             "wait_seats": "5",
@@ -10793,40 +10810,6 @@
             "desc": "INTRODUCTION TO RADIOGRAPHY I",
             "status": "Open",
             "days": "M",
-            "time": "02:00 PM-02:50 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "5113",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Barao",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "D A F053A01",
-            "CRN": "21877",
-            "desc": "INTRODUCTION TO RADIOGRAPHY I",
-            "status": "Open",
-            "days": "M",
-            "time": "03:00 PM-04:50 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "5304",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Barao",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "D A F053A01",
-            "CRN": "21877",
-            "desc": "INTRODUCTION TO RADIOGRAPHY I",
-            "status": "Open",
-            "days": "M",
             "time": "03:00 PM-04:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
@@ -10834,6 +10817,23 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Yamamoto",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "D A F053A01",
+            "CRN": "21877",
+            "desc": "INTRODUCTION TO RADIOGRAPHY I",
+            "status": "Open",
+            "days": "M",
+            "time": "03:00 PM-04:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5304",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Barao",
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -10993,8 +10993,8 @@
             "CRN": "21882",
             "desc": "INFECTION CONTRL/HAZ WASTE MGM",
             "status": "Open",
-            "days": "T",
-            "time": "12:35 PM-01:50 PM",
+            "days": "F",
+            "time": "09:00 AM-10:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
@@ -11010,8 +11010,8 @@
             "CRN": "21882",
             "desc": "INFECTION CONTRL/HAZ WASTE MGM",
             "status": "Open",
-            "days": "F",
-            "time": "09:00 AM-10:50 AM",
+            "days": "T",
+            "time": "12:35 PM-01:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
@@ -11021,6 +11021,42 @@
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
+          }
+        ],
+        "21884": [
+          {
+            "course": "D A F071.03A",
+            "CRN": "21884",
+            "desc": "INFECTION CONTRL/HAZ WASTE MGM",
+            "status": "Full",
+            "days": "F",
+            "time": "08:00 AM-09:20 AM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "1.50",
+            "instructor": "Daniel",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "D A F071.03A",
+            "CRN": "21884",
+            "desc": "INFECTION CONTRL/HAZ WASTE MGM",
+            "status": "Full",
+            "days": "S",
+            "time": "09:00 AM-11:50 AM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "1.50",
+            "instructor": "Daniel",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -11034,7 +11070,7 @@
             "days": "FS",
             "time": "01:00 PM-03:50 PM",
             "start": "09/20/2021",
-            "end": "10/29/2021",
+            "end": "10/30/2021",
             "room": "5113",
             "campus": "FH",
             "units": "1.00",
@@ -14218,7 +14254,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lewis",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -16824,7 +16860,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Staff",
-            "seats": "46",
+            "seats": "45",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -18770,7 +18806,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24663,7 +24699,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "29",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -26157,7 +26193,7 @@
             "course": "PSYC F010.01W",
             "CRN": "20963",
             "desc": "RESEARCH METHODS & DESIGNS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -26166,7 +26202,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Bauermeister",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -27538,7 +27574,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Abel",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "20",
             "wait_cap": "20"
           }
