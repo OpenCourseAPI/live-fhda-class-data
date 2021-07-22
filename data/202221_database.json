@@ -7965,7 +7965,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7982,7 +7982,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8457,7 +8457,7 @@
             "units": "5.00",
             "instructor": "Miller",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
@@ -8474,7 +8474,7 @@
             "units": "5.00",
             "instructor": "Miller",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -8492,7 +8492,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Miller",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8509,7 +8509,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Miller",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8650,7 +8650,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kennedy",
-            "seats": "45",
+            "seats": "44",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10367,7 +10367,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -10582,23 +10582,6 @@
             "CRN": "21875",
             "desc": "INTRO TO CHAIRSIDE DENTAL ASSI",
             "status": "Open",
-            "days": "W",
-            "time": "09:00 AM-11:20 AM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "5113",
-            "campus": "FH",
-            "units": "10.50",
-            "instructor": "Miyasaki",
-            "seats": "24",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "D A F051A01",
-            "CRN": "21875",
-            "desc": "INTRO TO CHAIRSIDE DENTAL ASSI",
-            "status": "Open",
             "days": "M",
             "time": "08:00 AM-11:50 AM",
             "start": "09/20/2021",
@@ -10616,14 +10599,14 @@
             "CRN": "21875",
             "desc": "INTRO TO CHAIRSIDE DENTAL ASSI",
             "status": "Open",
-            "days": "F",
-            "time": "11:00 AM-04:50 PM",
+            "days": "W",
+            "time": "09:00 AM-11:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
             "campus": "FH",
             "units": "10.50",
-            "instructor": "Staff",
+            "instructor": "Miyasaki",
             "seats": "24",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -10641,6 +10624,23 @@
             "campus": "FH",
             "units": "10.50",
             "instructor": "Daniel",
+            "seats": "24",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "D A F051A01",
+            "CRN": "21875",
+            "desc": "INTRO TO CHAIRSIDE DENTAL ASSI",
+            "status": "Open",
+            "days": "F",
+            "time": "11:00 AM-04:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "10.50",
+            "instructor": "Staff",
             "seats": "24",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -10703,14 +10703,14 @@
             "CRN": "21876",
             "desc": "INTRO TO CHAIRSIDE DENTAL ASSI",
             "status": "Open",
-            "days": "Th",
-            "time": "09:00 AM-12:50 PM",
+            "days": "W",
+            "time": "02:00 PM-04:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "5113",
+            "room": "5301",
             "campus": "FH",
             "units": "10.50",
-            "instructor": "Daniel",
+            "instructor": "Ho",
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -10737,14 +10737,14 @@
             "CRN": "21876",
             "desc": "INTRO TO CHAIRSIDE DENTAL ASSI",
             "status": "Open",
-            "days": "W",
-            "time": "02:00 PM-04:50 PM",
+            "days": "Th",
+            "time": "09:00 AM-12:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "5301",
+            "room": "5113",
             "campus": "FH",
             "units": "10.50",
-            "instructor": "Ho",
+            "instructor": "Daniel",
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -10753,6 +10753,23 @@
       },
       "53A": {
         "21877": [
+          {
+            "course": "D A F053A01",
+            "CRN": "21877",
+            "desc": "INTRODUCTION TO RADIOGRAPHY I",
+            "status": "Open",
+            "days": "T",
+            "time": "08:00 AM-09:50 AM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5501",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Yamamoto",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
           {
             "course": "D A F053A01",
             "CRN": "21877",
@@ -10797,23 +10814,6 @@
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Yamamoto",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "D A F053A01",
-            "CRN": "21877",
-            "desc": "INTRODUCTION TO RADIOGRAPHY I",
-            "status": "Open",
-            "days": "T",
-            "time": "08:00 AM-09:50 AM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "5501",
             "campus": "FH",
             "units": "3.00",
             "instructor": "Yamamoto",
@@ -10863,27 +10863,10 @@
             "desc": "INTRODUCTION TO RADIOGRAPHY I",
             "status": "Open",
             "days": "W",
-            "time": "02:00 PM-02:50 PM",
+            "time": "03:00 PM-04:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "5113",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Yamamoto",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "D A F053A02",
-            "CRN": "21880",
-            "desc": "INTRODUCTION TO RADIOGRAPHY I",
-            "status": "Open",
-            "days": "W",
-            "time": "02:00 PM-02:50 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "5113",
+            "room": "5304",
             "campus": "FH",
             "units": "3.00",
             "instructor": "Barao",
@@ -10914,13 +10897,30 @@
             "desc": "INTRODUCTION TO RADIOGRAPHY I",
             "status": "Open",
             "days": "W",
-            "time": "03:00 PM-04:50 PM",
+            "time": "02:00 PM-02:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "5304",
+            "room": "5113",
             "campus": "FH",
             "units": "3.00",
             "instructor": "Barao",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "D A F053A02",
+            "CRN": "21880",
+            "desc": "INTRODUCTION TO RADIOGRAPHY I",
+            "status": "Open",
+            "days": "W",
+            "time": "02:00 PM-02:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Yamamoto",
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -10986,6 +10986,63 @@
           }
         ]
       },
+      "65": {
+        "21886": [
+          {
+            "course": "D A F065.01A",
+            "CRN": "21886",
+            "desc": "D A APPRENTICE CLINIC SKILLS I",
+            "status": "Full",
+            "days": "S",
+            "time": "08:00 AM-03:50 PM",
+            "start": "11/06/2021",
+            "end": "12/11/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "D A F065.01A",
+            "CRN": "21886",
+            "desc": "D A APPRENTICE CLINIC SKILLS I",
+            "status": "Full",
+            "days": "F",
+            "time": "09:30 AM-11:20 AM",
+            "start": "11/06/2021",
+            "end": "12/11/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "21887": [
+          {
+            "course": "D A F065.02A",
+            "CRN": "21887",
+            "desc": "D A APPRENTICE CLINIC SKILLS I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "11/06/2021",
+            "end": "12/11/2021",
+            "room": "",
+            "campus": "",
+            "units": "2.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "71": {
         "21882": [
           {
@@ -11029,14 +11086,14 @@
             "CRN": "21884",
             "desc": "INFECTION CONTRL/HAZ WASTE MGM",
             "status": "Full",
-            "days": "F",
-            "time": "08:00 AM-09:20 AM",
+            "days": "S",
+            "time": "09:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
             "campus": "FH",
             "units": "1.50",
-            "instructor": "Daniel",
+            "instructor": "Staff",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -11046,14 +11103,14 @@
             "CRN": "21884",
             "desc": "INFECTION CONTRL/HAZ WASTE MGM",
             "status": "Full",
-            "days": "S",
-            "time": "09:00 AM-11:50 AM",
+            "days": "F",
+            "time": "08:00 AM-09:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
             "campus": "FH",
             "units": "1.50",
-            "instructor": "Staff",
+            "instructor": "Daniel",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -11065,14 +11122,14 @@
             "CRN": "21885",
             "desc": "INFECTION CONTRL/HAZ WASTE MGM",
             "status": "Full",
-            "days": "F",
-            "time": "08:00 AM-09:20 AM",
+            "days": "S",
+            "time": "09:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
             "campus": "FH",
             "units": "1.50",
-            "instructor": "Daniel",
+            "instructor": "Staff",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -11082,14 +11139,14 @@
             "CRN": "21885",
             "desc": "INFECTION CONTRL/HAZ WASTE MGM",
             "status": "Full",
-            "days": "S",
-            "time": "09:00 AM-11:50 AM",
+            "days": "F",
+            "time": "08:00 AM-09:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
             "campus": "FH",
             "units": "1.50",
-            "instructor": "Staff",
+            "instructor": "Daniel",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -11900,7 +11957,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Adams",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15297,7 +15354,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Aguilar",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -16016,7 +16073,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fung",
-            "seats": "42",
+            "seats": "41",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -16614,7 +16671,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Dargahi",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -18804,7 +18861,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Williams",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18920,7 +18977,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Williams",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19447,7 +19504,7 @@
             "course": "MATH F010.09W",
             "CRN": "20647",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -19456,7 +19513,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20198,7 +20255,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gray",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -24925,7 +24982,7 @@
             "units": "5.00",
             "instructor": "Fors",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
@@ -24942,7 +24999,7 @@
             "units": "5.00",
             "instructor": "Marasco",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -25148,7 +25205,7 @@
             "course": "PHYS F004A04",
             "CRN": "20161",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "W",
             "time": "01:00 PM-03:50 PM",
             "start": "09/20/2021",
@@ -25157,7 +25214,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Judd",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           },
@@ -25165,7 +25222,7 @@
             "course": "PHYS F004A04",
             "CRN": "20161",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "05:00 PM-07:15 PM",
             "start": "09/20/2021",
@@ -25174,7 +25231,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Judd",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -25873,7 +25930,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Petcu",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -25890,7 +25947,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Petcu",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "20",
             "wait_cap": "20"
           }
