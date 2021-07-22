@@ -490,7 +490,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ghodrat",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -7026,7 +7026,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Yang",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7043,7 +7043,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Yang",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8650,7 +8650,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kennedy",
-            "seats": "46",
+            "seats": "45",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10758,6 +10758,23 @@
             "CRN": "21877",
             "desc": "INTRODUCTION TO RADIOGRAPHY I",
             "status": "Open",
+            "days": "M",
+            "time": "02:00 PM-02:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Yamamoto",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "D A F053A01",
+            "CRN": "21877",
+            "desc": "INTRODUCTION TO RADIOGRAPHY I",
+            "status": "Open",
             "days": "T",
             "time": "08:00 AM-09:50 AM",
             "start": "09/20/2021",
@@ -10782,7 +10799,7 @@
             "room": "5113",
             "campus": "FH",
             "units": "3.00",
-            "instructor": "Yamamoto",
+            "instructor": "Barao",
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -10817,23 +10834,6 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Yamamoto",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "D A F053A01",
-            "CRN": "21877",
-            "desc": "INTRODUCTION TO RADIOGRAPHY I",
-            "status": "Open",
-            "days": "M",
-            "time": "02:00 PM-02:50 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "5113",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Barao",
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -10956,7 +10956,7 @@
             "desc": "DENTAL SCIENCES I",
             "status": "Open",
             "days": "T",
-            "time": "11:00 AM-11:50 AM",
+            "time": "09:00 AM-10:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
@@ -10973,7 +10973,7 @@
             "desc": "DENTAL SCIENCES I",
             "status": "Open",
             "days": "T",
-            "time": "09:00 AM-10:50 AM",
+            "time": "11:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
@@ -10993,8 +10993,8 @@
             "CRN": "21882",
             "desc": "INFECTION CONTRL/HAZ WASTE MGM",
             "status": "Open",
-            "days": "F",
-            "time": "09:00 AM-10:50 AM",
+            "days": "T",
+            "time": "12:35 PM-01:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
@@ -11010,8 +11010,8 @@
             "CRN": "21882",
             "desc": "INFECTION CONTRL/HAZ WASTE MGM",
             "status": "Open",
-            "days": "T",
-            "time": "12:35 PM-01:50 PM",
+            "days": "F",
+            "time": "09:00 AM-10:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
@@ -11021,6 +11021,27 @@
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
+          }
+        ]
+      },
+      "200L": {
+        "21883": [
+          {
+            "course": "D A F200L01A",
+            "CRN": "21883",
+            "desc": "GUIDE FOR SUCCESS: D A PREREQ",
+            "status": "Full",
+            "days": "FS",
+            "time": "01:00 PM-03:50 PM",
+            "start": "09/20/2021",
+            "end": "10/29/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
@@ -11767,7 +11788,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sohn",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -18770,7 +18791,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nghiem",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18799,7 +18820,7 @@
             "course": "MATH F001B03W",
             "CRN": "20637",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -18808,7 +18829,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Williams",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19612,7 +19633,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Witschorik",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19690,7 +19711,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sukumar",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20126,7 +20147,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Sukumar",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20591,7 +20612,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24423,7 +24444,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jordahl",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -27517,7 +27538,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Abel",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -28252,7 +28273,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Crespo-Martin",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -29101,7 +29122,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Gregory",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -29164,7 +29185,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Staff",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -29293,7 +29314,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "St Onge-Cole",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -29310,7 +29331,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Morgan",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -29327,7 +29348,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "St Onge-Cole",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -29705,7 +29726,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Eshman",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
