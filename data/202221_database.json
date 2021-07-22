@@ -288,7 +288,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ardizzone",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -816,7 +816,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lui",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2341,7 +2341,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Wolf",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -2358,7 +2358,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Wolf",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6857,7 +6857,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6874,7 +6874,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8394,7 +8394,7 @@
             "course": "CHEM F030B01T",
             "CRN": "21693",
             "desc": "SURVEY OF ORGANIC/BIOCHEM",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "M",
             "time": "06:30 PM-08:20 PM",
             "start": "09/20/2021",
@@ -8403,7 +8403,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           },
@@ -8411,7 +8411,7 @@
             "course": "CHEM F030B01T",
             "CRN": "21693",
             "desc": "SURVEY OF ORGANIC/BIOCHEM",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "06:30 PM-09:20 PM",
             "start": "09/20/2021",
@@ -8420,7 +8420,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           },
@@ -8428,7 +8428,7 @@
             "course": "CHEM F030B01T",
             "CRN": "21693",
             "desc": "SURVEY OF ORGANIC/BIOCHEM",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -8437,7 +8437,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -8475,6 +8475,25 @@
             "instructor": "Miller",
             "seats": "0",
             "wait_seats": "0",
+            "wait_cap": "10"
+          }
+        ],
+        "21879": [
+          {
+            "course": "CHEM F030B03V",
+            "CRN": "21879",
+            "desc": "SURVEY OF ORGANIC/BIOCHEM",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "32",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -9821,7 +9840,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Firenzi",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12934,6 +12953,42 @@
             "wait_cap": "25"
           }
         ],
+        "21878": [
+          {
+            "course": "ENGL F001A12R",
+            "CRN": "21878",
+            "desc": "COMPOSITION & READING",
+            "status": "Open",
+            "days": "MW",
+            "time": "12:00 PM-01:25 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5501",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "30",
+            "wait_seats": "25",
+            "wait_cap": "25"
+          },
+          {
+            "course": "ENGL F001A12R",
+            "CRN": "21878",
+            "desc": "COMPOSITION & READING",
+            "status": "Open",
+            "days": "F",
+            "time": "12:00 PM-01:25 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "30",
+            "wait_seats": "25",
+            "wait_cap": "25"
+          }
+        ],
         "21301": [
           {
             "course": "ENGL F001A18W",
@@ -12959,11 +13014,11 @@
             "CRN": "21851",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "10:00 AM-11:50 AM",
+            "days": "F",
+            "time": "11:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "5612",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Staff",
@@ -12976,11 +13031,11 @@
             "CRN": "21851",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "F",
-            "time": "11:00 AM-11:50 AM",
+            "days": "TTh",
+            "time": "10:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "ONLINE",
+            "room": "5612",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Staff",
@@ -13090,8 +13145,8 @@
             "CRN": "20717",
             "desc": "COMPOSITION & READING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "10:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -13107,8 +13162,8 @@
             "CRN": "20717",
             "desc": "COMPOSITION & READING",
             "status": "Open",
-            "days": "M",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -13183,8 +13238,8 @@
             "CRN": "20063",
             "desc": "COMPOSITION & READING",
             "status": "Open",
-            "days": "T",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -13200,8 +13255,8 @@
             "CRN": "20063",
             "desc": "COMPOSITION & READING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -13692,8 +13747,8 @@
             "CRN": "20065",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -13709,8 +13764,8 @@
             "CRN": "20065",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
             "status": "Open",
-            "days": "T",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -17314,7 +17369,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
