@@ -248,7 +248,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Benson",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -328,7 +328,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bullock",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -450,7 +450,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mayer",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -570,7 +570,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Glass",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2954,7 +2954,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3224,7 +3224,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -3241,7 +3241,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3574,7 +3574,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gomes",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3641,7 +3641,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mathews",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5205,7 +5205,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stark",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -5222,7 +5222,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Folse",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -6082,7 +6082,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wang-Nava",
-            "seats": "48",
+            "seats": "47",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7163,7 +7163,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7835,7 +7835,7 @@
             "units": "5.00",
             "instructor": "Wang",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           },
           {
@@ -7852,7 +7852,7 @@
             "units": "5.00",
             "instructor": "Wang",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           },
           {
@@ -7869,7 +7869,7 @@
             "units": "5.00",
             "instructor": "Wang",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -9161,7 +9161,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9690,7 +9690,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Kellner",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9802,7 +9802,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9819,7 +9819,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10776,6 +10776,23 @@
             "desc": "INTRODUCTION TO RADIOGRAPHY I",
             "status": "Open",
             "days": "M",
+            "time": "02:00 PM-02:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Yamamoto",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "D A F053A01",
+            "CRN": "21877",
+            "desc": "INTRODUCTION TO RADIOGRAPHY I",
+            "status": "Open",
+            "days": "M",
             "time": "03:00 PM-04:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
@@ -10817,23 +10834,6 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Barao",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "D A F053A01",
-            "CRN": "21877",
-            "desc": "INTRODUCTION TO RADIOGRAPHY I",
-            "status": "Open",
-            "days": "M",
-            "time": "02:00 PM-02:50 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "5113",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Yamamoto",
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -10880,10 +10880,10 @@
             "desc": "INTRODUCTION TO RADIOGRAPHY I",
             "status": "Open",
             "days": "W",
-            "time": "03:00 PM-04:50 PM",
+            "time": "02:00 PM-02:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "5304",
+            "room": "5113",
             "campus": "FH",
             "units": "3.00",
             "instructor": "Barao",
@@ -10914,10 +10914,10 @@
             "desc": "INTRODUCTION TO RADIOGRAPHY I",
             "status": "Open",
             "days": "W",
-            "time": "02:00 PM-02:50 PM",
+            "time": "03:00 PM-04:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "5113",
+            "room": "5304",
             "campus": "FH",
             "units": "3.00",
             "instructor": "Barao",
@@ -10956,14 +10956,69 @@
             "desc": "DENTAL SCIENCES I",
             "status": "Open",
             "days": "T",
+            "time": "11:00 AM-11:50 AM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Daniel",
+            "seats": "25",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "D A F062A01",
+            "CRN": "21881",
+            "desc": "DENTAL SCIENCES I",
+            "status": "Open",
+            "days": "T",
             "time": "09:00 AM-10:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
             "campus": "FH",
             "units": "2.00",
-            "instructor": "Staff",
+            "instructor": "Daniel",
             "seats": "25",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
+        ]
+      },
+      "71": {
+        "21882": [
+          {
+            "course": "D A F071.01",
+            "CRN": "21882",
+            "desc": "INFECTION CONTRL/HAZ WASTE MGM",
+            "status": "Open",
+            "days": "F",
+            "time": "09:00 AM-10:50 AM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "1.50",
+            "instructor": "Daniel",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "D A F071.01",
+            "CRN": "21882",
+            "desc": "INFECTION CONTRL/HAZ WASTE MGM",
+            "status": "Open",
+            "days": "T",
+            "time": "12:35 PM-01:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "1.50",
+            "instructor": "Daniel",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -11771,7 +11826,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Adams",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11857,7 +11912,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gong",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13371,7 +13426,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Banach",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -13388,7 +13443,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Banach",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13842,7 +13897,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tomfohr",
-            "seats": "16",
+            "seats": "14",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14801,7 +14856,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -14818,7 +14873,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -15431,7 +15486,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ragey",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15587,7 +15642,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16070,7 +16125,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Treanor",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -16729,7 +16784,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Vaughan",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -19557,7 +19612,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Witschorik",
-            "seats": "29",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19635,7 +19690,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sukumar",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20071,7 +20126,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Sukumar",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20153,7 +20208,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tripp Caldwell",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21924,7 +21979,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Vozza",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -21941,7 +21996,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Vozza",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24903,7 +24958,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Parikh",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -24920,7 +24975,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Parikh",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -24937,7 +24992,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Parikh",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -28117,7 +28172,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Leon Coffin",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "25",
             "wait_cap": "25"
           }
