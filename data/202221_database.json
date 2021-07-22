@@ -1054,7 +1054,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Murphy",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4776,7 +4776,7 @@
             "units": "5.00",
             "instructor": "Schinske",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "7"
           },
           {
@@ -4793,7 +4793,7 @@
             "units": "5.00",
             "instructor": "Schinske",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "7"
           },
           {
@@ -4810,7 +4810,7 @@
             "units": "5.00",
             "instructor": "Schinske",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "7"
           }
         ],
@@ -6185,7 +6185,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mancuso",
-            "seats": "40",
+            "seats": "38",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6225,7 +6225,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Selvaretnam",
-            "seats": "42",
+            "seats": "41",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6545,7 +6545,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Meade",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8321,8 +8321,8 @@
             "CRN": "20616",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -8338,8 +8338,8 @@
             "CRN": "20616",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
             "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -8403,7 +8403,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "9",
             "wait_cap": "10"
           },
@@ -8420,7 +8420,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "9",
             "wait_cap": "10"
           },
@@ -8437,7 +8437,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -8448,8 +8448,8 @@
             "CRN": "20044",
             "desc": "SURVEY OF ORGANIC/BIOCHEM",
             "status": "Full",
-            "days": "M",
-            "time": "11:00 AM-01:50 PM",
+            "days": "MW",
+            "time": "09:00 AM-10:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -8465,8 +8465,8 @@
             "CRN": "20044",
             "desc": "SURVEY OF ORGANIC/BIOCHEM",
             "status": "Full",
-            "days": "MW",
-            "time": "09:00 AM-10:50 AM",
+            "days": "M",
+            "time": "11:00 AM-01:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -8484,14 +8484,31 @@
             "CRN": "21879",
             "desc": "SURVEY OF ORGANIC/BIOCHEM",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "09:00 AM-10:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Miller",
+            "seats": "32",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "CHEM F030B03V",
+            "CRN": "21879",
+            "desc": "SURVEY OF ORGANIC/BIOCHEM",
+            "status": "Open",
+            "days": "W",
+            "time": "11:00 AM-01:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Miller",
             "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -9346,7 +9363,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Villanueva",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -9363,7 +9380,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Villanueva",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -9380,7 +9397,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Villanueva",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -10799,7 +10816,7 @@
             "room": "5304",
             "campus": "FH",
             "units": "3.00",
-            "instructor": "Barao",
+            "instructor": "Yamamoto",
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -10814,6 +10831,25 @@
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5304",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Barao",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
+        ],
+        "21880": [
+          {
+            "course": "D A F053A02",
+            "CRN": "21880",
+            "desc": "INTRODUCTION TO RADIOGRAPHY I",
+            "status": "Open",
+            "days": "T",
+            "time": "08:00 AM-09:50 AM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5501",
             "campus": "FH",
             "units": "3.00",
             "instructor": "Yamamoto",
@@ -14194,7 +14230,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Huerta",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -14211,7 +14247,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Huerta",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -14228,7 +14264,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Huerta",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -18455,7 +18491,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sinclair",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24203,7 +24239,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Herman",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -27438,7 +27474,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -27455,7 +27491,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "20",
             "wait_cap": "20"
           }
