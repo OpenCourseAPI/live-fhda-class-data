@@ -816,7 +816,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lui",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4178,7 +4178,7 @@
             "course": "BIOL F001A01R",
             "CRN": "20017",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "10:00 AM-12:50 PM",
             "start": "09/20/2021",
@@ -4187,15 +4187,15 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Erickson",
-            "seats": "1",
-            "wait_seats": "11",
+            "seats": "0",
+            "wait_seats": "12",
             "wait_cap": "12"
           },
           {
             "course": "BIOL F001A01R",
             "CRN": "20017",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:00 PM-01:50 PM",
             "start": "09/20/2021",
@@ -4204,8 +4204,8 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Erickson",
-            "seats": "1",
-            "wait_seats": "11",
+            "seats": "0",
+            "wait_seats": "12",
             "wait_cap": "12"
           }
         ],
@@ -6186,27 +6186,8 @@
             "room": "ONLINE",
             "campus": "FC",
             "units": "4.00",
-            "instructor": "Mancuso",
+            "instructor": "Tuttle",
             "seats": "31",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
-        ],
-        "20487": [
-          {
-            "course": "BUSI F059.02W",
-            "CRN": "20487",
-            "desc": "PRINCIPLES OF MARKETING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "4.00",
-            "instructor": "Mancuso",
-            "seats": "50",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7867,7 +7848,7 @@
             "course": "CHEM F001C03Z",
             "CRN": "21695",
             "desc": "GENL CHEM/QUAL ANALYSIS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "06:30 PM-07:45 PM",
             "start": "09/20/2021",
@@ -7876,15 +7857,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "10"
           },
           {
             "course": "CHEM F001C03Z",
             "CRN": "21695",
             "desc": "GENL CHEM/QUAL ANALYSIS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "07:55 PM-09:15 PM",
             "start": "09/20/2021",
@@ -7893,15 +7874,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "10"
           },
           {
             "course": "CHEM F001C03Z",
             "CRN": "21695",
             "desc": "GENL CHEM/QUAL ANALYSIS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7910,8 +7891,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -26245,7 +26226,7 @@
             "units": "5.00",
             "instructor": "Bauermeister",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ],
@@ -28290,7 +28271,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Leon Coffin",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "25",
             "wait_cap": "25"
           }
