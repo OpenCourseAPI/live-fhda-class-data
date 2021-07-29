@@ -38,10 +38,27 @@
             "wait_cap": "10"
           }
         ],
-        "21845": [
+        "21305": [
           {
-            "course": "ACCT D001A04Y",
-            "CRN": "21845",
+            "course": "ACCT D001A03Z",
+            "CRN": "21305",
+            "desc": "FINAN ACCOUNTNG I",
+            "status": "Open",
+            "days": "MTh",
+            "time": "02:00 PM-03:30 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Li",
+            "seats": "10",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "ACCT D001A03Z",
+            "CRN": "21305",
             "desc": "FINAN ACCOUNTNG I",
             "status": "Open",
             "days": "TBA",
@@ -49,6 +66,25 @@
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Li",
+            "seats": "10",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ],
+        "21845": [
+          {
+            "course": "ACCT D001A04Y",
+            "CRN": "21845",
+            "desc": "FINAN ACCOUNTNG I",
+            "status": "Open",
+            "days": "TTh",
+            "time": "12:30 PM-02:20 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "AT205",
             "campus": "DA",
             "units": "5.00",
             "instructor": "West",
@@ -61,11 +97,11 @@
             "CRN": "21845",
             "desc": "FINAN ACCOUNTNG I",
             "status": "Open",
-            "days": "TTh",
-            "time": "12:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "AT205",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "West",
@@ -197,8 +233,8 @@
             "units": "5.00",
             "instructor": "Li",
             "seats": "30",
-            "wait_seats": "5",
-            "wait_cap": "5"
+            "wait_seats": "0",
+            "wait_cap": "0"
           },
           {
             "course": "ACCT D001A1GZ",
@@ -214,8 +250,8 @@
             "units": "5.00",
             "instructor": "Li",
             "seats": "30",
-            "wait_seats": "5",
-            "wait_cap": "5"
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "25883": [
@@ -490,8 +526,8 @@
             "CRN": "25884",
             "desc": "FINAN ACCOUNTG II",
             "status": "Open",
-            "days": "MW",
-            "time": "12:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -507,8 +543,8 @@
             "CRN": "25884",
             "desc": "FINAN ACCOUNTG II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "12:30 PM-02:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -526,11 +562,11 @@
             "CRN": "00025",
             "desc": "FINAN ACCOUNTG II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "09:30 AM-11:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "ONLINE",
+            "room": "AT205",
             "campus": "DA",
             "units": "5.00",
             "instructor": "West",
@@ -543,11 +579,11 @@
             "CRN": "00025",
             "desc": "FINAN ACCOUNTG II",
             "status": "Open",
-            "days": "TTh",
-            "time": "09:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "AT205",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "West",
@@ -598,11 +634,11 @@
             "CRN": "00026",
             "desc": "FINAN ACCOUNTG II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "08:30 AM-10:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "ONLINE",
+            "room": "AT312",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mello",
@@ -615,11 +651,11 @@
             "CRN": "00026",
             "desc": "FINAN ACCOUNTG II",
             "status": "Open",
-            "days": "TTh",
-            "time": "08:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "AT312",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mello",
@@ -822,8 +858,8 @@
             "CRN": "24787",
             "desc": "MANAG ACCOUNTG",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "08:30 AM-10:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -839,8 +875,8 @@
             "CRN": "24787",
             "desc": "MANAG ACCOUNTG",
             "status": "Waitlist",
-            "days": "Th",
-            "time": "08:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -4121,7 +4157,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cichanski",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -4138,7 +4174,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cichanski",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -8070,7 +8106,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morgan",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8194,7 +8230,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sun",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17590,7 +17626,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Staudinger",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17653,7 +17689,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Staudinger",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -27830,7 +27866,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Woo",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -30090,7 +30126,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kragalott",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -34420,7 +34456,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34663,7 +34699,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kapur",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35770,7 +35806,7 @@
             "units": "5.00",
             "instructor": "Du",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ]
@@ -36005,7 +36041,7 @@
             "campus": "DA",
             "units": "2.50",
             "instructor": "Kapur",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -39364,7 +39400,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Burns",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -39381,7 +39417,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Burns",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -43418,7 +43454,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sherby",
-            "seats": "71",
+            "seats": "72",
             "wait_seats": "10",
             "wait_cap": "10"
           }
