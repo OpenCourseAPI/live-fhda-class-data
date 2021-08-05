@@ -2434,7 +2434,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Connell",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2529,7 +2529,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Price",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2626,7 +2626,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Connell",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5909,7 +5909,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Lew",
-            "seats": "34",
+            "seats": "35",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7797,7 +7797,7 @@
             "units": "5.00",
             "instructor": "Wang",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
@@ -7814,7 +7814,7 @@
             "units": "5.00",
             "instructor": "Wang",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
@@ -7831,7 +7831,7 @@
             "units": "5.00",
             "instructor": "Wang",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -9047,7 +9047,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Koukoutsakis",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9064,7 +9064,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Koukoutsakis",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9690,7 +9690,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9707,7 +9707,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13312,7 +13312,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Harvey",
-            "seats": "25",
+            "seats": "23",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13893,7 +13893,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McNeary",
-            "seats": "27",
+            "seats": "22",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14650,7 +14650,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Parikh",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -14667,7 +14667,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Parikh",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15532,7 +15532,7 @@
             "course": "GID F031.01W",
             "CRN": "21603",
             "desc": "GRAPHIC DESIGN DRAWING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -15541,7 +15541,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ragey",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -15886,7 +15886,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Meezan",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -19196,7 +19196,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "18",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19522,7 +19522,7 @@
             "units": "5.00",
             "instructor": "Witschorik",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -24025,7 +24025,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tapia",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24121,27 +24121,8 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Hoekenga",
-            "seats": "34",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
-        ],
-        "20970": [
-          {
-            "course": "PHIL F008.03W",
-            "CRN": "20970",
-            "desc": "ETHICS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
             "instructor": "Tapia",
-            "seats": "49",
+            "seats": "34",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24332,7 +24313,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jordahl",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25445,7 +25426,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Evans",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -25462,7 +25443,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Evans",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -26055,7 +26036,7 @@
             "units": "5.00",
             "instructor": "Bauermeister",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ],
