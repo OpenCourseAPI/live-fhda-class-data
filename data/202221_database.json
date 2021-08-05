@@ -9047,7 +9047,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Koukoutsakis",
-            "seats": "25",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9064,7 +9064,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Koukoutsakis",
-            "seats": "25",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14351,7 +14351,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Svetich",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14541,7 +14541,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Armerding",
-            "seats": "41",
+            "seats": "42",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -15297,7 +15297,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meezan",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15335,7 +15335,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gutierrez",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -15352,7 +15352,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gutierrez",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -15369,7 +15369,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gutierrez",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -18535,7 +18535,7 @@
             "course": "MATH F001A01V",
             "CRN": "20080",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "10:00 AM-12:15 PM",
             "start": "09/20/2021",
@@ -18544,7 +18544,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lam",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19159,7 +19159,7 @@
             "units": "5.00",
             "instructor": "Munoz",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -19196,7 +19196,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19234,7 +19234,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sinclair",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24008,6 +24008,25 @@
             "wait_seats": "10",
             "wait_cap": "10"
           }
+        ],
+        "21940": [
+          {
+            "course": "PHIL F001.02V",
+            "CRN": "21940",
+            "desc": "CRITICAL THINKING & WRITING",
+            "status": "Open",
+            "days": "MW",
+            "time": "10:00 AM-11:50 AM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "35",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "4": {
@@ -24313,7 +24332,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jordahl",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "20",
             "wait_cap": "20"
           }
