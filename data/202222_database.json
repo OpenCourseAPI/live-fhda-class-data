@@ -5032,7 +5032,7 @@
             "campus": "DA",
             "units": "7.00",
             "instructor": "Vernazza",
-            "seats": "3",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -5049,7 +5049,7 @@
             "campus": "DA",
             "units": "7.00",
             "instructor": "Vernazza",
-            "seats": "3",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -14588,7 +14588,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hinerman",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -14605,7 +14605,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hinerman",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -29798,6 +29798,25 @@
             "units": "1.00",
             "instructor": "Deck",
             "seats": "5",
+            "wait_seats": "1",
+            "wait_cap": "1"
+          }
+        ],
+        "26847": [
+          {
+            "course": "JOUR D062F65Z",
+            "CRN": "26847",
+            "desc": "FREELANCE COPY EDIT STDNT MED",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "10/18/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "1.00",
+            "instructor": "Deck",
+            "seats": "4",
             "wait_seats": "1",
             "wait_cap": "1"
           }
