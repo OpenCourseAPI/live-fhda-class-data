@@ -14922,7 +14922,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kaur",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20286,7 +20286,7 @@
             "course": "ESL D265.49Z",
             "CRN": "26708",
             "desc": "LOW ADV GRAMM, WRTNG, RDNG",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "06:30 PM-09:20 PM",
             "start": "09/20/2021",
@@ -20296,7 +20296,7 @@
             "units": "6.00",
             "instructor": "Kohnhorst",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -29798,6 +29798,25 @@
             "units": "1.00",
             "instructor": "Deck",
             "seats": "5",
+            "wait_seats": "1",
+            "wait_cap": "1"
+          }
+        ],
+        "26848": [
+          {
+            "course": "JOUR D062F63Z",
+            "CRN": "26848",
+            "desc": "FREELANCE COPY EDIT STDNT MED",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "10/18/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "1.00",
+            "instructor": "Deck",
+            "seats": "4",
             "wait_seats": "1",
             "wait_cap": "1"
           }
