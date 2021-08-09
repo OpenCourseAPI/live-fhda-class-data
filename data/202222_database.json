@@ -295,7 +295,7 @@
             "course": "ACCT D001A50Z",
             "CRN": "25883",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -304,7 +304,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mello",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4265,7 +4265,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cichanski",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -7457,7 +7457,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hernandez",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -7474,7 +7474,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hernandez",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -11944,7 +11944,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "29",
+            "seats": "30",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11961,7 +11961,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "29",
+            "seats": "30",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14625,7 +14625,7 @@
             "units": "5.00",
             "instructor": "Isacson",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           },
           {
@@ -14642,7 +14642,7 @@
             "units": "5.00",
             "instructor": "Isacson",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -17534,7 +17534,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "De Toro",
-            "seats": "24",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17711,7 +17711,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -19399,7 +19399,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sanders",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24383,7 +24383,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Board Liljenstolpe",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -24400,7 +24400,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Board Liljenstolpe",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -25848,7 +25848,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Jackson",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -26189,7 +26189,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pham",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -26284,7 +26284,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "46",
+            "seats": "45",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -29115,7 +29115,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Coronado",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -29761,9 +29761,47 @@
             "wait_seats": "2",
             "wait_cap": "2"
           }
+        ],
+        "26850": [
+          {
+            "course": "JOUR D062E66Z",
+            "CRN": "26850",
+            "desc": "FREELANCE GRPHC PROD STDNT MED",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "10/18/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "1.00",
+            "instructor": "Deck",
+            "seats": "2",
+            "wait_seats": "3",
+            "wait_cap": "3"
+          }
         ]
       },
       "62F": {
+        "26851": [
+          {
+            "course": "JOUR D062F64Z",
+            "CRN": "26851",
+            "desc": "FREELANCE COPY EDIT STDNT MED",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "1.00",
+            "instructor": "Deck",
+            "seats": "5",
+            "wait_seats": "1",
+            "wait_cap": "1"
+          }
+        ],
         "26847": [
           {
             "course": "JOUR D062F65Z",
@@ -31002,7 +31040,7 @@
             "course": "KNES D25AX50Z",
             "CRN": "26597",
             "desc": "STRETCHING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "11/01/2021",
@@ -31011,7 +31049,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Catuiza",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -35089,7 +35127,7 @@
             "course": "MATH D031.03Z",
             "CRN": "25951",
             "desc": "PRECALCULUS I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWTh",
             "time": "08:30 AM-09:20 AM",
             "start": "09/20/2021",
@@ -35098,7 +35136,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -35106,7 +35144,7 @@
             "course": "MATH D031.03Z",
             "CRN": "25951",
             "desc": "PRECALCULUS I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -35115,7 +35153,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -38998,7 +39036,7 @@
             "course": "P E D040.02",
             "CRN": "26763",
             "desc": "INTERCOLLEGIATE FOOTBALL",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWThF",
             "time": "05:30 AM-07:00 AM",
             "start": "09/20/2021",
@@ -39007,7 +39045,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Santos",
-            "seats": "3",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -40159,7 +40197,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hammerud",
-            "seats": "27",
+            "seats": "28",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -41593,7 +41631,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Staff",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -43506,7 +43544,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Healy",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -44543,7 +44581,7 @@
             "course": "SPAN D001.40Z",
             "CRN": "02316",
             "desc": "ELEMEN SPANISH (1ST QTR)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWThF",
             "time": "08:30 AM-09:20 AM",
             "start": "09/20/2021",
@@ -44552,7 +44590,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lizardi-Folley",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "7",
             "wait_cap": "7"
           }
