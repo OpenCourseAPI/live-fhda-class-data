@@ -3306,7 +3306,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gomes",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5539,7 +5539,7 @@
             "course": "BIOL F041.03",
             "CRN": "20027",
             "desc": "MICROBIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:00 PM-01:50 PM",
             "start": "09/20/2021",
@@ -5548,7 +5548,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Jacobs",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -5556,7 +5556,7 @@
             "course": "BIOL F041.03",
             "CRN": "20027",
             "desc": "MICROBIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "09:00 AM-11:50 AM",
             "start": "09/20/2021",
@@ -5565,7 +5565,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Jacobs",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9859,7 +9859,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Clemmons",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9876,7 +9876,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Clemmons",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9936,7 +9936,7 @@
             "units": "5.00",
             "instructor": "Velasco",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -13779,7 +13779,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sperry",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14541,7 +14541,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Armerding",
-            "seats": "41",
+            "seats": "40",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -15741,7 +15741,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15823,7 +15823,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Jordahl",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16597,7 +16597,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cammin",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -16679,7 +16679,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -19236,7 +19236,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19995,7 +19995,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sukumar",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23188,7 +23188,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23352,7 +23352,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24334,7 +24334,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jordahl",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25995,7 +25995,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stefonik",
-            "seats": "21",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -28404,7 +28404,24 @@
             "room": "8002",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Mc Leod",
+            "instructor": "Mannshardt",
+            "seats": "9",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "THTR F021B01Y",
+            "CRN": "20602",
+            "desc": "INT SCENERY & PROPERTY CONSTRU",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Mannshardt",
             "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -28442,7 +28459,24 @@
             "room": "8002",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Mc Leod",
+            "instructor": "Mannshardt",
+            "seats": "30",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "THTR F021C01Y",
+            "CRN": "20603",
+            "desc": "ADV SCENERY & PROPERTIES CONST",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Mannshardt",
             "seats": "30",
             "wait_seats": "5",
             "wait_cap": "5"
