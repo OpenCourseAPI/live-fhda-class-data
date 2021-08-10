@@ -54,7 +54,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -149,7 +149,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Torretto",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -856,7 +856,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Sturgess",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2416,7 +2416,7 @@
             "units": "1.00",
             "instructor": "Connell",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -2453,7 +2453,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Wolf",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2918,7 +2918,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3021,7 +3021,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -3038,7 +3038,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -3055,7 +3055,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3306,7 +3306,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gomes",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4081,7 +4081,7 @@
             "course": "BIOL F001A01R",
             "CRN": "20017",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "10:00 AM-12:50 PM",
             "start": "09/20/2021",
@@ -4090,15 +4090,15 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Erickson",
-            "seats": "1",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "11",
             "wait_cap": "12"
           },
           {
             "course": "BIOL F001A01R",
             "CRN": "20017",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:00 PM-01:50 PM",
             "start": "09/20/2021",
@@ -4107,8 +4107,8 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Erickson",
-            "seats": "1",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "11",
             "wait_cap": "12"
           }
         ],
@@ -5467,7 +5467,7 @@
             "course": "BIOL F041.01Y",
             "CRN": "20028",
             "desc": "MICROBIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "09:00 AM-11:50 AM",
             "start": "09/20/2021",
@@ -5476,15 +5476,15 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Edwards",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "BIOL F041.01Y",
             "CRN": "20028",
             "desc": "MICROBIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -5493,8 +5493,8 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Nekrep",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -5757,7 +5757,7 @@
             "course": "BIOL F045.01W",
             "CRN": "20934",
             "desc": "INTRO TO HUMAN NUTRITION",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -5767,7 +5767,7 @@
             "units": "4.00",
             "instructor": "Markowitz",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -5841,7 +5841,7 @@
             "course": "BUSI F011.01W",
             "CRN": "20311",
             "desc": "INTRO TO INFORMATION SYSTEMS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -5850,7 +5850,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lew",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5921,7 +5921,7 @@
             "course": "BUSI F018.01W",
             "CRN": "20369",
             "desc": "BUSINESS LAW I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -5930,7 +5930,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Harmon",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "16",
             "wait_cap": "20"
           }
@@ -6652,7 +6652,7 @@
             "course": "C S F002A02W",
             "CRN": "20318",
             "desc": "OBJ-ORIENT PROG METHOD IN C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -6661,8 +6661,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Harden",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -6912,7 +6912,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lai",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7882,7 +7882,7 @@
             "course": "CHEM F025.01",
             "CRN": "21683",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "10:00 AM-11:50 AM",
             "start": "09/20/2021",
@@ -7891,7 +7891,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           },
@@ -7899,7 +7899,7 @@
             "course": "CHEM F025.01",
             "CRN": "21683",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "T",
             "time": "12:00 PM-02:50 PM",
             "start": "09/20/2021",
@@ -7908,7 +7908,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -7963,7 +7963,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rezaei",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7980,7 +7980,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rezaei",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8026,7 +8026,7 @@
             "course": "CHEM F025.05Z",
             "CRN": "21687",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "09/20/2021",
@@ -8035,7 +8035,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8043,7 +8043,7 @@
             "course": "CHEM F025.05Z",
             "CRN": "21687",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -8052,7 +8052,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8850,7 +8850,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8867,7 +8867,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9459,7 +9459,7 @@
             "units": "3.00",
             "instructor": "Der Bing",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
@@ -9810,7 +9810,7 @@
             "course": "COMM F001A11W",
             "CRN": "21303",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -9819,7 +9819,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Firenzi",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9926,7 +9926,7 @@
             "course": "COMM F002.03W",
             "CRN": "20506",
             "desc": "INTERPERSONAL COMMUNICATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -9935,8 +9935,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Velasco",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -10184,7 +10184,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12268,7 +12268,7 @@
             "course": "ECON F001A01W",
             "CRN": "20482",
             "desc": "PRINCIPLES OF MACROECONOMICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -12277,7 +12277,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Patyk",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -13912,7 +13912,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chan",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13924,7 +13924,7 @@
             "course": "ENGL F001B01W",
             "CRN": "20064",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -13933,8 +13933,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Svetich",
-            "seats": "1",
-            "wait_seats": "24",
+            "seats": "0",
+            "wait_seats": "25",
             "wait_cap": "25"
           }
         ],
@@ -14045,7 +14045,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hansen",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14138,7 +14138,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Treanor",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14264,7 +14264,7 @@
             "course": "ENGL F001S1CW",
             "CRN": "20301",
             "desc": "INTEGRATED COMPOSITION & READ",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -14273,7 +14273,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Bachman",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -15522,7 +15522,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Day",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15555,7 +15555,7 @@
             "course": "GID F033.01W",
             "CRN": "20201",
             "desc": "GRAPHIC DESIGN STUDIO I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -15564,7 +15564,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16780,7 +16780,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Latteri",
-            "seats": "28",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19639,7 +19639,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Zwack",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19687,7 +19687,7 @@
             "course": "MATH F048A8CV",
             "CRN": "21850",
             "desc": "PRECALCULUS I",
-            "status": "Open",
+            "status": "Full",
             "days": "TW",
             "time": "06:00 PM-08:15 PM",
             "start": "09/20/2021",
@@ -19696,7 +19696,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Robledo",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -19736,7 +19736,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lam",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19939,7 +19939,7 @@
             "units": "5.00",
             "instructor": "Mudge",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -19995,7 +19995,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sukumar",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20047,7 +20047,7 @@
             "course": "MATH F248A3CV",
             "CRN": "21571",
             "desc": "SUPPORT FOR MATH 48A",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "09:35 AM-11:50 AM",
             "start": "09/20/2021",
@@ -20056,8 +20056,8 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Zwack",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -20075,7 +20075,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Zwack",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20159,7 +20159,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ward",
-            "seats": "34",
+            "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20281,7 +20281,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Thornton",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21722,7 +21722,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Francisco",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -22265,7 +22265,7 @@
             "course": "NCEN F401A8CV",
             "CRN": "20981",
             "desc": "BRIDGE TO TRANSFER ENGLISH",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "10:00 AM-12:10 PM",
             "start": "09/20/2021",
@@ -22274,7 +22274,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Chan",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -22305,7 +22305,7 @@
             "course": "NCEN F442A1CV",
             "CRN": "20986",
             "desc": "CRITICAL THINKING:STUDENT PORT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "07:00 PM-08:50 PM",
             "start": "09/20/2021",
@@ -22314,7 +22314,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Bachman",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -23560,7 +23560,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25803,7 +25803,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25974,7 +25974,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Petcu",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -26288,7 +26288,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -27472,7 +27472,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gibbs Stayte",
-            "seats": "49",
+            "seats": "48",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -27510,7 +27510,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -27527,7 +27527,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -28005,7 +28005,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rivera-Montanez",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -28997,7 +28997,7 @@
             "course": "V T F051.01",
             "CRN": "20322",
             "desc": "INTRO TO VET TECH",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "02:00 PM-03:50 PM",
             "start": "09/20/2021",
@@ -29006,8 +29006,8 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Staff",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
