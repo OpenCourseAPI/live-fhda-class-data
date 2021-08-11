@@ -410,7 +410,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bowman",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -450,7 +450,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mayer",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -1036,7 +1036,7 @@
             "units": "4.00",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "12",
             "wait_cap": "25"
           }
         ],
@@ -3272,7 +3272,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gomes",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14300,7 +14300,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Svetich",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -17742,6 +17742,61 @@
           }
         ]
       },
+      "16B": {
+        "21982": [
+          {
+            "course": "KINS F016B1DY",
+            "CRN": "21982",
+            "desc": "EMERGENCY ATHLETIC INJURY CARE",
+            "status": "Full",
+            "days": "TF",
+            "time": "09:00 AM-10:15 AM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "FMHS",
+            "campus": "FO",
+            "units": "3.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "KINS F016B1DY",
+            "CRN": "21982",
+            "desc": "EMERGENCY ATHLETIC INJURY CARE",
+            "status": "Full",
+            "days": "W",
+            "time": "11:30 AM-12:20 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "FMHS",
+            "campus": "FO",
+            "units": "3.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "KINS F016B1DY",
+            "CRN": "21982",
+            "desc": "EMERGENCY ATHLETIC INJURY CARE",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FO",
+            "units": "3.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "62A": {
         "21805": [
           {
@@ -19014,7 +19069,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nosratieh",
-            "seats": "24",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -19031,7 +19086,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nosratieh",
-            "seats": "24",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19070,7 +19125,7 @@
             "units": "5.00",
             "instructor": "Pham",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -19147,7 +19202,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19252,7 +19307,7 @@
             "course": "MATH F010.10W",
             "CRN": "20650",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -19261,7 +19316,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23408,6 +23463,25 @@
             "wait_seats": "10",
             "wait_cap": "10"
           }
+        ],
+        "21981": [
+          {
+            "course": "PHED F024A02",
+            "CRN": "21981",
+            "desc": "SWING DEVLP FOR THE EXPER GOLF",
+            "status": "Open",
+            "days": "S",
+            "time": "01:00 PM-03:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "GOLF R",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Durbin",
+            "seats": "5",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
         ]
       },
       "25A": {
@@ -27402,7 +27476,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gibbs Stayte",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -27459,7 +27533,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Logg",
-            "seats": "37",
+            "seats": "38",
             "wait_seats": "20",
             "wait_cap": "20"
           }
