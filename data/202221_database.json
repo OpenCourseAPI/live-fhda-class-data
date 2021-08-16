@@ -509,7 +509,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ghodrat",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -561,7 +561,7 @@
             "course": "ACTG F064B01W",
             "CRN": "20377",
             "desc": "COMPUTERIZD ACTG PRAC:EXCEL",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -570,7 +570,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Glass",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -1036,7 +1036,7 @@
             "units": "4.00",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "25"
           }
         ],
@@ -2847,7 +2847,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6955,7 +6955,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Riordan",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6972,7 +6972,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Riordan",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12204,7 +12204,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Patyk",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -12371,7 +12371,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -12388,7 +12388,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -13577,7 +13577,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "White",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -13594,7 +13594,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "White",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14802,7 +14802,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -14819,7 +14819,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -16683,7 +16683,7 @@
             "course": "HUMN F007H1HW",
             "CRN": "20744",
             "desc": "HONORS GLOBAL RELIGIONS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -16692,7 +16692,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Latteri",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -17202,7 +17202,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rakow",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -17242,7 +17242,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Yasutake",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -17259,7 +17259,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Yasutake",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19144,7 +19144,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23134,7 +23134,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23444,6 +23444,25 @@
             "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
+          }
+        ],
+        "21983": [
+          {
+            "course": "PHED F025A02",
+            "CRN": "21983",
+            "desc": "SWING ANALYSIS",
+            "status": "Open",
+            "days": "S",
+            "time": "01:00 PM-03:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "GOLF R",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Durbin",
+            "seats": "5",
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -24318,7 +24337,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jordahl",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25216,7 +25235,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryer",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25683,7 +25702,7 @@
             "course": "PSYC F001.02W",
             "CRN": "20113",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -25692,7 +25711,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Strader",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -28048,7 +28067,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Leon Coffin",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -28310,27 +28329,10 @@
             "desc": "SCENERY & PROPERTIES CONSTRUCT",
             "status": "Open",
             "days": "W",
-            "time": "01:30 PM-04:20 PM",
+            "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "8002",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Mannshardt",
-            "seats": "20",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "THTR F021A01Y",
-            "CRN": "20601",
-            "desc": "SCENERY & PROPERTIES CONSTRUCT",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Mc Leod",
@@ -28364,31 +28366,14 @@
             "CRN": "20602",
             "desc": "INT SCENERY & PROPERTY CONSTRU",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Mc Leod",
-            "seats": "9",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "THTR F021B01Y",
-            "CRN": "20602",
-            "desc": "INT SCENERY & PROPERTY CONSTRU",
-            "status": "Open",
             "days": "W",
-            "time": "01:30 PM-04:20 PM",
+            "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "8002",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Mannshardt",
+            "instructor": "Mc Leod",
             "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -28419,31 +28404,14 @@
             "CRN": "20603",
             "desc": "ADV SCENERY & PROPERTIES CONST",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Mc Leod",
-            "seats": "30",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "THTR F021C01Y",
-            "CRN": "20603",
-            "desc": "ADV SCENERY & PROPERTIES CONST",
-            "status": "Open",
             "days": "W",
-            "time": "01:30 PM-04:20 PM",
+            "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "8002",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Mannshardt",
+            "instructor": "Mc Leod",
             "seats": "30",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -28474,8 +28442,8 @@
             "CRN": "21783",
             "desc": "BASIC THEATRICAL MAKEUP",
             "status": "Open",
-            "days": "Th",
-            "time": "01:30 PM-02:20 PM",
+            "days": "T",
+            "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "1001",
@@ -28491,8 +28459,8 @@
             "CRN": "21783",
             "desc": "BASIC THEATRICAL MAKEUP",
             "status": "Open",
-            "days": "T",
-            "time": "01:30 PM-03:20 PM",
+            "days": "Th",
+            "time": "01:30 PM-02:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "1001",
@@ -28563,6 +28531,23 @@
             "CRN": "21808",
             "desc": "THEATRICAL MAKEUP FOR PRODUCTN",
             "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Engelbrecht",
+            "seats": "30",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "THTR F040B01Y",
+            "CRN": "21808",
+            "desc": "THEATRICAL MAKEUP FOR PRODUCTN",
+            "status": "Open",
             "days": "Th",
             "time": "01:30 PM-02:20 PM",
             "start": "09/20/2021",
@@ -28585,23 +28570,6 @@
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "1001",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Engelbrecht",
-            "seats": "30",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "THTR F040B01Y",
-            "CRN": "21808",
-            "desc": "THEATRICAL MAKEUP FOR PRODUCTN",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Engelbrecht",
