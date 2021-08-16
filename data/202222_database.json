@@ -4246,7 +4246,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cichanski",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -4263,7 +4263,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cichanski",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -7421,7 +7421,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morgan",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -7438,7 +7438,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morgan",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -10425,7 +10425,7 @@
             "course": "CHEM D012A04Z",
             "CRN": "25412",
             "desc": "ORGANIC CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "10:30 AM-11:45 AM",
             "start": "09/20/2021",
@@ -10434,15 +10434,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mar",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D012A04Z",
             "CRN": "25412",
             "desc": "ORGANIC CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "02:30 PM-05:20 PM",
             "start": "09/20/2021",
@@ -10451,8 +10451,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mar",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ]
@@ -10908,7 +10908,7 @@
             "course": "CHEM D030A04Z",
             "CRN": "23677",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "09/20/2021",
@@ -10918,14 +10918,14 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D030A04Z",
             "CRN": "23677",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "Th",
             "time": "07:30 PM-08:20 PM",
             "start": "09/20/2021",
@@ -10935,14 +10935,14 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D030A04Z",
             "CRN": "23677",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -10952,7 +10952,7 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -12289,8 +12289,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "15",
-            "wait_seats": "-1",
+            "seats": "14",
+            "wait_seats": "0",
             "wait_cap": "0"
           }
         ],
@@ -19036,7 +19036,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Palmore",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20759,7 +20759,7 @@
             "course": "ESL D444.49Z",
             "CRN": "26716",
             "desc": "INTERMEDIATE ESL",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "06:30 PM-08:45 PM",
             "start": "09/20/2021",
@@ -20768,7 +20768,7 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Hamilton",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -22078,7 +22078,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Caparas",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -22095,7 +22095,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Caparas",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -28631,7 +28631,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Staff",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -28652,7 +28652,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "White",
-            "seats": "32",
+            "seats": "33",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -32085,7 +32085,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Caparas",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -36659,7 +36659,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dunn",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -42342,7 +42342,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -42359,7 +42359,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -43899,7 +43899,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cheung",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -44074,7 +44074,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -45028,7 +45028,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Coronado",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "7",
             "wait_cap": "7"
           }
