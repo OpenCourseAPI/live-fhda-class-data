@@ -5529,7 +5529,7 @@
             "units": "6.00",
             "instructor": "Cooper",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
@@ -5546,7 +5546,7 @@
             "units": "6.00",
             "instructor": "Cooper",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -6607,7 +6607,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Pham",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6859,6 +6859,25 @@
             "seats": "37",
             "wait_seats": "10",
             "wait_cap": "10"
+          }
+        ],
+        "21995": [
+          {
+            "course": "C S F003A09W",
+            "CRN": "21995",
+            "desc": "OBJECT ORIEN PRGM METH PYTHON",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.50",
+            "instructor": "Murphy",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -9942,7 +9961,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Pogosian",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9959,7 +9978,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Pogosian",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16022,16 +16041,16 @@
             "course": "HIST F017C01W",
             "CRN": "21994",
             "desc": "HISTORY OF US FROM 1914 TO PRE",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "4.00",
-            "instructor": "Staff",
-            "seats": "0",
+            "instructor": "Ziegenhorn",
+            "seats": "50",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18588,7 +18607,7 @@
             "units": "5.00",
             "instructor": "Cembellin",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -18635,7 +18654,7 @@
             "course": "MATH F001A08W",
             "CRN": "20851",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -18644,7 +18663,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Williams",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19498,7 +19517,7 @@
             "course": "MATH F022.03W",
             "CRN": "21575",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -19507,7 +19526,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Witschorik",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25806,7 +25825,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "20",
             "wait_cap": "20"
           }
