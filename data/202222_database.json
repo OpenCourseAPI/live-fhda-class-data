@@ -534,7 +534,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -551,7 +551,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10010,7 +10010,7 @@
             "course": "CHEM D001B03Z",
             "CRN": "21584",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "06:00 PM-07:15 PM",
             "start": "09/20/2021",
@@ -10020,14 +10020,14 @@
             "units": "5.00",
             "instructor": "Lo",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001B03Z",
             "CRN": "21584",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "07:30 PM-08:20 PM",
             "start": "09/20/2021",
@@ -10037,14 +10037,14 @@
             "units": "5.00",
             "instructor": "Lo",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001B03Z",
             "CRN": "21584",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -10054,7 +10054,7 @@
             "units": "5.00",
             "instructor": "Lo",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -17747,7 +17747,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -17768,7 +17768,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Staudinger",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17810,7 +17810,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sanders",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24767,7 +24767,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tavernetti",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -29405,7 +29405,7 @@
             "course": "JAPN D001.41Z",
             "CRN": "01314",
             "desc": "ELEM JAPANESE (1ST QTR)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "06:30 PM-08:45 PM",
             "start": "09/20/2021",
@@ -29414,8 +29414,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kuo",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -33677,7 +33677,7 @@
             "course": "MATH D001C03Y",
             "CRN": "20967",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTTh",
             "time": "11:30 AM-12:20 PM",
             "start": "09/20/2021",
@@ -33686,15 +33686,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           },
           {
             "course": "MATH D001C03Y",
             "CRN": "20967",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "WF",
             "time": "11:30 AM-12:20 PM",
             "start": "09/20/2021",
@@ -33703,8 +33703,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -37798,7 +37798,7 @@
             "course": "NURS D092.01Z",
             "CRN": "26085",
             "desc": "MEDICAL-SURGICAL NURSING",
-            "status": "Open",
+            "status": "Full",
             "days": "W",
             "time": "08:00 AM-11:50 AM",
             "start": "09/20/2021",
@@ -37807,7 +37807,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Winch",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -37847,7 +37847,7 @@
             "campus": "DO",
             "units": "4.50",
             "instructor": "Gabat",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -42150,7 +42150,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cisneros",
-            "seats": "44",
+            "seats": "43",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -42920,7 +42920,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Felton",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -42937,7 +42937,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Felton",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "8",
             "wait_cap": "8"
           }
