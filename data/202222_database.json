@@ -5986,25 +5986,6 @@
             "course": "BIOL D010.50Z",
             "CRN": "00251",
             "desc": "INTRO BIOLOGY",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Bram",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
-          }
-        ],
-        "20261": [
-          {
-            "course": "BIOL D010.51Z",
-            "CRN": "20261",
-            "desc": "INTRO BIOLOGY",
             "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
@@ -6015,6 +5996,25 @@
             "units": "5.00",
             "instructor": "Bram",
             "seats": "0",
+            "wait_seats": "1",
+            "wait_cap": "10"
+          }
+        ],
+        "20261": [
+          {
+            "course": "BIOL D010.51Z",
+            "CRN": "20261",
+            "desc": "INTRO BIOLOGY",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Bram",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "10"
           }
@@ -9752,7 +9752,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -9769,7 +9769,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -9786,7 +9786,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -41705,7 +41705,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Staff",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
