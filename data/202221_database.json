@@ -267,7 +267,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Benson",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -307,7 +307,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Butler",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -349,7 +349,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Fakoor",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2038,11 +2038,28 @@
             "CRN": "20396",
             "desc": "COMMUNICATN SKILLS IN WORKPLC",
             "status": "Open",
-            "days": "W",
-            "time": "10:00 AM-11:50 AM",
+            "days": "T",
+            "time": "11:10 AM-12:00 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "5425",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Kaupp",
+            "seats": "29",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ALTW F204.01",
+            "CRN": "20396",
+            "desc": "COMMUNICATN SKILLS IN WORKPLC",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Kaupp",
@@ -2088,27 +2105,6 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Kaupp",
-            "seats": "35",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "230": {
-        "20707": [
-          {
-            "course": "ALTW F230.01V",
-            "CRN": "20707",
-            "desc": "INTRO TO VOCATNL MICRO-BUSINES",
-            "status": "Open",
-            "days": "M",
-            "time": "03:30 PM-05:20 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Ferrer",
             "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -8248,7 +8244,7 @@
             "course": "CHEM F030B01T",
             "CRN": "21693",
             "desc": "SURVEY OF ORGANIC/BIOCHEM",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "M",
             "time": "06:30 PM-08:20 PM",
             "start": "09/20/2021",
@@ -8257,7 +8253,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           },
@@ -8265,7 +8261,7 @@
             "course": "CHEM F030B01T",
             "CRN": "21693",
             "desc": "SURVEY OF ORGANIC/BIOCHEM",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "06:30 PM-09:20 PM",
             "start": "09/20/2021",
@@ -8274,7 +8270,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           },
@@ -8282,7 +8278,7 @@
             "course": "CHEM F030B01T",
             "CRN": "21693",
             "desc": "SURVEY OF ORGANIC/BIOCHEM",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -8291,7 +8287,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -8977,7 +8973,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Rollinger",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8994,7 +8990,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Rollinger",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11872,7 +11868,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Whitson",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15954,7 +15950,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryan",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -17285,7 +17281,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17411,7 +17407,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Voyce",
-            "seats": "30",
+            "seats": "31",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -17428,7 +17424,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Voyce",
-            "seats": "30",
+            "seats": "31",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -17445,7 +17441,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Voyce",
-            "seats": "30",
+            "seats": "31",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -18959,7 +18955,7 @@
             "course": "MATH F010.05W",
             "CRN": "20751",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -18968,7 +18964,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "2",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19889,7 +19885,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tripp Caldwell",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20051,7 +20047,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Thornton",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25687,7 +25683,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -27414,7 +27410,7 @@
             "units": "5.00",
             "instructor": "Bauermeister",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -27842,7 +27838,7 @@
             "course": "SPAN F001.05W",
             "CRN": "20886",
             "desc": "ELEMENTARY SPANISH I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -27851,7 +27847,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Crespo-Martin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "17",
             "wait_cap": "25"
           }
