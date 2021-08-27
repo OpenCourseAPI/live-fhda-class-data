@@ -551,7 +551,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ratchford",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -568,7 +568,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ratchford",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2212,7 +2212,7 @@
             "units": "4.00",
             "instructor": "Solomon",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "2"
           }
         ],
@@ -6390,7 +6390,7 @@
             "course": "BIOL D011.51Z",
             "CRN": "26191",
             "desc": "HUMAN BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -6399,8 +6399,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sundaram",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -8026,7 +8026,7 @@
             "course": "BUS D060.62Z",
             "CRN": "25458",
             "desc": "INTERNATL BUSINESS MANAGEMENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -8035,8 +8035,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yurtseven",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
@@ -11126,7 +11126,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Staff",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11143,7 +11143,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Staff",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12959,7 +12959,7 @@
             "course": "CIS D040.03Z",
             "CRN": "26032",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "01:30 PM-02:20 PM",
             "start": "09/20/2021",
@@ -12968,15 +12968,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Whitehill",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "12"
           },
           {
             "course": "CIS D040.03Z",
             "CRN": "26032",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -12985,15 +12985,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Whitehill",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "12"
           },
           {
             "course": "CIS D040.03Z",
             "CRN": "26032",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -13002,8 +13002,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Whitehill",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "12"
           }
         ],
@@ -14642,7 +14642,7 @@
             "units": "5.00",
             "instructor": "Hong",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "5"
           },
           {
@@ -14659,7 +14659,7 @@
             "units": "5.00",
             "instructor": "Hong",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -14723,7 +14723,7 @@
             "course": "COMM D001.51Z",
             "CRN": "24346",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -14732,7 +14732,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kramer",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "5"
           }
@@ -15063,7 +15063,7 @@
             "course": "COMM D008.50Z",
             "CRN": "24372",
             "desc": "ARGUMENT/CRIT INQRY ORAL COMM",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -15073,7 +15073,7 @@
             "units": "5.00",
             "instructor": "Kramer",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -15703,7 +15703,7 @@
             "units": "5.00",
             "instructor": "Hong",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           },
           {
@@ -15720,7 +15720,7 @@
             "units": "5.00",
             "instructor": "Hong",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -20735,7 +20735,7 @@
             "units": "0.00",
             "instructor": "Marin",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ],
@@ -20813,7 +20813,7 @@
             "units": "0.00",
             "instructor": "Betlach",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ],
@@ -21703,7 +21703,7 @@
             "course": "EWRT D001A10Q",
             "CRN": "21997",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "12:30 PM-02:45 PM",
             "start": "09/20/2021",
@@ -21712,15 +21712,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Roberts",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "EWRT D001A10Q",
             "CRN": "21997",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -21729,8 +21729,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Roberts",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -22846,7 +22846,7 @@
             "course": "EWRT D001A51Z",
             "CRN": "25140",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -22855,8 +22855,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Skager",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ],
@@ -23292,7 +23292,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wann",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -28792,7 +28792,7 @@
             "course": "HUMI D016.62Z",
             "CRN": "01239",
             "desc": "ARTS, IDEAS & VALUES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -28801,8 +28801,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Berry",
-            "seats": "1",
-            "wait_seats": "14",
+            "seats": "0",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ],
@@ -35447,7 +35447,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Desilets",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -36065,7 +36065,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Phelps",
-            "seats": "6",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -38700,7 +38700,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Knoblaugh",
-            "seats": "33",
+            "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -40285,7 +40285,7 @@
             "course": "PHIL D003.51Z",
             "CRN": "20297",
             "desc": "CRIT THINKNG & WRITNG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -40294,8 +40294,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Baiamonte",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -40334,7 +40334,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hammerud",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -43367,7 +43367,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kondo",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -44008,7 +44008,7 @@
             "course": "SOC D001.51Z",
             "CRN": "26327",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -44017,8 +44017,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pasion",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ],
