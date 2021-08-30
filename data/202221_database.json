@@ -7181,7 +7181,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7223,7 +7223,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Sandor",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7240,7 +7240,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Sandor",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8622,7 +8622,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8733,7 +8733,7 @@
             "course": "CHLD F051A01W",
             "CRN": "20453",
             "desc": "AFFIRM DIVERSITY IN EDUCATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -8742,7 +8742,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Daha",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9156,7 +9156,7 @@
             "campus": "FC",
             "units": "3.00",
             "instructor": "Carducci",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9173,7 +9173,7 @@
             "campus": "FC",
             "units": "3.00",
             "instructor": "Carducci",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13556,6 +13556,23 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
+          },
+          {
+            "course": "ENGL F001A63D",
+            "CRN": "22015",
+            "desc": "COMPOSITION & READING",
+            "status": "Full",
+            "days": "F",
+            "time": "09:30 AM-10:20 AM",
+            "start": "09/20/2021",
+            "end": "01/24/2022",
+            "room": "CRISTOREY",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Cannon",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "20604": [
@@ -13591,7 +13608,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McNeary",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14588,7 +14605,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "McNeary",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -18347,7 +18364,7 @@
             "course": "MATH F001A02V",
             "CRN": "20081",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "01:30 PM-03:45 PM",
             "start": "09/20/2021",
@@ -18356,7 +18373,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Low",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "10"
           }
@@ -18923,7 +18940,7 @@
             "course": "MATH F010.01",
             "CRN": "21556",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "07:30 AM-09:45 AM",
             "start": "09/20/2021",
@@ -18932,7 +18949,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Francisco",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19364,7 +19381,7 @@
             "course": "MATH F048A2CV",
             "CRN": "20669",
             "desc": "PRECALCULUS I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MT",
             "time": "09:35 AM-11:50 AM",
             "start": "09/20/2021",
@@ -19373,7 +19390,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sukumar",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19402,7 +19419,7 @@
             "course": "MATH F048A4CV",
             "CRN": "20671",
             "desc": "PRECALCULUS I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TW",
             "time": "01:30 PM-03:45 PM",
             "start": "09/20/2021",
@@ -19411,7 +19428,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Zwack",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19459,7 +19476,7 @@
             "course": "MATH F048A8CV",
             "CRN": "21850",
             "desc": "PRECALCULUS I",
-            "status": "Open",
+            "status": "Full",
             "days": "TW",
             "time": "06:00 PM-08:15 PM",
             "start": "09/20/2021",
@@ -19468,7 +19485,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Robledo",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -19800,7 +19817,7 @@
             "course": "MATH F248A2CV",
             "CRN": "20693",
             "desc": "SUPPORT FOR MATH 48A",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "09:35 AM-11:50 AM",
             "start": "09/20/2021",
@@ -19809,7 +19826,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Sukumar",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19838,7 +19855,7 @@
             "course": "MATH F248A4CV",
             "CRN": "20694",
             "desc": "SUPPORT FOR MATH 48A",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "01:30 PM-03:45 PM",
             "start": "09/20/2021",
@@ -19847,7 +19864,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Zwack",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19857,7 +19874,7 @@
             "course": "MATH F248A8CV",
             "CRN": "21849",
             "desc": "SUPPORT FOR MATH 48A",
-            "status": "Open",
+            "status": "Full",
             "days": "Th",
             "time": "06:00 PM-08:15 PM",
             "start": "09/20/2021",
@@ -19866,7 +19883,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Robledo",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
