@@ -111,7 +111,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Drake",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -1264,6 +1264,25 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "22053": [
+          {
+            "course": "ALCB F408Y08V",
+            "CRN": "22053",
+            "desc": "ART APPRECIATION",
+            "status": "Open",
+            "days": "W",
+            "time": "01:00 PM-02:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "Shintani",
+            "seats": "35",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "409Y": {
@@ -1868,25 +1887,6 @@
             "units": "0.00",
             "instructor": "Frankel",
             "seats": "34",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "21212": [
-          {
-            "course": "ALCB F465Y02V",
-            "CRN": "21212",
-            "desc": "CREATIVE SELF EXPRESSION",
-            "status": "Open",
-            "days": "M",
-            "time": "01:00 PM-02:50 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "Shintani",
-            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -4282,7 +4282,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Poffenroth",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4299,7 +4299,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Garcia",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -8123,7 +8123,7 @@
             "course": "CHEM F030A04W",
             "CRN": "20690",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -8133,7 +8133,7 @@
             "units": "5.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -8782,7 +8782,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8799,7 +8799,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8818,7 +8818,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gonsoski",
-            "seats": "20",
+            "seats": "21",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -8835,7 +8835,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gonsoski",
-            "seats": "20",
+            "seats": "21",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9887,7 +9887,7 @@
             "units": "5.00",
             "instructor": "Ni",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -13939,7 +13939,7 @@
             "course": "ENGL F001C01W",
             "CRN": "20683",
             "desc": "ARGUMENTATIVE WRIT/CRITICAL TH",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -13948,7 +13948,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lewis",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "24",
             "wait_cap": "25"
           }
@@ -14913,7 +14913,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Acevedo",
-            "seats": "46",
+            "seats": "45",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -15088,7 +15088,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davis",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -19177,7 +19177,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Papay",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19255,7 +19255,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Florero Salinas",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20589,7 +20589,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Shea",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22775,7 +22775,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23883,7 +23883,7 @@
             "course": "PHIL F004.03W",
             "CRN": "20578",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -23892,7 +23892,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Provost",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
