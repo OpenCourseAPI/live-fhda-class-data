@@ -2055,7 +2055,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Beggs",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -19736,7 +19736,7 @@
             "campus": "DA",
             "units": "10.00",
             "instructor": "Carobus",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20094,7 +20094,7 @@
             "course": "ESL D261.04Z",
             "CRN": "26700",
             "desc": "LOW ADV LISTENING/SPEAKG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "Th",
             "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
@@ -20103,7 +20103,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Carobus",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20122,7 +20122,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Lee",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20172,7 +20172,7 @@
             "course": "ESL D265.03Z",
             "CRN": "26706",
             "desc": "LOW ADV GRAMM, WRTNG, RDNG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "01:30 PM-04:20 PM",
             "start": "09/20/2021",
@@ -20181,7 +20181,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Norman",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20601,7 +20601,7 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Norman",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "2",
             "wait_cap": "2"
           },
@@ -20618,7 +20618,7 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Norman",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -28424,7 +28424,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rueda",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -32495,7 +32495,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lai",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -34049,7 +34049,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sadeghi-Hassanvand",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34125,7 +34125,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Vanniasegaram",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -41109,8 +41109,8 @@
             "CRN": "25898",
             "desc": "PHYS SCIENT/ENG:MECHANCS",
             "status": "Waitlist",
-            "days": "Th",
-            "time": "01:30 PM-04:20 PM",
+            "days": "MTWThF",
+            "time": "12:30 PM-01:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -41126,14 +41126,14 @@
             "CRN": "25898",
             "desc": "PHYS SCIENT/ENG:MECHANCS",
             "status": "Waitlist",
-            "days": "MTWThF",
-            "time": "12:30 PM-01:20 PM",
+            "days": "Th",
+            "time": "01:30 PM-04:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
             "campus": "DA",
             "units": "6.00",
-            "instructor": "Staff",
+            "instructor": "Luna",
             "seats": "0",
             "wait_seats": "2",
             "wait_cap": "6"
@@ -41389,42 +41389,6 @@
             "units": "6.00",
             "instructor": "Luna",
             "seats": "17",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "25411": [
-          {
-            "course": "PHYS D004B02Z",
-            "CRN": "25411",
-            "desc": "PHYS SCIEN/ENG:ELCTRCTY/MAGNET",
-            "status": "Open",
-            "days": "MTWThF",
-            "time": "09:30 AM-10:20 AM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "6.00",
-            "instructor": "Khazeni",
-            "seats": "22",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
-          {
-            "course": "PHYS D004B02Z",
-            "CRN": "25411",
-            "desc": "PHYS SCIEN/ENG:ELCTRCTY/MAGNET",
-            "status": "Open",
-            "days": "W",
-            "time": "10:30 AM-01:20 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "6.00",
-            "instructor": "Luna",
-            "seats": "22",
             "wait_seats": "6",
             "wait_cap": "6"
           }
