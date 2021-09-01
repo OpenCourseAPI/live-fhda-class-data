@@ -551,7 +551,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ratchford",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -568,7 +568,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ratchford",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3216,7 +3216,7 @@
             "course": "ARTS D012.50Z",
             "CRN": "22917",
             "desc": "DESIGN AND COLOR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -3225,7 +3225,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rodriguez",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -4935,7 +4935,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Capitolo",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -4952,7 +4952,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Capitolo",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -4973,7 +4973,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Capitolo",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -4990,7 +4990,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Capitolo",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -6344,7 +6344,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morikang",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6361,7 +6361,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morikang",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7981,7 +7981,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hiland",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -11314,7 +11314,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Georgiou",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11331,7 +11331,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Georgiou",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11453,7 +11453,7 @@
             "course": "CIS D004.65Z",
             "CRN": "22582",
             "desc": "COMPUTER LITERACY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -11462,7 +11462,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Dundurs",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11771,8 +11771,8 @@
             "CRN": "22006",
             "desc": "BEG PROG METHOD C++",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "09:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -11788,8 +11788,8 @@
             "CRN": "22006",
             "desc": "BEG PROG METHOD C++",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "09:30 AM-11:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -11807,42 +11807,25 @@
             "CRN": "22329",
             "desc": "BEG PROG METHOD C++",
             "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Garbacea",
+            "seats": "0",
+            "wait_seats": "3",
+            "wait_cap": "15"
+          },
+          {
+            "course": "CIS D022A07Z",
+            "CRN": "22329",
+            "desc": "BEG PROG METHOD C++",
+            "status": "Waitlist",
             "days": "T",
             "time": "03:30 PM-04:20 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D022A07Z",
-            "CRN": "22329",
-            "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D022A07Z",
-            "CRN": "22329",
-            "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -11896,8 +11879,8 @@
             "CRN": "22584",
             "desc": "BEG PROG METHOD C++",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -11913,8 +11896,8 @@
             "CRN": "22584",
             "desc": "BEG PROG METHOD C++",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -11932,8 +11915,8 @@
             "CRN": "21717",
             "desc": "BEG PROG METHOD C++",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "06:00 PM-07:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -11949,8 +11932,8 @@
             "CRN": "21717",
             "desc": "BEG PROG METHOD C++",
             "status": "Open",
-            "days": "MW",
-            "time": "06:00 PM-07:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -11968,11 +11951,11 @@
             "CRN": "21713",
             "desc": "BEG PROG METHOD C++",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "09:30 AM-11:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "ONLINE",
+            "room": "AT204",
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
@@ -11985,11 +11968,11 @@
             "CRN": "21713",
             "desc": "BEG PROG METHOD C++",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "09:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "AT204",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
@@ -12080,42 +12063,25 @@
             "CRN": "21721",
             "desc": "INTERMED PROG METHOD C++",
             "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Eftekhari",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "15"
+          },
+          {
+            "course": "CIS D022B01Z",
+            "CRN": "21721",
+            "desc": "INTERMED PROG METHOD C++",
+            "status": "Full",
             "days": "M",
             "time": "01:30 PM-03:20 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Eftekhari",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D022B01Z",
-            "CRN": "21721",
-            "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Eftekhari",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D022B01Z",
-            "CRN": "21721",
-            "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -12249,7 +12215,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -12370,42 +12336,25 @@
             "CRN": "23078",
             "desc": "DATA ABSTRACT & STRUCTURES",
             "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Parrish",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "15"
+          },
+          {
+            "course": "CIS D022C10Z",
+            "CRN": "23078",
+            "desc": "DATA ABSTRACT & STRUCTURES",
+            "status": "Full",
             "days": "Th",
             "time": "11:30 AM-01:20 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Parrish",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D022C10Z",
-            "CRN": "23078",
-            "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Parrish",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D022C10Z",
-            "CRN": "23078",
-            "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -12537,8 +12486,8 @@
             "CRN": "22958",
             "desc": "ADV C++ PROGRAMMING",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "06:00 PM-07:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -12554,8 +12503,8 @@
             "CRN": "22958",
             "desc": "ADV C++ PROGRAMMING",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "06:00 PM-07:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -12690,13 +12639,30 @@
             "units": "4.50",
             "instructor": "Amoruwa",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
       },
       "35B": {
         "00487": [
+          {
+            "course": "CIS D035B11Z",
+            "CRN": "00487",
+            "desc": "ADV JAVA PROGRAMMING",
+            "status": "Open",
+            "days": "M",
+            "time": "08:00 PM-09:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Singh",
+            "seats": "2",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          },
           {
             "course": "CIS D035B11Z",
             "CRN": "00487",
@@ -12719,8 +12685,8 @@
             "CRN": "00487",
             "desc": "ADV JAVA PROGRAMMING",
             "status": "Open",
-            "days": "M",
-            "time": "08:00 PM-09:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -12903,8 +12869,8 @@
             "CRN": "24578",
             "desc": "INTRO PROGRAMMING IN PYTHON",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "06:00 PM-07:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -12920,8 +12886,8 @@
             "CRN": "24578",
             "desc": "INTRO PROGRAMMING IN PYTHON",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "06:00 PM-07:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -12975,42 +12941,25 @@
             "CRN": "26032",
             "desc": "INTRO PROGRAMMING IN PYTHON",
             "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Whitehill",
+            "seats": "0",
+            "wait_seats": "10",
+            "wait_cap": "12"
+          },
+          {
+            "course": "CIS D040.03Z",
+            "CRN": "26032",
+            "desc": "INTRO PROGRAMMING IN PYTHON",
+            "status": "Waitlist",
             "days": "W",
             "time": "01:30 PM-02:20 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Whitehill",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "12"
-          },
-          {
-            "course": "CIS D040.03Z",
-            "CRN": "26032",
-            "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Whitehill",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "12"
-          },
-          {
-            "course": "CIS D040.03Z",
-            "CRN": "26032",
-            "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -13028,8 +12977,8 @@
             "CRN": "26785",
             "desc": "INTRO PROGRAMMING IN PYTHON",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "03:30 PM-05:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -13045,8 +12994,8 @@
             "CRN": "26785",
             "desc": "INTRO PROGRAMMING IN PYTHON",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "03:30 PM-05:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -13313,42 +13262,25 @@
             "CRN": "22859",
             "desc": "INTRO TO PL/SQL",
             "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Singh",
+            "seats": "23",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          },
+          {
+            "course": "CIS D064C02Z",
+            "CRN": "22859",
+            "desc": "INTRO TO PL/SQL",
+            "status": "Open",
             "days": "W",
             "time": "08:00 PM-09:50 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Singh",
-            "seats": "23",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D064C02Z",
-            "CRN": "22859",
-            "desc": "INTRO TO PL/SQL",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Singh",
-            "seats": "23",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D064C02Z",
-            "CRN": "22859",
-            "desc": "INTRO TO PL/SQL",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -13418,7 +13350,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Slate",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13452,42 +13384,25 @@
             "CRN": "26016",
             "desc": "CLIENT-SIDE PROGR W/JAVASCRIPT",
             "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Linn Jr",
+            "seats": "22",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          },
+          {
+            "course": "CIS D089C12Z",
+            "CRN": "26016",
+            "desc": "CLIENT-SIDE PROGR W/JAVASCRIPT",
+            "status": "Open",
             "days": "TTh",
             "time": "03:30 PM-04:55 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Linn Jr",
-            "seats": "22",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D089C12Z",
-            "CRN": "26016",
-            "desc": "CLIENT-SIDE PROGR W/JAVASCRIPT",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Linn Jr",
-            "seats": "22",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D089C12Z",
-            "CRN": "26016",
-            "desc": "CLIENT-SIDE PROGR W/JAVASCRIPT",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -13600,7 +13515,7 @@
             "units": "4.50",
             "instructor": "Holmes",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -13654,6 +13569,23 @@
             "CRN": "02644",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
             "status": "Waitlist",
+            "days": "TTh",
+            "time": "01:30 PM-02:20 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Alameer",
+            "seats": "0",
+            "wait_seats": "14",
+            "wait_cap": "15"
+          },
+          {
+            "course": "CIS D21JA01Z",
+            "CRN": "02644",
+            "desc": "INTRO X86 PROC ASSMBLY LANG",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -13671,8 +13603,8 @@
             "CRN": "02644",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "01:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -13756,6 +13688,44 @@
             "seats": "0",
             "wait_seats": "7",
             "wait_cap": "15"
+          }
+        ]
+      },
+      "22BH": {
+        "26881": [
+          {
+            "course": "CIS D22BH04Z",
+            "CRN": "26881",
+            "desc": "INTERMED PROG METHOD C++-HONOR",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Garbacea",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "CIS D22BH04Z",
+            "CRN": "26881",
+            "desc": "INTERMED PROG METHOD C++-HONOR",
+            "status": "Full",
+            "days": "W",
+            "time": "11:30 AM-12:20 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Garbacea",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -15714,7 +15684,7 @@
             "course": "COMM D016.01Z",
             "CRN": "24395",
             "desc": "INTERPERSONAL COMMUNICATION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "09:30 AM-11:20 AM",
             "start": "09/20/2021",
@@ -15723,7 +15693,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "10"
           },
@@ -15731,7 +15701,7 @@
             "course": "COMM D016.01Z",
             "CRN": "24395",
             "desc": "INTERPERSONAL COMMUNICATION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -15740,7 +15710,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "10"
           }
@@ -18161,7 +18131,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Perera",
-            "seats": "41",
+            "seats": "40",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18425,7 +18395,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomas",
-            "seats": "34",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18558,7 +18528,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Uy-Barreta",
-            "seats": "33",
+            "seats": "34",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18856,7 +18826,7 @@
             "course": "ELIT D010.01Y",
             "CRN": "26814",
             "desc": "INTRO TO FICTION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "10:00 AM-11:50 AM",
             "start": "09/20/2021",
@@ -18865,7 +18835,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Fleming",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -18873,7 +18843,7 @@
             "course": "ELIT D010.01Y",
             "CRN": "26814",
             "desc": "INTRO TO FICTION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -18882,7 +18852,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Fleming",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -18922,7 +18892,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Quigley",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -18939,7 +18909,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Quigley",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19346,7 +19316,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ratsirarson",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -19363,7 +19333,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ratsirarson",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -19814,7 +19784,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Stranahan",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -19831,7 +19801,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Stranahan",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20590,7 +20560,7 @@
             "course": "ESL D273.04Z",
             "CRN": "26710",
             "desc": "INTRO TO THE ESSAY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "10:30 AM-12:20 PM",
             "start": "09/20/2021",
@@ -20599,7 +20569,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Yee",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20607,7 +20577,7 @@
             "course": "ESL D273.04Z",
             "CRN": "26710",
             "desc": "INTRO TO THE ESSAY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -20616,7 +20586,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Yee",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22238,7 +22208,7 @@
             "course": "EWRT D001A24Q",
             "CRN": "26313",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -22247,7 +22217,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -25657,7 +25627,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dutt",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -25905,7 +25875,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Jethi",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -26443,6 +26413,48 @@
             "seats": "0",
             "wait_seats": "7",
             "wait_cap": "7"
+          }
+        ]
+      },
+      "17AH": {
+        "26876": [
+          {
+            "course": "HIST D17AH53Z",
+            "CRN": "26876",
+            "desc": "HIST U.S. EARLY NATL ERA - HON",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Cini",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "17CH": {
+        "26877": [
+          {
+            "course": "HIST D17CH56Z",
+            "CRN": "26877",
+            "desc": "HIST U.S. 1900-PRESENT - HONOR",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Cini",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
@@ -28327,8 +28339,8 @@
             "CRN": "25879",
             "desc": "CREATIVE MINDS",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "01:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -28344,8 +28356,8 @@
             "CRN": "25879",
             "desc": "CREATIVE MINDS",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "01:30 PM-02:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -28660,6 +28672,27 @@
           }
         ]
       },
+      "1H": {
+        "26878": [
+          {
+            "course": "HUMI D001H50Z",
+            "CRN": "26878",
+            "desc": "CREATIVE MINDS-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Clinchard",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "5": {
         "26392": [
           {
@@ -28798,6 +28831,27 @@
             "seats": "0",
             "wait_seats": "13",
             "wait_cap": "15"
+          }
+        ]
+      },
+      "9H": {
+        "26879": [
+          {
+            "course": "HUMI D009H50Z",
+            "CRN": "26879",
+            "desc": "INTRO TO COMPAR RELIG-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Clinchard",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -31392,7 +31446,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Simons",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -32194,7 +32248,7 @@
             "course": "LART D250.24Q",
             "CRN": "26314",
             "desc": "ACADEMIC READING AND WRITING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -32203,7 +32257,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Staff",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -32881,7 +32935,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Desilets",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34087,7 +34141,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bourgoub",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34697,7 +34751,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tran",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35037,7 +35091,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shariatmadari",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35137,6 +35191,80 @@
             "seats": "5",
             "wait_seats": "6",
             "wait_cap": "6"
+          }
+        ]
+      },
+      "1AH": {
+        "26874": [
+          {
+            "course": "MATH D01AH01Z",
+            "CRN": "26874",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Bambhania",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "MATH D01AH01Z",
+            "CRN": "26874",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "TWTh",
+            "time": "09:30 AM-10:20 AM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Bambhania",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "26875": [
+          {
+            "course": "MATH D01AH12Z",
+            "CRN": "26875",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "TWTh",
+            "time": "08:30 AM-09:20 AM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Bambhania",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "MATH D01AH12Z",
+            "CRN": "26875",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Bambhania",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -35468,7 +35596,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Krestas",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35707,8 +35835,8 @@
             "CRN": "26618",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "08:30 AM-09:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -35724,8 +35852,8 @@
             "CRN": "26618",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "08:30 AM-09:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -36115,7 +36243,7 @@
             "course": "MATH D114.17Z",
             "CRN": "24186",
             "desc": "MATH PREP LEVEL 3:INTERMED ALG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "06:30 PM-08:45 PM",
             "start": "09/20/2021",
@@ -36124,7 +36252,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tsuji",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -40332,7 +40460,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Booher",
-            "seats": "44",
+            "seats": "43",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -42160,6 +42288,27 @@
           }
         ]
       },
+      "1H": {
+        "26880": [
+          {
+            "course": "POLI D001H01",
+            "CRN": "26880",
+            "desc": "AMERICAN GOVT & POLIT - HONORS",
+            "status": "Full",
+            "days": "TTh",
+            "time": "09:30 AM-11:45 AM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ADM119",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Druehl",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "2": {
         "02108": [
           {
@@ -42810,7 +42959,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomas",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -44710,7 +44859,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Vinall",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
