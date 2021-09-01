@@ -2860,7 +2860,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Olsen",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3984,7 +3984,7 @@
             "course": "ASAM D001.61Z",
             "CRN": "25794",
             "desc": "ASIAN AMER EXPER PAST TO PRES",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -3993,7 +3993,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -4346,7 +4346,7 @@
             "units": "1.00",
             "instructor": "Cichanski",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
@@ -4363,7 +4363,7 @@
             "units": "1.00",
             "instructor": "Cichanski",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ]
@@ -5977,7 +5977,7 @@
             "units": "5.00",
             "instructor": "Mcpartlan",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           },
           {
@@ -5994,7 +5994,7 @@
             "units": "5.00",
             "instructor": "Mcpartlan",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -6152,6 +6152,25 @@
         ]
       },
       "10H": {
+        "26901": [
+          {
+            "course": "BIOL D010H03Z",
+            "CRN": "26901",
+            "desc": "INTRO BIOLOGY-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "26873": [
           {
             "course": "BIOL D010H51Z",
@@ -6232,8 +6251,8 @@
             "CRN": "21650",
             "desc": "HUMAN BIOLOGY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "12:00 PM-01:30 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -6249,8 +6268,8 @@
             "CRN": "21650",
             "desc": "HUMAN BIOLOGY",
             "status": "Open",
-            "days": "Th",
-            "time": "12:00 PM-01:30 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -6393,8 +6412,8 @@
             "CRN": "25382",
             "desc": "HUMAN BIOLOGY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "11:30 AM-01:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -6410,8 +6429,8 @@
             "CRN": "25382",
             "desc": "HUMAN BIOLOGY",
             "status": "Open",
-            "days": "M",
-            "time": "11:30 AM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -6505,8 +6524,8 @@
             "CRN": "23716",
             "desc": "INTRO MICROBIOLOGY",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "01:30 PM-04:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -6522,8 +6541,8 @@
             "CRN": "23716",
             "desc": "INTRO MICROBIOLOGY",
             "status": "Full",
-            "days": "TTh",
-            "time": "01:30 PM-04:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -6651,8 +6670,8 @@
             "CRN": "00271",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "11:30 AM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -6668,8 +6687,8 @@
             "CRN": "00271",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "11:30 AM-01:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -12959,7 +12978,7 @@
             "course": "CIS D036A11Z",
             "CRN": "23412",
             "desc": "INTRO TO COMP PROG USING JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "06:00 PM-06:50 PM",
             "start": "09/20/2021",
@@ -12968,7 +12987,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Stoykov",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -12976,7 +12995,7 @@
             "course": "CIS D036A11Z",
             "CRN": "23412",
             "desc": "INTRO TO COMP PROG USING JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -12985,7 +13004,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Stoykov",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -12993,7 +13012,7 @@
             "course": "CIS D036A11Z",
             "CRN": "23412",
             "desc": "INTRO TO COMP PROG USING JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -13002,7 +13021,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Stoykov",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13204,7 +13223,7 @@
             "units": "4.50",
             "instructor": "Lau",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
@@ -13221,7 +13240,7 @@
             "units": "4.50",
             "instructor": "Lau",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -13745,7 +13764,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Holmes",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -19650,7 +19669,7 @@
             "course": "ESCI D001.50Z",
             "CRN": "21703",
             "desc": "ENVIRON SCIENCE",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -19660,7 +19679,7 @@
             "units": "4.00",
             "instructor": "Phillips",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ],
@@ -20063,7 +20082,7 @@
             "course": "ESL D005.02Z",
             "CRN": "00719",
             "desc": "ESL:ADV COMP/READNG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "09:30 AM-11:45 AM",
             "start": "09/20/2021",
@@ -20072,7 +20091,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Newman",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23514,7 +23533,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Trimble",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24794,7 +24813,7 @@
             "units": "5.00",
             "instructor": "Quigley",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
@@ -24811,7 +24830,7 @@
             "units": "5.00",
             "instructor": "Quigley",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -34832,7 +34851,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guerrero",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -44907,7 +44926,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dehaan",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "15",
             "wait_cap": "15"
           }
