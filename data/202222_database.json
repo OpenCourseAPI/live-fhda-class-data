@@ -6747,7 +6747,7 @@
             "units": "5.00",
             "instructor": "Kalpin",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "7"
           },
           {
@@ -6764,7 +6764,7 @@
             "units": "5.00",
             "instructor": "Kalpin",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "7"
           }
         ],
@@ -11616,7 +11616,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11633,7 +11633,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -20428,7 +20428,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Lee",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -21982,7 +21982,7 @@
             "course": "EWRT D001A13Q",
             "CRN": "22574",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "02:30 PM-03:20 PM",
             "start": "09/20/2021",
@@ -21992,14 +21992,14 @@
             "units": "5.00",
             "instructor": "Vasquez",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           },
           {
             "course": "EWRT D001A13Q",
             "CRN": "22574",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -22009,7 +22009,7 @@
             "units": "5.00",
             "instructor": "Vasquez",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -26474,7 +26474,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "42",
+            "seats": "41",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -26766,7 +26766,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Erickson",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -29652,7 +29652,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Xuan",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -32124,7 +32124,7 @@
             "course": "LART D250.13Q",
             "CRN": "25478",
             "desc": "ACADEMIC READING AND WRITING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -32134,7 +32134,7 @@
             "units": "3.00",
             "instructor": "Vasquez",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -34608,7 +34608,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34627,7 +34627,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guerrero",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35199,6 +35199,46 @@
           }
         ]
       },
+      "10H": {
+        "26883": [
+          {
+            "course": "MATH D010H26Z",
+            "CRN": "26883",
+            "desc": "INTRODUCTORY STATS - HONORS",
+            "status": "Full",
+            "days": "MW",
+            "time": "04:00 PM-06:15 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Geraghty",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "26884": [
+          {
+            "course": "MATH D010H32Z",
+            "CRN": "26884",
+            "desc": "INTRODUCTORY STATS - HONORS",
+            "status": "Full",
+            "days": "TTh",
+            "time": "04:00 PM-06:15 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Geraghty",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "11": {
         "01534": [
           {
@@ -35324,8 +35364,8 @@
             "CRN": "26874",
             "desc": "CALCULUS - HONORS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TWTh",
+            "time": "09:30 AM-10:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -35341,8 +35381,8 @@
             "CRN": "26874",
             "desc": "CALCULUS - HONORS",
             "status": "Full",
-            "days": "TWTh",
-            "time": "09:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -35863,11 +35903,11 @@
             "CRN": "26617",
             "desc": "PRECALCULUS I",
             "status": "Full",
-            "days": "MTW",
+            "days": "ThF",
             "time": "08:30 AM-10:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "S44",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
@@ -35880,11 +35920,11 @@
             "CRN": "26617",
             "desc": "PRECALCULUS I",
             "status": "Full",
-            "days": "ThF",
+            "days": "MTW",
             "time": "08:30 AM-10:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "ONLINE",
+            "room": "S44",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
@@ -35958,8 +35998,8 @@
             "CRN": "26618",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "08:30 AM-09:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -35975,8 +36015,8 @@
             "CRN": "26618",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "08:30 AM-09:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -40663,7 +40703,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hammerud",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -42329,7 +42369,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Meredith",
-            "seats": "38",
+            "seats": "37",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -43063,7 +43103,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Baldwin",
-            "seats": "86",
+            "seats": "85",
             "wait_seats": "8",
             "wait_cap": "8"
           }
