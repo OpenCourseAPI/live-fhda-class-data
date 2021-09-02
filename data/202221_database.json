@@ -5729,7 +5729,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Firenzi",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6578,7 +6578,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13067,7 +13067,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fleischer",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -18754,7 +18754,7 @@
             "course": "MATH F010.13W",
             "CRN": "20653",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -18763,7 +18763,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24350,6 +24350,25 @@
             "wait_seats": "0",
             "wait_cap": "10"
           }
+        ],
+        "22062": [
+          {
+            "course": "PHYS F004A05",
+            "CRN": "22062",
+            "desc": "GENERAL PHYSICS (CALC)",
+            "status": "Full",
+            "days": "MW",
+            "time": "05:00 PM-07:15 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "4605",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "4B": {
@@ -24359,8 +24378,8 @@
             "CRN": "20110",
             "desc": "GENERAL PHYSICS (CALC)",
             "status": "Full",
-            "days": "F",
-            "time": "10:00 AM-10:50 AM",
+            "days": "MW",
+            "time": "10:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -24376,8 +24395,8 @@
             "CRN": "20110",
             "desc": "GENERAL PHYSICS (CALC)",
             "status": "Full",
-            "days": "MW",
-            "time": "10:00 AM-11:50 AM",
+            "days": "F",
+            "time": "10:00 AM-10:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -24719,7 +24738,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Woolcock",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24858,7 +24877,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryer",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "20",
             "wait_cap": "20"
           }
