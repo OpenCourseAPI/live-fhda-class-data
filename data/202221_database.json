@@ -1170,6 +1170,25 @@
             "wait_cap": "0"
           }
         ],
+        "22068": [
+          {
+            "course": "ALCB F408Y09",
+            "CRN": "22068",
+            "desc": "ART APPRECIATION",
+            "status": "Open",
+            "days": "M",
+            "time": "10:00 AM-11:50 AM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "MPSC",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Thomson",
+            "seats": "35",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "22065": [
           {
             "course": "ALCB F408Y10",
@@ -1206,6 +1225,25 @@
             "units": "0.00",
             "instructor": "Lovejoy",
             "seats": "29",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "22067": [
+          {
+            "course": "ALCB F409Y02V",
+            "CRN": "22067",
+            "desc": "MUSIC APPRECIATION",
+            "status": "Open",
+            "days": "F",
+            "time": "10:30 AM-12:20 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "Staff",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1720,14 +1758,14 @@
             "CRN": "22066",
             "desc": "CRAFTS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "F",
+            "time": "10:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "",
-            "campus": "",
+            "room": "MPSC",
+            "campus": "FO",
             "units": "0.00",
-            "instructor": "Staff",
+            "instructor": "Thomson",
             "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -6232,7 +6270,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "25",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6424,7 +6462,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Cecil",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7347,7 +7385,7 @@
             "course": "CHEM F001B02W",
             "CRN": "20295",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7356,7 +7394,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rao",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "10"
           }
@@ -7751,7 +7789,7 @@
             "course": "CHEM F025.05Z",
             "CRN": "21687",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "09/20/2021",
@@ -7760,7 +7798,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           },
@@ -7768,7 +7806,7 @@
             "course": "CHEM F025.05Z",
             "CRN": "21687",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7777,7 +7815,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -8436,7 +8474,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11719,7 +11757,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -11736,7 +11774,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -12719,7 +12757,7 @@
             "units": "5.00",
             "instructor": "Escamilla",
             "seats": "0",
-            "wait_seats": "23",
+            "wait_seats": "22",
             "wait_cap": "25"
           }
         ],
@@ -13062,7 +13100,7 @@
             "course": "ENGL F001A45W",
             "CRN": "20798",
             "desc": "COMPOSITION & READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -13071,7 +13109,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fleischer",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13696,7 +13734,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Svetich",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -15325,7 +15363,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Bush",
-            "seats": "29",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15754,7 +15792,7 @@
             "course": "HORT F054A01",
             "CRN": "21610",
             "desc": "LANDSCAPE CONSTR:GENERAL PRACT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "M",
             "time": "09:00 AM-12:50 PM",
             "start": "09/20/2021",
@@ -15763,7 +15801,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Niccoli",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -15771,7 +15809,7 @@
             "course": "HORT F054A01",
             "CRN": "21610",
             "desc": "LANDSCAPE CONSTR:GENERAL PRACT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "M",
             "time": "12:50 PM-03:50 PM",
             "start": "09/20/2021",
@@ -15780,7 +15818,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Niccoli",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -16003,7 +16041,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -18175,7 +18213,7 @@
             "units": "5.00",
             "instructor": "Williams",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -23482,7 +23520,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tapia",
-            "seats": "21",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23501,7 +23539,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tapia",
-            "seats": "34",
+            "seats": "37",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -27014,7 +27052,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martin",
-            "seats": "36",
+            "seats": "37",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -27159,7 +27197,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "McNamara",
-            "seats": "41",
+            "seats": "42",
             "wait_seats": "20",
             "wait_cap": "20"
           }
