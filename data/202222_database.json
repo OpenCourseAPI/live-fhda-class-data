@@ -836,7 +836,7 @@
             "course": "ACCT D001C02Z",
             "CRN": "24171",
             "desc": "MANAG ACCOUNTG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "10:00 AM-10:50 AM",
             "start": "09/20/2021",
@@ -845,15 +845,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           },
           {
             "course": "ACCT D001C02Z",
             "CRN": "24171",
             "desc": "MANAG ACCOUNTG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -862,8 +862,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -10863,7 +10863,7 @@
             "course": "CHEM D025.03Z",
             "CRN": "23000",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "08:30 AM-10:20 AM",
             "start": "09/20/2021",
@@ -10873,14 +10873,14 @@
             "units": "5.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D025.03Z",
             "CRN": "23000",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "T",
             "time": "11:30 AM-12:20 PM",
             "start": "09/20/2021",
@@ -10890,14 +10890,14 @@
             "units": "5.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D025.03Z",
             "CRN": "23000",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -10907,7 +10907,7 @@
             "units": "5.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -11912,7 +11912,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11929,7 +11929,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13745,7 +13745,7 @@
             "course": "CIS D089A62Z",
             "CRN": "00494",
             "desc": "WEB PAGE DEVELOPMENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -13754,8 +13754,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Taylor",
-            "seats": "1",
-            "wait_seats": "11",
+            "seats": "0",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ]
@@ -14722,7 +14722,7 @@
             "units": "5.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
@@ -14739,7 +14739,7 @@
             "units": "5.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -15144,7 +15144,7 @@
             "course": "COMM D001.50Z",
             "CRN": "24345",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -15153,7 +15153,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kaur",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "2",
             "wait_cap": "5"
           }
@@ -15892,7 +15892,7 @@
             "course": "COMM D010.08Z",
             "CRN": "24384",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:30 PM-02:20 PM",
             "start": "09/20/2021",
@@ -15901,7 +15901,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cano",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -15909,7 +15909,7 @@
             "course": "COMM D010.08Z",
             "CRN": "24384",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -15918,7 +15918,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cano",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -16914,7 +16914,7 @@
             "units": "1.00",
             "instructor": "Gray",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -18888,7 +18888,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "West",
-            "seats": "27",
+            "seats": "28",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18907,7 +18907,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -18924,7 +18924,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -23968,7 +23968,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gravener",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24864,7 +24864,7 @@
             "course": "EWRT D002.50Z",
             "CRN": "00926",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -24873,7 +24873,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dickson",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -35110,7 +35110,7 @@
             "course": "MATH D002A07Z",
             "CRN": "26030",
             "desc": "DIFFERENTIAL EQUATIONS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "04:00 PM-06:15 PM",
             "start": "09/20/2021",
@@ -35119,8 +35119,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sadeghi-Hassanvand",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ]
@@ -35256,7 +35256,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sadeghi-Hassanvand",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35332,7 +35332,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Vanniasegaram",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -41095,7 +41095,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Guillouet",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -41112,7 +41112,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Guillouet",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -43346,7 +43346,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -43489,7 +43489,7 @@
             "course": "POLI D001.55Z",
             "CRN": "24120",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -43499,7 +43499,7 @@
             "units": "5.00",
             "instructor": "Chin",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ],
@@ -44597,7 +44597,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Firpo",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -44614,7 +44614,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Firpo",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -44946,7 +44946,7 @@
             "units": "4.00",
             "instructor": "Olsen",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -45283,7 +45283,7 @@
             "course": "REST D053.61Z",
             "CRN": "02245",
             "desc": "REAL ESTATE FINANCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -45292,8 +45292,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hatter",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -46575,7 +46575,7 @@
             "units": "4.00",
             "instructor": "Trafalis",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
