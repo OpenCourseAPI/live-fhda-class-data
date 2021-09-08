@@ -5077,7 +5077,7 @@
             "units": "5.00",
             "instructor": "Mousavi Shafaei",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "7"
           },
           {
@@ -5094,7 +5094,7 @@
             "units": "5.00",
             "instructor": "Mousavi Shafaei",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ]
@@ -16565,7 +16565,7 @@
             "course": "JAPN F001.01W",
             "CRN": "20077",
             "desc": "ELEMENTARY JAPANESE I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -16575,8 +16575,8 @@
             "units": "5.00",
             "instructor": "Rakow",
             "seats": "0",
-            "wait_seats": "15",
-            "wait_cap": "25"
+            "wait_seats": "-10",
+            "wait_cap": "0"
           }
         ],
         "20078": [
@@ -16584,7 +16584,7 @@
             "course": "JAPN F001.02W",
             "CRN": "20078",
             "desc": "ELEMENTARY JAPANESE I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -16594,8 +16594,8 @@
             "units": "5.00",
             "instructor": "Wortz",
             "seats": "0",
-            "wait_seats": "23",
-            "wait_cap": "25"
+            "wait_seats": "-2",
+            "wait_cap": "0"
           }
         ],
         "21243": [
@@ -16603,7 +16603,7 @@
             "course": "JAPN F001.03W",
             "CRN": "21243",
             "desc": "ELEMENTARY JAPANESE I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -16613,8 +16613,8 @@
             "units": "5.00",
             "instructor": "Wortz",
             "seats": "0",
-            "wait_seats": "23",
-            "wait_cap": "25"
+            "wait_seats": "-2",
+            "wait_cap": "0"
           }
         ],
         "21545": [
@@ -24702,7 +24702,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryer",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -24719,7 +24719,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryer",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -27615,7 +27615,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gough",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -27632,7 +27632,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gough",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
