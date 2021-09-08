@@ -1176,7 +1176,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Hatter",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23826,7 +23826,7 @@
             "course": "EWRT D001A61Z",
             "CRN": "22000",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -23835,7 +23835,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Brennan",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24691,7 +24691,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cragen",
-            "seats": "16",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -24708,7 +24708,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cragen",
-            "seats": "16",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24727,7 +24727,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cragen",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -24744,7 +24744,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cragen",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -28672,6 +28672,23 @@
             "room": "TBA",
             "campus": "DO",
             "units": "6.00",
+            "instructor": "Wagner",
+            "seats": "2",
+            "wait_seats": "2",
+            "wait_cap": "2"
+          },
+          {
+            "course": "HTEC D183.01F",
+            "CRN": "01194",
+            "desc": "CLINIC MICROBIOLOGY PRACTICUM",
+            "status": "Open",
+            "days": "MTW",
+            "time": "02:30 PM-08:20 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "TBA",
+            "campus": "DO",
+            "units": "6.00",
             "instructor": "Buchner",
             "seats": "2",
             "wait_seats": "2",
@@ -28681,6 +28698,23 @@
       },
       "184": {
         "01195": [
+          {
+            "course": "HTEC D184.01F",
+            "CRN": "01195",
+            "desc": "CLINIC IMMUNOLOGY/IMMUNHEMA PR",
+            "status": "Open",
+            "days": "MTW",
+            "time": "06:30 AM-10:45 AM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "TBA",
+            "campus": "DO",
+            "units": "4.50",
+            "instructor": "Wagner",
+            "seats": "1",
+            "wait_seats": "2",
+            "wait_cap": "2"
+          },
           {
             "course": "HTEC D184.01F",
             "CRN": "01195",
@@ -35539,7 +35573,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guerrero",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -36128,7 +36162,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shariatmadari",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -41760,7 +41794,7 @@
             "course": "PHIL D003.50Z",
             "CRN": "02037",
             "desc": "CRIT THINKNG & WRITNG",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -41769,7 +41803,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Baiamonte",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -42007,7 +42041,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Galindo",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -43287,7 +43321,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Druehl",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "4",
             "wait_cap": "7"
           }
@@ -43306,7 +43340,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -45424,7 +45458,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Birago",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
