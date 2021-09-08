@@ -595,7 +595,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Novikov",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4517,7 +4517,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Schultz",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4534,7 +4534,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Schultz",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -5357,7 +5357,7 @@
             "course": "BIOL F041.03",
             "CRN": "20027",
             "desc": "MICROBIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:00 PM-01:50 PM",
             "start": "09/20/2021",
@@ -5366,7 +5366,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Jacobs",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -5374,7 +5374,7 @@
             "course": "BIOL F041.03",
             "CRN": "20027",
             "desc": "MICROBIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "09:00 AM-11:50 AM",
             "start": "09/20/2021",
@@ -5383,7 +5383,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Jacobs",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -5946,7 +5946,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Tuttle",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6270,7 +6270,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "25",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6320,7 +6320,7 @@
             "course": "C S F001B01Z",
             "CRN": "20291",
             "desc": "INTERM SOFTWARE DESIGN IN JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "06:00 PM-07:50 PM",
             "start": "09/20/2021",
@@ -6329,32 +6329,13 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Dhagat",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
             "course": "C S F001B01Z",
             "CRN": "20291",
-            "desc": "INTERM SOFTWARE DESIGN IN JAVA",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Dhagat",
-            "seats": "1",
-            "wait_seats": "8",
-            "wait_cap": "10"
-          }
-        ],
-        "20393": [
-          {
-            "course": "C S F001B03W",
-            "CRN": "20393",
             "desc": "INTERM SOFTWARE DESIGN IN JAVA",
             "status": "Waitlist",
             "days": "TBA",
@@ -6364,8 +6345,27 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "4.50",
-            "instructor": "Meade",
+            "instructor": "Dhagat",
             "seats": "0",
+            "wait_seats": "9",
+            "wait_cap": "10"
+          }
+        ],
+        "20393": [
+          {
+            "course": "C S F001B03W",
+            "CRN": "20393",
+            "desc": "INTERM SOFTWARE DESIGN IN JAVA",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.50",
+            "instructor": "Meade",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -6657,7 +6657,7 @@
             "units": "4.50",
             "instructor": "Lai",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -6811,7 +6811,7 @@
             "units": "4.50",
             "instructor": "Riordan",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           },
           {
@@ -6828,7 +6828,7 @@
             "units": "4.50",
             "instructor": "Riordan",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -7273,7 +7273,7 @@
             "course": "CHEM F001A04",
             "CRN": "21676",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "01:00 PM-02:15 PM",
             "start": "09/20/2021",
@@ -7282,15 +7282,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stepp",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           },
           {
             "course": "CHEM F001A04",
             "CRN": "21676",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "02:30 PM-05:20 PM",
             "start": "09/20/2021",
@@ -7299,8 +7299,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Katsir",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -7385,7 +7385,7 @@
             "course": "CHEM F001B02W",
             "CRN": "20295",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7394,8 +7394,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rao",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -7789,7 +7789,7 @@
             "course": "CHEM F025.05Z",
             "CRN": "21687",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "09/20/2021",
@@ -7798,15 +7798,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           },
           {
             "course": "CHEM F025.05Z",
             "CRN": "21687",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7815,8 +7815,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -7873,7 +7873,7 @@
             "units": "5.00",
             "instructor": "Cormia",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           },
           {
@@ -7890,7 +7890,7 @@
             "units": "5.00",
             "instructor": "Cormia",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -7954,7 +7954,7 @@
             "course": "CHEM F030A04W",
             "CRN": "20690",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7964,7 +7964,7 @@
             "units": "5.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -8337,7 +8337,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Giotta",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -9014,7 +9014,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Villanueva",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -9457,7 +9457,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9474,7 +9474,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9961,7 +9961,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mohammadi",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -10041,7 +10041,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12988,7 +12988,7 @@
             "course": "ENGL F001A39W",
             "CRN": "20792",
             "desc": "COMPOSITION & READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -12997,8 +12997,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fleischer",
-            "seats": "1",
-            "wait_seats": "22",
+            "seats": "0",
+            "wait_seats": "23",
             "wait_cap": "25"
           }
         ],
@@ -13119,7 +13119,7 @@
             "course": "ENGL F001A46W",
             "CRN": "20799",
             "desc": "COMPOSITION & READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -13128,7 +13128,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sperry",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "24",
             "wait_cap": "25"
           }
@@ -14264,7 +14264,7 @@
             "course": "ESLL F226.1QZ",
             "CRN": "20572",
             "desc": "HIGH-INTERMEDIATE GRAMMAR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "10:00 AM-11:50 AM",
             "start": "09/20/2021",
@@ -14273,15 +14273,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "1",
-            "wait_seats": "24",
+            "seats": "0",
+            "wait_seats": "25",
             "wait_cap": "25"
           },
           {
             "course": "ESLL F226.1QZ",
             "CRN": "20572",
             "desc": "HIGH-INTERMEDIATE GRAMMAR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -14290,8 +14290,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "1",
-            "wait_seats": "24",
+            "seats": "0",
+            "wait_seats": "25",
             "wait_cap": "25"
           }
         ],
@@ -14522,7 +14522,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Acevedo",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -14539,7 +14539,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Acevedo",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -14981,7 +14981,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15210,7 +15210,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Aguilar",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15582,7 +15582,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Baldwin",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -15679,7 +15679,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryan",
-            "seats": "38",
+            "seats": "37",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -16020,7 +16020,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Vaughan",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -20196,7 +20196,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Shea",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22680,7 +22680,7 @@
             "course": "PHED F022B01W",
             "CRN": "20277",
             "desc": "PILATES & YOGA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -22689,7 +22689,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23471,7 +23471,7 @@
             "course": "PHIL F004.03W",
             "CRN": "20578",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -23480,7 +23480,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Provost",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25131,7 +25131,7 @@
             "course": "PSYC F001.02W",
             "CRN": "20113",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -25140,7 +25140,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Strader",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "19",
             "wait_cap": "20"
           }
@@ -25585,7 +25585,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Robins",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -25602,7 +25602,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Robins",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25663,7 +25663,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Paulos",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "20",
             "wait_cap": "20"
           }
