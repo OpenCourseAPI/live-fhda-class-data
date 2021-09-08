@@ -799,7 +799,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mendizabal",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -818,7 +818,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ponleithner",
-            "seats": "31",
+            "seats": "32",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -8499,7 +8499,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8516,7 +8516,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9486,7 +9486,7 @@
             "course": "COMM F001B01Z",
             "CRN": "20426",
             "desc": "ARGUMENTATION & PERSUASION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
@@ -9495,7 +9495,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Clemmons",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9503,7 +9503,7 @@
             "course": "COMM F001B01Z",
             "CRN": "20426",
             "desc": "ARGUMENTATION & PERSUASION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -9512,7 +9512,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Clemmons",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11736,7 +11736,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -11753,7 +11753,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -13519,7 +13519,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Goldstone",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -15262,7 +15262,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Bush",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15283,7 +15283,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fung",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -18481,7 +18481,7 @@
             "units": "5.00",
             "instructor": "Francisco",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -21058,44 +21058,6 @@
           }
         ]
       },
-      "411": {
-        "21261": [
-          {
-            "course": "NCEL F411.03V",
-            "CRN": "21261",
-            "desc": "ADV-BEG ESL I",
-            "status": "Open",
-            "days": "TW",
-            "time": "09:00 AM-12:20 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "Mason",
-            "seats": "32",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "NCEL F411.03V",
-            "CRN": "21261",
-            "desc": "ADV-BEG ESL I",
-            "status": "Open",
-            "days": "Th",
-            "time": "09:00 AM-12:10 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "Mason",
-            "seats": "32",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
       "421": {
         "21616": [
           {
@@ -21181,8 +21143,8 @@
             "CRN": "21079",
             "desc": "HIGH-INTERMEDIATE GRAMMAR",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "10:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -21198,8 +21160,8 @@
             "CRN": "21079",
             "desc": "HIGH-INTERMEDIATE GRAMMAR",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -21406,27 +21368,6 @@
             "desc": "LOW-INTRMD VOC ESL FOOD WORKRS",
             "status": "Open",
             "days": "MW",
-            "time": "04:00 PM-05:50 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "Lanz",
-            "seats": "31",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "471": {
-        "21621": [
-          {
-            "course": "NCEL F471.01V",
-            "CRN": "21621",
-            "desc": "INTRMD-ADVNCD ESL FOOD WORKERS",
-            "status": "Open",
-            "days": "TTh",
             "time": "04:00 PM-05:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
@@ -22574,7 +22515,7 @@
             "units": "1.00",
             "instructor": "Flannery",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -23345,7 +23286,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tapia",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
