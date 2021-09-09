@@ -311,7 +311,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Fakoor",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2096,7 +2096,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jenkins",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5590,7 +5590,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Schinske",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -5607,7 +5607,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Schinske",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -6824,7 +6824,7 @@
             "course": "C S F030B01W",
             "CRN": "20503",
             "desc": "LINUX SHELL PROGRAMMING",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -6833,9 +6833,9 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "27",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -6854,7 +6854,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Staff",
-            "seats": "20",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9872,7 +9872,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jackson Sandoval",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -9889,7 +9889,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jackson Sandoval",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12727,8 +12727,8 @@
             "CRN": "20063",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -12744,8 +12744,8 @@
             "CRN": "20063",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "T",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -12782,8 +12782,8 @@
             "CRN": "20189",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "Th",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -12799,8 +12799,8 @@
             "CRN": "20189",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "10:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -12894,8 +12894,8 @@
             "CRN": "20795",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -12911,8 +12911,8 @@
             "CRN": "20795",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "W",
-            "time": "01:30 PM-03:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -13044,8 +13044,8 @@
             "CRN": "20163",
             "desc": "COMPOSITION & READING",
             "status": "Full",
-            "days": "F",
-            "time": "09:50 AM-10:40 AM",
+            "days": "MW",
+            "time": "09:40 AM-11:30 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ESPREP",
@@ -13061,8 +13061,8 @@
             "CRN": "20163",
             "desc": "COMPOSITION & READING",
             "status": "Full",
-            "days": "MW",
-            "time": "09:40 AM-11:30 AM",
+            "days": "F",
+            "time": "09:50 AM-10:40 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ESPREP",
@@ -13080,8 +13080,25 @@
             "CRN": "20435",
             "desc": "COMPOSITION & READING",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "01:30 PM-03:20 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ESPREP",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Reilly",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ENGL F001A62D",
+            "CRN": "20435",
+            "desc": "COMPOSITION & READING",
+            "status": "Full",
+            "days": "F",
+            "time": "01:55 PM-02:45 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ESPREP",
@@ -14402,7 +14419,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Acevedo",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25237,7 +25254,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Robins",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -25254,7 +25271,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Robins",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -26725,7 +26742,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cormier",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "20",
             "wait_cap": "20"
           }
