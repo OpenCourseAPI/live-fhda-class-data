@@ -233,7 +233,7 @@
             "units": "5.00",
             "instructor": "Mello",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -250,7 +250,7 @@
             "units": "5.00",
             "instructor": "Mello",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -3794,7 +3794,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -10389,7 +10389,7 @@
             "units": "5.00",
             "instructor": "Mar",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "4",
             "wait_cap": "6"
           },
           {
@@ -10406,7 +10406,7 @@
             "units": "5.00",
             "instructor": "Mar",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -10684,7 +10684,7 @@
             "course": "CHEM D025.06Z",
             "CRN": "23023",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "09/20/2021",
@@ -10694,14 +10694,14 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D025.06Z",
             "CRN": "23023",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "Th",
             "time": "07:30 PM-08:20 PM",
             "start": "09/20/2021",
@@ -10711,14 +10711,14 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D025.06Z",
             "CRN": "23023",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -10728,7 +10728,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -17795,25 +17795,6 @@
             "wait_cap": "10"
           }
         ],
-        "26060": [
-          {
-            "course": "E S D001.54Z",
-            "CRN": "26060",
-            "desc": "INTRO ENVIRON STDS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Poffenroth",
-            "seats": "33",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ],
         "26797": [
           {
             "course": "E S D001.55Z",
@@ -17828,7 +17809,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17890,25 +17871,6 @@
             "units": "4.00",
             "instructor": "Thorensen",
             "seats": "31",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "26789": [
-          {
-            "course": "E S D003.52Z",
-            "CRN": "26789",
-            "desc": "IMAGERY OF THE ENVIRONMENT",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Thorensen",
-            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19729,8 +19691,8 @@
             "CRN": "22346",
             "desc": "ENVIRON SCIENCE",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "11:30 AM-12:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -19746,8 +19708,8 @@
             "CRN": "22346",
             "desc": "ENVIRON SCIENCE",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "11:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -19811,7 +19773,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Poffenroth",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19831,25 +19793,6 @@
             "units": "4.00",
             "instructor": "Sanders",
             "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "24232": [
-          {
-            "course": "ESCI D001.54Z",
-            "CRN": "24232",
-            "desc": "ENVIRON SCIENCE",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Sanders",
-            "seats": "33",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19947,25 +19890,6 @@
             "units": "1.00",
             "instructor": "McCluskey",
             "seats": "19",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ],
-        "23068": [
-          {
-            "course": "ESCI D001L03Z",
-            "CRN": "23068",
-            "desc": "ENVIRON SCIENCE LAB",
-            "status": "Open",
-            "days": "Th",
-            "time": "09:30 AM-12:20 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.00",
-            "instructor": "McCluskey",
-            "seats": "27",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -20838,7 +20762,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Marin",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20907,7 +20831,7 @@
             "course": "ESL D273.01Y",
             "CRN": "25070",
             "desc": "INTRO TO THE ESSAY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "10:30 AM-12:20 PM",
             "start": "09/20/2021",
@@ -20916,7 +20840,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Barasch-Kane",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20924,7 +20848,7 @@
             "course": "ESL D273.01Y",
             "CRN": "25070",
             "desc": "INTRO TO THE ESSAY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "10:30 AM-12:20 PM",
             "start": "09/20/2021",
@@ -20933,7 +20857,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Barasch-Kane",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -21194,7 +21118,7 @@
             "course": "ESL D451.01Z",
             "CRN": "26717",
             "desc": "HGH INTER LISTNG/SPEAKNG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "08:30 AM-10:20 AM",
             "start": "09/20/2021",
@@ -21203,7 +21127,7 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Marin",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -21272,7 +21196,7 @@
             "course": "ESL D455.01Z",
             "CRN": "26721",
             "desc": "HIGH INTERMED GRAMM, WRTNG, RD",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "08:30 AM-11:20 AM",
             "start": "09/20/2021",
@@ -21282,7 +21206,7 @@
             "units": "0.00",
             "instructor": "Betlach",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "2"
           }
         ],
@@ -21327,7 +21251,7 @@
             "course": "ESL D455.03Z",
             "CRN": "26723",
             "desc": "HIGH INTERMED GRAMM, WRTNG, RD",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "01:30 PM-04:20 PM",
             "start": "09/20/2021",
@@ -21336,7 +21260,7 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Betlach",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -21424,7 +21348,7 @@
             "course": "ESL D461.04Z",
             "CRN": "26728",
             "desc": "LOW ADV LISTENING/SPEAKG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "Th",
             "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
@@ -21433,7 +21357,7 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Carobus",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -21540,7 +21464,7 @@
             "course": "ESL D465.49Z",
             "CRN": "26734",
             "desc": "LOW ADV GRAMM, WRTNG, RDNG",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "06:30 PM-09:20 PM",
             "start": "09/20/2021",
@@ -21550,7 +21474,7 @@
             "units": "0.00",
             "instructor": "Kohnhorst",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ]
@@ -21720,7 +21644,7 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Barasch-Kane",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "2"
           },
@@ -21737,7 +21661,7 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Barasch-Kane",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -21766,7 +21690,7 @@
             "course": "ESL D473.03Z",
             "CRN": "26743",
             "desc": "INTRO TO THE ESSAY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
@@ -21776,7 +21700,7 @@
             "units": "0.00",
             "instructor": "Culver",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "2"
           }
         ],
@@ -25130,7 +25054,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wright",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -26112,7 +26036,7 @@
             "course": "GEOL D010.52Z",
             "CRN": "23047",
             "desc": "INTRODUCTORY GEOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -26121,7 +26045,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dileonardo",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "6"
           }
@@ -26609,7 +26533,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Knittel",
-            "seats": "36",
+            "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -26949,25 +26873,6 @@
             "units": "4.00",
             "instructor": "Liechty",
             "seats": "9",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "20267": [
-          {
-            "course": "HLTH D021.62Z",
-            "CRN": "20267",
-            "desc": "CONTEMP HLTH CONCERNS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Liechty",
-            "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -29291,7 +29196,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ramsey",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -29394,7 +29299,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Jung",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -30819,7 +30724,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kragalott",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -33419,7 +33324,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shah",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33721,7 +33626,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Arabhi",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35083,7 +34988,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Arvizu",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -36352,7 +36257,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shah",
-            "seats": "31",
+            "seats": "32",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -38486,7 +38391,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Libova",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -39475,25 +39380,6 @@
             "units": "4.00",
             "instructor": "Campbell",
             "seats": "14",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "26783": [
-          {
-            "course": "NUTR D010.54Z",
-            "CRN": "26783",
-            "desc": "CONTEMP NUTRITION",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Knoblaugh",
-            "seats": "38",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -44130,7 +44016,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Healy",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -44877,7 +44763,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "33",
+            "seats": "34",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -44894,7 +44780,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "33",
+            "seats": "34",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -44913,7 +44799,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
