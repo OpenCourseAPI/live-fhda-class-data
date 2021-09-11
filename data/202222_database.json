@@ -11477,7 +11477,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Goel",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12467,7 +12467,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Kleinman",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -12484,7 +12484,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Kleinman",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14384,7 +14384,7 @@
             "units": "5.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
@@ -14401,7 +14401,7 @@
             "units": "5.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -28934,7 +28934,7 @@
             "course": "HUMI D001.56Z",
             "CRN": "24524",
             "desc": "CREATIVE MINDS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -28943,7 +28943,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rueda",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -33693,7 +33693,7 @@
             "course": "MATH D001B02",
             "CRN": "01487",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWThF",
             "time": "09:30 AM-10:20 AM",
             "start": "09/20/2021",
@@ -33702,7 +33702,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mailhot",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "6"
           }
@@ -33852,7 +33852,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ison",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -33869,7 +33869,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ison",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35107,44 +35107,6 @@
             "wait_cap": "6"
           }
         ],
-        "01519": [
-          {
-            "course": "MATH D010.70Z",
-            "CRN": "01519",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Lane",
-            "seats": "36",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "24946": [
-          {
-            "course": "MATH D010.71Z",
-            "CRN": "24946",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Lane",
-            "seats": "34",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "21245": [
           {
             "course": "MATH D010.72Z",
@@ -35244,8 +35206,8 @@
             "CRN": "24845",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Full",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -35261,8 +35223,8 @@
             "CRN": "24845",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -35454,7 +35416,7 @@
             "course": "MATH D011.50Z",
             "CRN": "01535",
             "desc": "FINITE MATHEMATICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -35463,7 +35425,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Moen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35590,8 +35552,8 @@
             "CRN": "26875",
             "desc": "CALCULUS - HONORS",
             "status": "Full",
-            "days": "TWTh",
-            "time": "08:30 AM-09:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -35607,8 +35569,8 @@
             "CRN": "26875",
             "desc": "CALCULUS - HONORS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TWTh",
+            "time": "08:30 AM-09:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -36205,25 +36167,6 @@
             "wait_cap": "6"
           }
         ],
-        "26050": [
-          {
-            "course": "MATH D031.28Z",
-            "CRN": "26050",
-            "desc": "PRECALCULUS I",
-            "status": "Open",
-            "days": "MW",
-            "time": "04:00 PM-06:15 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Shah",
-            "seats": "32",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "25969": [
           {
             "course": "MATH D031.29Z",
@@ -36325,11 +36268,11 @@
             "CRN": "26617",
             "desc": "PRECALCULUS I",
             "status": "Full",
-            "days": "ThF",
+            "days": "MTW",
             "time": "08:30 AM-10:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "ONLINE",
+            "room": "S44",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
@@ -36342,11 +36285,11 @@
             "CRN": "26617",
             "desc": "PRECALCULUS I",
             "status": "Full",
-            "days": "MTW",
+            "days": "ThF",
             "time": "08:30 AM-10:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "S44",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
@@ -36420,8 +36363,8 @@
             "CRN": "26618",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "08:30 AM-09:20 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -36437,8 +36380,8 @@
             "CRN": "26618",
             "desc": "PRECALCULUS II",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "08:30 AM-09:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -36578,25 +36521,6 @@
             "instructor": "Rashid",
             "seats": "0",
             "wait_seats": "0",
-            "wait_cap": "6"
-          }
-        ],
-        "25927": [
-          {
-            "course": "MATH D032.51Z",
-            "CRN": "25927",
-            "desc": "PRECALCULUS II",
-            "status": "Open",
-            "days": "MTWThF",
-            "time": "12:30 PM-01:20 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Lo",
-            "seats": "38",
-            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -45316,7 +45240,7 @@
             "course": "VIET D001.40Z",
             "CRN": "24004",
             "desc": "ELEM VIETNAMESE (1ST QTR)",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "04:00 PM-06:15 PM",
             "start": "09/20/2021",
@@ -45326,7 +45250,7 @@
             "units": "5.00",
             "instructor": "Tran",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "7"
           }
         ],
