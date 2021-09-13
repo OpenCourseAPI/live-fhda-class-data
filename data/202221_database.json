@@ -4623,7 +4623,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -4640,7 +4640,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -4704,8 +4704,8 @@
             "CRN": "21182",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "05:30 PM-07:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -4721,8 +4721,8 @@
             "CRN": "21182",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "05:30 PM-07:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -4740,23 +4740,6 @@
             "CRN": "20738",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Open",
-            "days": "W",
-            "time": "07:30 PM-10:20 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "5106",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Folse",
-            "seats": "19",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL F040A08",
-            "CRN": "20738",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Open",
             "days": "MW",
             "time": "05:30 PM-07:20 PM",
             "start": "09/20/2021",
@@ -4765,29 +4748,29 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Folse",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "7",
             "wait_cap": "7"
-          }
-        ],
-        "20023": [
+          },
           {
-            "course": "BIOL F040A09Y",
-            "CRN": "20023",
+            "course": "BIOL F040A08",
+            "CRN": "20738",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Waitlist",
-            "days": "S",
-            "time": "11:00 AM-12:50 PM",
+            "status": "Open",
+            "days": "W",
+            "time": "07:30 PM-10:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5106",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Benton",
-            "seats": "0",
-            "wait_seats": "6",
+            "instructor": "Folse",
+            "seats": "18",
+            "wait_seats": "7",
             "wait_cap": "7"
-          },
+          }
+        ],
+        "20023": [
           {
             "course": "BIOL F040A09Y",
             "CRN": "20023",
@@ -4821,11 +4804,45 @@
             "seats": "0",
             "wait_seats": "6",
             "wait_cap": "7"
+          },
+          {
+            "course": "BIOL F040A09Y",
+            "CRN": "20023",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
+            "status": "Waitlist",
+            "days": "S",
+            "time": "11:00 AM-12:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5106",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Benton",
+            "seats": "0",
+            "wait_seats": "6",
+            "wait_cap": "7"
           }
         ]
       },
       "40B": {
         "20024": [
+          {
+            "course": "BIOL F040B01",
+            "CRN": "20024",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
+            "status": "Waitlist",
+            "days": "TTh",
+            "time": "12:00 PM-01:50 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "8338",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Lagna",
+            "seats": "0",
+            "wait_seats": "7",
+            "wait_cap": "7"
+          },
           {
             "course": "BIOL F040B01",
             "CRN": "20024",
@@ -4842,23 +4859,6 @@
             "seats": "0",
             "wait_seats": "7",
             "wait_cap": "7"
-          },
-          {
-            "course": "BIOL F040B01",
-            "CRN": "20024",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
-            "status": "Waitlist",
-            "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "8338",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Lagna",
-            "seats": "0",
-            "wait_seats": "7",
-            "wait_cap": "7"
           }
         ],
         "20025": [
@@ -4867,11 +4867,11 @@
             "CRN": "20025",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
             "status": "Open",
-            "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
+            "days": "Th",
+            "time": "02:00 PM-04:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "8338",
+            "room": "8710",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lagna",
@@ -4884,11 +4884,11 @@
             "CRN": "20025",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
             "status": "Open",
-            "days": "Th",
-            "time": "02:00 PM-04:50 PM",
+            "days": "TTh",
+            "time": "12:00 PM-01:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "8710",
+            "room": "8338",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lagna",
@@ -4931,42 +4931,6 @@
             "seats": "6",
             "wait_seats": "7",
             "wait_cap": "7"
-          }
-        ],
-        "21101": [
-          {
-            "course": "BIOL F040B04",
-            "CRN": "21101",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
-            "status": "Open",
-            "days": "MW",
-            "time": "12:00 PM-01:50 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "8402",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Stark",
-            "seats": "30",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "BIOL F040B04",
-            "CRN": "21101",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
-            "status": "Open",
-            "days": "W",
-            "time": "02:00 PM-04:50 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "8710",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Stark",
-            "seats": "30",
-            "wait_seats": "5",
-            "wait_cap": "5"
           }
         ],
         "21663": [
@@ -5066,8 +5030,8 @@
             "CRN": "20026",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Full",
-            "days": "F",
-            "time": "12:00 PM-01:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -5083,8 +5047,8 @@
             "CRN": "20026",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "F",
+            "time": "12:00 PM-01:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -5155,8 +5119,8 @@
             "CRN": "21069",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Full",
-            "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
+            "days": "T",
+            "time": "09:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -5172,8 +5136,8 @@
             "CRN": "21069",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Full",
-            "days": "T",
-            "time": "09:00 AM-11:50 AM",
+            "days": "TTh",
+            "time": "12:00 PM-01:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -5302,10 +5266,10 @@
             "desc": "MICROBIOLOGY",
             "status": "Waitlist",
             "days": "TTh",
-            "time": "09:00 AM-11:50 AM",
+            "time": "12:00 PM-01:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "5105",
+            "room": "5501",
             "campus": "FH",
             "units": "6.00",
             "instructor": "Jacobs",
@@ -5319,10 +5283,10 @@
             "desc": "MICROBIOLOGY",
             "status": "Waitlist",
             "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
+            "time": "09:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "5501",
+            "room": "5105",
             "campus": "FH",
             "units": "6.00",
             "instructor": "Jacobs",
@@ -5338,13 +5302,13 @@
             "desc": "MICROBIOLOGY",
             "status": "Open",
             "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
+            "time": "02:30 PM-05:20 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "5501",
+            "room": "5105",
             "campus": "FH",
             "units": "6.00",
-            "instructor": "Jacobs",
+            "instructor": "Gosavi",
             "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -5355,13 +5319,13 @@
             "desc": "MICROBIOLOGY",
             "status": "Open",
             "days": "TTh",
-            "time": "02:30 PM-05:20 PM",
+            "time": "12:00 PM-01:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "5105",
+            "room": "5501",
             "campus": "FH",
             "units": "6.00",
-            "instructor": "Gosavi",
+            "instructor": "Jacobs",
             "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -5489,7 +5453,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Manoukian",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -5506,7 +5470,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Liles",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8172,7 +8136,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kennedy",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8446,7 +8410,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Perez Hernandez",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8463,7 +8427,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Perez Hernandez",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8480,7 +8444,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Perez Hernandez",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8497,7 +8461,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Perez Hernandez",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8514,7 +8478,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Perez Hernandez",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15680,7 +15644,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15720,7 +15684,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -21210,7 +21174,7 @@
             "room": "ONLINE",
             "campus": "FO",
             "units": "0.00",
-            "instructor": "Staff",
+            "instructor": "Villagomez",
             "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -21229,7 +21193,7 @@
             "room": "ONLINE",
             "campus": "FO",
             "units": "0.00",
-            "instructor": "Staff",
+            "instructor": "Villagomez",
             "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -21248,7 +21212,7 @@
             "room": "ONLINE",
             "campus": "FO",
             "units": "0.00",
-            "instructor": "Staff",
+            "instructor": "Villagomez",
             "seats": "35",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -22689,7 +22653,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "22",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24233,7 +24197,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryer",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24707,7 +24671,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stefonik",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -24724,7 +24688,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stefonik",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25038,7 +25002,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Paulos",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "20",
             "wait_cap": "20"
           }
