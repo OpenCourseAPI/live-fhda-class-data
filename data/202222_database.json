@@ -2449,7 +2449,7 @@
             "units": "4.00",
             "instructor": "Pasturel",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
@@ -2698,7 +2698,7 @@
             "units": "4.00",
             "instructor": "Huang",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -7332,7 +7332,7 @@
             "course": "BUS D010.13Z",
             "CRN": "00288",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "11:30 AM-12:45 PM",
             "start": "09/20/2021",
@@ -7341,15 +7341,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bennett",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "5"
+            "seats": "5",
+            "wait_seats": "-4",
+            "wait_cap": "0"
           },
           {
             "course": "BUS D010.13Z",
             "CRN": "00288",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7358,9 +7358,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bennett",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "5"
+            "seats": "5",
+            "wait_seats": "-4",
+            "wait_cap": "0"
           }
         ],
         "00287": [
@@ -7368,7 +7368,7 @@
             "course": "BUS D010.14Z",
             "CRN": "00287",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "09:30 AM-10:45 AM",
             "start": "09/20/2021",
@@ -7377,15 +7377,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shan",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "5"
+            "seats": "5",
+            "wait_seats": "-1",
+            "wait_cap": "0"
           },
           {
             "course": "BUS D010.14Z",
             "CRN": "00287",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7394,9 +7394,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shan",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "5"
+            "seats": "5",
+            "wait_seats": "-1",
+            "wait_cap": "0"
           }
         ],
         "21682": [
@@ -7476,7 +7476,7 @@
             "course": "BUS D010.17Z",
             "CRN": "00292",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "09:30 AM-10:45 AM",
             "start": "09/20/2021",
@@ -7485,15 +7485,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bennett",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
+            "seats": "5",
+            "wait_seats": "0",
+            "wait_cap": "0"
           },
           {
             "course": "BUS D010.17Z",
             "CRN": "00292",
             "desc": "INTRO TO BUSINESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7502,9 +7502,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bennett",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
+            "seats": "5",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "26231": [
@@ -7567,7 +7567,7 @@
             "course": "BUS D010.65Z",
             "CRN": "24564",
             "desc": "INTRO TO BUSINESS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7576,9 +7576,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Karia",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "5"
+            "seats": "5",
+            "wait_seats": "-5",
+            "wait_cap": "0"
           }
         ],
         "00290": [
@@ -7692,9 +7692,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Spencer",
-            "seats": "14",
-            "wait_seats": "5",
-            "wait_cap": "5"
+            "seats": "24",
+            "wait_seats": "0",
+            "wait_cap": "0"
           },
           {
             "course": "BUS D018.13Z",
@@ -7709,9 +7709,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Spencer",
-            "seats": "14",
-            "wait_seats": "5",
-            "wait_cap": "5"
+            "seats": "24",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "00300": [
@@ -7911,7 +7911,7 @@
             "course": "BUS D054.62Z",
             "CRN": "24593",
             "desc": "BUSINESS MATHEMATICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7920,9 +7920,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Spencer",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "5"
+            "seats": "10",
+            "wait_seats": "-2",
+            "wait_cap": "0"
           }
         ]
       },
@@ -8004,7 +8004,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Takyi",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8141,9 +8141,9 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Spencer",
-            "seats": "16",
-            "wait_seats": "5",
-            "wait_cap": "5"
+            "seats": "26",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -8233,7 +8233,7 @@
             "course": "BUS D090.72Z",
             "CRN": "23970",
             "desc": "PRIN MARKETING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -8242,9 +8242,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shan",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
+            "seats": "5",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -11632,9 +11632,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Read",
-            "seats": "1",
-            "wait_seats": "13",
-            "wait_cap": "15"
+            "seats": "6",
+            "wait_seats": "8",
+            "wait_cap": "10"
           },
           {
             "course": "CIS D022A08Z",
@@ -11649,9 +11649,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Read",
-            "seats": "1",
-            "wait_seats": "13",
-            "wait_cap": "15"
+            "seats": "6",
+            "wait_seats": "8",
+            "wait_cap": "10"
           }
         ],
         "22584": [
@@ -12309,9 +12309,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Larkin",
-            "seats": "1",
-            "wait_seats": "11",
-            "wait_cap": "15"
+            "seats": "21",
+            "wait_seats": "-4",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D029.11Z",
@@ -12326,9 +12326,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Larkin",
-            "seats": "1",
-            "wait_seats": "11",
-            "wait_cap": "15"
+            "seats": "21",
+            "wait_seats": "-4",
+            "wait_cap": "0"
           }
         ]
       },
@@ -12941,7 +12941,7 @@
             "course": "CIS D041B01Z",
             "CRN": "25218",
             "desc": "ADVANCED PYTHON PROGRAMMING",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "08:00 PM-09:50 PM",
             "start": "09/20/2021",
@@ -12950,15 +12950,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Larkin",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "20",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D041B01Z",
             "CRN": "25218",
             "desc": "ADVANCED PYTHON PROGRAMMING",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -12967,9 +12967,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Larkin",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "20",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ]
       },
@@ -18203,7 +18203,7 @@
             "units": "4.00",
             "instructor": "Malek",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "2"
           }
         ],
@@ -19729,7 +19729,7 @@
             "units": "10.00",
             "instructor": "Carobus",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
@@ -26400,7 +26400,7 @@
             "course": "HTEC D060A02Z",
             "CRN": "01167",
             "desc": "BASIC MEDI TERMINOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -26409,7 +26409,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Sherlekar",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -28625,7 +28625,7 @@
             "course": "HUMI D015.50Z",
             "CRN": "25877",
             "desc": "DISCUSSION ON THE ARTS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -28634,7 +28634,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hoffman",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -36298,7 +36298,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Thomsen",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -36315,7 +36315,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Thomsen",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
