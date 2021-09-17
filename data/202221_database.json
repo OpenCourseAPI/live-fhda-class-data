@@ -251,7 +251,7 @@
             "units": "5.00",
             "instructor": "Ardizzone",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ],
@@ -269,7 +269,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Butler",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -948,7 +948,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Mastman",
-            "seats": "30",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -967,7 +967,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Mastman",
-            "seats": "30",
+            "seats": "23",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -988,7 +988,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Mastman",
-            "seats": "30",
+            "seats": "23",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1009,7 +1009,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Mastman",
-            "seats": "30",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -4112,7 +4112,7 @@
             "units": "5.00",
             "instructor": "Poffenroth",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "11",
             "wait_cap": "12"
           },
           {
@@ -4129,7 +4129,7 @@
             "units": "5.00",
             "instructor": "Garcia",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "11",
             "wait_cap": "12"
           }
         ],
@@ -8177,7 +8177,7 @@
             "units": "4.00",
             "instructor": "Kerbey",
             "seats": "0",
-            "wait_seats": "17",
+            "wait_seats": "16",
             "wait_cap": "20"
           }
         ]
@@ -8360,14 +8360,14 @@
             "CRN": "21692",
             "desc": "COMM & SELF-REFLECTN NANNIES",
             "status": "Open",
-            "days": "F",
-            "time": "06:30 PM-08:30 PM",
+            "days": "S",
+            "time": "09:00 AM-12:50 PM",
             "start": "10/01/2021",
             "end": "11/20/2021",
             "room": "ONLINE",
             "campus": "FC",
             "units": "2.00",
-            "instructor": "Perez Hernandez",
+            "instructor": "Rollinger",
             "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -8377,14 +8377,14 @@
             "CRN": "21692",
             "desc": "COMM & SELF-REFLECTN NANNIES",
             "status": "Open",
-            "days": "F",
-            "time": "06:30 PM-08:30 PM",
+            "days": "S",
+            "time": "09:00 AM-12:50 PM",
             "start": "10/01/2021",
             "end": "11/20/2021",
             "room": "ONLINE",
             "campus": "FC",
             "units": "2.00",
-            "instructor": "Perez Hernandez",
+            "instructor": "Rollinger",
             "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -8411,6 +8411,23 @@
             "CRN": "21692",
             "desc": "COMM & SELF-REFLECTN NANNIES",
             "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "10/01/2021",
+            "end": "11/20/2021",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "2.00",
+            "instructor": "Rollinger",
+            "seats": "16",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "CHLD F080A01Z",
+            "CRN": "21692",
+            "desc": "COMM & SELF-REFLECTN NANNIES",
+            "status": "Open",
             "days": "F",
             "time": "06:30 PM-08:30 PM",
             "start": "10/01/2021",
@@ -8419,6 +8436,108 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Perez Hernandez",
+            "seats": "16",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "CHLD F080A01Z",
+            "CRN": "21692",
+            "desc": "COMM & SELF-REFLECTN NANNIES",
+            "status": "Open",
+            "days": "F",
+            "time": "06:30 PM-08:30 PM",
+            "start": "10/01/2021",
+            "end": "11/20/2021",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "2.00",
+            "instructor": "Rollinger",
+            "seats": "16",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "CHLD F080A01Z",
+            "CRN": "21692",
+            "desc": "COMM & SELF-REFLECTN NANNIES",
+            "status": "Open",
+            "days": "F",
+            "time": "06:30 PM-08:30 PM",
+            "start": "10/01/2021",
+            "end": "11/20/2021",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "2.00",
+            "instructor": "Perez Hernandez",
+            "seats": "16",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "CHLD F080A01Z",
+            "CRN": "21692",
+            "desc": "COMM & SELF-REFLECTN NANNIES",
+            "status": "Open",
+            "days": "F",
+            "time": "06:30 PM-08:30 PM",
+            "start": "10/01/2021",
+            "end": "11/20/2021",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "2.00",
+            "instructor": "Rollinger",
+            "seats": "16",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "CHLD F080A01Z",
+            "CRN": "21692",
+            "desc": "COMM & SELF-REFLECTN NANNIES",
+            "status": "Open",
+            "days": "F",
+            "time": "06:30 PM-08:30 PM",
+            "start": "10/01/2021",
+            "end": "11/20/2021",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "2.00",
+            "instructor": "Perez Hernandez",
+            "seats": "16",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "CHLD F080A01Z",
+            "CRN": "21692",
+            "desc": "COMM & SELF-REFLECTN NANNIES",
+            "status": "Open",
+            "days": "F",
+            "time": "06:30 PM-08:30 PM",
+            "start": "10/01/2021",
+            "end": "11/20/2021",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "2.00",
+            "instructor": "Rollinger",
+            "seats": "16",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "CHLD F080A01Z",
+            "CRN": "21692",
+            "desc": "COMM & SELF-REFLECTN NANNIES",
+            "status": "Open",
+            "days": "S",
+            "time": "09:00 AM-12:50 PM",
+            "start": "10/01/2021",
+            "end": "11/20/2021",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "2.00",
+            "instructor": "Rollinger",
             "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -13432,7 +13551,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "King",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13451,7 +13570,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "King",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -13468,7 +13587,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "King",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -14206,7 +14325,7 @@
             "units": "5.00",
             "instructor": "Meezan",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ],
@@ -16600,7 +16719,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mac Neil",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18047,7 +18166,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryker",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18085,7 +18204,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Pham",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18145,7 +18264,7 @@
             "units": "5.00",
             "instructor": "Martinez",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -22672,7 +22791,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
