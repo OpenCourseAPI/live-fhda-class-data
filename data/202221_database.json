@@ -3098,7 +3098,7 @@
             "course": "ART F045A01",
             "CRN": "20246",
             "desc": "BEGINNING CERAMICS HANDBUILDIN",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "T",
             "time": "10:00 AM-12:50 PM",
             "start": "09/20/2021",
@@ -3107,7 +3107,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ruble",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -3115,7 +3115,7 @@
             "course": "ART F045A01",
             "CRN": "20246",
             "desc": "BEGINNING CERAMICS HANDBUILDIN",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "Th",
             "time": "10:00 AM-12:50 PM",
             "start": "09/20/2021",
@@ -3124,7 +3124,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ruble",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3996,7 +3996,7 @@
             "units": "5.00",
             "instructor": "Markowitz",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "12"
           }
         ]
@@ -4664,42 +4664,25 @@
             "CRN": "20738",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Folse",
+            "seats": "0",
+            "wait_seats": "6",
+            "wait_cap": "7"
+          },
+          {
+            "course": "BIOL F040A08Z",
+            "CRN": "20738",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
+            "status": "Waitlist",
             "days": "M",
             "time": "05:30 PM-07:20 PM",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Folse",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL F040A08Z",
-            "CRN": "20738",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Folse",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL F040A08Z",
-            "CRN": "20738",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -4717,11 +4700,11 @@
             "CRN": "20023",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Open",
-            "days": "S",
-            "time": "11:00 AM-12:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "5106",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Benton",
@@ -4751,11 +4734,11 @@
             "CRN": "20023",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "S",
+            "time": "11:00 AM-12:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "ONLINE",
+            "room": "5106",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Benton",
@@ -4945,6 +4928,42 @@
             "wait_seats": "0",
             "wait_cap": "7"
           }
+        ],
+        "22138": [
+          {
+            "course": "BIOL F040B07Z",
+            "CRN": "22138",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
+            "status": "Open",
+            "days": "TTh",
+            "time": "05:30 PM-07:20 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Stark",
+            "seats": "32",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "BIOL F040B07Z",
+            "CRN": "22138",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Stark",
+            "seats": "32",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
         ]
       },
       "40C": {
@@ -5008,7 +5027,7 @@
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Open",
             "days": "F",
-            "time": "02:00 PM-04:50 PM",
+            "time": "12:00 PM-01:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -5025,7 +5044,7 @@
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Open",
             "days": "F",
-            "time": "12:00 PM-01:50 PM",
+            "time": "02:00 PM-04:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "ONLINE",
@@ -6619,7 +6638,7 @@
             "units": "4.50",
             "instructor": "Lamble",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -6639,7 +6658,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Riordan",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6656,7 +6675,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Riordan",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6676,7 +6695,7 @@
             "units": "4.50",
             "instructor": "Lamble",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -6781,7 +6800,7 @@
             "units": "4.50",
             "instructor": "Ibrahim",
             "seats": "1",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -6802,7 +6821,7 @@
             "units": "4.50",
             "instructor": "Lankester",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -7519,7 +7538,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rezaei",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7536,7 +7555,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rezaei",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7721,7 +7740,7 @@
             "units": "5.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -9269,7 +9288,7 @@
             "course": "COMM F001A09Z",
             "CRN": "20936",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "M",
             "time": "06:00 PM-09:50 PM",
             "start": "09/20/2021",
@@ -9278,7 +9297,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -9286,7 +9305,7 @@
             "course": "COMM F001A09Z",
             "CRN": "20936",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -9295,7 +9314,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9662,7 +9681,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14327,7 +14346,7 @@
             "units": "5.00",
             "instructor": "Aguilar",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ],
@@ -14708,7 +14727,7 @@
             "units": "4.00",
             "instructor": "Brown",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -14765,7 +14784,7 @@
             "units": "4.00",
             "instructor": "Fong",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -16278,7 +16297,7 @@
             "units": "5.00",
             "instructor": "Rakow",
             "seats": "0",
-            "wait_seats": "22",
+            "wait_seats": "23",
             "wait_cap": "25"
           }
         ]
@@ -16299,7 +16318,7 @@
             "units": "5.00",
             "instructor": "Rakow",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -17624,7 +17643,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Pereira",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -19886,7 +19905,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Carey",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23035,7 +23054,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hoekenga",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23915,7 +23934,7 @@
             "course": "PHYS F004B01R",
             "CRN": "20110",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "10:00 AM-11:50 AM",
             "start": "09/20/2021",
@@ -23925,14 +23944,14 @@
             "units": "6.00",
             "instructor": "Yuen",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
             "course": "PHYS F004B01R",
             "CRN": "20110",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "F",
             "time": "10:00 AM-10:50 AM",
             "start": "09/20/2021",
@@ -23942,14 +23961,14 @@
             "units": "6.00",
             "instructor": "Yuen",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
             "course": "PHYS F004B01R",
             "CRN": "20110",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "W",
             "time": "01:00 PM-03:50 PM",
             "start": "09/20/2021",
@@ -23959,7 +23978,7 @@
             "units": "6.00",
             "instructor": "Marasco",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -24236,7 +24255,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Woolcock",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
           }
