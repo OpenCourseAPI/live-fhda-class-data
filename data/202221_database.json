@@ -134,6 +134,25 @@
             "wait_seats": "15",
             "wait_cap": "15"
           }
+        ],
+        "22153": [
+          {
+            "course": "ACTG F001A09W",
+            "CRN": "22153",
+            "desc": "FINANCIAL ACCOUNTING I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "10/18/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Seyedin",
+            "seats": "50",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "1B": {
@@ -454,7 +473,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -494,7 +513,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Glass",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "11",
             "wait_cap": "15"
           }
@@ -2076,7 +2095,7 @@
             "units": "4.00",
             "instructor": "Jenkins",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -2247,7 +2266,7 @@
             "units": "1.00",
             "instructor": "Connell",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -6131,7 +6150,7 @@
             "time": "06:00 PM-08:50 PM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "3204",
+            "room": "4006",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Dubin",
@@ -6814,27 +6833,6 @@
             "instructor": "Murphy",
             "seats": "0",
             "wait_seats": "9",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "30B": {
-        "20503": [
-          {
-            "course": "C S F030B01W",
-            "CRN": "20503",
-            "desc": "LINUX SHELL PROGRAMMING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Staff",
-            "seats": "19",
-            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -8391,7 +8389,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -8408,7 +8406,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9736,7 +9734,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9873,11 +9871,11 @@
             "CRN": "21792",
             "desc": "SELF-ASSESSMENT",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "ONLINE",
+            "room": "6301",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jackson Sandoval",
@@ -9890,11 +9888,11 @@
             "CRN": "21792",
             "desc": "SELF-ASSESSMENT",
             "status": "Waitlist",
-            "days": "T",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "6301",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jackson Sandoval",
@@ -9957,27 +9955,6 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Lee",
-            "seats": "0",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ]
-      },
-      "74": {
-        "21789": [
-          {
-            "course": "CRLP F074.01W",
-            "CRN": "21789",
-            "desc": "SUCCESSFUL INTRVIEWING TECH",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Jackson Sandoval",
             "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
@@ -24396,16 +24373,16 @@
             "course": "POLI F002.02",
             "CRN": "22152",
             "desc": "COMPARATVE GOVT/POLITICS",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "status": "Open",
+            "days": "MTWTh",
+            "time": "12:00 PM-01:50 PM",
             "start": "11/01/2021",
             "end": "12/10/2021",
-            "room": "",
-            "campus": "",
+            "room": "3304",
+            "campus": "FH",
             "units": "4.00",
-            "instructor": "Staff",
-            "seats": "0",
+            "instructor": "Woolcock",
+            "seats": "50",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -28508,7 +28485,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Standish",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
