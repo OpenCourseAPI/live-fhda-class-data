@@ -151,7 +151,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Drake",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "12",
             "wait_cap": "15"
           }
@@ -2159,7 +2159,7 @@
             "course": "ANTH F001.06W",
             "CRN": "20270",
             "desc": "INTRO TO PHYSICAL ANTHRO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -2168,7 +2168,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Price",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2659,7 +2659,7 @@
             "units": "4.50",
             "instructor": "Brannvall",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
@@ -6330,7 +6330,7 @@
             "units": "4.50",
             "instructor": "Mazloom",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -6497,7 +6497,7 @@
             "course": "C S F003A01Z",
             "CRN": "20569",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "06:00 PM-07:50 PM",
             "start": "09/20/2021",
@@ -6506,7 +6506,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6514,7 +6514,7 @@
             "course": "C S F003A01Z",
             "CRN": "20569",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -6523,7 +6523,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6791,7 +6791,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "18",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6938,7 +6938,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ryan",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8915,27 +8915,6 @@
           }
         ]
       },
-      "3": {
-        "21784": [
-          {
-            "course": "CNSL F003.01W",
-            "CRN": "21784",
-            "desc": "IDENTITY, CULTURE & EDUCATION",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Villanueva",
-            "seats": "21",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ]
-      },
       "3H": {
         "21787": [
           {
@@ -10043,7 +10022,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chan",
-            "seats": "1",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -10060,7 +10039,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chan",
-            "seats": "1",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -10590,7 +10569,7 @@
             "room": "5113",
             "campus": "FH",
             "units": "1.50",
-            "instructor": "Staff",
+            "instructor": "Miyasaki",
             "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -10602,6 +10581,23 @@
             "status": "Waitlist",
             "days": "T",
             "time": "01:30 PM-02:45 PM",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "1.50",
+            "instructor": "Daniel",
+            "seats": "0",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "D A F071.01",
+            "CRN": "21882",
+            "desc": "INFECTION CONTRL/HAZ WASTE MGM",
+            "status": "Waitlist",
+            "days": "F",
+            "time": "09:00 AM-09:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
             "room": "5113",
@@ -10689,15 +10685,15 @@
       "200L": {
         "21883": [
           {
-            "course": "D A F200L01A",
+            "course": "D A F200L1AW",
             "CRN": "21883",
             "desc": "GUIDE FOR SUCCESS: D A PREREQ",
             "status": "Full",
-            "days": "FS",
-            "time": "01:00 PM-03:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "10/30/2021",
-            "room": "5113",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "1.00",
             "instructor": "Robertson",
@@ -12887,7 +12883,7 @@
             "course": "ENGL F001A42Z",
             "CRN": "20795",
             "desc": "COMPOSITION & READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
@@ -12896,7 +12892,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "White",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -12904,7 +12900,7 @@
             "course": "ENGL F001A42Z",
             "CRN": "20795",
             "desc": "COMPOSITION & READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -12913,7 +12909,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "White",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14239,7 +14235,7 @@
             "units": "5.00",
             "instructor": "Sarver",
             "seats": "0",
-            "wait_seats": "23",
+            "wait_seats": "24",
             "wait_cap": "25"
           },
           {
@@ -14256,7 +14252,7 @@
             "units": "5.00",
             "instructor": "Sarver",
             "seats": "0",
-            "wait_seats": "23",
+            "wait_seats": "24",
             "wait_cap": "25"
           }
         ]
@@ -18100,7 +18096,7 @@
             "course": "MATH F001C01V",
             "CRN": "20640",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "10:00 AM-12:15 PM",
             "start": "09/20/2021",
@@ -18109,7 +18105,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Litrus",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "10"
           }
@@ -19014,7 +19010,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19304,7 +19300,7 @@
             "course": "MATH F248A4CV",
             "CRN": "20694",
             "desc": "SUPPORT FOR MATH 48A",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "Th",
             "time": "01:30 PM-03:45 PM",
             "start": "09/20/2021",
@@ -19313,7 +19309,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Zwack",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -19470,7 +19466,7 @@
             "course": "MDIA F011.01W",
             "CRN": "20202",
             "desc": "INTRO TO POPULAR CULTURE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -19479,7 +19475,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22471,7 +22467,7 @@
             "course": "PHED F024.01",
             "CRN": "21641",
             "desc": "INTRODUCTION TO GOLF",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "S",
             "time": "09:00 AM-11:50 AM",
             "start": "09/20/2021",
@@ -22480,7 +22476,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Durbin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -24449,7 +24445,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Evans",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -24466,7 +24462,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Evans",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25155,7 +25151,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Robins",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -25172,7 +25168,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Robins",
-            "seats": "9",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25233,7 +25229,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Paulos",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "20",
             "wait_cap": "20"
           }
