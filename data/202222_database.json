@@ -2095,7 +2095,7 @@
             "units": "4.00",
             "instructor": "Solomon",
             "seats": "1",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ]
@@ -4177,7 +4177,7 @@
             "course": "AUTO D050B02",
             "CRN": "26512",
             "desc": "APPLIED AUTO PRINCIPLES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "02:00 PM-04:15 PM",
             "start": "09/20/2021",
@@ -4186,15 +4186,15 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Tallent",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "5"
           },
           {
             "course": "AUTO D050B02",
             "CRN": "26512",
             "desc": "APPLIED AUTO PRINCIPLES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "12:30 PM-01:45 PM",
             "start": "09/20/2021",
@@ -4203,8 +4203,8 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Tallent",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -6252,7 +6252,7 @@
             "units": "6.00",
             "instructor": "Jimenez-Samayoa",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "7"
           },
           {
@@ -6269,7 +6269,7 @@
             "units": "6.00",
             "instructor": "Jimenez-Samayoa",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ],
@@ -9503,7 +9503,7 @@
             "course": "CHEM D001A06Z",
             "CRN": "21579",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "04:30 PM-05:45 PM",
             "start": "09/20/2021",
@@ -9512,7 +9512,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -9520,7 +9520,7 @@
             "course": "CHEM D001A06Z",
             "CRN": "21579",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "06:30 PM-07:20 PM",
             "start": "09/20/2021",
@@ -9529,7 +9529,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -9537,7 +9537,7 @@
             "course": "CHEM D001A06Z",
             "CRN": "21579",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -9546,7 +9546,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -12309,7 +12309,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Larkin",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -12326,7 +12326,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Larkin",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -13709,7 +13709,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Joplin",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -13726,7 +13726,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Joplin",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -13799,7 +13799,7 @@
             "course": "COMM D001.01Z",
             "CRN": "24246",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "07:30 AM-09:20 AM",
             "start": "09/20/2021",
@@ -13808,7 +13808,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sakakihara",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "5"
           },
@@ -13816,7 +13816,7 @@
             "course": "COMM D001.01Z",
             "CRN": "24246",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -13825,7 +13825,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sakakihara",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "5"
           }
@@ -16189,7 +16189,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Shaw",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -16243,7 +16243,7 @@
             "course": "DANC D023L50Z",
             "CRN": "25913",
             "desc": "THEOR/TECHN HIP-HOP I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -16252,7 +16252,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Gray",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "5"
           }
@@ -20418,7 +20418,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Culver",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "5"
           }
@@ -20968,7 +20968,7 @@
             "course": "ESL D465.49Z",
             "CRN": "26734",
             "desc": "LOW ADV GRAMM, WRTNG, RDNG",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "06:30 PM-09:20 PM",
             "start": "09/20/2021",
@@ -20978,7 +20978,7 @@
             "units": "0.00",
             "instructor": "Kohnhorst",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ]
@@ -25761,7 +25761,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kline",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -26134,7 +26134,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Cini",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -28145,7 +28145,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ramos",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "15"
           },
@@ -28162,7 +28162,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ramos",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "15"
           }
@@ -30101,7 +30101,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Catuiza",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -31155,7 +31155,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Guevara",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -32421,7 +32421,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Desilets",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33513,7 +33513,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ky",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33646,7 +33646,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Vanniasegaram",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33722,7 +33722,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Van Der Poel",
-            "seats": "6",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34752,7 +34752,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shi",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -38111,7 +38111,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Knoblaugh",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -40909,7 +40909,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Chiang",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -42001,7 +42001,7 @@
             "course": "PSYC D001.F1",
             "CRN": "26462",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
@@ -42010,15 +42010,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Felton",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "8"
           },
           {
             "course": "PSYC D001.F1",
             "CRN": "26462",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "01:30 PM-03:20 PM",
             "start": "09/20/2021",
@@ -42027,8 +42027,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Felton",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "8"
           }
         ]
@@ -42999,7 +42999,7 @@
             "course": "SIGN D001.41Z",
             "CRN": "02249",
             "desc": "ELEM AMER SIGN LANG/1ST QTR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "01:30 PM-03:45 PM",
             "start": "09/20/2021",
@@ -43008,8 +43008,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rawson",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
