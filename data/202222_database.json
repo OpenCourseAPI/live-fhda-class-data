@@ -3282,7 +3282,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lewycky",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -3299,7 +3299,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lewycky",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -5774,7 +5774,7 @@
             "units": "5.00",
             "instructor": "Bram",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -6014,7 +6014,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6031,7 +6031,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6048,7 +6048,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7819,7 +7819,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gough",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7932,7 +7932,7 @@
             "course": "BUS D055.62Z",
             "CRN": "20974",
             "desc": "INTRO TO ENTREPRENEURSHIP",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7941,7 +7941,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "5"
           }
@@ -8367,7 +8367,7 @@
             "units": "4.00",
             "instructor": "Wilkie",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -10411,7 +10411,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           },
           {
@@ -10428,7 +10428,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           },
           {
@@ -10445,7 +10445,7 @@
             "units": "5.00",
             "instructor": "Muzzi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -10624,7 +10624,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Maxwell",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -10641,7 +10641,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Maxwell",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -10658,7 +10658,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Maxwell",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -11380,7 +11380,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "14",
             "wait_cap": "15"
           },
@@ -11397,7 +11397,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "14",
             "wait_cap": "15"
           }
@@ -14899,26 +14899,7 @@
             "course": "COMM D008.50Z",
             "CRN": "24372",
             "desc": "ARGUMENT/CRIT INQRY ORAL COMM",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Kramer",
-            "seats": "1",
-            "wait_seats": "2",
-            "wait_cap": "5"
-          }
-        ],
-        "24373": [
-          {
-            "course": "COMM D008.51Z",
-            "CRN": "24373",
-            "desc": "ARGUMENT/CRIT INQRY ORAL COMM",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -14928,7 +14909,26 @@
             "units": "5.00",
             "instructor": "Kramer",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "3",
+            "wait_cap": "5"
+          }
+        ],
+        "24373": [
+          {
+            "course": "COMM D008.51Z",
+            "CRN": "24373",
+            "desc": "ARGUMENT/CRIT INQRY ORAL COMM",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Kramer",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -15097,7 +15097,7 @@
             "units": "5.00",
             "instructor": "McDonnell",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "5"
           },
           {
@@ -15114,7 +15114,7 @@
             "units": "5.00",
             "instructor": "McDonnell",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ],
@@ -18891,7 +18891,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pesano",
-            "seats": "15",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -18908,7 +18908,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pesano",
-            "seats": "15",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19084,7 +19084,7 @@
             "course": "ENGR D010.01Z",
             "CRN": "00691",
             "desc": "INTRO ENGINEERNG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -19093,7 +19093,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Rafati",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "6"
           },
@@ -19101,7 +19101,7 @@
             "course": "ENGR D010.01Z",
             "CRN": "00691",
             "desc": "INTRO ENGINEERNG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MWTh",
             "time": "09:30 AM-10:20 AM",
             "start": "09/20/2021",
@@ -19110,7 +19110,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Rafati",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "6"
           }
@@ -19727,7 +19727,7 @@
             "units": "5.00",
             "instructor": "Ouyang",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -20437,7 +20437,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Yee",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20454,7 +20454,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Yee",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20911,7 +20911,7 @@
             "course": "ESL D465.02Z",
             "CRN": "26731",
             "desc": "LOW ADV GRAMM, WRTNG, RDNG",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "09:30 AM-12:20 PM",
             "start": "09/20/2021",
@@ -20921,7 +20921,7 @@
             "units": "0.00",
             "instructor": "Ormeno",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ],
@@ -21274,7 +21274,7 @@
             "course": "EWRT D001A01Q",
             "CRN": "24906",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "08:00 AM-09:15 AM",
             "start": "09/20/2021",
@@ -21283,15 +21283,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bonilla",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "EWRT D001A01Q",
             "CRN": "24906",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -21300,8 +21300,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bonilla",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -25883,7 +25883,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ramsey",
-            "seats": "15",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -26529,7 +26529,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Lavin",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -27234,7 +27234,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Milano",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -28054,7 +28054,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "White",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -28071,7 +28071,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "White",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -28277,7 +28277,7 @@
             "units": "4.00",
             "instructor": "Clinchard",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ],
@@ -28296,7 +28296,7 @@
             "units": "4.00",
             "instructor": "Hoffman",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ],
@@ -31134,7 +31134,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Owiesny",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -31249,7 +31249,7 @@
             "course": "KORE D001.43Z",
             "CRN": "26319",
             "desc": "ELEM KOREAN (1ST QTR)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "03:30 PM-05:45 PM",
             "start": "09/20/2021",
@@ -31258,8 +31258,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kim",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ]
@@ -31299,7 +31299,7 @@
             "course": "LART D250.01Q",
             "CRN": "25467",
             "desc": "ACADEMIC READING AND WRITING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -31308,8 +31308,8 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Bonilla",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -32441,7 +32441,7 @@
             "units": "5.00",
             "instructor": "Yarahmadi",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -33189,7 +33189,7 @@
             "units": "5.00",
             "instructor": "Bourgoub",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -33320,7 +33320,7 @@
             "units": "5.00",
             "instructor": "Sadeghi-Hassanvand",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -33455,7 +33455,7 @@
             "units": "5.00",
             "instructor": "Khosravi",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -33523,7 +33523,7 @@
             "course": "MATH D010.21Z",
             "CRN": "01525",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "09:00 PM-11:15 PM",
             "start": "09/20/2021",
@@ -33532,7 +33532,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ky",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -33932,7 +33932,7 @@
             "units": "5.00",
             "instructor": "Arvizu",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -35275,7 +35275,7 @@
             "units": "5.00",
             "instructor": "Arabhi",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ]
@@ -35295,7 +35295,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lo",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -35312,7 +35312,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lo",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35406,7 +35406,7 @@
             "units": "5.00",
             "instructor": "Lopez",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -35480,7 +35480,7 @@
             "units": "5.00",
             "instructor": "Yarahmadi",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ]
@@ -35943,7 +35943,7 @@
             "units": "2.50",
             "instructor": "Arabhi",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ]
@@ -35954,7 +35954,7 @@
             "course": "MATH D232.Q01",
             "CRN": "25322",
             "desc": "ALGEBRA SUPPORT FOR PRECALC II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -35963,7 +35963,7 @@
             "campus": "DA",
             "units": "2.50",
             "instructor": "Yarahmadi",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "4",
             "wait_cap": "6"
           }
@@ -38064,7 +38064,7 @@
             "course": "NUTR D010.50Z",
             "CRN": "24958",
             "desc": "CONTEMP NUTRITION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -38073,7 +38073,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -38515,7 +38515,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Fleming",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -39512,7 +39512,7 @@
             "units": "4.00",
             "instructor": "Hammerud",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ],
@@ -41012,7 +41012,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Druehl",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "3",
             "wait_cap": "7"
           }
@@ -41031,7 +41031,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -41088,7 +41088,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yuen",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -41231,7 +41231,7 @@
             "course": "POLI D001.71Z",
             "CRN": "26482",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "11/01/2021",
@@ -41240,8 +41240,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Heffner",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ]
@@ -42153,7 +42153,7 @@
             "course": "PSYC D004.65Z",
             "CRN": "24730",
             "desc": "ABNORMAL PSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -42162,7 +42162,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hassett",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -42300,7 +42300,7 @@
             "units": "4.00",
             "instructor": "Sun",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ],
@@ -42517,7 +42517,7 @@
             "units": "4.00",
             "instructor": "Healy",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "8"
           },
           {
@@ -42534,7 +42534,7 @@
             "units": "4.00",
             "instructor": "Healy",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "8"
           }
         ],
@@ -42989,7 +42989,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cheung",
-            "seats": "2",
+            "seats": "5",
             "wait_seats": "7",
             "wait_cap": "15"
           }
@@ -43164,8 +43164,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "2",
-            "wait_seats": "11",
+            "seats": "1",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ],

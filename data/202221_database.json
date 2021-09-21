@@ -83,7 +83,7 @@
             "course": "ACTG F001A06W",
             "CRN": "20293",
             "desc": "FINANCIAL ACCOUNTING I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -92,7 +92,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Drake",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "19",
             "wait_cap": "20"
           }
@@ -290,7 +290,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bullock",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -884,7 +884,7 @@
             "units": "4.00",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -1264,7 +1264,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Rock",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1829,7 +1829,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Frankel",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1848,7 +1848,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Frankel",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2140,7 +2140,7 @@
             "course": "ANTH F001.04W",
             "CRN": "20182",
             "desc": "INTRO TO PHYSICAL ANTHRO",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -2149,7 +2149,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "19",
             "wait_cap": "20"
           }
@@ -2187,7 +2187,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Connell",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2679,8 +2679,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "2",
-            "wait_seats": "8",
+            "seats": "1",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -2901,11 +2901,11 @@
             "CRN": "20175",
             "desc": "REPRESENTATIONAL DRAWING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "S",
+            "time": "09:00 AM-11:50 AM",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "ONLINE",
+            "room": "1602",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
@@ -2918,11 +2918,11 @@
             "CRN": "20175",
             "desc": "REPRESENTATIONAL DRAWING",
             "status": "Open",
-            "days": "S",
-            "time": "09:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "09/20/2021",
             "end": "12/10/2021",
-            "room": "1602",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
@@ -2969,6 +2969,63 @@
             "seats": "0",
             "wait_seats": "8",
             "wait_cap": "10"
+          }
+        ],
+        "22149": [
+          {
+            "course": "ART F005A03D",
+            "CRN": "22149",
+            "desc": "2-D FOUNDATIONS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/17/2021",
+            "room": "TIDE",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Chang",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "22150": [
+          {
+            "course": "ART F005A04D",
+            "CRN": "22150",
+            "desc": "2-D FOUNDATIONS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/17/2021",
+            "room": "TIDE",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Chang",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "22151": [
+          {
+            "course": "ART F005A05D",
+            "CRN": "22151",
+            "desc": "2-D FOUNDATIONS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "09/20/2021",
+            "end": "12/17/2021",
+            "room": "TIDE",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Chang",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "22148": [
@@ -3893,7 +3950,7 @@
             "course": "BIOL F001A03",
             "CRN": "20265",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "09/20/2021",
@@ -3902,7 +3959,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Rouhbakhsh",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "12"
           },
@@ -3910,7 +3967,7 @@
             "course": "BIOL F001A03",
             "CRN": "20265",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "07:30 PM-10:20 PM",
             "start": "09/20/2021",
@@ -3919,7 +3976,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Rouhbakhsh",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "12"
           }
@@ -4366,7 +4423,7 @@
             "units": "4.00",
             "instructor": "Pallesen",
             "seats": "4",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "12"
           }
         ]
@@ -4962,7 +5019,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stark",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -4979,7 +5036,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stark",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -6734,7 +6791,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7464,7 +7521,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Armstrong",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -8043,7 +8100,7 @@
             "course": "CHEM F12AL03",
             "CRN": "21766",
             "desc": "ORGANIC CHEMISTRY LABORATORY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "02:00 PM-04:50 PM",
             "start": "09/20/2021",
@@ -8052,7 +8109,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Painter",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -9096,7 +9153,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "9",
             "wait_cap": "10"
           },
@@ -9113,7 +9170,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -9168,7 +9225,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Pogosian",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "2",
             "wait_cap": "10"
           },
@@ -9185,7 +9242,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Pogosian",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "2",
             "wait_cap": "10"
           }
@@ -9780,7 +9837,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sunseri",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -9801,7 +9858,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mohammadi",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -10691,7 +10748,7 @@
             "units": "1.50",
             "instructor": "Spragge",
             "seats": "2",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
@@ -10708,7 +10765,7 @@
             "units": "1.50",
             "instructor": "Brennan",
             "seats": "2",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
@@ -10725,7 +10782,7 @@
             "units": "1.50",
             "instructor": "Spragge",
             "seats": "2",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
@@ -10742,7 +10799,7 @@
             "units": "1.50",
             "instructor": "Brennan",
             "seats": "2",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
@@ -10759,7 +10816,7 @@
             "units": "1.50",
             "instructor": "Spragge",
             "seats": "2",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -13591,7 +13648,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "King",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -15027,7 +15084,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Aguilar",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15428,7 +15485,7 @@
             "course": "HLTH F021.02W",
             "CRN": "20076",
             "desc": "CONTEMPORARY HEALTH CONCERNS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -15437,7 +15494,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Treanor",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "2"
           }
@@ -15456,7 +15513,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryan",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "14",
             "wait_cap": "15"
           }
@@ -16730,7 +16787,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16772,7 +16829,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Edwards",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18090,7 +18147,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Oruganti",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "1",
             "wait_cap": "10"
           }
@@ -18330,7 +18387,7 @@
             "course": "MATH F002B03W",
             "CRN": "21574",
             "desc": "LINEAR ALGEBRA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -18339,7 +18396,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Pham",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -19158,7 +19215,7 @@
             "units": "5.00",
             "instructor": "Papay",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -20884,7 +20941,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Cembellin",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "4",
             "wait_cap": "5"
           }
@@ -23172,7 +23229,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tapia",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23352,7 +23409,7 @@
             "course": "PHOT F005.03W",
             "CRN": "20450",
             "desc": "INTRODUCTION TO PHOTOGRAPHY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -23361,7 +23418,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jordahl",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23502,7 +23559,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23687,7 +23744,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Su",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24331,7 +24388,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Woolcock",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25176,7 +25233,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Paulos",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -26777,7 +26834,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rivera-Montanez",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "23",
             "wait_cap": "25"
           }
@@ -26796,7 +26853,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rivera-Montanez",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -27819,7 +27876,7 @@
             "course": "V T F052A01W",
             "CRN": "20608",
             "desc": "VETERINARY ASSISTING I",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -27828,7 +27885,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Peter",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "5"
           }
