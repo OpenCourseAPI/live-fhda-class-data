@@ -3997,7 +3997,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Rouhbakhsh",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "4",
             "wait_cap": "12"
           },
@@ -4014,7 +4014,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Rouhbakhsh",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "4",
             "wait_cap": "12"
           }
@@ -4369,7 +4369,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Alderkamp",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4386,7 +4386,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Alderkamp",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -4949,7 +4949,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stark",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -4966,7 +4966,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Folse",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -5057,7 +5057,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stark",
-            "seats": "10",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -5074,7 +5074,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stark",
-            "seats": "10",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -5710,7 +5710,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Lew",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6068,7 +6068,7 @@
             "campus": "FC",
             "units": "3.00",
             "instructor": "Harmon",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6388,7 +6388,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -6405,7 +6405,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -7003,7 +7003,7 @@
             "course": "C S F055A02W",
             "CRN": "21553",
             "desc": "INTRO CLOUD COMPUTNG AWS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -7012,7 +7012,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Sandor",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9558,7 +9558,7 @@
             "units": "5.00",
             "instructor": "Ni",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -10438,42 +10438,6 @@
         ]
       },
       "65": {
-        "21886": [
-          {
-            "course": "D A F065.01A",
-            "CRN": "21886",
-            "desc": "D A APPRENTICE CLINIC SKILLS I",
-            "status": "Full",
-            "days": "S",
-            "time": "08:00 AM-03:50 PM",
-            "start": "10/29/2021",
-            "end": "12/11/2021",
-            "room": "5113",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Obhi",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "D A F065.01A",
-            "CRN": "21886",
-            "desc": "D A APPRENTICE CLINIC SKILLS I",
-            "status": "Full",
-            "days": "F",
-            "time": "09:30 AM-11:20 AM",
-            "start": "10/29/2021",
-            "end": "12/11/2021",
-            "room": "5113",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Obhi",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "21887": [
           {
             "course": "D A F065.02A",
@@ -10502,6 +10466,42 @@
             "start": "10/29/2021",
             "end": "12/11/2021",
             "room": "5113",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Obhi",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "21886": [
+          {
+            "course": "D A F065.1AY",
+            "CRN": "21886",
+            "desc": "D A APPRENTICE CLINIC SKILLS I",
+            "status": "Full",
+            "days": "S",
+            "time": "08:00 AM-03:50 PM",
+            "start": "11/01/2021",
+            "end": "12/03/2021",
+            "room": "5113",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Obhi",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "D A F065.1AY",
+            "CRN": "21886",
+            "desc": "D A APPRENTICE CLINIC SKILLS I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "11/01/2021",
+            "end": "12/03/2021",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Obhi",
@@ -15456,7 +15456,7 @@
             "course": "HLTH F021.07W",
             "CRN": "20878",
             "desc": "CONTEMPORARY HEALTH CONCERNS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -15465,7 +15465,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryan",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -16299,7 +16299,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cammin",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -16648,7 +16648,7 @@
             "course": "JRNL F022B01Z",
             "CRN": "21550",
             "desc": "INTERMED REPORTING/NEWSWRITING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -16657,7 +16657,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lum",
-            "seats": "15",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -16665,7 +16665,7 @@
             "course": "JRNL F022B01Z",
             "CRN": "21550",
             "desc": "INTERMED REPORTING/NEWSWRITING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "11:00 AM-12:15 PM",
             "start": "09/20/2021",
@@ -16674,7 +16674,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lum",
-            "seats": "15",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16835,7 +16835,7 @@
             "course": "KINS F009.01W",
             "CRN": "20263",
             "desc": "BASIC NUTRITION SPORTS/FITNESS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -16844,7 +16844,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mac Neil",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18022,7 +18022,7 @@
             "units": "5.00",
             "instructor": "Williams",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -18867,7 +18867,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cembellin",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -19361,7 +19361,7 @@
             "course": "MDIA F002B01W",
             "CRN": "20315",
             "desc": "HISTORY OF FILM 1945-CURRENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -19370,7 +19370,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Erickson-Feinstein",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -19651,7 +19651,7 @@
             "units": "4.00",
             "instructor": "Tambling",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -22167,7 +22167,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Chiba",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24340,7 +24340,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Woolcock",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24798,7 +24798,7 @@
             "units": "5.00",
             "instructor": "Tuttle",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "20",
             "wait_cap": "20"
           }
         ],
@@ -26371,7 +26371,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gibbs Stayte",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "20",
             "wait_cap": "20"
           }
