@@ -2759,7 +2759,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9499,7 +9499,7 @@
             "units": "5.00",
             "instructor": "Ni",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -9539,7 +9539,7 @@
             "units": "5.00",
             "instructor": "Vriksha",
             "seats": "3",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -10603,23 +10603,6 @@
             "CRN": "21885",
             "desc": "INFECTION CONTRL/HAZ WASTE MGM",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "09/20/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.50",
-            "instructor": "Daniel",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "D A F071.4AY",
-            "CRN": "21885",
-            "desc": "INFECTION CONTRL/HAZ WASTE MGM",
-            "status": "Full",
             "days": "S",
             "time": "07:00 AM-07:50 AM",
             "start": "09/20/2021",
@@ -10631,24 +10614,20 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
-          }
-        ]
-      },
-      "200L": {
-        "21883": [
+          },
           {
-            "course": "D A F200L1AW",
-            "CRN": "21883",
-            "desc": "GUIDE FOR SUCCESS: D A PREREQ",
+            "course": "D A F071.4AY",
+            "CRN": "21885",
+            "desc": "INFECTION CONTRL/HAZ WASTE MGM",
             "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
-            "end": "10/30/2021",
+            "end": "12/10/2021",
             "room": "ONLINE",
             "campus": "FH",
-            "units": "1.00",
-            "instructor": "Robertson",
+            "units": "1.50",
+            "instructor": "Daniel",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -21516,25 +21495,6 @@
             "wait_cap": "10"
           }
         ],
-        "21705": [
-          {
-            "course": "NCP F400A05V",
-            "CRN": "21705",
-            "desc": "STRONG START CHLD I:BRTH-8 YRS",
-            "status": "Open",
-            "days": "Th",
-            "time": "06:00 PM-07:50 PM",
-            "start": "09/30/2021",
-            "end": "10/21/2021",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Staff",
-            "seats": "35",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "21706": [
           {
             "course": "NCP F400A06V",
@@ -21609,25 +21569,6 @@
             "units": "0.00",
             "instructor": "Villagomez",
             "seats": "35",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "21711": [
-          {
-            "course": "NCP F400B03",
-            "CRN": "21711",
-            "desc": "STRONG START CHLD II:MID SCHOL",
-            "status": "Open",
-            "days": "Th",
-            "time": "06:00 PM-07:50 PM",
-            "start": "09/30/2021",
-            "end": "10/21/2021",
-            "room": "COLCNTR",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Nevarez",
-            "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22235,7 +22176,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Macias",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
