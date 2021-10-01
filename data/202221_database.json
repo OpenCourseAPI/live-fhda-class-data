@@ -761,7 +761,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Sturgess",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5139,7 +5139,7 @@
             "course": "BIOL F040C02Z",
             "CRN": "20152",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "F",
             "time": "12:00 PM-01:50 PM",
             "start": "09/20/2021",
@@ -5148,7 +5148,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Moody",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "7"
           },
@@ -5156,7 +5156,7 @@
             "course": "BIOL F040C02Z",
             "CRN": "20152",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "F",
             "time": "02:00 PM-04:50 PM",
             "start": "09/20/2021",
@@ -5165,7 +5165,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Moody",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "7"
           },
@@ -5173,7 +5173,7 @@
             "course": "BIOL F040C02Z",
             "CRN": "20152",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "09/20/2021",
@@ -5182,7 +5182,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Moody",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "7"
           }
@@ -8735,7 +8735,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Small",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12689,7 +12689,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fleischer",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "24",
             "wait_cap": "25"
           }
@@ -15844,7 +15844,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Gandhi",
-            "seats": "44",
+            "seats": "45",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -15861,7 +15861,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Gandhi",
-            "seats": "44",
+            "seats": "45",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -24337,7 +24337,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24643,7 +24643,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Villanueva",
-            "seats": "15",
+            "seats": "16",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25886,7 +25886,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Abel",
-            "seats": "23",
+            "seats": "24",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -26197,6 +26197,27 @@
             "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
+          }
+        ]
+      },
+      "23": {
+        "22171": [
+          {
+            "course": "SOC F023.01W",
+            "CRN": "22171",
+            "desc": "RACE & ETHNIC RELATIONS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "11/01/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "McNamara",
+            "seats": "50",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
