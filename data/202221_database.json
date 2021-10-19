@@ -1172,7 +1172,7 @@
             "CRN": "22152",
             "desc": "COMPARATVE GOVT/POLITICS",
             "status": "Open",
-            "days": "MTWTh",
+            "days": "MT",
             "time": "12:00 PM-01:50 PM",
             "start": "11/01/2021",
             "end": "12/10/2021",
@@ -1181,6 +1181,61 @@
             "units": "4.00",
             "instructor": "Woolcock",
             "seats": "33",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "POLI F002.02",
+            "CRN": "22152",
+            "desc": "COMPARATVE GOVT/POLITICS",
+            "status": "Open",
+            "days": "WTh",
+            "time": "12:00 PM-01:50 PM",
+            "start": "11/01/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Woolcock",
+            "seats": "33",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "2H": {
+        "22216": [
+          {
+            "course": "POLI F002H2HY",
+            "CRN": "22216",
+            "desc": "HONORS COMPARATIVE GOVERN & PO",
+            "status": "Open",
+            "days": "MT",
+            "time": "12:00 PM-01:50 PM",
+            "start": "11/01/2021",
+            "end": "12/10/2021",
+            "room": "3304",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Woolcock",
+            "seats": "20",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "POLI F002H2HY",
+            "CRN": "22216",
+            "desc": "HONORS COMPARATIVE GOVERN & PO",
+            "status": "Open",
+            "days": "WTh",
+            "time": "12:00 PM-01:50 PM",
+            "start": "11/01/2021",
+            "end": "12/10/2021",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Woolcock",
+            "seats": "20",
             "wait_seats": "0",
             "wait_cap": "0"
           }
