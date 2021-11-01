@@ -44,27 +44,6 @@
   },
   "AUTO": {
     "1": {
-      "60B": {
-        "00223": [
-          {
-            "course": "AUTO D060B96",
-            "CRN": "00223",
-            "desc": "AUTO ELECTRONICS",
-            "status": "Waitlist",
-            "days": "MW",
-            "time": "06:00 PM-10:15 PM",
-            "start": "11/01/2021",
-            "end": "12/10/2021",
-            "room": "E12F",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Silva",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
       "60G": {
         "25336": [
           {
@@ -81,27 +60,6 @@
             "units": "4.50",
             "instructor": "Silva",
             "seats": "1",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "61B": {
-        "26477": [
-          {
-            "course": "AUTO D061B96",
-            "CRN": "26477",
-            "desc": "ELECTRON CONTROLLED BRAKE SYST",
-            "status": "Open",
-            "days": "MW",
-            "time": "06:00 PM-10:15 PM",
-            "start": "11/01/2021",
-            "end": "12/10/2021",
-            "room": "E12B",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Tallent",
-            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -224,27 +182,6 @@
             "wait_cap": "5"
           }
         ]
-      },
-      "361B": {
-        "26469": [
-          {
-            "course": "AUTO D361B96",
-            "CRN": "26469",
-            "desc": "ELECTRON CONTROLLED BRAKE SYST",
-            "status": "Open",
-            "days": "MW",
-            "time": "06:00 PM-10:15 PM",
-            "start": "11/01/2021",
-            "end": "12/10/2021",
-            "room": "E12B",
-            "campus": "DA",
-            "units": "0.00",
-            "instructor": "Tallent",
-            "seats": "2",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
       }
     }
   },
@@ -277,29 +214,7 @@
     "1": {}
   },
   "CD": {
-    "1": {
-      "68": {
-        "26958": [
-          {
-            "course": "C D D068.01Z",
-            "CRN": "26958",
-            "desc": "TCHNG IN A DIVERSE SOCIETY",
-            "status": "Open",
-            "days": "MW",
-            "time": "06:30 PM-10:20 PM",
-            "start": "11/01/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "De Motta",
-            "seats": "1",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "CETH": {
     "1": {}
@@ -412,25 +327,6 @@
             "units": "1.00",
             "instructor": "Hernando",
             "seats": "0",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ],
-        "26535": [
-          {
-            "course": "COUN D005.22Z",
-            "CRN": "26535",
-            "desc": "INTRODUCTION TO COLLEGE",
-            "status": "Open",
-            "days": "MW",
-            "time": "09:30 AM-10:20 AM",
-            "start": "11/01/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.00",
-            "instructor": "Ganesh",
-            "seats": "3",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -837,7 +733,7 @@
             "units": "5.00",
             "instructor": "Damjanovic",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -1080,7 +976,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Swanner",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -1191,44 +1087,6 @@
           }
         ]
       },
-      "93L": {
-        "26072": [
-          {
-            "course": "NURS D093L02F",
-            "CRN": "26072",
-            "desc": "REPRO HEALTH NURS CLINICAL",
-            "status": "Open",
-            "days": "M",
-            "time": "02:30 PM-08:45 PM",
-            "start": "11/01/2021",
-            "end": "12/10/2021",
-            "room": "HOSP",
-            "campus": "DO",
-            "units": "2.00",
-            "instructor": "Miller",
-            "seats": "4",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "NURS D093L02F",
-            "CRN": "26072",
-            "desc": "REPRO HEALTH NURS CLINICAL",
-            "status": "Open",
-            "days": "T",
-            "time": "02:30 PM-08:45 PM",
-            "start": "11/01/2021",
-            "end": "12/10/2021",
-            "room": "HOSP",
-            "campus": "DO",
-            "units": "2.00",
-            "instructor": "Libova",
-            "seats": "4",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "94": {
         "26102": [
           {
@@ -1288,27 +1146,6 @@
           }
         ]
       },
-      "94L": {
-        "26109": [
-          {
-            "course": "NURS D094L02F",
-            "CRN": "26109",
-            "desc": "GERONTOLOGY NURSING CLINICAL",
-            "status": "Open",
-            "days": "MT",
-            "time": "06:30 AM-12:45 PM",
-            "start": "11/01/2021",
-            "end": "12/10/2021",
-            "room": "TBA",
-            "campus": "DO",
-            "units": "2.00",
-            "instructor": "Valadez",
-            "seats": "2",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "91BL": {
         "26082": [
           {
@@ -1349,27 +1186,6 @@
           }
         ]
       },
-      "93AL": {
-        "26076": [
-          {
-            "course": "NURS D93AL02F",
-            "CRN": "26076",
-            "desc": "PEDIATRIC NURSING CLINICAL",
-            "status": "Full",
-            "days": "MT",
-            "time": "06:00 AM-12:15 PM",
-            "start": "11/01/2021",
-            "end": "12/10/2021",
-            "room": "HOSP",
-            "campus": "DO",
-            "units": "2.00",
-            "instructor": "Marinas",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "94AL": {
         "26836": [
           {
@@ -1400,29 +1216,7 @@
     "1": {}
   },
   "PARA": {
-    "1": {
-      "88": {
-        "25973": [
-          {
-            "course": "PARA D088.01Z",
-            "CRN": "25973",
-            "desc": "PARALGL & PROF RESPONSIBLTY",
-            "status": "Open",
-            "days": "M",
-            "time": "06:00 PM-09:50 PM",
-            "start": "11/01/2021",
-            "end": "12/10/2021",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Karkas",
-            "seats": "9",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "PEA": {
     "1": {}
