@@ -856,7 +856,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Hanning",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2196,7 +2196,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "47",
+            "seats": "46",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -4306,7 +4306,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Alderkamp",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4323,7 +4323,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Alderkamp",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -4867,7 +4867,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mousavi Shafaei",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -5972,7 +5972,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Mazloom",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6773,7 +6773,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6790,7 +6790,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12133,7 +12133,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "King",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -12150,7 +12150,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "King",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12296,7 +12296,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lankford",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13079,12 +13079,29 @@
             "CRN": "31770",
             "desc": "INTRO TO ENGINEERING",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:20 AM-11:50 AM",
             "start": "01/04/2022",
             "end": "05/27/2022",
-            "room": "",
-            "campus": "",
+            "room": "PAHS",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ENGR F010.99",
+            "CRN": "31770",
+            "desc": "INTRO TO ENGINEERING",
+            "status": "Full",
+            "days": "F",
+            "time": "10:45 AM-11:40 AM",
+            "start": "01/04/2022",
+            "end": "05/27/2022",
+            "room": "PAHS",
+            "campus": "FO",
             "units": "5.00",
             "instructor": "Staff",
             "seats": "0",
@@ -13117,8 +13134,8 @@
             "CRN": "31743",
             "desc": "PROG/PROBLEM-SOLVING MATLAB",
             "status": "Open",
-            "days": "M",
-            "time": "12:00 PM-01:50 PM",
+            "days": "W",
+            "time": "12:00 PM-12:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "4714",
@@ -13134,8 +13151,8 @@
             "CRN": "31743",
             "desc": "PROG/PROBLEM-SOLVING MATLAB",
             "status": "Open",
-            "days": "W",
-            "time": "12:00 PM-12:50 PM",
+            "days": "M",
+            "time": "12:00 PM-01:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "4714",
@@ -17664,7 +17681,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Williams",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18499,7 +18516,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Low",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21538,7 +21555,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Bissell",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -21599,7 +21616,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Ripp",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22344,7 +22361,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23416,7 +23433,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Ho",
-            "seats": "19",
+            "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -23433,7 +23450,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Ho",
-            "seats": "19",
+            "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24232,7 +24249,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stefonik",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25241,7 +25258,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Vo",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25258,7 +25275,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hills",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25275,7 +25292,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hills",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -25349,7 +25366,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Perry",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -25370,7 +25387,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Hanning",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25387,7 +25404,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Staff",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -25446,7 +25463,7 @@
             "campus": "FO",
             "units": "1.00",
             "instructor": "Qura Del Rio",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25463,7 +25480,7 @@
             "campus": "FO",
             "units": "1.00",
             "instructor": "Wee Tom",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25480,7 +25497,7 @@
             "campus": "FO",
             "units": "1.00",
             "instructor": "Vo",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25497,7 +25514,7 @@
             "campus": "FO",
             "units": "1.00",
             "instructor": "Hanning",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25514,7 +25531,7 @@
             "campus": "FO",
             "units": "1.00",
             "instructor": "Hills",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
