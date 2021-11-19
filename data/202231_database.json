@@ -2322,7 +2322,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jenkins",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3050,7 +3050,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -6360,10 +6360,10 @@
             "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "4.50",
-            "instructor": "Staff",
+            "instructor": "Murphy",
             "seats": "40",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -7047,7 +7047,7 @@
             "room": "4814",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Rezaei",
+            "instructor": "Salari",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -7064,7 +7064,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Salari",
+            "instructor": "Rezaei",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -7672,7 +7672,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7689,7 +7689,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8896,7 +8896,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Threet",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10758,7 +10758,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Whitson",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -12372,7 +12372,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lankford",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12505,7 +12505,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lewis",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12923,7 +12923,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Huerta",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -12940,7 +12940,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Huerta",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13926,7 +13926,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Meezan",
-            "seats": "43",
+            "seats": "42",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -14035,7 +14035,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16211,7 +16211,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Voyce",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -16228,7 +16228,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Voyce",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -16245,7 +16245,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Voyce",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19129,7 +19129,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -19146,7 +19146,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20483,6 +20483,27 @@
   },
   "NCEL": {
     "1": {
+      "401": {
+        "31773": [
+          {
+            "course": "NCEL F401.01V",
+            "CRN": "31773",
+            "desc": "ESL FOR CHILDCARE PROVIDERS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "",
+            "campus": "",
+            "units": "0.00",
+            "instructor": "Staff",
+            "seats": "40",
+            "wait_seats": "20",
+            "wait_cap": "20"
+          }
+        ]
+      },
       "405": {
         "31597": [
           {
@@ -21780,7 +21801,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24401,7 +24422,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stefonik",
-            "seats": "48",
+            "seats": "47",
             "wait_seats": "20",
             "wait_cap": "20"
           }
