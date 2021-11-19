@@ -875,7 +875,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Su",
-            "seats": "25",
+            "seats": "20",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -892,7 +892,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Su",
-            "seats": "25",
+            "seats": "20",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -968,7 +968,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Hanning",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -4095,23 +4095,6 @@
             "CRN": "30423",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Ko",
-            "seats": "28",
-            "wait_seats": "12",
-            "wait_cap": "12"
-          },
-          {
-            "course": "BIOL F010.01Y",
-            "CRN": "30423",
-            "desc": "GEN BIOL-BASIC PRINCPLES",
-            "status": "Open",
             "days": "W",
             "time": "05:30 PM-08:20 PM",
             "start": "01/03/2022",
@@ -4123,31 +4106,12 @@
             "seats": "28",
             "wait_seats": "12",
             "wait_cap": "12"
-          }
-        ],
-        "31761": [
-          {
-            "course": "BIOL F010.02Y",
-            "CRN": "31761",
-            "desc": "GEN BIOL-BASIC PRINCPLES",
-            "status": "Full",
-            "days": "M",
-            "time": "05:30 PM-08:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "8709",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Moody",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
           },
           {
-            "course": "BIOL F010.02Y",
-            "CRN": "31761",
+            "course": "BIOL F010.01Y",
+            "CRN": "30423",
             "desc": "GEN BIOL-BASIC PRINCPLES",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -4156,9 +4120,9 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ko",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "seats": "28",
+            "wait_seats": "12",
+            "wait_cap": "12"
           }
         ],
         "30169": [
@@ -4167,11 +4131,11 @@
             "CRN": "30169",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Open",
-            "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
+            "days": "T",
+            "time": "02:00 PM-04:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "8402",
+            "room": "8709",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hawkins",
@@ -4184,11 +4148,11 @@
             "CRN": "30169",
             "desc": "GEN BIOL-BASIC PRINCPLES",
             "status": "Open",
-            "days": "T",
-            "time": "02:00 PM-04:50 PM",
+            "days": "TTh",
+            "time": "12:00 PM-01:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "8709",
+            "room": "8402",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hawkins",
@@ -4337,10 +4301,10 @@
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Open",
             "days": "M",
-            "time": "12:00 PM-01:50 PM",
+            "time": "09:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "5001",
+            "room": "5106",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Schinske",
@@ -4354,10 +4318,10 @@
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Open",
             "days": "M",
-            "time": "09:00 AM-11:50 AM",
+            "time": "12:00 PM-01:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "5106",
+            "room": "5001",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Schinske",
@@ -4406,11 +4370,11 @@
             "CRN": "30014",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Open",
-            "days": "M",
-            "time": "02:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "5106",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Schinske",
@@ -4423,11 +4387,11 @@
             "CRN": "30014",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "02:00 PM-04:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "5106",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Schinske",
@@ -4516,11 +4480,11 @@
             "CRN": "30671",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
             "status": "Open",
-            "days": "Th",
-            "time": "12:00 PM-01:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "8338",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "La",
@@ -4550,11 +4514,11 @@
             "CRN": "30671",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "12:00 PM-01:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "8338",
             "campus": "FH",
             "units": "5.00",
             "instructor": "La",
@@ -11909,7 +11873,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Starer",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -25486,7 +25450,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Hanning",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25503,7 +25467,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Staff",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -25613,7 +25577,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Miller",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -25634,7 +25598,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Hanning",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -25655,7 +25619,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Hanning",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -25676,7 +25640,7 @@
             "campus": "FO",
             "units": "8.00",
             "instructor": "Vo",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25693,7 +25657,7 @@
             "campus": "FO",
             "units": "8.00",
             "instructor": "Chuang",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25710,7 +25674,7 @@
             "campus": "FO",
             "units": "8.00",
             "instructor": "Barraza",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25727,7 +25691,7 @@
             "campus": "FO",
             "units": "8.00",
             "instructor": "Hanning",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25744,7 +25708,7 @@
             "campus": "FO",
             "units": "8.00",
             "instructor": "Perry",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25761,7 +25725,7 @@
             "campus": "FO",
             "units": "8.00",
             "instructor": "Hills",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25778,7 +25742,7 @@
             "campus": "FO",
             "units": "8.00",
             "instructor": "Wedeking",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25795,7 +25759,7 @@
             "campus": "FO",
             "units": "8.00",
             "instructor": "Wee Tom",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -25812,7 +25776,7 @@
             "campus": "FO",
             "units": "8.00",
             "instructor": "Staff",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -26439,7 +26403,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Crespo-Martin",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -27560,7 +27524,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Gregory",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -27623,7 +27587,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "St Onge-Cole",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -27697,7 +27661,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gregory",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -27714,7 +27678,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gregory",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -27731,7 +27695,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gorzynski",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -27934,7 +27898,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Zeytoonian",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "0",
             "wait_cap": "0"
           }
