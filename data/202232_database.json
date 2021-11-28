@@ -445,7 +445,7 @@
             "course": "ACCT D001B05Z",
             "CRN": "37755",
             "desc": "FINAN ACCOUNTG II",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -455,14 +455,14 @@
             "units": "5.00",
             "instructor": "Li",
             "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "5"
+            "wait_seats": "-1",
+            "wait_cap": "0"
           },
           {
             "course": "ACCT D001B05Z",
             "CRN": "37755",
             "desc": "FINAN ACCOUNTG II",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTh",
             "time": "02:00 PM-03:30 PM",
             "start": "01/03/2022",
@@ -472,8 +472,8 @@
             "units": "5.00",
             "instructor": "Li",
             "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "5"
+            "wait_seats": "-1",
+            "wait_cap": "0"
           }
         ],
         "37756": [
@@ -491,8 +491,8 @@
             "units": "5.00",
             "instructor": "Li",
             "seats": "11",
-            "wait_seats": "3",
-            "wait_cap": "3"
+            "wait_seats": "0",
+            "wait_cap": "0"
           },
           {
             "course": "ACCT D001B5GZ",
@@ -508,8 +508,8 @@
             "units": "5.00",
             "instructor": "Li",
             "seats": "11",
-            "wait_seats": "3",
-            "wait_cap": "3"
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "34455": [
@@ -9836,7 +9836,7 @@
             "course": "CHEM D025.01Z",
             "CRN": "33756",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Full",
+            "status": "Open",
             "days": "T",
             "time": "07:30 AM-10:20 AM",
             "start": "01/03/2022",
@@ -9845,7 +9845,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gray",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           },
@@ -9853,7 +9853,7 @@
             "course": "CHEM D025.01Z",
             "CRN": "33756",
             "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "10:30 AM-12:20 PM",
             "start": "01/03/2022",
@@ -9862,7 +9862,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gray",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -11665,7 +11665,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Kleinman",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11682,7 +11682,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Kleinman",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12503,7 +12503,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Janakiraman",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -23912,7 +23912,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dileonardo",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35810,7 +35810,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Acker",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -35827,7 +35827,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Acker",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -40939,7 +40939,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hatter",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
