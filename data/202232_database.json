@@ -7080,8 +7080,8 @@
             "units": "5.00",
             "instructor": "Lilly",
             "seats": "38",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ],
         "37671": [
@@ -7108,7 +7108,7 @@
             "course": "BUS D010.65Z",
             "CRN": "00276",
             "desc": "INTRO TO BUSINESS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -7118,8 +7118,8 @@
             "units": "5.00",
             "instructor": "Garbe",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ],
         "00267": [
@@ -7536,8 +7536,8 @@
             "units": "5.00",
             "instructor": "Karia",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "wait_seats": "-5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -7671,8 +7671,8 @@
             "units": "5.00",
             "instructor": "Fritz",
             "seats": "21",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -7713,8 +7713,8 @@
             "units": "4.00",
             "instructor": "Takyi",
             "seats": "31",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -7724,7 +7724,7 @@
             "course": "BUS D090.63Z",
             "CRN": "31757",
             "desc": "PRIN MARKETING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -7734,8 +7734,8 @@
             "units": "5.00",
             "instructor": "Garbe",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ],
         "37590": [
@@ -7774,8 +7774,8 @@
             "units": "4.00",
             "instructor": "Salah",
             "seats": "21",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -7795,8 +7795,8 @@
             "units": "5.00",
             "instructor": "Morgan",
             "seats": "17",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -7895,7 +7895,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kennedy",
-            "seats": "34",
+            "seats": "32",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -11153,7 +11153,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Al-Hussein",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11760,7 +11760,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Singh",
-            "seats": "15",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11777,7 +11777,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Singh",
-            "seats": "15",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11863,7 +11863,7 @@
             "course": "CIS D036A01Z",
             "CRN": "33101",
             "desc": "INTRO TO COMP PROG USING JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -11872,7 +11872,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Parrish",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11880,7 +11880,7 @@
             "course": "CIS D036A01Z",
             "CRN": "33101",
             "desc": "INTRO TO COMP PROG USING JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "11:30 AM-01:20 PM",
             "start": "01/03/2022",
@@ -11889,7 +11889,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Parrish",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -17047,7 +17047,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -17064,7 +17064,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -19960,7 +19960,7 @@
             "course": "ESL D473.04Z",
             "CRN": "37585",
             "desc": "INTRO TO THE ESSAY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "M",
             "time": "10:30 AM-12:20 PM",
             "start": "01/03/2022",
@@ -19970,14 +19970,14 @@
             "units": "0.00",
             "instructor": "Yee",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "2"
           },
           {
             "course": "ESL D473.04Z",
             "CRN": "37585",
             "desc": "INTRO TO THE ESSAY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -19987,7 +19987,7 @@
             "units": "0.00",
             "instructor": "Yee",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "2"
           }
         ],
@@ -24303,7 +24303,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pham",
-            "seats": "41",
+            "seats": "40",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -24555,7 +24555,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Hassel",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25814,7 +25814,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Joplin",
-            "seats": "30",
+            "seats": "31",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -26449,7 +26449,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Galindo",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -26824,7 +26824,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Staff",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -27230,7 +27230,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Deck",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "4",
             "wait_cap": "4"
           }
@@ -27707,7 +27707,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Johnson",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -39190,7 +39190,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Schendan",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -40615,7 +40615,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kondo",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "8"
           }
