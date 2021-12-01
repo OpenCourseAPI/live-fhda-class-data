@@ -567,7 +567,7 @@
             "units": "4.00",
             "instructor": "Glass",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ],
@@ -2745,7 +2745,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gomes",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2916,7 +2916,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gomes",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6135,7 +6135,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Cecil",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7884,7 +7884,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Armstrong",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8285,8 +8285,8 @@
             "CRN": "30848",
             "desc": "PLANNING CREATIVE DRAMATICS",
             "status": "Open",
-            "days": "F",
-            "time": "05:00 PM-08:50 PM",
+            "days": "S",
+            "time": "09:00 AM-12:50 PM",
             "start": "02/04/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8302,8 +8302,8 @@
             "CRN": "30848",
             "desc": "PLANNING CREATIVE DRAMATICS",
             "status": "Open",
-            "days": "S",
-            "time": "09:00 AM-12:50 PM",
+            "days": "F",
+            "time": "05:00 PM-08:50 PM",
             "start": "02/04/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8333,6 +8333,44 @@
           }
         ]
       },
+      "88B": {
+        "31779": [
+          {
+            "course": "CHLD F088B01Z",
+            "CRN": "31779",
+            "desc": "POSTV BEHAV MGMT",
+            "status": "Open",
+            "days": "W",
+            "time": "06:30 PM-08:20 PM",
+            "start": "02/02/2022",
+            "end": "03/09/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Giotta",
+            "seats": "40",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "CHLD F088B01Z",
+            "CRN": "31779",
+            "desc": "POSTV BEHAV MGMT",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "02/02/2022",
+            "end": "03/09/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Giotta",
+            "seats": "40",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "89": {
         "30258": [
           {
@@ -8340,110 +8378,25 @@
             "CRN": "30258",
             "desc": "CURR FOR EARLY CARE/ED PROG",
             "status": "Open",
+            "days": "T",
+            "time": "06:30 PM-08:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FC",
+            "units": "4.00",
+            "instructor": "Dominguez",
+            "seats": "11",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "CHLD F089.01Z",
+            "CRN": "30258",
+            "desc": "CURR FOR EARLY CARE/ED PROG",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "4.00",
-            "instructor": "Dominguez",
-            "seats": "11",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "CHLD F089.01Z",
-            "CRN": "30258",
-            "desc": "CURR FOR EARLY CARE/ED PROG",
-            "status": "Open",
-            "days": "T",
-            "time": "06:30 PM-08:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "4.00",
-            "instructor": "Dominguez",
-            "seats": "11",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "CHLD F089.01Z",
-            "CRN": "30258",
-            "desc": "CURR FOR EARLY CARE/ED PROG",
-            "status": "Open",
-            "days": "T",
-            "time": "06:30 PM-08:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "4.00",
-            "instructor": "Dominguez",
-            "seats": "11",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "CHLD F089.01Z",
-            "CRN": "30258",
-            "desc": "CURR FOR EARLY CARE/ED PROG",
-            "status": "Open",
-            "days": "T",
-            "time": "06:30 PM-08:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "4.00",
-            "instructor": "Dominguez",
-            "seats": "11",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "CHLD F089.01Z",
-            "CRN": "30258",
-            "desc": "CURR FOR EARLY CARE/ED PROG",
-            "status": "Open",
-            "days": "T",
-            "time": "06:30 PM-08:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "4.00",
-            "instructor": "Dominguez",
-            "seats": "11",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "CHLD F089.01Z",
-            "CRN": "30258",
-            "desc": "CURR FOR EARLY CARE/ED PROG",
-            "status": "Open",
-            "days": "T",
-            "time": "06:30 PM-08:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FC",
-            "units": "4.00",
-            "instructor": "Dominguez",
-            "seats": "11",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "CHLD F089.01Z",
-            "CRN": "30258",
-            "desc": "CURR FOR EARLY CARE/ED PROG",
-            "status": "Open",
-            "days": "T",
-            "time": "06:30 PM-08:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8846,7 +8799,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Clemmons",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12083,7 +12036,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Goldstone",
-            "seats": "18",
+            "seats": "19",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -12100,7 +12053,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Goldstone",
-            "seats": "18",
+            "seats": "19",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13701,6 +13654,25 @@
             "instructor": "Acevedo",
             "seats": "0",
             "wait_seats": "21",
+            "wait_cap": "25"
+          }
+        ],
+        "31778": [
+          {
+            "course": "ETHN F051.03W",
+            "CRN": "31778",
+            "desc": "INTRODUCTION TO ETHNIC STUDIES",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Acevedo",
+            "seats": "50",
+            "wait_seats": "25",
             "wait_cap": "25"
           }
         ]
@@ -20859,7 +20831,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Goldstone",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -24849,7 +24821,7 @@
             "room": "TBA",
             "campus": "FH",
             "units": "1.00",
-            "instructor": "Staff",
+            "instructor": "Stefonik",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
