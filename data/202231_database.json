@@ -301,7 +301,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wang-Nava",
-            "seats": "32",
+            "seats": "30",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -425,7 +425,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bowman",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -784,7 +784,7 @@
             "course": "ACTG F076.01W",
             "CRN": "30223",
             "desc": "ETHICS IN ACCOUNTING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -793,8 +793,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Sturgess",
-            "seats": "1",
-            "wait_seats": "12",
+            "seats": "0",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ],
@@ -2530,6 +2530,9 @@
       }
     }
   },
+  "APEL": {
+    "1": {}
+  },
   "APPT": {
     "1": {}
   },
@@ -3830,7 +3833,7 @@
             "course": "BIOL F001A01",
             "CRN": "30003",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:00 PM-01:50 PM",
             "start": "01/03/2022",
@@ -3839,15 +3842,15 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Erickson",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           },
           {
             "course": "BIOL F001A01",
             "CRN": "30003",
             "desc": "PRIN OF CELL BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "02:30 PM-05:20 PM",
             "start": "01/03/2022",
@@ -3856,8 +3859,8 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Erickson",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -4422,7 +4425,7 @@
             "course": "BIOL F040A06",
             "CRN": "30015",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "08:30 AM-11:20 AM",
             "start": "01/03/2022",
@@ -4431,7 +4434,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Melia",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4439,7 +4442,7 @@
             "course": "BIOL F040A06",
             "CRN": "30015",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:00 PM-01:50 PM",
             "start": "01/03/2022",
@@ -4448,7 +4451,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Melia",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4896,7 +4899,7 @@
             "course": "BIOL F040C07Z",
             "CRN": "30859",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "01/03/2022",
@@ -4905,7 +4908,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -4913,7 +4916,7 @@
             "course": "BIOL F040C07Z",
             "CRN": "30859",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -4922,7 +4925,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -5748,7 +5751,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -5765,7 +5768,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5940,7 +5943,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -5957,7 +5960,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6058,7 +6061,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6075,7 +6078,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6231,7 +6234,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Riordan",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6248,7 +6251,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Riordan",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6332,7 +6335,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ibrahim",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7185,7 +7188,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7202,7 +7205,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7887,7 +7890,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7967,7 +7970,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Kerbey",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8703,7 +8706,7 @@
             "course": "COMM F001A04Z",
             "CRN": "30183",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -8712,15 +8715,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Pogosian",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
             "course": "COMM F001A04Z",
             "CRN": "30183",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "10:00 AM-11:50 AM",
             "start": "01/03/2022",
@@ -8729,8 +8732,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Pogosian",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -8976,7 +8979,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Kellner",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9163,7 +9166,7 @@
             "course": "COMM F010.01W",
             "CRN": "30342",
             "desc": "GENDER, COMMUNICATION & CULTUR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -9172,7 +9175,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9232,7 +9235,7 @@
             "units": "5.00",
             "instructor": "Velasco",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -10787,7 +10790,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Dupree",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -10804,7 +10807,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Dupree",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11026,7 +11029,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18454,7 +18457,7 @@
             "course": "MATH F048B02V",
             "CRN": "30569",
             "desc": "PRECALCULUS II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "10:00 AM-12:15 PM",
             "start": "01/03/2022",
@@ -18463,8 +18466,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tomutiu",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -18522,7 +18525,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Zwack",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23432,7 +23435,7 @@
             "course": "PHYS F004A03",
             "CRN": "30134",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "05:00 PM-07:15 PM",
             "start": "01/03/2022",
@@ -23441,15 +23444,15 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Ho",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "PHYS F004A03",
             "CRN": "30134",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "08:00 PM-10:50 PM",
             "start": "01/03/2022",
@@ -23458,8 +23461,8 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Ho",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -24518,7 +24521,7 @@
             "course": "PSYC F010.02W",
             "CRN": "30826",
             "desc": "RESEARCH METHODS & DESIGNS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -24527,8 +24530,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Bauermeister",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
