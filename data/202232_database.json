@@ -2559,7 +2559,7 @@
             "units": "4.00",
             "instructor": "Becerril",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -12129,7 +12129,7 @@
             "units": "4.50",
             "instructor": "Alameer",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -13718,7 +13718,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Isacson",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -13735,7 +13735,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Isacson",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -17808,7 +17808,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Staff",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -17825,7 +17825,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Staff",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -32792,7 +32792,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lazar",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -35829,7 +35829,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Acker",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -35846,7 +35846,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Acker",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -37468,7 +37468,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Booher",
-            "seats": "39",
+            "seats": "40",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -39876,7 +39876,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Baldwin",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -42261,6 +42261,25 @@
             "wait_seats": "14",
             "wait_cap": "15"
           }
+        ],
+        "37826": [
+          {
+            "course": "WMST D001.61Z",
+            "CRN": "37826",
+            "desc": "INTRO WOMEN'S STDS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "",
+            "campus": "",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "50",
+            "wait_seats": "7",
+            "wait_cap": "7"
+          }
         ]
       },
       "8": {
@@ -42378,27 +42397,6 @@
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
-          }
-        ]
-      },
-      "24": {
-        "37591": [
-          {
-            "course": "WMST D024.60Z",
-            "CRN": "37591",
-            "desc": "WOMEN & GENDER GLOBAL PERSPEC",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Coronado",
-            "seats": "47",
-            "wait_seats": "7",
-            "wait_cap": "7"
           }
         ]
       },
