@@ -812,7 +812,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Sturgess",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -832,7 +832,7 @@
             "units": "5.00",
             "instructor": "Ponleithner",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -1926,7 +1926,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2078,7 +2078,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Price",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5482,10 +5482,10 @@
             "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Mancuso",
             "seats": "50",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -6166,6 +6166,25 @@
             "wait_seats": "9",
             "wait_cap": "10"
           }
+        ],
+        "31826": [
+          {
+            "course": "C S F003A05W",
+            "CRN": "31826",
+            "desc": "OBJECT ORIEN PRGM METH PYTHON",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.50",
+            "instructor": "Staff",
+            "seats": "25",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
         ]
       },
       "3B": {
@@ -6252,7 +6271,7 @@
             "course": "C S F010.01Y",
             "CRN": "30198",
             "desc": "COMPUTER ARCHITEC/ORGANIZATION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "06:00 PM-07:50 PM",
             "start": "01/03/2022",
@@ -6261,7 +6280,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Riordan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6269,7 +6288,7 @@
             "course": "C S F010.01Y",
             "CRN": "30198",
             "desc": "COMPUTER ARCHITEC/ORGANIZATION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -6278,7 +6297,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Riordan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6763,11 +6782,11 @@
             "CRN": "30111",
             "desc": "GENERAL CHEMISTRY",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "02:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4801",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
@@ -6780,11 +6799,11 @@
             "CRN": "30111",
             "desc": "GENERAL CHEMISTRY",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "02:00 PM-04:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "4801",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
@@ -6836,14 +6855,14 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Open",
             "days": "TTh",
-            "time": "10:00 AM-12:50 PM",
+            "time": "02:00 PM-03:15 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4801",
+            "room": "4502",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Larson",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6853,14 +6872,14 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Open",
             "days": "TTh",
-            "time": "02:00 PM-03:15 PM",
+            "time": "10:00 AM-12:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4502",
+            "room": "4801",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Larson",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6909,11 +6928,11 @@
             "CRN": "30658",
             "desc": "GENERAL CHEMISTRY",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "09:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4814",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Daley",
@@ -6926,11 +6945,11 @@
             "CRN": "30658",
             "desc": "GENERAL CHEMISTRY",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "09:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "4814",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Daley",
@@ -6981,14 +7000,14 @@
             "CRN": "30117",
             "desc": "GENERAL CHEMISTRY",
             "status": "Open",
-            "days": "TTh",
-            "time": "02:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4814",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Salari",
+            "instructor": "Rezaei",
             "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -6998,14 +7017,14 @@
             "CRN": "30117",
             "desc": "GENERAL CHEMISTRY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "02:00 PM-04:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "4814",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Rezaei",
+            "instructor": "Salari",
             "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -7262,11 +7281,11 @@
             "CRN": "30125",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Open",
-            "days": "W",
-            "time": "02:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4812",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
@@ -7279,11 +7298,11 @@
             "CRN": "30125",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "02:00 PM-04:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "4812",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
@@ -7838,25 +7857,6 @@
         ]
       },
       "12AL": {
-        "31516": [
-          {
-            "course": "CHEM F12AL01",
-            "CRN": "31516",
-            "desc": "ORGANIC CHEMISTRY LABORATORY",
-            "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-12:50 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "4813",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Painter",
-            "seats": "22",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
         "31517": [
           {
             "course": "CHEM F12AL02",
@@ -8883,7 +8883,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Threet",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14747,7 +14747,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Baldwin",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -16137,7 +16137,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mac Neil",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -19023,7 +19023,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -19040,7 +19040,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Thornton",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22573,7 +22573,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chang",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -23218,7 +23218,7 @@
             "course": "PHYS F002A02",
             "CRN": "30521",
             "desc": "GENERAL PHYSICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "10:00 AM-11:50 AM",
             "start": "01/03/2022",
@@ -23227,7 +23227,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Kumar",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "5"
           },
@@ -23235,7 +23235,7 @@
             "course": "PHYS F002A02",
             "CRN": "30521",
             "desc": "GENERAL PHYSICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "01:00 PM-03:50 PM",
             "start": "01/03/2022",
@@ -23244,7 +23244,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Kumar",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "5"
           }
@@ -23330,7 +23330,7 @@
             "course": "PHYS F004A01",
             "CRN": "30027",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "10:00 AM-11:50 AM",
             "start": "01/03/2022",
@@ -23339,7 +23339,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cascarano",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -23347,7 +23347,7 @@
             "course": "PHYS F004A01",
             "CRN": "30027",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "F",
             "time": "11:00 AM-11:50 AM",
             "start": "01/03/2022",
@@ -23356,7 +23356,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cascarano",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -23364,7 +23364,7 @@
             "course": "PHYS F004A01",
             "CRN": "30027",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "12:00 PM-02:50 PM",
             "start": "01/03/2022",
@@ -23373,7 +23373,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cascarano",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23880,7 +23880,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Woolcock",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24756,7 +24756,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gerry",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -26272,7 +26272,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Small",
-            "seats": "46",
+            "seats": "45",
             "wait_seats": "0",
             "wait_cap": "0"
           }
