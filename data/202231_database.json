@@ -1749,44 +1749,6 @@
   },
   "ALTW": {
     "1": {
-      "202": {
-        "31741": [
-          {
-            "course": "ALTW F202.01Y",
-            "CRN": "31741",
-            "desc": "BASIC MATH FOR STD W/LRNG DIFF",
-            "status": "Open",
-            "days": "Th",
-            "time": "03:30 PM-04:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "5425",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Kaupp",
-            "seats": "25",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "ALTW F202.01Y",
-            "CRN": "31741",
-            "desc": "BASIC MATH FOR STD W/LRNG DIFF",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Kaupp",
-            "seats": "25",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "208": {
         "31742": [
           {
@@ -1856,6 +1818,48 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "2.00",
+            "instructor": "Kaupp",
+            "seats": "25",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "217": {
+        "31815": [
+          {
+            "course": "ALTW F217.01",
+            "CRN": "31815",
+            "desc": "INTERMED COMP APPS STD LRN DIF",
+            "status": "Open",
+            "days": "TTh",
+            "time": "03:30 PM-04:45 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "5425",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Kaupp",
+            "seats": "25",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "223": {
+        "31814": [
+          {
+            "course": "ALTW F223.01",
+            "CRN": "31814",
+            "desc": "INDEP LVNG SKLLS:FNANCL LITRCY",
+            "status": "Open",
+            "days": "TW",
+            "time": "10:00 AM-11:50 AM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "5425",
+            "campus": "FH",
+            "units": "4.00",
             "instructor": "Kaupp",
             "seats": "25",
             "wait_seats": "0",
@@ -2576,6 +2580,25 @@
             "wait_seats": "3",
             "wait_cap": "10"
           }
+        ],
+        "31816": [
+          {
+            "course": "ART F001.03W",
+            "CRN": "31816",
+            "desc": "INTRODUCTION TO ART",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.50",
+            "instructor": "Cortez",
+            "seats": "50",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "2B": {
@@ -2682,7 +2705,7 @@
             "CRN": "30151",
             "desc": "FUNDAMENTALS IN DRAWING",
             "status": "Open",
-            "days": "T",
+            "days": "Th",
             "time": "10:00 AM-12:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
@@ -2699,7 +2722,7 @@
             "CRN": "30151",
             "desc": "FUNDAMENTALS IN DRAWING",
             "status": "Open",
-            "days": "Th",
+            "days": "T",
             "time": "10:00 AM-12:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
@@ -3380,7 +3403,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mathews",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4291,7 +4314,7 @@
             "units": "5.00",
             "instructor": "Alderkamp",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "12"
           },
           {
@@ -4308,7 +4331,7 @@
             "units": "5.00",
             "instructor": "Alderkamp",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "12"
           }
         ]
@@ -4425,7 +4448,7 @@
             "course": "BIOL F040A06",
             "CRN": "30015",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "T",
             "time": "08:30 AM-11:20 AM",
             "start": "01/03/2022",
@@ -4434,7 +4457,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Melia",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4442,7 +4465,7 @@
             "course": "BIOL F040A06",
             "CRN": "30015",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "12:00 PM-01:50 PM",
             "start": "01/03/2022",
@@ -4451,7 +4474,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Melia",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4872,7 +4895,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lagna",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "8",
             "wait_cap": "8"
           },
@@ -4889,7 +4912,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Jacobs",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -5054,7 +5077,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Pallesen",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -5071,7 +5094,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cooper",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5248,7 +5271,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Lew",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5289,7 +5312,7 @@
             "units": "5.00",
             "instructor": "Harmon",
             "seats": "0",
-            "wait_seats": "16",
+            "wait_seats": "15",
             "wait_cap": "20"
           }
         ],
@@ -5697,40 +5720,23 @@
         ]
       },
       "87": {
-        "31455": [
+        "31817": [
           {
-            "course": "BUSI F087.01Y",
-            "CRN": "31455",
-            "desc": "HUMAN RESOURCES MANAGEMENT",
-            "status": "Open",
-            "days": "TTh",
-            "time": "10:00 AM-11:50 AM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "3015",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Chang",
-            "seats": "46",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          },
-          {
-            "course": "BUSI F087.01Y",
-            "CRN": "31455",
+            "course": "BUSI F087.02W",
+            "CRN": "31817",
             "desc": "HUMAN RESOURCES MANAGEMENT",
             "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "TBA",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chang",
-            "seats": "46",
-            "wait_seats": "20",
-            "wait_cap": "20"
+            "seats": "50",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
@@ -5982,7 +5988,7 @@
             "units": "4.50",
             "instructor": "Harden",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -6063,7 +6069,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6080,7 +6086,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7679,7 +7685,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7696,7 +7702,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8350,7 +8356,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Giotta",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -8367,7 +8373,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Giotta",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -11723,7 +11729,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Negus",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -11740,7 +11746,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Negus",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -11852,7 +11858,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Starer",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -11966,7 +11972,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mills",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -11983,7 +11989,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mills",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12002,7 +12008,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sperry",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -12019,7 +12025,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sperry",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12134,7 +12140,7 @@
             "units": "5.00",
             "instructor": "King",
             "seats": "0",
-            "wait_seats": "22",
+            "wait_seats": "21",
             "wait_cap": "25"
           },
           {
@@ -12151,7 +12157,7 @@
             "units": "5.00",
             "instructor": "King",
             "seats": "0",
-            "wait_seats": "22",
+            "wait_seats": "21",
             "wait_cap": "25"
           }
         ],
@@ -14254,7 +14260,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -14271,7 +14277,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15177,7 +15183,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Vaughan",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15208,7 +15214,7 @@
             "course": "HUMN F003H2HW",
             "CRN": "30610",
             "desc": "HONORS WORLD MYTHS IN LIT, ART",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -15217,7 +15223,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Vaughan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -15404,7 +15410,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Cammin",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -15712,7 +15718,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Yasutake",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -16606,7 +16612,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Pereira",
-            "seats": "32",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -16623,7 +16629,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Randall",
-            "seats": "32",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -16635,7 +16641,7 @@
             "course": "LINC F058A01W",
             "CRN": "31468",
             "desc": "E-PORTFOLIOS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "02/14/2022",
@@ -16644,7 +16650,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "0",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -16652,7 +16658,7 @@
             "course": "LINC F058A01W",
             "CRN": "31468",
             "desc": "E-PORTFOLIOS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "02/14/2022",
@@ -16661,7 +16667,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Randall",
-            "seats": "0",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17211,7 +17217,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Pereira",
-            "seats": "32",
+            "seats": "36",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -17228,7 +17234,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Randall",
-            "seats": "32",
+            "seats": "36",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17240,7 +17246,7 @@
             "course": "LINC F091B01W",
             "CRN": "31477",
             "desc": "EVAL TECH-BASED LEARN OUTCOMES",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/10/2022",
@@ -17249,7 +17255,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Pereira",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17261,7 +17267,7 @@
             "course": "LINC F095C01W",
             "CRN": "31469",
             "desc": "ASSESS STRAT FOR TECH INTEGRAT",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "02/14/2022",
@@ -17270,7 +17276,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Pereira",
-            "seats": "0",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -17278,7 +17284,7 @@
             "course": "LINC F095C01W",
             "CRN": "31469",
             "desc": "ASSESS STRAT FOR TECH INTEGRAT",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "02/14/2022",
@@ -17287,7 +17293,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Randall",
-            "seats": "0",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18014,7 +18020,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Munoz",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -18322,7 +18328,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Florero Salinas",
-            "seats": "18",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19882,7 +19888,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -19966,7 +19972,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -19983,7 +19989,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -20000,7 +20006,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20833,7 +20839,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Sperry",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -23203,7 +23209,7 @@
             "units": "5.00",
             "instructor": "Kumar",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
@@ -23220,7 +23226,7 @@
             "units": "5.00",
             "instructor": "Kumar",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
@@ -23323,11 +23329,11 @@
             "CRN": "30027",
             "desc": "GENERAL PHYSICS (CALC)",
             "status": "Open",
-            "days": "T",
-            "time": "12:00 PM-02:50 PM",
+            "days": "F",
+            "time": "11:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4715",
+            "room": "4604",
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cascarano",
@@ -23340,11 +23346,11 @@
             "CRN": "30027",
             "desc": "GENERAL PHYSICS (CALC)",
             "status": "Open",
-            "days": "F",
-            "time": "11:00 AM-11:50 AM",
+            "days": "T",
+            "time": "12:00 PM-02:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4604",
+            "room": "4715",
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cascarano",
@@ -23441,42 +23447,6 @@
             "wait_seats": "0",
             "wait_cap": "5"
           }
-        ],
-        "30522": [
-          {
-            "course": "PHYS F004A04",
-            "CRN": "30522",
-            "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Waitlist",
-            "days": "TTh",
-            "time": "05:00 PM-07:15 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "4603",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Kumar",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "PHYS F004A04",
-            "CRN": "30522",
-            "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Waitlist",
-            "days": "Th",
-            "time": "08:00 PM-10:50 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "4715",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Kumar",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
         ]
       },
       "4B": {
@@ -23486,11 +23456,11 @@
             "CRN": "30263",
             "desc": "GENERAL PHYSICS (CALC)",
             "status": "Waitlist",
-            "days": "T",
-            "time": "01:00 PM-03:50 PM",
+            "days": "F",
+            "time": "11:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4718",
+            "room": "4606",
             "campus": "FH",
             "units": "6.00",
             "instructor": "Judd",
@@ -23520,11 +23490,11 @@
             "CRN": "30263",
             "desc": "GENERAL PHYSICS (CALC)",
             "status": "Waitlist",
-            "days": "F",
-            "time": "11:00 AM-11:50 AM",
+            "days": "T",
+            "time": "01:00 PM-03:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4606",
+            "room": "4718",
             "campus": "FH",
             "units": "6.00",
             "instructor": "Judd",
@@ -23539,11 +23509,11 @@
             "CRN": "30135",
             "desc": "GENERAL PHYSICS (CALC)",
             "status": "Waitlist",
-            "days": "M",
-            "time": "01:00 PM-03:50 PM",
+            "days": "F",
+            "time": "10:00 AM-10:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4718",
+            "room": "4604",
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cascarano",
@@ -23573,11 +23543,11 @@
             "CRN": "30135",
             "desc": "GENERAL PHYSICS (CALC)",
             "status": "Waitlist",
-            "days": "F",
-            "time": "10:00 AM-10:50 AM",
+            "days": "M",
+            "time": "01:00 PM-03:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4604",
+            "room": "4718",
             "campus": "FH",
             "units": "6.00",
             "instructor": "Cascarano",
@@ -25900,7 +25870,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gibbs Stayte",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -26384,7 +26354,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Crespo-Martin",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -26788,7 +26758,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Stimson",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -26805,7 +26775,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Stimson",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -26826,7 +26796,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Mannshardt",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -26843,7 +26813,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Mc Leod",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -26860,7 +26830,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Mc Leod",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -26880,7 +26850,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Mc Leod",
             "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -26897,7 +26867,7 @@
             "room": "8002",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Mannshardt",
             "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -26973,7 +26943,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Mc Leod",
             "seats": "38",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -27337,7 +27307,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Carey",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "0",
             "wait_cap": "0"
           }
