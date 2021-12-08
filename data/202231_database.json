@@ -2322,7 +2322,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "King",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3114,7 +3114,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ruble",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -3131,7 +3131,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ruble",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -4254,7 +4254,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Moody",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4271,7 +4271,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ko",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -4309,7 +4309,7 @@
             "time": "12:00 PM-02:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "5106",
+            "room": "8710",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Alderkamp",
@@ -7147,13 +7147,13 @@
             "desc": "GENL CHEM/QUAL ANALYSIS",
             "status": "Open",
             "days": "MW",
-            "time": "06:00 PM-08:50 PM",
+            "time": "06:20 PM-09:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "4812",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Stepp",
             "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -12213,7 +12213,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chan",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -12230,7 +12230,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chan",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -19588,6 +19588,25 @@
             "wait_seats": "5",
             "wait_cap": "5"
           }
+        ],
+        "31840": [
+          {
+            "course": "MTEC F052A02D",
+            "CRN": "31840",
+            "desc": "MIXING & MASTERING I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "06/03/2022",
+            "room": "WSHS",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Kauffmann",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "52B": {
@@ -24601,7 +24620,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Stefonik",
-            "seats": "6",
+            "seats": "4",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -26547,25 +26566,6 @@
   "SPAN": {
     "1": {
       "1": {
-        "30492": [
-          {
-            "course": "SPAN F001.01",
-            "CRN": "30492",
-            "desc": "ELEMENTARY SPANISH I",
-            "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-12:15 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "6505",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Rivera-Montanez",
-            "seats": "30",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          }
-        ],
         "30497": [
           {
             "course": "SPAN F001.03V",
