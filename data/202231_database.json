@@ -2930,7 +2930,7 @@
             "course": "ART F005A01W",
             "CRN": "30171",
             "desc": "2-D FOUNDATIONS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -2939,7 +2939,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gomes",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5271,7 +5271,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Lew",
-            "seats": "32",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5446,7 +5446,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Wang-Nava",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5627,7 +5627,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wang-Nava",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6898,7 +6898,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salehi",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6915,7 +6915,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salehi",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7651,7 +7651,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7668,7 +7668,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9007,7 +9007,7 @@
             "course": "COMM F002.04W",
             "CRN": "31188",
             "desc": "INTERPERSONAL COMMUNICATION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -9016,8 +9016,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -12331,7 +12331,7 @@
             "course": "ENGL F001B09W",
             "CRN": "30489",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -12340,7 +12340,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lankford",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "22",
             "wait_cap": "25"
           }
@@ -14104,6 +14104,44 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "31829": [
+          {
+            "course": "GID F033.05D",
+            "CRN": "31829",
+            "desc": "GRAPHIC DESIGN STUDIO I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "06/03/2022",
+            "room": "MAHS",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Rubin",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "31830": [
+          {
+            "course": "GID F033.06D",
+            "CRN": "31830",
+            "desc": "GRAPHIC DESIGN STUDIO I",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "06/03/2022",
+            "room": "MAHS",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Rubin",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "34": {
@@ -15162,7 +15200,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15324,7 +15362,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Latteri",
-            "seats": "21",
+            "seats": "22",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15504,6 +15542,25 @@
             "units": "1.00",
             "instructor": "Gandhi",
             "seats": "48",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "31828": [
+          {
+            "course": "ITRN F050.05W",
+            "CRN": "31828",
+            "desc": "INTERNSHIP",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "TBA",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Tripp Caldwell",
+            "seats": "50",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18494,7 +18551,7 @@
             "course": "MATH F048B02V",
             "CRN": "30569",
             "desc": "PRECALCULUS II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "10:00 AM-12:15 PM",
             "start": "01/03/2022",
@@ -18503,8 +18560,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tomutiu",
-            "seats": "1",
-            "wait_seats": "7",
+            "seats": "0",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -18543,7 +18600,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Low",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18715,7 +18772,7 @@
             "course": "MATH F105.04W",
             "CRN": "30571",
             "desc": "INTERMEDIATE ALGEBRA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -18724,8 +18781,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -19154,7 +19211,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Thornton",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19360,7 +19417,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22268,7 +22325,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -26045,7 +26102,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cormier",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "20",
             "wait_cap": "20"
           }
