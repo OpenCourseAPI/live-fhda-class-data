@@ -251,7 +251,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mello",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1721,7 +1721,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Keiffer-Lewis",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -1738,7 +1738,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Keiffer-Lewis",
-            "seats": "12",
+            "seats": "13",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -7117,7 +7117,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yurtseven",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7351,7 +7351,7 @@
             "course": "BUS D018.16Z",
             "CRN": "31752",
             "desc": "BUSINESS LAW I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "02:30 PM-03:45 PM",
             "start": "01/03/2022",
@@ -7361,14 +7361,14 @@
             "units": "5.00",
             "instructor": "Ritchie",
             "seats": "0",
-            "wait_seats": "2",
-            "wait_cap": "10"
+            "wait_seats": "-3",
+            "wait_cap": "5"
           },
           {
             "course": "BUS D018.16Z",
             "CRN": "31752",
             "desc": "BUSINESS LAW I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -7378,8 +7378,8 @@
             "units": "5.00",
             "instructor": "Ritchie",
             "seats": "0",
-            "wait_seats": "2",
-            "wait_cap": "10"
+            "wait_seats": "-3",
+            "wait_cap": "5"
           }
         ],
         "00285": [
@@ -7397,8 +7397,8 @@
             "units": "5.00",
             "instructor": "Salah",
             "seats": "9",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ],
         "30218": [
@@ -7416,8 +7416,8 @@
             "units": "5.00",
             "instructor": "Lilly",
             "seats": "0",
-            "wait_seats": "7",
-            "wait_cap": "10"
+            "wait_seats": "2",
+            "wait_cap": "5"
           }
         ],
         "33671": [
@@ -7435,8 +7435,8 @@
             "units": "5.00",
             "instructor": "Salah",
             "seats": "40",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -7456,8 +7456,8 @@
             "units": "5.00",
             "instructor": "Lilly",
             "seats": "15",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -7477,8 +7477,8 @@
             "units": "5.00",
             "instructor": "Spencer",
             "seats": "33",
-            "wait_seats": "10",
-            "wait_cap": "10"
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -7771,7 +7771,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morgan",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9272,14 +9272,14 @@
             "CRN": "32202",
             "desc": "GENERAL CHEMISTRY",
             "status": "Open",
-            "days": "MW",
-            "time": "07:30 AM-10:20 AM",
+            "days": "MWF",
+            "time": "11:30 AM-12:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "SC2204",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Artun",
+            "instructor": "Lo",
             "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
@@ -9289,14 +9289,14 @@
             "CRN": "32202",
             "desc": "GENERAL CHEMISTRY",
             "status": "Open",
-            "days": "MWF",
-            "time": "11:30 AM-12:20 PM",
+            "days": "MW",
+            "time": "07:30 AM-10:20 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "SC2204",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Lo",
+            "instructor": "Artun",
             "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
@@ -9381,10 +9381,10 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Waitlist",
             "days": "TTh",
-            "time": "02:30 PM-05:20 PM",
+            "time": "11:30 AM-12:45 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "SC2204",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Muzzi",
@@ -9398,10 +9398,10 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Waitlist",
             "days": "TTh",
-            "time": "11:30 AM-12:45 PM",
+            "time": "02:30 PM-05:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "SC2204",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Muzzi",
@@ -9634,8 +9634,8 @@
             "CRN": "37725",
             "desc": "INTRODUCTORY CHEMISTRY",
             "status": "Waitlist",
-            "days": "W",
-            "time": "02:30 PM-04:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -9651,8 +9651,8 @@
             "CRN": "37725",
             "desc": "INTRODUCTORY CHEMISTRY",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "02:30 PM-04:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -9747,10 +9747,10 @@
             "desc": "ORGANIC CHEMISTRY",
             "status": "Open",
             "days": "TTh",
-            "time": "02:30 PM-05:20 PM",
+            "time": "10:30 AM-11:45 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "SC2210",
+            "room": "S32",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mar",
@@ -9764,10 +9764,10 @@
             "desc": "ORGANIC CHEMISTRY",
             "status": "Open",
             "days": "TTh",
-            "time": "10:30 AM-11:45 AM",
+            "time": "02:30 PM-05:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "S32",
+            "room": "SC2210",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mar",
@@ -10017,8 +10017,8 @@
             "CRN": "35685",
             "desc": "PREP FOR GENERAL CHEMISTRY",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "11:30 AM-12:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -10034,8 +10034,8 @@
             "CRN": "35685",
             "desc": "PREP FOR GENERAL CHEMISTRY",
             "status": "Full",
-            "days": "M",
-            "time": "11:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -10108,8 +10108,8 @@
             "CRN": "32213",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
             "status": "Full",
-            "days": "T",
-            "time": "11:30 AM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -10125,8 +10125,8 @@
             "CRN": "32213",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "11:30 AM-02:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -10182,23 +10182,6 @@
             "CRN": "34598",
             "desc": "INTRO GEN, ORG AND BIOCHEM II",
             "status": "Waitlist",
-            "days": "M",
-            "time": "11:30 AM-12:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Maxwell",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "30"
-          },
-          {
-            "course": "CHEM D030B30Z",
-            "CRN": "34598",
-            "desc": "INTRO GEN, ORG AND BIOCHEM II",
-            "status": "Waitlist",
             "days": "MW",
             "time": "03:30 PM-05:20 PM",
             "start": "01/03/2022",
@@ -10208,7 +10191,24 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "11",
+            "wait_cap": "30"
+          },
+          {
+            "course": "CHEM D030B30Z",
+            "CRN": "34598",
+            "desc": "INTRO GEN, ORG AND BIOCHEM II",
+            "status": "Waitlist",
+            "days": "M",
+            "time": "11:30 AM-12:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Maxwell",
+            "seats": "0",
+            "wait_seats": "11",
             "wait_cap": "30"
           },
           {
@@ -10225,8 +10225,61 @@
             "units": "5.00",
             "instructor": "Maxwell",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "11",
             "wait_cap": "30"
+          }
+        ],
+        "37829": [
+          {
+            "course": "CHEM D030B31Z",
+            "CRN": "37829",
+            "desc": "INTRO GEN, ORG AND BIOCHEM II",
+            "status": "Open",
+            "days": "W",
+            "time": "11:30 AM-12:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Maxwell",
+            "seats": "29",
+            "wait_seats": "6",
+            "wait_cap": "6"
+          },
+          {
+            "course": "CHEM D030B31Z",
+            "CRN": "37829",
+            "desc": "INTRO GEN, ORG AND BIOCHEM II",
+            "status": "Open",
+            "days": "MW",
+            "time": "03:30 PM-05:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Maxwell",
+            "seats": "29",
+            "wait_seats": "6",
+            "wait_cap": "6"
+          },
+          {
+            "course": "CHEM D030B31Z",
+            "CRN": "37829",
+            "desc": "INTRO GEN, ORG AND BIOCHEM II",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Maxwell",
+            "seats": "29",
+            "wait_seats": "6",
+            "wait_cap": "6"
           }
         ]
       },
@@ -10276,7 +10329,7 @@
             "course": "CHEM D077X67R",
             "CRN": "37352",
             "desc": "SPEC PROJ IN CHEMISTRY",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -10285,7 +10338,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Staff",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -14447,7 +14500,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sakakihara",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -14464,7 +14517,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sakakihara",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -14519,7 +14572,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hamilton",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -14536,7 +14589,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hamilton",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -14832,7 +14885,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -14849,7 +14902,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18015,7 +18068,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ratsirarson",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18130,7 +18183,7 @@
             "units": "4.00",
             "instructor": "De Toro",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           },
           {
@@ -18147,7 +18200,7 @@
             "units": "4.00",
             "instructor": "De Toro",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ]
@@ -18205,7 +18258,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "McCluskey",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -20438,7 +20491,7 @@
             "course": "EWRT D001A11Q",
             "CRN": "00756",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "01:30 PM-03:20 PM",
             "start": "01/03/2022",
@@ -20447,7 +20500,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Limcolioc",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20455,7 +20508,7 @@
             "course": "EWRT D001A11Q",
             "CRN": "00756",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -20464,7 +20517,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Limcolioc",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22427,7 +22480,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Acevedo Avila",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -22444,7 +22497,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Acevedo Avila",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -25968,7 +26021,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Woo",
-            "seats": "15",
+            "seats": "16",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -26390,7 +26443,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ramsey",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -29527,7 +29580,7 @@
             "course": "LART D250.11Q",
             "CRN": "36510",
             "desc": "ACADEMIC READING AND WRITING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -29536,7 +29589,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Limcolioc",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -30750,7 +30803,7 @@
             "course": "MATH D001B27Z",
             "CRN": "01232",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "04:00 PM-06:15 PM",
             "start": "01/03/2022",
@@ -30759,7 +30812,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ison",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "6"
           }
@@ -34878,7 +34931,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Rowe",
-            "seats": "84",
+            "seats": "83",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -36920,7 +36973,7 @@
             "course": "PARA D097A02Z",
             "CRN": "37330",
             "desc": "CIVIL LITIG PROCED",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "06:00 PM-07:50 PM",
             "start": "01/03/2022",
@@ -36929,7 +36982,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Blanchette",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -36937,7 +36990,7 @@
             "course": "PARA D097A02Z",
             "CRN": "37330",
             "desc": "CIVIL LITIG PROCED",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -36946,7 +36999,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Blanchette",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -39895,7 +39948,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Schulte",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -41153,7 +41206,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -41170,7 +41223,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -42257,7 +42310,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Coronado",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
