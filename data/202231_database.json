@@ -4511,7 +4511,7 @@
             "units": "5.00",
             "instructor": "Golubev",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -4528,7 +4528,7 @@
             "units": "5.00",
             "instructor": "Melia",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -6843,7 +6843,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Larson",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6860,7 +6860,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Larson",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18453,7 +18453,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -18470,7 +18470,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18872,7 +18872,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lam",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19228,7 +19228,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -19245,7 +19245,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Thornton",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24799,6 +24799,25 @@
             "wait_seats": "1",
             "wait_cap": "10"
           }
+        ],
+        "31854": [
+          {
+            "course": "PSYC F010.03W",
+            "CRN": "31854",
+            "desc": "RESEARCH METHODS & DESIGNS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Gauthier",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "14": {
@@ -26145,11 +26164,11 @@
             "CRN": "30615",
             "desc": "INTRO TO SOCIOLOGY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "3305",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
@@ -26162,11 +26181,11 @@
             "CRN": "30615",
             "desc": "INTRO TO SOCIOLOGY",
             "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "3305",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
@@ -26240,11 +26259,11 @@
             "CRN": "30177",
             "desc": "STATISTICS FOR BEHAV SCIENCES",
             "status": "Open",
-            "days": "Th",
+            "days": "T",
             "time": "02:00 PM-04:15 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "3106",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
@@ -26257,11 +26276,11 @@
             "CRN": "30177",
             "desc": "STATISTICS FOR BEHAV SCIENCES",
             "status": "Open",
-            "days": "T",
+            "days": "Th",
             "time": "02:00 PM-04:15 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "3106",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
@@ -26308,6 +26327,25 @@
             "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
+          }
+        ],
+        "31855": [
+          {
+            "course": "SOC F010.03W",
+            "CRN": "31855",
+            "desc": "RESEARCH METHODS & DESIGNS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Gauthier",
+            "seats": "10",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -26419,11 +26457,11 @@
             "CRN": "30990",
             "desc": "SOCIAL PSYCHOLOGY",
             "status": "Open",
-            "days": "T",
+            "days": "Th",
             "time": "12:00 PM-01:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "3106",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lin",
@@ -26436,11 +26474,11 @@
             "CRN": "30990",
             "desc": "SOCIAL PSYCHOLOGY",
             "status": "Open",
-            "days": "Th",
+            "days": "T",
             "time": "12:00 PM-01:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "3106",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lin",
