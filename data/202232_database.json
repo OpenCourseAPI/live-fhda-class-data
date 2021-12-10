@@ -1447,7 +1447,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Schendan",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1468,7 +1468,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Peretti",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1485,7 +1485,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Peretti",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9223,7 +9223,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Martinovic",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -9240,7 +9240,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -10549,10 +10549,10 @@
             "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Alvarez",
             "seats": "25",
             "wait_seats": "7",
             "wait_cap": "7"
@@ -30474,7 +30474,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mazmanyan",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -30541,7 +30541,7 @@
             "course": "MATH D001A52Z",
             "CRN": "36831",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -30551,7 +30551,7 @@
             "units": "5.00",
             "instructor": "Rashid",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -33076,7 +33076,7 @@
             "units": "5.00",
             "instructor": "Arvizu",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ]
@@ -33651,7 +33651,7 @@
             "units": "2.50",
             "instructor": "Arvizu",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ]
@@ -41055,7 +41055,7 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Sherby",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -41101,7 +41101,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chiriaeva",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -42492,6 +42492,25 @@
             "units": "4.00",
             "instructor": "Alvarez",
             "seats": "5",
+            "wait_seats": "7",
+            "wait_cap": "7"
+          }
+        ],
+        "37832": [
+          {
+            "course": "WMST D026.61Z",
+            "CRN": "37832",
+            "desc": "LATINA LIFE AND EXPERIENCE",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Alvarez",
+            "seats": "25",
             "wait_seats": "7",
             "wait_cap": "7"
           }
