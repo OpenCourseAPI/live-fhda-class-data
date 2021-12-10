@@ -1054,7 +1054,7 @@
             "units": "4.00",
             "instructor": "Bonini",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
@@ -1071,7 +1071,7 @@
             "units": "4.00",
             "instructor": "Bonini",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
@@ -1594,7 +1594,7 @@
             "course": "ADMJ D084.01Z",
             "CRN": "37406",
             "desc": "FORENSIC SCIENCE",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "W",
             "time": "06:00 PM-07:50 PM",
             "start": "01/03/2022",
@@ -1604,14 +1604,14 @@
             "units": "4.00",
             "instructor": "Garrido",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "ADMJ D084.01Z",
             "CRN": "37406",
             "desc": "FORENSIC SCIENCE",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -1621,7 +1621,7 @@
             "units": "4.00",
             "instructor": "Garrido",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -1641,7 +1641,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Alem",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1658,7 +1658,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Alem",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3804,7 +3804,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11170,7 +11170,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -11187,7 +11187,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12100,7 +12100,7 @@
             "course": "CIS D040.03Z",
             "CRN": "34276",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TTh",
             "time": "03:30 PM-05:20 PM",
             "start": "01/03/2022",
@@ -12110,14 +12110,14 @@
             "units": "4.50",
             "instructor": "Stoykov",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "CIS D040.03Z",
             "CRN": "34276",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -12127,7 +12127,7 @@
             "units": "4.50",
             "instructor": "Stoykov",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -15664,7 +15664,7 @@
             "course": "DMT D077B66R",
             "CRN": "35601",
             "desc": "SPEC PROJ MCNC/MC CERT LEVEL 2",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "03:00 PM-05:50 PM",
             "start": "01/03/2022",
@@ -15673,7 +15673,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Appio",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22144,7 +22144,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garfinkle",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -31050,7 +31050,7 @@
             "course": "MATH D001C04Z",
             "CRN": "31102",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWThF",
             "time": "08:30 AM-09:20 AM",
             "start": "01/03/2022",
@@ -31059,7 +31059,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bourgoub",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -37297,7 +37297,7 @@
             "course": "PHIL D001.51Z",
             "CRN": "34985",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -37306,7 +37306,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Baiamonte",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -39397,7 +39397,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Bonini",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -39414,7 +39414,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Bonini",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
