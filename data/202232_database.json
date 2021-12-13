@@ -669,7 +669,7 @@
             "course": "ACCT D001C04Z",
             "CRN": "32499",
             "desc": "MANAG ACCOUNTG",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "M",
             "time": "10:30 AM-11:20 AM",
             "start": "01/03/2022",
@@ -679,14 +679,14 @@
             "units": "5.00",
             "instructor": "Hung",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "5"
+            "wait_seats": "5",
+            "wait_cap": "10"
           },
           {
             "course": "ACCT D001C04Z",
             "CRN": "32499",
             "desc": "MANAG ACCOUNTG",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -696,8 +696,8 @@
             "units": "5.00",
             "instructor": "Hung",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "5"
+            "wait_seats": "5",
+            "wait_cap": "10"
           }
         ],
         "00033": [
@@ -12386,7 +12386,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -18536,7 +18536,7 @@
             "campus": "DA",
             "units": "10.00",
             "instructor": "Carobus",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -29055,7 +29055,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Ghiasvand",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -38294,7 +38294,7 @@
             "course": "PHYS D004A12Z",
             "CRN": "01792",
             "desc": "PHYS SCIENT/ENG:MECHANCS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWThF",
             "time": "09:30 AM-10:20 AM",
             "start": "01/03/2022",
@@ -38304,14 +38304,14 @@
             "units": "6.00",
             "instructor": "Khazeni",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "PHYS D004A12Z",
             "CRN": "01792",
             "desc": "PHYS SCIENT/ENG:MECHANCS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "W",
             "time": "10:30 AM-01:20 PM",
             "start": "01/03/2022",
@@ -38321,7 +38321,7 @@
             "units": "6.00",
             "instructor": "Luna",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
