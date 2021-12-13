@@ -1200,6 +1200,25 @@
             "wait_cap": "0"
           }
         ],
+        "31861": [
+          {
+            "course": "ALCB F413Y02",
+            "CRN": "31861",
+            "desc": "RELAXATION TECHNIQUES",
+            "status": "Open",
+            "days": "W",
+            "time": "02:00 PM-03:50 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "SVR",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Mayall",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "31668": [
           {
             "course": "ALCB F413Y03",
@@ -1309,6 +1328,44 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Rock",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "31863": [
+          {
+            "course": "ALCB F413Y10",
+            "CRN": "31863",
+            "desc": "RELAXATION TECHNIQUES",
+            "status": "Open",
+            "days": "T",
+            "time": "10:00 AM-11:50 AM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "CSAHC",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Echeverria",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "31864": [
+          {
+            "course": "ALCB F413Y11",
+            "CRN": "31864",
+            "desc": "RELAXATION TECHNIQUES",
+            "status": "Open",
+            "days": "Th",
+            "time": "10:00 AM-11:50 AM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "CHHS",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Echeverria",
             "seats": "30",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -1461,7 +1518,7 @@
             "time": "01:10 PM-03:10 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "MPSC",
+            "room": "ROSENER",
             "campus": "FO",
             "units": "0.00",
             "instructor": "Fillin",
@@ -1522,6 +1579,25 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Veronneau",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "31862": [
+          {
+            "course": "ALCB F421Y08",
+            "CRN": "31862",
+            "desc": "AROUND THE WORLD IN TRAVEL STU",
+            "status": "Open",
+            "days": "M",
+            "time": "10:00 AM-11:50 AM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "SVR",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Fillin",
             "seats": "30",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -3439,7 +3515,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mathews",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3479,7 +3555,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Mathews",
-            "seats": "24",
+            "seats": "25",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -5071,7 +5147,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Edwards",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -5088,7 +5164,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Gosavi",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6955,7 +7031,7 @@
             "course": "CHEM F001A04",
             "CRN": "30114",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "02:00 PM-03:15 PM",
             "start": "01/03/2022",
@@ -6964,7 +7040,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Larson",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6972,7 +7048,7 @@
             "course": "CHEM F001A04",
             "CRN": "30114",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "10:00 AM-12:50 PM",
             "start": "01/03/2022",
@@ -6981,7 +7057,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Larson",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9457,7 +9533,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13032,7 +13108,7 @@
             "units": "5.00",
             "instructor": "Lankford",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "12",
             "wait_cap": "25"
           }
         ]
@@ -15161,7 +15237,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Svenson",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -15178,7 +15254,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Svenson",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -15351,7 +15427,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Niccoli",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -15368,7 +15444,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Niccoli",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -17961,7 +18037,7 @@
             "units": "5.00",
             "instructor": "Williams",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -18656,7 +18732,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Witschorik",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18715,7 +18791,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Anderson",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23724,7 +23800,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Low",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -23741,7 +23817,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Low",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -25198,7 +25274,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gerry",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "20",
             "wait_cap": "20"
           }
