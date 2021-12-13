@@ -812,7 +812,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Sturgess",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -3668,7 +3668,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Reynoso",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3883,7 +3883,7 @@
             "units": "6.00",
             "instructor": "Erickson",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           },
           {
@@ -3900,7 +3900,7 @@
             "units": "6.00",
             "instructor": "Erickson",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -4690,7 +4690,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Benton",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4707,7 +4707,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Benton",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4724,7 +4724,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Benton",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -6219,7 +6219,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Yang",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6236,7 +6236,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Yang",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11765,7 +11765,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Negus",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -11782,7 +11782,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Negus",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14853,6 +14853,25 @@
             "wait_seats": "19",
             "wait_cap": "20"
           }
+        ],
+        "31857": [
+          {
+            "course": "HIST F017B02W",
+            "CRN": "31857",
+            "desc": "HIST OF US 1812 TO 1914",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Ziegenhorn",
+            "seats": "40",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "17C": {
@@ -14892,6 +14911,25 @@
             "seats": "41",
             "wait_seats": "20",
             "wait_cap": "20"
+          }
+        ],
+        "31856": [
+          {
+            "course": "HIST F017C03W",
+            "CRN": "31856",
+            "desc": "HISTORY OF US FROM 1914 TO PRE",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Batham",
+            "seats": "50",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
@@ -16064,7 +16102,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Yasutake",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -16081,7 +16119,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Yasutake",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16102,7 +16140,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Yasutake",
-            "seats": "11",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -16119,7 +16157,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Yasutake",
-            "seats": "11",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16131,7 +16169,7 @@
             "course": "JAPN F014A1QZ",
             "CRN": "30634",
             "desc": "ADVANCED CONVERSATION I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "11:30 AM-12:20 PM",
             "start": "01/03/2022",
@@ -16140,7 +16178,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Yasutake",
-            "seats": "0",
+            "seats": "2",
             "wait_seats": "9",
             "wait_cap": "10"
           },
@@ -16148,7 +16186,7 @@
             "course": "JAPN F014A1QZ",
             "CRN": "30634",
             "desc": "ADVANCED CONVERSATION I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -16157,7 +16195,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Yasutake",
-            "seats": "0",
+            "seats": "2",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -16169,7 +16207,7 @@
             "course": "JAPN F014B1QZ",
             "CRN": "30635",
             "desc": "ADVANCED CONVERSATION II",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "11:30 AM-12:20 PM",
             "start": "01/03/2022",
@@ -16178,7 +16216,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Yasutake",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -16186,7 +16224,7 @@
             "course": "JAPN F014B1QZ",
             "CRN": "30635",
             "desc": "ADVANCED CONVERSATION II",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -16195,7 +16233,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Yasutake",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23551,42 +23589,6 @@
         ]
       },
       "2B": {
-        "30132": [
-          {
-            "course": "PHYS F002B01",
-            "CRN": "30132",
-            "desc": "GENERAL PHYSICS",
-            "status": "Waitlist",
-            "days": "TTh",
-            "time": "05:00 PM-06:50 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "4601",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Fors",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "5"
-          },
-          {
-            "course": "PHYS F002B01",
-            "CRN": "30132",
-            "desc": "GENERAL PHYSICS",
-            "status": "Waitlist",
-            "days": "T",
-            "time": "07:30 PM-10:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "4718",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Fors",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "5"
-          }
-        ],
         "30194": [
           {
             "course": "PHYS F002B02",
@@ -23601,7 +23603,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Low",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -23618,7 +23620,43 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Low",
-            "seats": "10",
+            "seats": "11",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
+        ],
+        "31858": [
+          {
+            "course": "PHYS F002B03",
+            "CRN": "31858",
+            "desc": "GENERAL PHYSICS",
+            "status": "Open",
+            "days": "MW",
+            "time": "10:00 AM-11:50 AM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "4602",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Low",
+            "seats": "27",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "PHYS F002B03",
+            "CRN": "31858",
+            "desc": "GENERAL PHYSICS",
+            "status": "Open",
+            "days": "M",
+            "time": "08:00 PM-10:50 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "4716",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Low",
+            "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -24071,7 +24109,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Marasco",
-            "seats": "28",
+            "seats": "29",
             "wait_seats": "5",
             "wait_cap": "5"
           }
