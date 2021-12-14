@@ -273,7 +273,7 @@
             "course": "ACTG F001C02W",
             "CRN": "30033",
             "desc": "MANAGERIAL ACCOUNTING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -282,8 +282,8 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Drake",
-            "seats": "1",
-            "wait_seats": "14",
+            "seats": "0",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ],
@@ -5480,7 +5480,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang-Nava",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6156,7 +6156,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7038,11 +7038,11 @@
             "CRN": "30658",
             "desc": "GENERAL CHEMISTRY",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "09:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "4814",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Daley",
@@ -7055,11 +7055,11 @@
             "CRN": "30658",
             "desc": "GENERAL CHEMISTRY",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "09:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4814",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Daley",
@@ -7117,7 +7117,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Rezaei",
+            "instructor": "Salari",
             "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -7170,7 +7170,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Rezaei",
+            "instructor": "Salari",
             "seats": "18",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -7391,11 +7391,11 @@
             "CRN": "30125",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "02:00 PM-04:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "4812",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
@@ -7408,11 +7408,11 @@
             "CRN": "30125",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Open",
-            "days": "W",
-            "time": "02:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4812",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
@@ -7457,42 +7457,6 @@
             "wait_cap": "10"
           }
         ],
-        "30193": [
-          {
-            "course": "CHEM F025.04",
-            "CRN": "30193",
-            "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Open",
-            "days": "TTh",
-            "time": "10:00 AM-11:50 AM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "4501",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Stepp",
-            "seats": "28",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "CHEM F025.04",
-            "CRN": "30193",
-            "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Open",
-            "days": "Th",
-            "time": "02:00 PM-04:50 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "4812",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Stepp",
-            "seats": "28",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "30511": [
           {
             "course": "CHEM F025.05",
@@ -7525,42 +7489,6 @@
             "units": "5.00",
             "instructor": "Liu",
             "seats": "16",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "30979": [
-          {
-            "course": "CHEM F025.06",
-            "CRN": "30979",
-            "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Open",
-            "days": "TTh",
-            "time": "05:30 PM-07:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "4502",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Liu",
-            "seats": "29",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "CHEM F025.06",
-            "CRN": "30979",
-            "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Open",
-            "days": "Th",
-            "time": "07:30 PM-10:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "4812",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Liu",
-            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9089,7 +9017,7 @@
             "units": "5.00",
             "instructor": "Kellner",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -11895,7 +11823,7 @@
             "units": "5.00",
             "instructor": "Mcdonald",
             "seats": "0",
-            "wait_seats": "25",
+            "wait_seats": "24",
             "wait_cap": "25"
           }
         ],
