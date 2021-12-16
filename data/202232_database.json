@@ -124,7 +124,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Breen",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -141,7 +141,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Breen",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -328,7 +328,7 @@
             "units": "5.00",
             "instructor": "Claire",
             "seats": "1",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           },
           {
@@ -345,7 +345,7 @@
             "units": "5.00",
             "instructor": "Claire",
             "seats": "1",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -426,7 +426,7 @@
             "course": "ACCT D001B05Z",
             "CRN": "37755",
             "desc": "FINAN ACCOUNTG II",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -435,7 +435,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -443,7 +443,7 @@
             "course": "ACCT D001B05Z",
             "CRN": "37755",
             "desc": "FINAN ACCOUNTG II",
-            "status": "Full",
+            "status": "Open",
             "days": "MTh",
             "time": "02:00 PM-03:30 PM",
             "start": "01/03/2022",
@@ -452,7 +452,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -775,7 +775,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hammond",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4052,7 +4052,7 @@
             "course": "ASTR D015L30Z",
             "CRN": "32656",
             "desc": "ASTRONOMY LAB",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "02:30 PM-03:20 PM",
             "start": "01/03/2022",
@@ -4062,14 +4062,14 @@
             "units": "1.00",
             "instructor": "Cichanski",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           },
           {
             "course": "ASTR D015L30Z",
             "CRN": "32656",
             "desc": "ASTRONOMY LAB",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -4079,7 +4079,7 @@
             "units": "1.00",
             "instructor": "Cichanski",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -6904,7 +6904,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lilly",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8917,7 +8917,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Martinovic",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -8934,7 +8934,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lane",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -16392,7 +16392,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Maniaci",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -20570,7 +20570,7 @@
             "units": "5.00",
             "instructor": "Sandel",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           },
           {
@@ -20587,7 +20587,7 @@
             "units": "5.00",
             "instructor": "Sandel",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -23432,7 +23432,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hafid",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -23449,7 +23449,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hafid",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -30513,11 +30513,11 @@
             "CRN": "36838",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "12:30 PM-01:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "G7",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
@@ -30530,11 +30530,11 @@
             "CRN": "36838",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "G7",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
@@ -30659,25 +30659,6 @@
         ]
       },
       "1D": {
-        "33134": [
-          {
-            "course": "MATH D001D03",
-            "CRN": "33134",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "MTWThF",
-            "time": "09:30 AM-10:20 AM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "G5",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Mailhot",
-            "seats": "32",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "37494": [
           {
             "course": "MATH D001D04Z",
@@ -31062,42 +31043,6 @@
             "wait_cap": "6"
           }
         ],
-        "32928": [
-          {
-            "course": "MATH D010.10Y",
-            "CRN": "32928",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-11:20 AM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "E31",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Nguyen",
-            "seats": "27",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
-          {
-            "course": "MATH D010.10Y",
-            "CRN": "32928",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Nguyen",
-            "seats": "27",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "35747": [
           {
             "course": "MATH D010.15Z",
@@ -31142,23 +31087,6 @@
             "CRN": "01251",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-01:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "E31",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Nguyen",
-            "seats": "37",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
-          {
-            "course": "MATH D010.21Y",
-            "CRN": "01251",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -31167,26 +31095,24 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "6",
             "wait_cap": "6"
-          }
-        ],
-        "30453": [
+          },
           {
-            "course": "MATH D010.24",
-            "CRN": "30453",
+            "course": "MATH D010.21Y",
+            "CRN": "01251",
             "desc": "INTRODUCTORY STATISTICS",
             "status": "Open",
-            "days": "MW",
-            "time": "01:30 PM-03:45 PM",
+            "days": "MTWTh",
+            "time": "12:30 PM-01:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "S16",
+            "room": "E31",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
-            "seats": "31",
+            "instructor": "Nguyen",
+            "seats": "36",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31225,25 +31151,6 @@
             "units": "5.00",
             "instructor": "Mesh",
             "seats": "8",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "36405": [
-          {
-            "course": "MATH D010.31Z",
-            "CRN": "36405",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
-            "days": "MW",
-            "time": "04:00 PM-06:15 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sales",
-            "seats": "30",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31954,7 +31861,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tsuji",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -32066,7 +31973,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gutierrez",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
