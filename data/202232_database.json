@@ -714,7 +714,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Breen",
-            "seats": "27",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -731,7 +731,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Breen",
-            "seats": "27",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -741,7 +741,7 @@
             "course": "ACCT D001C61Z",
             "CRN": "37145",
             "desc": "MANAG ACCOUNTG",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -751,7 +751,7 @@
             "units": "5.00",
             "instructor": "Osborne",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -3892,7 +3892,7 @@
             "course": "ASAM D040.65Z",
             "CRN": "36806",
             "desc": "HIST OF ART: ARTS OF ASIA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -3901,7 +3901,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4569,27 +4569,6 @@
           }
         ]
       },
-      "63": {
-        "36881": [
-          {
-            "course": "AUTO D063.61",
-            "CRN": "36881",
-            "desc": "AUTO TRANSMISS/TRANSAXLS",
-            "status": "Open",
-            "days": "MW",
-            "time": "06:00 PM-10:15 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "E12B",
-            "campus": "DA",
-            "units": "9.00",
-            "instructor": "Maynard",
-            "seats": "23",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
       "64": {
         "37436": [
           {
@@ -4606,27 +4585,6 @@
             "units": "9.00",
             "instructor": "Capitolo",
             "seats": "14",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "67A": {
-        "37434": [
-          {
-            "course": "AUTO D067A95",
-            "CRN": "37434",
-            "desc": "HYBRID ELECTRIC VEHICLES",
-            "status": "Open",
-            "days": "TTh",
-            "time": "06:00 PM-10:15 PM",
-            "start": "01/03/2022",
-            "end": "02/13/2022",
-            "room": "E12D",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Bo",
-            "seats": "20",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -5290,27 +5248,6 @@
           }
         ]
       },
-      "363": {
-        "36882": [
-          {
-            "course": "AUTO D363.61",
-            "CRN": "36882",
-            "desc": "AUTO TRANSMISS/TRANSAXLS",
-            "status": "Open",
-            "days": "MW",
-            "time": "06:00 PM-10:15 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "E12B",
-            "campus": "DA",
-            "units": "0.00",
-            "instructor": "Maynard",
-            "seats": "2",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
       "364": {
         "37438": [
           {
@@ -5327,27 +5264,6 @@
             "units": "0.00",
             "instructor": "Capitolo",
             "seats": "3",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "367A": {
-        "37796": [
-          {
-            "course": "AUTO D367A95",
-            "CRN": "37796",
-            "desc": "HYBRID ELECTRIC VEHICLES",
-            "status": "Open",
-            "days": "TTh",
-            "time": "06:00 PM-10:15 PM",
-            "start": "01/03/2022",
-            "end": "02/13/2022",
-            "room": "E12D",
-            "campus": "DA",
-            "units": "0.00",
-            "instructor": "Bo",
-            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -6946,11 +6862,11 @@
             "CRN": "00265",
             "desc": "INTRO TO BUSINESS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "11:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "ADM102",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fritz",
@@ -6963,11 +6879,11 @@
             "CRN": "00265",
             "desc": "INTRO TO BUSINESS",
             "status": "Open",
-            "days": "TTh",
-            "time": "11:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ADM102",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fritz",
@@ -7018,8 +6934,8 @@
             "CRN": "00270",
             "desc": "INTRO TO BUSINESS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "12:00 PM-01:15 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -7035,8 +6951,8 @@
             "CRN": "00270",
             "desc": "INTRO TO BUSINESS",
             "status": "Full",
-            "days": "TTh",
-            "time": "12:00 PM-01:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -7141,25 +7057,6 @@
             "wait_cap": "0"
           }
         ],
-        "00267": [
-          {
-            "course": "BUS D010.67Z",
-            "CRN": "00267",
-            "desc": "INTRO TO BUSINESS",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Lilly",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "37517": [
           {
             "course": "BUS D010.68Z",
@@ -7193,45 +7090,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Niedermier",
-            "seats": "21",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
-        "33172": [
-          {
-            "course": "BUS D010.70Z",
-            "CRN": "33172",
-            "desc": "INTRO TO BUSINESS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Hernandez",
-            "seats": "41",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "37469": [
-          {
-            "course": "BUS D010.71Z",
-            "CRN": "37469",
-            "desc": "INTRO TO BUSINESS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Shan",
-            "seats": "42",
+            "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7239,6 +7098,23 @@
       },
       "18": {
         "37604": [
+          {
+            "course": "BUS D018.01Y",
+            "CRN": "37604",
+            "desc": "BUSINESS LAW I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Lilly",
+            "seats": "28",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
           {
             "course": "BUS D018.01Y",
             "CRN": "37604",
@@ -7253,59 +7129,6 @@
             "units": "5.00",
             "instructor": "Lilly",
             "seats": "28",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "BUS D018.01Y",
-            "CRN": "37604",
-            "desc": "BUSINESS LAW I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Lilly",
-            "seats": "28",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
-        "35833": [
-          {
-            "course": "BUS D018.11Z",
-            "CRN": "35833",
-            "desc": "BUSINESS LAW I",
-            "status": "Open",
-            "days": "MW",
-            "time": "12:30 PM-01:45 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Spencer",
-            "seats": "38",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "BUS D018.11Z",
-            "CRN": "35833",
-            "desc": "BUSINESS LAW I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Spencer",
-            "seats": "38",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7325,7 +7148,7 @@
             "units": "5.00",
             "instructor": "Barbeau",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
@@ -7342,7 +7165,7 @@
             "units": "5.00",
             "instructor": "Barbeau",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -7397,7 +7220,7 @@
             "units": "5.00",
             "instructor": "Salah",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -7416,26 +7239,7 @@
             "units": "5.00",
             "instructor": "Lilly",
             "seats": "0",
-            "wait_seats": "2",
-            "wait_cap": "5"
-          }
-        ],
-        "33671": [
-          {
-            "course": "BUS D018.66Z",
-            "CRN": "33671",
-            "desc": "BUSINESS LAW I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Salah",
-            "seats": "43",
-            "wait_seats": "5",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -7588,8 +7392,8 @@
             "CRN": "37471",
             "desc": "INTERNATL BUSINESS MANAGEMENT",
             "status": "Open",
-            "days": "MW",
-            "time": "04:00 PM-05:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -7605,8 +7409,8 @@
             "CRN": "37471",
             "desc": "INTERNATL BUSINESS MANAGEMENT",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "04:00 PM-05:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -7624,8 +7428,8 @@
             "CRN": "37470",
             "desc": "INTERNATL BUSINESS MANAGEMENT",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "04:00 PM-05:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -7641,8 +7445,8 @@
             "CRN": "37470",
             "desc": "INTERNATL BUSINESS MANAGEMENT",
             "status": "Open",
-            "days": "MW",
-            "time": "04:00 PM-05:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -7771,7 +7575,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morgan",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -13862,7 +13666,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hinerman",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -13879,7 +13683,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hinerman",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -20737,7 +20541,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Waldsmith",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -20754,7 +20558,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Waldsmith",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -25924,7 +25728,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Glapion",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -25941,7 +25745,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Glapion",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -27992,7 +27796,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Owiesny",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -34674,7 +34478,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Lai",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -34691,7 +34495,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Lai",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -34708,7 +34512,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Lai",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -34820,7 +34624,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Lai",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -34837,7 +34641,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Lai",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
