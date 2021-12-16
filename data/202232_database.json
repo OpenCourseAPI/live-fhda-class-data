@@ -595,7 +595,7 @@
             "course": "ACCT D001C01Z",
             "CRN": "35073",
             "desc": "MANAG ACCOUNTG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "01:30 PM-02:20 PM",
             "start": "01/03/2022",
@@ -604,15 +604,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Botsford",
-            "seats": "0",
-            "wait_seats": "9",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "4",
+            "wait_cap": "5"
           },
           {
             "course": "ACCT D001C01Z",
             "CRN": "35073",
             "desc": "MANAG ACCOUNTG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -621,9 +621,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Botsford",
-            "seats": "0",
-            "wait_seats": "9",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "4",
+            "wait_cap": "5"
           }
         ],
         "32499": [
@@ -631,7 +631,7 @@
             "course": "ACCT D001C04Z",
             "CRN": "32499",
             "desc": "MANAG ACCOUNTG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "M",
             "time": "10:30 AM-11:20 AM",
             "start": "01/03/2022",
@@ -640,15 +640,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "10"
+            "seats": "5",
+            "wait_seats": "0",
+            "wait_cap": "5"
           },
           {
             "course": "ACCT D001C04Z",
             "CRN": "32499",
             "desc": "MANAG ACCOUNTG",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -657,9 +657,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "10"
+            "seats": "5",
+            "wait_seats": "0",
+            "wait_cap": "5"
           }
         ],
         "37145": [
@@ -667,7 +667,7 @@
             "course": "ACCT D001C61Z",
             "CRN": "37145",
             "desc": "MANAG ACCOUNTG",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -676,9 +676,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Osborne",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "seats": "5",
+            "wait_seats": "-5",
+            "wait_cap": "5"
           }
         ],
         "30511": [
@@ -686,7 +686,7 @@
             "course": "ACCT D001C63Z",
             "CRN": "30511",
             "desc": "MANAG ACCOUNTG",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -695,9 +695,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Botsford",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -754,7 +754,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kwak",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12320,7 +12320,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Slate",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15097,27 +15097,6 @@
           }
         ]
       },
-      "54": {
-        "37606": [
-          {
-            "course": "DMT D054.61",
-            "CRN": "37606",
-            "desc": "3D PRNT/ADDIT MFG:THEORY/PRAC",
-            "status": "Open",
-            "days": "MW",
-            "time": "06:00 PM-07:50 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "E35",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Dunsky",
-            "seats": "14",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
       "60A": {
         "37151": [
           {
@@ -15232,63 +15211,6 @@
           }
         ]
       },
-      "63A": {
-        "37619": [
-          {
-            "course": "DMT D063A01",
-            "CRN": "37619",
-            "desc": "SOLIDWORKS: SURFACE MODELING",
-            "status": "Open",
-            "days": "MW",
-            "time": "09:30 AM-12:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "E35",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Klingman",
-            "seats": "10",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "DMT D063A01",
-            "CRN": "37619",
-            "desc": "SOLIDWORKS: SURFACE MODELING",
-            "status": "Open",
-            "days": "MW",
-            "time": "08:30 AM-09:20 AM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "E35",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Klingman",
-            "seats": "10",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ],
-        "37794": [
-          {
-            "course": "DMT D063A63Z",
-            "CRN": "37794",
-            "desc": "SOLIDWORKS: SURFACE MODELING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Klingman",
-            "seats": "10",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
       "65B": {
         "37149": [
           {
@@ -15297,7 +15219,7 @@
             "desc": "CREO PARAMETRIC (INTRODUCTION)",
             "status": "Open",
             "days": "S",
-            "time": "08:30 AM-10:20 AM",
+            "time": "10:30 AM-04:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "E35",
@@ -15314,7 +15236,7 @@
             "desc": "CREO PARAMETRIC (INTRODUCTION)",
             "status": "Open",
             "days": "S",
-            "time": "10:30 AM-04:20 PM",
+            "time": "08:30 AM-10:20 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "E35",
@@ -22776,7 +22698,7 @@
             "course": "F/TV D001.50Z",
             "CRN": "37110",
             "desc": "INTRO TO CINEMATIC ARTS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -22785,7 +22707,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tavernetti",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -23977,7 +23899,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Jackson",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -27703,7 +27625,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Owiesny",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -30981,7 +30903,7 @@
             "course": "MATH D001C55Z",
             "CRN": "37332",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -30991,7 +30913,7 @@
             "units": "5.00",
             "instructor": "Ison",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -34926,7 +34848,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Libova",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -34943,7 +34865,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Libova",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -34964,7 +34886,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Marinas",
-            "seats": "8",
+            "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -35040,7 +34962,7 @@
             "campus": "DO",
             "units": "2.00",
             "instructor": "Libova",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -35057,7 +34979,7 @@
             "campus": "DO",
             "units": "2.00",
             "instructor": "Miller",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -35505,7 +35427,7 @@
             "campus": "DO",
             "units": "2.00",
             "instructor": "Marinas",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -35545,7 +35467,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Hrycyk",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           }

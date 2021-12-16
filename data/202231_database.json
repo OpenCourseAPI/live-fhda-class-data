@@ -4979,7 +4979,7 @@
             "course": "BIOL F040C02W",
             "CRN": "30017",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -4989,7 +4989,7 @@
             "units": "5.00",
             "instructor": "Mousavi Shafaei",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "8"
           }
         ],
@@ -9779,11 +9779,11 @@
             "CRN": "31705",
             "desc": "D A APPRENTICE CLINIC SKLLS II",
             "status": "Full",
-            "days": "S",
-            "time": "09:00 AM-12:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "5113",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Obhi",
@@ -9796,14 +9796,14 @@
             "CRN": "31705",
             "desc": "D A APPRENTICE CLINIC SKLLS II",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "S",
+            "time": "09:00 AM-12:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "5113",
             "campus": "FH",
             "units": "2.00",
-            "instructor": "Staff",
+            "instructor": "Obhi",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -9826,6 +9826,27 @@
             "units": "5.50",
             "instructor": "Yu",
             "seats": "9",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "100": {
+        "31871": [
+          {
+            "course": "D A F100.01W",
+            "CRN": "31871",
+            "desc": "LAW & ETHICS FOR DENTAL ASSIST",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/14/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Miyasaki",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -11788,7 +11809,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Negus",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -11805,7 +11826,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Negus",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13357,42 +13378,6 @@
             "seats": "21",
             "wait_seats": "0",
             "wait_cap": "0"
-          }
-        ],
-        "30479": [
-          {
-            "course": "ESLL F125.1QY",
-            "CRN": "30479",
-            "desc": "COMPOSITION & READING",
-            "status": "Waitlist",
-            "days": "Th",
-            "time": "12:00 PM-01:50 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "5610",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "McCormick",
-            "seats": "0",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          },
-          {
-            "course": "ESLL F125.1QY",
-            "CRN": "30479",
-            "desc": "COMPOSITION & READING",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "McCormick",
-            "seats": "0",
-            "wait_seats": "25",
-            "wait_cap": "25"
           }
         ]
       },
@@ -20314,7 +20299,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -20331,7 +20316,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -20348,7 +20333,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21137,7 +21122,7 @@
             "campus": "FC",
             "units": "0.00",
             "instructor": "Vozza",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -21968,7 +21953,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Ripp",
-            "seats": "17",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
