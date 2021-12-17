@@ -2234,7 +2234,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gonzalez",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7437,7 +7437,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7454,7 +7454,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8522,27 +8522,6 @@
           }
         ]
       },
-      "5": {
-        "31066": [
-          {
-            "course": "CNSL F005.01V",
-            "CRN": "31066",
-            "desc": "INTRODUCTION TO COLLEGE",
-            "status": "Open",
-            "days": "TTh",
-            "time": "10:00 AM-10:50 AM",
-            "start": "01/03/2022",
-            "end": "02/11/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Freeman",
-            "seats": "25",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ]
-      },
       "6": {
         "31721": [
           {
@@ -9514,13 +9493,13 @@
             "desc": "INTERMED CLINICAL DENTAL ASSIS",
             "status": "Open",
             "days": "F",
-            "time": "09:00 AM-10:50 AM",
+            "time": "11:00 AM-01:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "5113",
             "campus": "FH",
             "units": "3.00",
-            "instructor": "Wu",
+            "instructor": "Daniel",
             "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -9531,13 +9510,13 @@
             "desc": "INTERMED CLINICAL DENTAL ASSIS",
             "status": "Open",
             "days": "F",
-            "time": "11:00 AM-01:50 PM",
+            "time": "09:00 AM-10:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "5113",
             "campus": "FH",
             "units": "3.00",
-            "instructor": "Daniel",
+            "instructor": "Wu",
             "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -9551,11 +9530,11 @@
             "CRN": "31696",
             "desc": "DENTAL RADIOGRAPHY II",
             "status": "Open",
-            "days": "W",
-            "time": "01:00 PM-01:50 PM",
+            "days": "M",
+            "time": "02:00 PM-04:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "5113",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Yamamoto",
@@ -9568,11 +9547,11 @@
             "CRN": "31696",
             "desc": "DENTAL RADIOGRAPHY II",
             "status": "Open",
-            "days": "M",
-            "time": "02:00 PM-04:50 PM",
+            "days": "W",
+            "time": "01:00 PM-01:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "5113",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Yamamoto",
@@ -9779,11 +9758,11 @@
             "CRN": "31705",
             "desc": "D A APPRENTICE CLINIC SKLLS II",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "S",
+            "time": "09:00 AM-12:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "5113",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Obhi",
@@ -9796,11 +9775,11 @@
             "CRN": "31705",
             "desc": "D A APPRENTICE CLINIC SKLLS II",
             "status": "Full",
-            "days": "S",
-            "time": "09:00 AM-12:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "5113",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Obhi",
@@ -9812,6 +9791,23 @@
       },
       "73": {
         "31701": [
+          {
+            "course": "D A F073.01",
+            "CRN": "31701",
+            "desc": "DENTAL ASSIST SUPERVISED CLINI",
+            "status": "Open",
+            "days": "TTh",
+            "time": "08:30 AM-04:50 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "HOSP",
+            "campus": "FO",
+            "units": "5.50",
+            "instructor": "Miyasaki",
+            "seats": "9",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
           {
             "course": "D A F073.01",
             "CRN": "31701",
@@ -12310,7 +12306,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Treanor",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -12327,7 +12323,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Treanor",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13137,7 +13133,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Parikh",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -13154,7 +13150,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Parikh",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22077,7 +22073,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
