@@ -16,7 +16,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wang-Nava",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6467,7 +6467,7 @@
             "units": "4.50",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -6529,7 +6529,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ibrahim",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7763,7 +7763,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7780,7 +7780,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7799,7 +7799,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7816,7 +7816,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12251,7 +12251,7 @@
             "time": "10:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "5610",
+            "room": "5612",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chan",
@@ -15623,7 +15623,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Gandhi",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17000,7 +17000,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Cavada",
-            "seats": "9",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -17177,7 +17177,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Cavada",
-            "seats": "9",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -20697,25 +20697,6 @@
   "NCBS": {
     "1": {
       "405": {
-        "31521": [
-          {
-            "course": "NCBS F405.1MP",
-            "CRN": "31521",
-            "desc": "SUPPLEMENTAL INSTRUCTION",
-            "status": "Open",
-            "days": "TTh",
-            "time": "10:00 AM-12:15 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "Munoz",
-            "seats": "5",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "31523": [
           {
             "course": "NCBS F405.M1P",
@@ -20750,6 +20731,25 @@
             "units": "0.00",
             "instructor": "Francisco",
             "seats": "15",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "31521": [
+          {
+            "course": "NCBS F405.MPV",
+            "CRN": "31521",
+            "desc": "SUPPLEMENTAL INSTRUCTION",
+            "status": "Open",
+            "days": "TTh",
+            "time": "10:00 AM-12:15 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "Munoz",
+            "seats": "5",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -24843,7 +24843,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Villanueva",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25043,7 +25043,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "20",
             "wait_cap": "20"
           }
