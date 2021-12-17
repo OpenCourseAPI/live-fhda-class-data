@@ -88,7 +88,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -105,7 +105,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1097,7 +1097,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Bonini",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1114,7 +1114,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Bonini",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -1257,7 +1257,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rudich",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1274,7 +1274,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rudich",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7302,7 +7302,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Maleksalehi",
-            "seats": "20",
+            "seats": "21",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -7312,7 +7312,7 @@
             "course": "C D D050.50Z",
             "CRN": "30262",
             "desc": "PRNCPLS/PRACT TEACH YNG CHILDR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -7321,7 +7321,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sun",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -10146,7 +10146,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -10163,7 +10163,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -10180,7 +10180,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11335,7 +11335,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Stoykov",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14525,7 +14525,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sanchez",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -14542,7 +14542,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sanchez",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19532,7 +19532,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bonilla",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -19549,7 +19549,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bonilla",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -25065,7 +25065,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rueda",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -28714,7 +28714,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lazar",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -30798,25 +30798,6 @@
             "wait_cap": "6"
           }
         ],
-        "36866": [
-          {
-            "course": "MATH D032.26Z",
-            "CRN": "36866",
-            "desc": "PRECALCULUS II",
-            "status": "Open",
-            "days": "TTh",
-            "time": "04:00 PM-06:15 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Krestas",
-            "seats": "32",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "37510": [
           {
             "course": "MATH D032.40Z",
@@ -31097,36 +31078,17 @@
             "wait_cap": "6"
           }
         ],
-        "35014": [
-          {
-            "course": "MATH D114.10Z",
-            "CRN": "35014",
-            "desc": "MATH PREP LEVEL 3:INTERMED ALG",
-            "status": "Open",
-            "days": "TTh",
-            "time": "01:30 PM-03:45 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Krestas",
-            "seats": "25",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "37109": [
           {
             "course": "MATH D114.15Y",
             "CRN": "37109",
             "desc": "MATH PREP LEVEL 3:INTERMED ALG",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "MLC108",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shukla",
@@ -31139,11 +31101,11 @@
             "CRN": "37109",
             "desc": "MATH PREP LEVEL 3:INTERMED ALG",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "12:30 PM-01:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "MLC108",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shukla",
@@ -36640,7 +36602,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ovetz",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -36657,7 +36619,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ovetz",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "5",
             "wait_cap": "5"
           }
