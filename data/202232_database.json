@@ -16,8 +16,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "10",
-            "wait_seats": "-10",
+            "seats": "9",
+            "wait_seats": "-9",
             "wait_cap": "0"
           },
           {
@@ -33,8 +33,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "10",
-            "wait_seats": "-10",
+            "seats": "9",
+            "wait_seats": "-9",
             "wait_cap": "0"
           }
         ],
@@ -124,7 +124,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Breen",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -141,7 +141,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Breen",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2049,7 +2049,7 @@
             "course": "ARTS D001A62D",
             "CRN": "37197",
             "desc": "INTRO TO VISUAL ARTS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -2058,7 +2058,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pasturel",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -2106,7 +2106,7 @@
             "course": "ARTS D001A64Z",
             "CRN": "36383",
             "desc": "INTRO TO VISUAL ARTS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -2116,7 +2116,7 @@
             "units": "4.00",
             "instructor": "Karmi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ],
@@ -6353,7 +6353,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -6370,7 +6370,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7860,7 +7860,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Harper",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -7877,7 +7877,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Harper",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -9778,7 +9778,7 @@
             "course": "CIS D004.63Z",
             "CRN": "32935",
             "desc": "COMPUTER LITERACY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -9787,9 +9787,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "West",
-            "seats": "0",
-            "wait_seats": "2",
-            "wait_cap": "15"
+            "seats": "20",
+            "wait_seats": "-13",
+            "wait_cap": "0"
           }
         ],
         "33759": [
@@ -9806,7 +9806,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Dundurs",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -9960,9 +9960,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "1",
-            "wait_seats": "15",
-            "wait_cap": "15"
+            "seats": "11",
+            "wait_seats": "20",
+            "wait_cap": "20"
           },
           {
             "course": "CIS D022A03Z",
@@ -9977,9 +9977,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "1",
-            "wait_seats": "15",
-            "wait_cap": "15"
+            "seats": "11",
+            "wait_seats": "20",
+            "wait_cap": "20"
           },
           {
             "course": "CIS D022A03Z",
@@ -9994,9 +9994,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "1",
-            "wait_seats": "15",
-            "wait_cap": "15"
+            "seats": "11",
+            "wait_seats": "20",
+            "wait_cap": "20"
           }
         ],
         "32254": [
@@ -10040,7 +10040,7 @@
             "course": "CIS D022A07Z",
             "CRN": "32931",
             "desc": "BEG PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "T",
             "time": "01:30 PM-02:20 PM",
             "start": "01/03/2022",
@@ -10049,15 +10049,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022A07Z",
             "CRN": "32931",
             "desc": "BEG PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -10066,15 +10066,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022A07Z",
             "CRN": "32931",
             "desc": "BEG PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -10083,9 +10083,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ],
         "33762": [
@@ -10093,7 +10093,7 @@
             "course": "CIS D022A08Z",
             "CRN": "33762",
             "desc": "BEG PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "09:30 AM-11:20 AM",
             "start": "01/03/2022",
@@ -10102,15 +10102,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022A08Z",
             "CRN": "33762",
             "desc": "BEG PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -10119,9 +10119,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ],
         "32257": [
@@ -10258,7 +10258,7 @@
             "course": "CIS D022B02Z",
             "CRN": "32253",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "11:30 AM-01:20 PM",
             "start": "01/03/2022",
@@ -10267,15 +10267,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022B02Z",
             "CRN": "32253",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -10284,9 +10284,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ],
         "32930": [
@@ -10294,7 +10294,7 @@
             "course": "CIS D022B04Z",
             "CRN": "32930",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -10303,15 +10303,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "15"
+            "seats": "11",
+            "wait_seats": "-11",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022B04Z",
             "CRN": "32930",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "11:30 AM-12:20 PM",
             "start": "01/03/2022",
@@ -10320,9 +10320,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "15"
+            "seats": "11",
+            "wait_seats": "-11",
+            "wait_cap": "0"
           }
         ],
         "32265": [
@@ -10366,7 +10366,7 @@
             "course": "CIS D022B06Z",
             "CRN": "34071",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -10375,15 +10375,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022B06Z",
             "CRN": "34071",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "01:30 PM-03:20 PM",
             "start": "01/03/2022",
@@ -10392,9 +10392,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ],
         "34753": [
@@ -10455,7 +10455,7 @@
             "course": "CIS D022B62Z",
             "CRN": "32353",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -10464,9 +10464,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yeh",
-            "seats": "0",
-            "wait_seats": "11",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "1",
+            "wait_cap": "5"
           }
         ],
         "32255": [
@@ -10641,7 +10641,7 @@
             "course": "CIS D026B41Z",
             "CRN": "33575",
             "desc": "ADV C PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -10650,15 +10650,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "8",
-            "wait_cap": "15"
+            "seats": "6",
+            "wait_seats": "-7",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D026B41Z",
             "CRN": "33575",
             "desc": "ADV C PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "Th",
             "time": "06:00 PM-06:50 PM",
             "start": "01/03/2022",
@@ -10667,9 +10667,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Garbacea",
-            "seats": "0",
-            "wait_seats": "8",
-            "wait_cap": "15"
+            "seats": "6",
+            "wait_seats": "-7",
+            "wait_cap": "0"
           }
         ]
       },
@@ -10747,9 +10747,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "5",
-            "wait_seats": "15",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "20",
+            "wait_cap": "20"
           },
           {
             "course": "CIS D035A01Z",
@@ -10764,9 +10764,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "5",
-            "wait_seats": "15",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "20",
+            "wait_cap": "20"
           }
         ],
         "30996": [
@@ -11237,7 +11237,7 @@
             "course": "CIS D041B13Z",
             "CRN": "36819",
             "desc": "ADVANCED PYTHON PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "06:00 PM-07:50 PM",
             "start": "01/03/2022",
@@ -11246,15 +11246,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Larkin",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-12",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D041B13Z",
             "CRN": "36819",
             "desc": "ADVANCED PYTHON PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -11263,9 +11263,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Larkin",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-12",
+            "wait_cap": "0"
           }
         ]
       },
@@ -11284,9 +11284,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "1",
-            "wait_seats": "15",
-            "wait_cap": "15"
+            "seats": "21",
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -12516,7 +12516,7 @@
             "course": "COMM D001.13Z",
             "CRN": "35213",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -12525,7 +12525,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lee",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -12533,7 +12533,7 @@
             "course": "COMM D001.13Z",
             "CRN": "35213",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "02:30 PM-04:20 PM",
             "start": "01/03/2022",
@@ -12542,7 +12542,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lee",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -12706,7 +12706,7 @@
             "units": "5.00",
             "instructor": "Iyengar",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           },
           {
@@ -12723,7 +12723,7 @@
             "units": "5.00",
             "instructor": "Iyengar",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -15810,7 +15810,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -15827,7 +15827,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18786,7 +18786,7 @@
             "units": "5.00",
             "instructor": "Gordon",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
@@ -18803,7 +18803,7 @@
             "units": "5.00",
             "instructor": "Gordon",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -19819,7 +19819,7 @@
             "course": "EWRT D002.01D",
             "CRN": "00809",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -19828,7 +19828,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Skager",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "5"
           },
@@ -19836,7 +19836,7 @@
             "course": "EWRT D002.01D",
             "CRN": "00809",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "01:30 PM-03:20 PM",
             "start": "01/03/2022",
@@ -19845,7 +19845,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Skager",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "5"
           }
@@ -22874,7 +22874,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hickling",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -23098,7 +23098,7 @@
             "course": "HTEC D050.01Z",
             "CRN": "34356",
             "desc": "INTRO HEALTH TECHNOLOGIES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "F",
             "time": "10:30 AM-12:20 PM",
             "start": "01/03/2022",
@@ -23107,7 +23107,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Hassel",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -27720,7 +27720,7 @@
             "units": "3.00",
             "instructor": "Gordon",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -28363,7 +28363,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -28380,7 +28380,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -29286,7 +29286,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Taylor",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -29305,7 +29305,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shi",
-            "seats": "20",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31158,7 +31158,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Glasman",
-            "seats": "27",
+            "seats": "28",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -31198,7 +31198,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dunn",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -31534,7 +31534,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Glasman",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -31551,7 +31551,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Glasman",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
