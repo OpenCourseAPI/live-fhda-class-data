@@ -2095,7 +2095,7 @@
             "units": "4.00",
             "instructor": "Pasturel",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -3595,7 +3595,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Peterson",
-            "seats": "22",
+            "seats": "23",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -6389,7 +6389,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -6406,7 +6406,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8039,7 +8039,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -12639,7 +12639,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "McKnight",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -12656,7 +12656,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "McKnight",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -15897,7 +15897,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -16557,7 +16557,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Caparas",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -16574,7 +16574,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Caparas",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -20051,7 +20051,7 @@
             "units": "5.00",
             "instructor": "Skager",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
@@ -20068,7 +20068,7 @@
             "units": "5.00",
             "instructor": "Skager",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -20829,7 +20829,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Reber",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23047,7 +23047,7 @@
             "course": "HIST D017B63Z",
             "CRN": "35815",
             "desc": "HISTORY U.S. 1800-1900",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -23056,7 +23056,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nguyen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "7"
           }
@@ -26114,8 +26114,8 @@
             "units": "0.50",
             "instructor": "Donahue",
             "seats": "0",
-            "wait_seats": "8",
-            "wait_cap": "15"
+            "wait_seats": "13",
+            "wait_cap": "20"
           }
         ]
       },
@@ -27689,7 +27689,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Simons",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -28860,11 +28860,11 @@
             "CRN": "37465",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "MTTh",
-            "time": "09:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "S16",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Taylor",
@@ -28877,11 +28877,11 @@
             "CRN": "37465",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTTh",
+            "time": "09:30 AM-10:20 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "S16",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Taylor",
@@ -28904,29 +28904,12 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "21",
+            "seats": "22",
             "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
         "37466": [
-          {
-            "course": "MATH D001B05D",
-            "CRN": "37466",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "MW",
-            "time": "10:30 AM-12:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Jimenez",
-            "seats": "2",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
           {
             "course": "MATH D001B05D",
             "CRN": "37466",
@@ -28943,23 +28926,21 @@
             "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
-          }
-        ],
-        "36748": [
+          },
           {
-            "course": "MATH D001B08Z",
-            "CRN": "36748",
+            "course": "MATH D001B05D",
+            "CRN": "37466",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "MTWThF",
-            "time": "11:30 AM-12:20 PM",
+            "days": "MW",
+            "time": "10:30 AM-12:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
-            "seats": "28",
+            "instructor": "Jimenez",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -29179,8 +29160,8 @@
             "CRN": "37486",
             "desc": "CALCULUS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "08:30 AM-10:20 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -29196,8 +29177,8 @@
             "CRN": "37486",
             "desc": "CALCULUS",
             "status": "Full",
-            "days": "MTWTh",
-            "time": "08:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -29255,11 +29236,11 @@
             "CRN": "01237",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "G5",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mailhot",
@@ -29272,11 +29253,11 @@
             "CRN": "01237",
             "desc": "CALCULUS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "10:30 AM-11:20 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "G5",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mailhot",
@@ -30221,7 +30202,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guerrero",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -32406,7 +32387,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Rowe",
-            "seats": "61",
+            "seats": "62",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -34719,7 +34700,7 @@
             "course": "PHIL D004.51Z",
             "CRN": "36875",
             "desc": "CRITICAL THINKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -34728,7 +34709,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Galindo",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "15"
           }
@@ -35023,7 +35004,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Bhattacharji",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -37585,7 +37566,7 @@
             "course": "PSYC D010H02Z",
             "CRN": "30481",
             "desc": "CHLD GROWTH/DEV:MID CHLDH/ADOL",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "Th",
             "time": "06:30 PM-08:20 PM",
             "start": "01/03/2022",
@@ -37594,7 +37575,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Talamantez",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "5"
           },
@@ -37602,7 +37583,7 @@
             "course": "PSYC D010H02Z",
             "CRN": "30481",
             "desc": "CHLD GROWTH/DEV:MID CHLDH/ADOL",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -37611,7 +37592,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Talamantez",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "5"
           }
@@ -38966,7 +38947,7 @@
             "units": "5.00",
             "instructor": "Alcazar",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ]
