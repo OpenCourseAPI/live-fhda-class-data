@@ -404,7 +404,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ardizzone",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3462,7 +3462,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mathews",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4295,27 +4295,6 @@
             "seats": "8",
             "wait_seats": "12",
             "wait_cap": "12"
-          }
-        ]
-      },
-      "12": {
-        "30010": [
-          {
-            "course": "BIOL F012.01",
-            "CRN": "30010",
-            "desc": "HUMAN GENETICS",
-            "status": "Waitlist",
-            "days": "TTh",
-            "time": "02:00 PM-03:50 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "8403",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Pallesen",
-            "seats": "0",
-            "wait_seats": "15",
-            "wait_cap": "15"
           }
         ]
       },
@@ -5463,7 +5442,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang-Nava",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5949,7 +5928,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6145,7 +6124,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6162,7 +6141,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6512,11 +6491,11 @@
             "CRN": "31421",
             "desc": "FOUNDATIONS OF COMPUTER PROGRA",
             "status": "Open",
-            "days": "F",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "8401",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Reed",
@@ -6529,11 +6508,11 @@
             "CRN": "31421",
             "desc": "FOUNDATIONS OF COMPUTER PROGRA",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "F",
+            "time": "10:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "8401",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Reed",
@@ -6577,7 +6556,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6641,42 +6620,6 @@
         ]
       },
       "53B": {
-        "30992": [
-          {
-            "course": "C S F053B01Z",
-            "CRN": "30992",
-            "desc": "FIREWALLS & THREAT MANAGEMENT",
-            "status": "Waitlist",
-            "days": "M",
-            "time": "06:00 PM-09:50 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Ryan",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "C S F053B01Z",
-            "CRN": "30992",
-            "desc": "FIREWALLS & THREAT MANAGEMENT",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Ryan",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
         "30993": [
           {
             "course": "C S F053B02W",
@@ -7377,7 +7320,7 @@
             "course": "CHEM F025.02Y",
             "CRN": "30125",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "02:00 PM-04:50 PM",
             "start": "01/03/2022",
@@ -7386,7 +7329,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7394,7 +7337,7 @@
             "course": "CHEM F025.02Y",
             "CRN": "30125",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -7403,7 +7346,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9161,7 +9104,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9260,7 +9203,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11902,7 +11845,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Starer",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13845,7 +13788,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Meezan",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -17491,7 +17434,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Cavada",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -18302,7 +18245,7 @@
             "course": "MATH F010.11W",
             "CRN": "30545",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -18311,7 +18254,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Martinez",
-            "seats": "6",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18486,7 +18429,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Florero Salinas",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18565,7 +18508,7 @@
             "units": "5.00",
             "instructor": "Sukumar",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -18787,7 +18730,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Anderson",
-            "seats": "24",
+            "seats": "22",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18816,7 +18759,7 @@
             "course": "MATH F105.03W",
             "CRN": "30655",
             "desc": "INTERMEDIATE ALGEBRA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -18825,7 +18768,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lam",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18925,7 +18868,7 @@
             "units": "2.50",
             "instructor": "Sukumar",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -22233,25 +22176,6 @@
             "wait_seats": "10",
             "wait_cap": "10"
           }
-        ],
-        "31553": [
-          {
-            "course": "PHED F027.03",
-            "CRN": "31553",
-            "desc": "WALK FOR HEALTH",
-            "status": "Open",
-            "days": "TTh",
-            "time": "12:00 PM-01:15 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "TRACK",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "O'Loughlin",
-            "seats": "20",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
         ]
       },
       "27A": {
@@ -22288,25 +22212,6 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Bissell",
-            "seats": "7",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "31554": [
-          {
-            "course": "PHED F027A03",
-            "CRN": "31554",
-            "desc": "RUN FOR FITNESS",
-            "status": "Open",
-            "days": "TTh",
-            "time": "12:00 PM-01:15 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "TRACK",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "O'Loughlin",
             "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -22351,25 +22256,6 @@
             "wait_seats": "10",
             "wait_cap": "10"
           }
-        ],
-        "31555": [
-          {
-            "course": "PHED F027B03",
-            "CRN": "31555",
-            "desc": "INTERMEDIATE RUN FOR FITNESS",
-            "status": "Open",
-            "days": "TTh",
-            "time": "12:00 PM-01:15 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "TRACK",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "O'Loughlin",
-            "seats": "4",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
         ]
       },
       "27C": {
@@ -22407,25 +22293,6 @@
             "units": "1.00",
             "instructor": "Bissell",
             "seats": "4",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "31556": [
-          {
-            "course": "PHED F027C03",
-            "CRN": "31556",
-            "desc": "INTERMEDIATE WALK FOR HEALTH",
-            "status": "Open",
-            "days": "TTh",
-            "time": "12:00 PM-01:15 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "TRACK",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "O'Loughlin",
-            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22770,7 +22637,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chang",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24254,7 +24121,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ryer",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
