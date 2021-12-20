@@ -16,7 +16,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wang-Nava",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -54,7 +54,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Seyedin",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -383,7 +383,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Fakoor",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -546,7 +546,7 @@
             "units": "4.00",
             "instructor": "Gopal",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -585,7 +585,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Glass",
-            "seats": "24",
+            "seats": "25",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -606,7 +606,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Negrete",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3084,7 +3084,7 @@
             "course": "ART F019C01Y",
             "CRN": "30417",
             "desc": "OIL PAINTING II",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "F",
             "time": "10:00 AM-12:50 PM",
             "start": "01/03/2022",
@@ -3093,7 +3093,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gomes",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -3101,7 +3101,7 @@
             "course": "ART F019C01Y",
             "CRN": "30417",
             "desc": "OIL PAINTING II",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -3110,7 +3110,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gomes",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -5815,7 +5815,7 @@
             "units": "4.50",
             "instructor": "Weusijana",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -7831,7 +7831,7 @@
             "units": "4.00",
             "instructor": "Dominguez",
             "seats": "0",
-            "wait_seats": "19",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ],
@@ -10605,7 +10605,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Patyk",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11834,7 +11834,7 @@
             "course": "ENGL F001A3CZ",
             "CRN": "30250",
             "desc": "COMPOSITION & READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "M",
             "time": "01:30 PM-03:45 PM",
             "start": "01/03/2022",
@@ -11843,7 +11843,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sperry",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -11851,7 +11851,7 @@
             "course": "ENGL F001A3CZ",
             "CRN": "30250",
             "desc": "COMPOSITION & READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -11860,7 +11860,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Sperry",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -11879,7 +11879,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Goldstone",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -11896,7 +11896,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Goldstone",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -12214,7 +12214,7 @@
             "units": "5.00",
             "instructor": "Svetich",
             "seats": "0",
-            "wait_seats": "25",
+            "wait_seats": "24",
             "wait_cap": "25"
           }
         ],
@@ -12400,7 +12400,7 @@
             "units": "5.00",
             "instructor": "Herman",
             "seats": "0",
-            "wait_seats": "25",
+            "wait_seats": "24",
             "wait_cap": "25"
           }
         ],
@@ -13440,7 +13440,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Acevedo",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14296,27 +14296,6 @@
             "wait_cap": "10"
           }
         ]
-      },
-      "78": {
-        "31445": [
-          {
-            "course": "GID F078.01W",
-            "CRN": "31445",
-            "desc": "RAPID WEBSITE DEVELOPMENT",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Gossett",
-            "seats": "26",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
       }
     }
   },
@@ -14554,7 +14533,7 @@
             "units": "4.00",
             "instructor": "Batham",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ]
@@ -15054,7 +15033,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -16004,7 +15983,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "27",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16023,7 +16002,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17418,7 +17397,7 @@
             "course": "MATH F001A03V",
             "CRN": "30095",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "10:00 AM-12:15 PM",
             "start": "01/03/2022",
@@ -17427,7 +17406,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lam",
-            "seats": "30",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17484,7 +17463,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Maskalevich",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18375,7 +18354,7 @@
             "units": "5.00",
             "instructor": "Sukumar",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -18735,7 +18714,7 @@
             "units": "2.50",
             "instructor": "Sukumar",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ]
@@ -18791,45 +18770,28 @@
             "CRN": "30681",
             "desc": "HONORS INTRO TO FILM STUDIES",
             "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Tripp Caldwell",
+            "seats": "22",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "MDIA F001H1HY",
+            "CRN": "30681",
+            "desc": "HONORS INTRO TO FILM STUDIES",
+            "status": "Open",
             "days": "Th",
             "time": "02:00 PM-03:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "1501",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Tripp Caldwell",
-            "seats": "22",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "MDIA F001H1HY",
-            "CRN": "30681",
-            "desc": "HONORS INTRO TO FILM STUDIES",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Tripp Caldwell",
-            "seats": "22",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "MDIA F001H1HY",
-            "CRN": "30681",
-            "desc": "HONORS INTRO TO FILM STUDIES",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tripp Caldwell",
@@ -18895,27 +18857,6 @@
             "units": "4.00",
             "instructor": "Ward",
             "seats": "23",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "5": {
-        "31548": [
-          {
-            "course": "MDIA F005.01W",
-            "CRN": "31548",
-            "desc": "AMERICAN CINEMA",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Rufeisen",
-            "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19690,25 +19631,6 @@
   "MUS": {
     "1": {
       "1": {
-        "30104": [
-          {
-            "course": "MUS F001.01W",
-            "CRN": "30104",
-            "desc": "INTRODUCTION TO MUSIC",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Davies",
-            "seats": "31",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "30284": [
           {
             "course": "MUS F001.02W",
@@ -19723,7 +19645,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Shea",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19954,27 +19876,6 @@
             "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
-          }
-        ]
-      },
-      "10": {
-        "30103": [
-          {
-            "course": "MUS F010.01W",
-            "CRN": "30103",
-            "desc": "MUSIC FUNDAMENTALS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Sult",
-            "seats": "25",
-            "wait_seats": "10",
-            "wait_cap": "10"
           }
         ]
       },
@@ -20351,8 +20252,8 @@
             "CRN": "30696",
             "desc": "HONORS GREAT COMPOSR WSTRN CIV",
             "status": "Open",
-            "days": "MW",
-            "time": "12:00 PM-01:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -20368,8 +20269,8 @@
             "CRN": "30696",
             "desc": "HONORS GREAT COMPOSR WSTRN CIV",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "12:00 PM-01:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -20886,7 +20787,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Goldstone",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -20896,7 +20797,7 @@
             "course": "NCEN F401A3CV",
             "CRN": "30828",
             "desc": "BRIDGE TO TRANSFER ENGLISH",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "01:30 PM-03:20 PM",
             "start": "01/03/2022",
@@ -20905,7 +20806,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Sperry",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -21891,7 +21792,7 @@
             "course": "PHED F024.01",
             "CRN": "31567",
             "desc": "INTRODUCTION TO GOLF",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "S",
             "time": "09:00 AM-11:50 AM",
             "start": "01/03/2022",
@@ -21900,7 +21801,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Durbin",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22546,7 +22447,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tapia",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -22836,7 +22737,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Herman",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -22853,7 +22754,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Herman",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24194,7 +24095,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Clark",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -24529,7 +24430,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Paulos",
-            "seats": "39",
+            "seats": "40",
             "wait_seats": "20",
             "wait_cap": "20"
           }
