@@ -4203,7 +4203,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hawkins",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "12",
             "wait_cap": "12"
           },
@@ -4220,43 +4220,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hawkins",
-            "seats": "21",
-            "wait_seats": "12",
-            "wait_cap": "12"
-          }
-        ],
-        "30243": [
-          {
-            "course": "BIOL F010.04",
-            "CRN": "30243",
-            "desc": "GEN BIOL-BASIC PRINCPLES",
-            "status": "Waitlist",
-            "days": "Th",
-            "time": "09:00 AM-11:50 AM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "8709",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Hawkins",
-            "seats": "0",
-            "wait_seats": "12",
-            "wait_cap": "12"
-          },
-          {
-            "course": "BIOL F010.04",
-            "CRN": "30243",
-            "desc": "GEN BIOL-BASIC PRINCPLES",
-            "status": "Waitlist",
-            "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "8402",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Hawkins",
-            "seats": "0",
+            "seats": "20",
             "wait_seats": "12",
             "wait_cap": "12"
           }
@@ -6619,27 +6583,6 @@
           }
         ]
       },
-      "53B": {
-        "30993": [
-          {
-            "course": "C S F053B02W",
-            "CRN": "30993",
-            "desc": "FIREWALLS & THREAT MANAGEMENT",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Ryan",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
       "55A": {
         "30665": [
           {
@@ -8564,11 +8507,11 @@
             "CRN": "30203",
             "desc": "PUBLIC SPEAKING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "08:00 AM-09:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "1401",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
@@ -8581,11 +8524,11 @@
             "CRN": "30203",
             "desc": "PUBLIC SPEAKING",
             "status": "Open",
-            "days": "TTh",
-            "time": "08:00 AM-09:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "1401",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
@@ -8600,8 +8543,8 @@
             "CRN": "30676",
             "desc": "PUBLIC SPEAKING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8617,8 +8560,8 @@
             "CRN": "30676",
             "desc": "PUBLIC SPEAKING",
             "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8663,25 +8606,6 @@
             "instructor": "Pogosian",
             "seats": "0",
             "wait_seats": "0",
-            "wait_cap": "10"
-          }
-        ],
-        "30343": [
-          {
-            "course": "COMM F001A05V",
-            "CRN": "30343",
-            "desc": "PUBLIC SPEAKING",
-            "status": "Open",
-            "days": "MW",
-            "time": "01:30 PM-03:45 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Meneses",
-            "seats": "24",
-            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -8809,8 +8733,8 @@
             "CRN": "30049",
             "desc": "INTERPERSONAL COMMUNICATION",
             "status": "Open",
-            "days": "T",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8826,8 +8750,8 @@
             "CRN": "30049",
             "desc": "INTERPERSONAL COMMUNICATION",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8845,8 +8769,8 @@
             "CRN": "30399",
             "desc": "INTERPERSONAL COMMUNICATION",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "04:00 PM-06:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8862,8 +8786,8 @@
             "CRN": "30399",
             "desc": "INTERPERSONAL COMMUNICATION",
             "status": "Open",
-            "days": "Th",
-            "time": "04:00 PM-06:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -12798,7 +12722,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Menendez",
-            "seats": "25",
+            "seats": "26",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14726,7 +14650,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ziegenhorn",
-            "seats": "34",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -14766,7 +14690,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Batham",
-            "seats": "49",
+            "seats": "48",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -15020,7 +14944,7 @@
             "course": "HORT F054C01",
             "CRN": "31414",
             "desc": "LANDSCAPE CONSTR:IRRIGATION PR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "09:00 AM-11:15 AM",
             "start": "01/03/2022",
@@ -15029,7 +14953,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Svenson",
-            "seats": "22",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -15037,7 +14961,7 @@
             "course": "HORT F054C01",
             "CRN": "31414",
             "desc": "LANDSCAPE CONSTR:IRRIGATION PR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "11:30 AM-12:45 PM",
             "start": "01/03/2022",
@@ -15046,7 +14970,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Svenson",
-            "seats": "22",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -16415,7 +16339,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Voyce",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
