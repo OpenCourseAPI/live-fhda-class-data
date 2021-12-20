@@ -2863,7 +2863,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gomes",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -5366,7 +5366,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wong",
-            "seats": "43",
+            "seats": "42",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7263,7 +7263,7 @@
             "course": "CHEM F025.02Y",
             "CRN": "30125",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "02:00 PM-04:50 PM",
             "start": "01/03/2022",
@@ -7272,7 +7272,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7280,7 +7280,7 @@
             "course": "CHEM F025.02Y",
             "CRN": "30125",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -7289,7 +7289,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7309,7 +7309,7 @@
             "units": "5.00",
             "instructor": "Stepp",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -7326,7 +7326,7 @@
             "units": "5.00",
             "instructor": "Stepp",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -8543,8 +8543,8 @@
             "CRN": "30676",
             "desc": "PUBLIC SPEAKING",
             "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8560,8 +8560,8 @@
             "CRN": "30676",
             "desc": "PUBLIC SPEAKING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8579,8 +8579,8 @@
             "CRN": "30183",
             "desc": "PUBLIC SPEAKING",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "10:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8596,8 +8596,8 @@
             "CRN": "30183",
             "desc": "PUBLIC SPEAKING",
             "status": "Full",
-            "days": "TTh",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8733,8 +8733,8 @@
             "CRN": "30049",
             "desc": "INTERPERSONAL COMMUNICATION",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8750,42 +8750,6 @@
             "CRN": "30049",
             "desc": "INTERPERSONAL COMMUNICATION",
             "status": "Open",
-            "days": "T",
-            "time": "10:00 AM-11:50 AM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Meneses",
-            "seats": "1",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "30399": [
-          {
-            "course": "COMM F002.02Z",
-            "CRN": "30399",
-            "desc": "INTERPERSONAL COMMUNICATION",
-            "status": "Open",
-            "days": "Th",
-            "time": "04:00 PM-06:50 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Meneses",
-            "seats": "22",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "COMM F002.02Z",
-            "CRN": "30399",
-            "desc": "INTERPERSONAL COMMUNICATION",
-            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -8794,7 +8758,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "22",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8923,8 +8887,8 @@
             "CRN": "31163",
             "desc": "GROUP DISCUSSION",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -8940,8 +8904,8 @@
             "CRN": "31163",
             "desc": "GROUP DISCUSSION",
             "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -9109,27 +9073,6 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
-          }
-        ]
-      },
-      "55": {
-        "30101": [
-          {
-            "course": "COMM F055.01W",
-            "CRN": "30101",
-            "desc": "CAREER & LDRSHP COMM IN GLOB",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Ni",
-            "seats": "18",
-            "wait_seats": "15",
-            "wait_cap": "15"
           }
         ]
       }
@@ -10599,7 +10542,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Whitson",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -14394,7 +14337,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Aguilar",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -14415,7 +14358,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Wittner",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -18216,7 +18159,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -22561,7 +22504,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chang",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "20",
             "wait_cap": "20"
           }
