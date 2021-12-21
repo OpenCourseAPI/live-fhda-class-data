@@ -1427,26 +1427,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Fillin",
-            "seats": "23",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "31681": [
-          {
-            "course": "ALCB F421Y05",
-            "CRN": "31681",
-            "desc": "AROUND THE WORLD IN TRAVEL STU",
-            "status": "Open",
-            "days": "M",
-            "time": "10:00 AM-12:10 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "SDHP",
-            "campus": "FO",
-            "units": "0.00",
-            "instructor": "Veronneau",
-            "seats": "30",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2006,6 +1987,25 @@
             "wait_seats": "19",
             "wait_cap": "20"
           }
+        ],
+        "31895": [
+          {
+            "course": "ANTH F001.07W",
+            "CRN": "31895",
+            "desc": "INTRO TO PHYSICAL ANTHRO",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/17/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Connell",
+            "seats": "50",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          }
         ]
       },
       "1L": {
@@ -2204,7 +2204,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jenkins",
-            "seats": "1",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7202,7 +7202,7 @@
             "units": "5.00",
             "instructor": "Cormia",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -7219,7 +7219,7 @@
             "units": "5.00",
             "instructor": "Cormia",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -11246,8 +11246,8 @@
             "CRN": "30037",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "M",
-            "time": "01:30 PM-03:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -11263,8 +11263,8 @@
             "CRN": "30037",
             "desc": "COMPOSITION & READING",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "01:30 PM-03:45 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -11434,8 +11434,8 @@
             "CRN": "30625",
             "desc": "COMPOSITION & READING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "12:00 PM-01:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -11451,8 +11451,8 @@
             "CRN": "30625",
             "desc": "COMPOSITION & READING",
             "status": "Open",
-            "days": "W",
-            "time": "12:00 PM-01:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -11929,25 +11929,6 @@
             "wait_cap": "25"
           }
         ],
-        "30841": [
-          {
-            "course": "ENGL F001B19W",
-            "CRN": "30841",
-            "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Chan",
-            "seats": "0",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          }
-        ],
         "30491": [
           {
             "course": "ENGL F001B1DZ",
@@ -12064,6 +12045,23 @@
             "CRN": "30255",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
             "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Reilly",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ENGL F001B4DZ",
+            "CRN": "30255",
+            "desc": "COMP/CRIT READ/THINK LITERATUR",
+            "status": "Full",
             "days": "F",
             "time": "02:50 PM-03:40 PM",
             "start": "01/03/2022",
@@ -12086,23 +12084,6 @@
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ESPREP",
-            "campus": "FO",
-            "units": "5.00",
-            "instructor": "Reilly",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "ENGL F001B4DZ",
-            "CRN": "30255",
-            "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
             "campus": "FO",
             "units": "5.00",
             "instructor": "Reilly",
@@ -14169,7 +14150,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ziegenhorn",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15144,7 +15125,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wortz",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -16721,7 +16702,7 @@
             "campus": "FH",
             "units": "0.50",
             "instructor": "Cavada",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -16847,7 +16828,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18173,6 +18154,23 @@
             "CRN": "30681",
             "desc": "HONORS INTRO TO FILM STUDIES",
             "status": "Open",
+            "days": "Th",
+            "time": "02:00 PM-03:50 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "1501",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Tripp Caldwell",
+            "seats": "22",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "MDIA F001H1HY",
+            "CRN": "30681",
+            "desc": "HONORS INTRO TO FILM STUDIES",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -18190,11 +18188,11 @@
             "CRN": "30681",
             "desc": "HONORS INTRO TO FILM STUDIES",
             "status": "Open",
-            "days": "Th",
-            "time": "02:00 PM-03:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "1501",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tripp Caldwell",
@@ -18269,18 +18267,18 @@
             "course": "MDIA F002C02W",
             "CRN": "31894",
             "desc": "CURRENT TRENDS FILM/TV/INTERNE",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "02/14/2022",
             "end": "03/25/2022",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "4.00",
-            "instructor": "Staff",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "instructor": "Ward",
+            "seats": "30",
+            "wait_seats": "15",
+            "wait_cap": "15"
           }
         ]
       },
@@ -18380,6 +18378,23 @@
             "CRN": "31559",
             "desc": "INTRO TO POPULAR CULTURE",
             "status": "Open",
+            "days": "MW",
+            "time": "10:00 AM-11:50 AM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Thornton",
+            "seats": "4",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "MDIA F011.03Z",
+            "CRN": "31559",
+            "desc": "INTRO TO POPULAR CULTURE",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -18388,6 +18403,23 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
+            "seats": "4",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "MDIA F011.03Z",
+            "CRN": "31559",
+            "desc": "INTRO TO POPULAR CULTURE",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Thornton",
             "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -18418,6 +18450,23 @@
             "CRN": "31550",
             "desc": "HONORS INTRO TO POPULAR CULTUR",
             "status": "Open",
+            "days": "MW",
+            "time": "10:00 AM-11:50 AM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Thornton",
+            "seats": "11",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "MDIA F011H3HZ",
+            "CRN": "31550",
+            "desc": "HONORS INTRO TO POPULAR CULTUR",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -18426,6 +18475,23 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
+            "seats": "11",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "MDIA F011H3HZ",
+            "CRN": "31550",
+            "desc": "HONORS INTRO TO POPULAR CULTUR",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Thornton",
             "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -18767,7 +18833,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -23475,7 +23541,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "20",
             "wait_cap": "20"
           }
