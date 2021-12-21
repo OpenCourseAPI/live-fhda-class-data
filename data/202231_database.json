@@ -2181,7 +2181,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2460,7 +2460,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Cortez",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -5679,7 +5679,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Weusijana",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5698,7 +5698,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Krishnamurthy",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8428,7 +8428,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
-            "instructor": "Mohammadi",
+            "instructor": "Meneses",
             "seats": "0",
             "wait_seats": "9",
             "wait_cap": "10"
@@ -10411,7 +10411,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Patyk",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -12057,7 +12057,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "La Piana",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -14304,25 +14304,6 @@
             "wait_seats": "20",
             "wait_cap": "20"
           }
-        ],
-        "31857": [
-          {
-            "course": "HIST F017B02W",
-            "CRN": "31857",
-            "desc": "HIST OF US 1812 TO 1914",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Ziegenhorn",
-            "seats": "35",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
         ]
       },
       "17C": {
@@ -14343,25 +14324,6 @@
             "seats": "39",
             "wait_seats": "20",
             "wait_cap": "20"
-          }
-        ],
-        "31856": [
-          {
-            "course": "HIST F017C03W",
-            "CRN": "31856",
-            "desc": "HISTORY OF US FROM 1914 TO PRE",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Batham",
-            "seats": "46",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ]
       }
@@ -14746,25 +14708,6 @@
             "wait_seats": "20",
             "wait_cap": "20"
           }
-        ],
-        "31486": [
-          {
-            "course": "HUMN F001.03",
-            "CRN": "31486",
-            "desc": "THE ANCIENT WORLD",
-            "status": "Open",
-            "days": "TTh",
-            "time": "10:00 AM-11:50 AM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "3204",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Rawal",
-            "seats": "46",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
         ]
       },
       "3": {
@@ -14905,27 +14848,6 @@
             "units": "4.00",
             "instructor": "Latteri",
             "seats": "15",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
-        ]
-      },
-      "6": {
-        "30789": [
-          {
-            "course": "HUMN F006.01W",
-            "CRN": "30789",
-            "desc": "FROM MODERN TO CONTEMPORARY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Cammin",
-            "seats": "37",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -17373,25 +17295,6 @@
             "wait_cap": "10"
           }
         ],
-        "30238": [
-          {
-            "course": "MATH F001D02V",
-            "CRN": "30238",
-            "desc": "CALCULUS",
-            "status": "Waitlist",
-            "days": "MW",
-            "time": "01:30 PM-03:45 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Park Lee",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "31520": [
           {
             "course": "MATH F001D03V",
@@ -18422,6 +18325,23 @@
             "CRN": "30681",
             "desc": "HONORS INTRO TO FILM STUDIES",
             "status": "Open",
+            "days": "Th",
+            "time": "02:00 PM-03:50 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "1501",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Tripp Caldwell",
+            "seats": "22",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "MDIA F001H1HY",
+            "CRN": "30681",
+            "desc": "HONORS INTRO TO FILM STUDIES",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -18439,11 +18359,11 @@
             "CRN": "30681",
             "desc": "HONORS INTRO TO FILM STUDIES",
             "status": "Open",
-            "days": "Th",
-            "time": "02:00 PM-03:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "1501",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tripp Caldwell",
@@ -18678,6 +18598,25 @@
             "units": "4.00",
             "instructor": "Thornton",
             "seats": "23",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ],
+        "31892": [
+          {
+            "course": "MDIA F012.02W",
+            "CRN": "31892",
+            "desc": "POPULAR CULTURE & US HISTORY",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "02/14/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Thornton",
+            "seats": "40",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23863,7 +23802,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gauthier",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -24539,7 +24478,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Campbell",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "10",
             "wait_cap": "10"
           }
