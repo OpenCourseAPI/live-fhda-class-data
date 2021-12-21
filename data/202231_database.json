@@ -530,7 +530,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Negrete",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5113,7 +5113,7 @@
             "campus": "FO",
             "units": "5.00",
             "instructor": "Bui",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5805,7 +5805,7 @@
             "course": "C S F003A02W",
             "CRN": "30323",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -5814,7 +5814,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -14512,7 +14512,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Rawal",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -15107,6 +15107,25 @@
             "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
+          }
+        ],
+        "31897": [
+          {
+            "course": "JAPN F001.40W",
+            "CRN": "31897",
+            "desc": "ELEMENTARY JAPANESE I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/17/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Yasutake",
+            "seats": "35",
+            "wait_seats": "25",
+            "wait_cap": "25"
           }
         ]
       },
@@ -19906,27 +19925,6 @@
           }
         ]
       },
-      "405": {
-        "31597": [
-          {
-            "course": "NCEL F405.01",
-            "CRN": "31597",
-            "desc": "INTRO TO COMP/INTRNET LANG ESL",
-            "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-11:50 AM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "8401",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "Vozza",
-            "seats": "30",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          }
-        ]
-      },
       "411": {
         "31598": [
           {
@@ -19983,27 +19981,6 @@
             "units": "0.00",
             "instructor": "Mason",
             "seats": "10",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          }
-        ]
-      },
-      "425": {
-        "30576": [
-          {
-            "course": "NCEL F425.01",
-            "CRN": "30576",
-            "desc": "DEVELOP LISTENING/SPEAK SKILLS",
-            "status": "Open",
-            "days": "MWTh",
-            "time": "12:30 PM-03:45 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "5614",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "Jardali",
-            "seats": "27",
             "wait_seats": "25",
             "wait_cap": "25"
           }
