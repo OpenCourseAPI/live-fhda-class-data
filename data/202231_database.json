@@ -121,7 +121,7 @@
             "course": "ACTG F001B01W",
             "CRN": "30032",
             "desc": "FINANCIAL ACCOUNTING II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -130,7 +130,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Drake",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -998,7 +998,7 @@
             "room": "ASL",
             "campus": "FO",
             "units": "0.00",
-            "instructor": "Rock",
+            "instructor": "Peterson",
             "seats": "30",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -1330,6 +1330,23 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Rock",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ALCB F414Y06",
+            "CRN": "31688",
+            "desc": "STRESS MANAGEMENT",
+            "status": "Open",
+            "days": "W",
+            "time": "02:30 PM-04:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ASL",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Peterson",
             "seats": "30",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -6435,7 +6452,7 @@
             "course": "CHEM F001A02Y",
             "CRN": "30111",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -6444,7 +6461,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           },
@@ -6452,7 +6469,7 @@
             "course": "CHEM F001A02Y",
             "CRN": "30111",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "02:00 PM-04:50 PM",
             "start": "01/03/2022",
@@ -6461,7 +6478,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rotsides",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -7305,7 +7322,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7322,7 +7339,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -16900,7 +16917,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ni",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18452,7 +18469,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -25490,7 +25507,7 @@
             "units": "5.00",
             "instructor": "Giraldez Betron",
             "seats": "0",
-            "wait_seats": "24",
+            "wait_seats": "23",
             "wait_cap": "25"
           }
         ],
