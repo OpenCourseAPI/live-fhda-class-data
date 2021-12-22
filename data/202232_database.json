@@ -944,7 +944,7 @@
             "units": "4.00",
             "instructor": "Bonini",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
@@ -961,7 +961,7 @@
             "units": "4.00",
             "instructor": "Bonini",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
@@ -1415,7 +1415,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Keiffer-Lewis",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -2315,7 +2315,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Cadge-Moore",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -6317,7 +6317,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -6334,7 +6334,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10019,7 +10019,7 @@
             "course": "CIS D022A08Z",
             "CRN": "33762",
             "desc": "BEG PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "09:30 AM-11:20 AM",
             "start": "01/03/2022",
@@ -10028,15 +10028,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "-5",
+            "seats": "5",
+            "wait_seats": "-4",
             "wait_cap": "0"
           },
           {
             "course": "CIS D022A08Z",
             "CRN": "33762",
             "desc": "BEG PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -10045,8 +10045,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
-            "wait_seats": "-5",
+            "seats": "5",
+            "wait_seats": "-4",
             "wait_cap": "0"
           }
         ],
@@ -10184,7 +10184,7 @@
             "course": "CIS D022B02Z",
             "CRN": "32253",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "11:30 AM-01:20 PM",
             "start": "01/03/2022",
@@ -10193,7 +10193,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
+            "seats": "4",
             "wait_seats": "-5",
             "wait_cap": "0"
           },
@@ -10201,7 +10201,7 @@
             "course": "CIS D022B02Z",
             "CRN": "32253",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -10210,7 +10210,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
+            "seats": "4",
             "wait_seats": "-5",
             "wait_cap": "0"
           }
@@ -10292,7 +10292,7 @@
             "course": "CIS D022B06Z",
             "CRN": "34071",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -10301,7 +10301,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
+            "seats": "5",
             "wait_seats": "-5",
             "wait_cap": "0"
           },
@@ -10309,7 +10309,7 @@
             "course": "CIS D022B06Z",
             "CRN": "34071",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "01:30 PM-03:20 PM",
             "start": "01/03/2022",
@@ -10318,7 +10318,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
+            "seats": "5",
             "wait_seats": "-5",
             "wait_cap": "0"
           }
@@ -13378,7 +13378,7 @@
             "units": "5.00",
             "instructor": "Cano",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           },
           {
@@ -13395,7 +13395,7 @@
             "units": "5.00",
             "instructor": "Cano",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -15453,7 +15453,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "West",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -16543,7 +16543,7 @@
             "course": "ESCI D001.01Z",
             "CRN": "35701",
             "desc": "ENVIRON SCIENCE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "09:30 AM-11:20 AM",
             "start": "01/03/2022",
@@ -16552,7 +16552,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ratsirarson",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -18083,7 +18083,7 @@
             "course": "ESL D461.02Z",
             "CRN": "37563",
             "desc": "LOW ADV LISTENING/SPEAKG",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "F",
             "time": "09:30 AM-11:20 AM",
             "start": "01/03/2022",
@@ -18093,7 +18093,7 @@
             "units": "0.00",
             "instructor": "Thot-Johnson",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "2"
           }
         ],
@@ -26814,7 +26814,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Catuiza",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -36842,7 +36842,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Bunce",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "8",
             "wait_cap": "8"
           }
@@ -37870,7 +37870,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Birago",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -37887,7 +37887,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Birago",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
