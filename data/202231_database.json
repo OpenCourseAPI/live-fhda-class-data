@@ -1907,7 +1907,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Wolf",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -1924,7 +1924,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Wolf",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -1962,7 +1962,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Connell",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -4207,42 +4207,6 @@
             "wait_cap": "10"
           }
         ],
-        "31859": [
-          {
-            "course": "BIOL F040A08",
-            "CRN": "31859",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Open",
-            "days": "MW",
-            "time": "05:30 PM-07:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "8402",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Markowitz",
-            "seats": "28",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
-          {
-            "course": "BIOL F040A08",
-            "CRN": "31859",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Open",
-            "days": "M",
-            "time": "07:30 PM-10:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "5106",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Markowitz",
-            "seats": "28",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "31860": [
           {
             "course": "BIOL F040A09",
@@ -4393,6 +4357,23 @@
             "CRN": "30674",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
             "status": "Full",
+            "days": "M",
+            "time": "05:30 PM-07:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Folse",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "4"
+          },
+          {
+            "course": "BIOL F040B04Z",
+            "CRN": "30674",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -4410,8 +4391,8 @@
             "CRN": "30674",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
             "status": "Full",
-            "days": "M",
-            "time": "05:30 PM-07:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -4482,6 +4463,23 @@
             "CRN": "30857",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
             "status": "Full",
+            "days": "M",
+            "time": "05:30 PM-07:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Folse",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "4"
+          },
+          {
+            "course": "BIOL F040B06Z",
+            "CRN": "30857",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -4499,8 +4497,8 @@
             "CRN": "30857",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY II",
             "status": "Full",
-            "days": "M",
-            "time": "05:30 PM-07:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -4834,23 +4832,6 @@
             "desc": "MICROBIOLOGY",
             "status": "Waitlist",
             "days": "TTh",
-            "time": "12:00 PM-01:50 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "5501",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Pallesen",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "BIOL F041.04",
-            "CRN": "30301",
-            "desc": "MICROBIOLOGY",
-            "status": "Waitlist",
-            "days": "TTh",
             "time": "02:30 PM-05:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
@@ -4861,26 +4842,26 @@
             "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
+          },
+          {
+            "course": "BIOL F041.04",
+            "CRN": "30301",
+            "desc": "MICROBIOLOGY",
+            "status": "Waitlist",
+            "days": "TTh",
+            "time": "12:00 PM-01:50 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "5501",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Pallesen",
+            "seats": "0",
+            "wait_seats": "10",
+            "wait_cap": "10"
           }
         ],
         "30022": [
-          {
-            "course": "BIOL F041.05",
-            "CRN": "30022",
-            "desc": "MICROBIOLOGY",
-            "status": "Full",
-            "days": "TTh",
-            "time": "05:30 PM-07:20 PM",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "5001",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Folse",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
-          },
           {
             "course": "BIOL F041.05",
             "CRN": "30022",
@@ -4894,6 +4875,23 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Wagner",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "10"
+          },
+          {
+            "course": "BIOL F041.05",
+            "CRN": "30022",
+            "desc": "MICROBIOLOGY",
+            "status": "Full",
+            "days": "TTh",
+            "time": "05:30 PM-07:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "5001",
+            "campus": "FH",
+            "units": "6.00",
+            "instructor": "Folse",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
@@ -4928,14 +4926,14 @@
             "CRN": "30668",
             "desc": "LEADERS-DIVERSITY IN SCIENCE",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "03:00 PM-04:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Schinske",
+            "instructor": "Folse",
             "seats": "12",
             "wait_seats": "12",
             "wait_cap": "12"
@@ -4945,14 +4943,14 @@
             "CRN": "30668",
             "desc": "LEADERS-DIVERSITY IN SCIENCE",
             "status": "Open",
-            "days": "Th",
-            "time": "03:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
-            "instructor": "Folse",
+            "instructor": "Schinske",
             "seats": "12",
             "wait_seats": "12",
             "wait_cap": "12"
@@ -6980,7 +6978,7 @@
             "units": "5.00",
             "instructor": "Stepp",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -6997,7 +6995,7 @@
             "units": "5.00",
             "instructor": "Stepp",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -10493,6 +10491,25 @@
             "seats": "32",
             "wait_seats": "0",
             "wait_cap": "0"
+          }
+        ],
+        "31911": [
+          {
+            "course": "ECON F001B06W",
+            "CRN": "31911",
+            "desc": "PRINCIPLES OF MICROECONOMICS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "02/14/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Verissimo Ira",
+            "seats": "50",
+            "wait_seats": "20",
+            "wait_cap": "20"
           }
         ]
       },
@@ -16789,25 +16806,6 @@
             "wait_cap": "10"
           }
         ],
-        "31873": [
-          {
-            "course": "MATH F001A07W",
-            "CRN": "31873",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Lam",
-            "seats": "30",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
         "31360": [
           {
             "course": "MATH F001A7DV",
@@ -17470,11 +17468,11 @@
             "CRN": "30544",
             "desc": "ELEMENTARY STATISTICS",
             "status": "Open",
-            "days": "T",
-            "time": "10:00 AM-11:15 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "4603",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
@@ -17487,11 +17485,11 @@
             "CRN": "30544",
             "desc": "ELEMENTARY STATISTICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:00 AM-11:15 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "4603",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mudge",
@@ -18072,45 +18070,28 @@
             "CRN": "30681",
             "desc": "HONORS INTRO TO FILM STUDIES",
             "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Tripp Caldwell",
+            "seats": "22",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "MDIA F001H1HY",
+            "CRN": "30681",
+            "desc": "HONORS INTRO TO FILM STUDIES",
+            "status": "Open",
             "days": "Th",
             "time": "02:00 PM-03:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "1501",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Tripp Caldwell",
-            "seats": "22",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "MDIA F001H1HY",
-            "CRN": "30681",
-            "desc": "HONORS INTRO TO FILM STUDIES",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Tripp Caldwell",
-            "seats": "22",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "MDIA F001H1HY",
-            "CRN": "30681",
-            "desc": "HONORS INTRO TO FILM STUDIES",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tripp Caldwell",
@@ -18161,25 +18142,6 @@
         ]
       },
       "2C": {
-        "30265": [
-          {
-            "course": "MDIA F002C01W",
-            "CRN": "30265",
-            "desc": "CURRENT TRENDS FILM/TV/INTERNE",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Ward",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "31894": [
           {
             "course": "MDIA F002C02W",
@@ -18194,7 +18156,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ward",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -18948,27 +18910,6 @@
           }
         ]
       },
-      "72B": {
-        "31614": [
-          {
-            "course": "MTEC F072B01W",
-            "CRN": "31614",
-            "desc": "PRODUCING MUSIC W/ABLETON LIVE",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Tambling",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "72C": {
         "31613": [
           {
@@ -19342,7 +19283,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -19359,7 +19300,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -19376,7 +19317,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Lin",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -23339,7 +23280,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -25335,7 +25276,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Rivera-Montanez",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "25",
             "wait_cap": "25"
           }
