@@ -11239,7 +11239,7 @@
             "course": "CIS D041B13Z",
             "CRN": "36819",
             "desc": "ADVANCED PYTHON PROGRAMMING",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "06:00 PM-07:50 PM",
             "start": "01/03/2022",
@@ -11248,7 +11248,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Larkin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -11256,7 +11256,7 @@
             "course": "CIS D041B13Z",
             "CRN": "36819",
             "desc": "ADVANCED PYTHON PROGRAMMING",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -11265,7 +11265,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Larkin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -15909,6 +15909,25 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "37880": [
+          {
+            "course": "ECON D001H50Z",
+            "CRN": "37880",
+            "desc": "PRIN MACROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Thomas",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "2": {
@@ -16190,6 +16209,25 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "37881": [
+          {
+            "course": "ECON D002H50Z",
+            "CRN": "37881",
+            "desc": "PRIN MICROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Thomas",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "3": {
@@ -16208,6 +16246,27 @@
             "units": "4.00",
             "instructor": "Thomas",
             "seats": "13",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "3H": {
+        "37882": [
+          {
+            "course": "ECON D003H50Z",
+            "CRN": "37882",
+            "desc": "ENVIRONMENTAL ECON - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "",
+            "campus": "",
+            "units": "4.00",
+            "instructor": "Staff",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -26860,7 +26919,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Johnson",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -30800,11 +30859,28 @@
           }
         ]
       },
-      "1CH": {
-        "37855": [
+      "1BH": {
+        "37879": [
           {
-            "course": "MATH D01CH10Y",
-            "CRN": "37855",
+            "course": "MATH D01BH03Y",
+            "CRN": "37879",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTTh",
+            "time": "09:30 AM-10:20 AM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "S16",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Taylor",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "MATH D01BH03Y",
+            "CRN": "37879",
             "desc": "CALCULUS - HONORS",
             "status": "Full",
             "days": "TBA",
@@ -30812,6 +30888,27 @@
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Taylor",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "1CH": {
+        "37855": [
+          {
+            "course": "MATH D01CH10Y",
+            "CRN": "37855",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTWTh",
+            "time": "12:30 PM-01:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "G7",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
@@ -30824,11 +30921,11 @@
             "CRN": "37855",
             "desc": "CALCULUS - HONORS",
             "status": "Full",
-            "days": "MTWTh",
-            "time": "12:30 PM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "G7",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
