@@ -3232,7 +3232,7 @@
             "course": "ARTS D055A50Z",
             "CRN": "35797",
             "desc": "GRAPHIC DES-COMMUNICATION I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -3242,7 +3242,7 @@
             "units": "4.00",
             "instructor": "Kasikci",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -15671,8 +15671,8 @@
             "CRN": "00577",
             "desc": "PRIN MACROECONOMICS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "10:30 AM-11:20 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -15688,8 +15688,8 @@
             "CRN": "00577",
             "desc": "PRIN MACROECONOMICS",
             "status": "Full",
-            "days": "Th",
-            "time": "10:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -15873,6 +15873,44 @@
           }
         ]
       },
+      "1H": {
+        "37872": [
+          {
+            "course": "ECON D001H01Z",
+            "CRN": "37872",
+            "desc": "PRIN MACROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "Th",
+            "time": "10:30 AM-11:20 AM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Singh",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ECON D001H01Z",
+            "CRN": "37872",
+            "desc": "PRIN MACROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Singh",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "2": {
         "00594": [
           {
@@ -15899,8 +15937,8 @@
             "CRN": "00596",
             "desc": "PRIN MICROECONOMICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "01:30 PM-02:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -15916,8 +15954,8 @@
             "CRN": "00596",
             "desc": "PRIN MICROECONOMICS",
             "status": "Open",
-            "days": "W",
-            "time": "01:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -15935,8 +15973,8 @@
             "CRN": "00597",
             "desc": "PRIN MICROECONOMICS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "Th",
+            "time": "01:30 PM-02:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -15952,8 +15990,8 @@
             "CRN": "00597",
             "desc": "PRIN MICROECONOMICS",
             "status": "Open",
-            "days": "Th",
-            "time": "01:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -16074,6 +16112,80 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Malek",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "2H": {
+        "37873": [
+          {
+            "course": "ECON D002H02Z",
+            "CRN": "37873",
+            "desc": "PRIN MICROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "W",
+            "time": "01:30 PM-02:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Singh",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ECON D002H02Z",
+            "CRN": "37873",
+            "desc": "PRIN MICROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Singh",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "37874": [
+          {
+            "course": "ECON D002H03Z",
+            "CRN": "37874",
+            "desc": "PRIN MICROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "Th",
+            "time": "01:30 PM-02:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Singh",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ECON D002H03Z",
+            "CRN": "37874",
+            "desc": "PRIN MICROECONOMICS-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Singh",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -16589,6 +16701,44 @@
             "wait_cap": "0"
           }
         ]
+      },
+      "48BH": {
+        "37871": [
+          {
+            "course": "ELIT D48BH01Z",
+            "CRN": "37871",
+            "desc": "MAJ AMER WRTRS (1865-1914)-HON",
+            "status": "Full",
+            "days": "M",
+            "time": "10:30 AM-12:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Roberts",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "ELIT D48BH01Z",
+            "CRN": "37871",
+            "desc": "MAJ AMER WRTRS (1865-1914)-HON",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Roberts",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
       }
     }
   },
@@ -16902,7 +17052,7 @@
             "course": "ESCI D001.FY1",
             "CRN": "37210",
             "desc": "ENVIRON SCIENCE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "10:30 AM-11:20 AM",
             "start": "01/03/2022",
@@ -16911,7 +17061,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "De Toro",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "10"
           },
@@ -16919,7 +17069,7 @@
             "course": "ESCI D001.FY1",
             "CRN": "37210",
             "desc": "ENVIRON SCIENCE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -16928,7 +17078,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "De Toro",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "10"
           }
@@ -21794,6 +21944,27 @@
           }
         ]
       },
+      "1H": {
+        "37875": [
+          {
+            "course": "F/TV D001H50Z",
+            "CRN": "37875",
+            "desc": "INTRO TO CINEMA ARTS - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Tavernetti",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "2A": {
         "37062": [
           {
@@ -21843,8 +22014,8 @@
             "CRN": "37126",
             "desc": "SCRNWRTNG FUND FILM/VIDEO I",
             "status": "Waitlist",
-            "days": "M",
-            "time": "10:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -21860,8 +22031,8 @@
             "CRN": "37126",
             "desc": "SCRNWRTNG FUND FILM/VIDEO I",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "10:30 AM-12:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -22084,6 +22255,27 @@
             "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
+          }
+        ]
+      },
+      "2AH": {
+        "37876": [
+          {
+            "course": "F/TV D02AH50Z",
+            "CRN": "37876",
+            "desc": "HIST CINEMA 1895-1950-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Tavernetti",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -25556,7 +25748,7 @@
             "units": "4.00",
             "instructor": "Franks",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "7"
           },
           {
@@ -25573,7 +25765,7 @@
             "units": "4.00",
             "instructor": "Franks",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ],
