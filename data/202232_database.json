@@ -1670,7 +1670,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tiwana",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -2144,7 +2144,7 @@
             "course": "ARTS D001A64Z",
             "CRN": "36383",
             "desc": "INTRO TO VISUAL ARTS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -2154,7 +2154,7 @@
             "units": "4.00",
             "instructor": "Karmi",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -2173,7 +2173,7 @@
             "units": "4.00",
             "instructor": "Karmi",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ]
@@ -22279,6 +22279,27 @@
           }
         ]
       },
+      "2BH": {
+        "37877": [
+          {
+            "course": "F/TV D02BH50Z",
+            "CRN": "37877",
+            "desc": "HIST CINEMA (1950-PRES)-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Tavernetti",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "31": {
         "37085": [
           {
@@ -30741,6 +30762,42 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "37878": [
+          {
+            "course": "MATH D01AH13Y",
+            "CRN": "37878",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTTh",
+            "time": "11:30 AM-12:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "S16",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Taylor",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "MATH D01AH13Y",
+            "CRN": "37878",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Taylor",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "1CH": {
@@ -30750,11 +30807,11 @@
             "CRN": "37855",
             "desc": "CALCULUS - HONORS",
             "status": "Full",
-            "days": "MTWTh",
-            "time": "12:30 PM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "G7",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
@@ -30767,11 +30824,11 @@
             "CRN": "37855",
             "desc": "CALCULUS - HONORS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "12:30 PM-01:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "G7",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
