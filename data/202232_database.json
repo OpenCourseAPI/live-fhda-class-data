@@ -327,7 +327,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Claire",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "5"
           },
@@ -344,7 +344,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Claire",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "5"
           }
@@ -1651,7 +1651,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hui",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -1670,7 +1670,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tiwana",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -1805,7 +1805,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Das",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -10690,7 +10690,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Kleinman",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -10707,7 +10707,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Kleinman",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -24657,8 +24657,8 @@
             "CRN": "36946",
             "desc": "CREATIVE MINDS",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "05:30 PM-06:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -24674,8 +24674,8 @@
             "CRN": "36946",
             "desc": "CREATIVE MINDS",
             "status": "Waitlist",
-            "days": "TTh",
-            "time": "05:30 PM-06:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -24908,10 +24908,10 @@
             "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Clinchard",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -24986,8 +24986,8 @@
             "CRN": "36138",
             "desc": "INTRO TO COMPARATIVE RELIGION",
             "status": "Open",
-            "days": "T",
-            "time": "01:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -25003,8 +25003,8 @@
             "CRN": "36138",
             "desc": "INTRO TO COMPARATIVE RELIGION",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "01:30 PM-02:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -25036,6 +25036,44 @@
           }
         ]
       },
+      "9H": {
+        "37848": [
+          {
+            "course": "HUMI D009H1MZ",
+            "CRN": "37848",
+            "desc": "INTRO TO COMPAR RELIG-HONORS",
+            "status": "Full",
+            "days": "T",
+            "time": "01:30 PM-02:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Clinchard",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "HUMI D009H1MZ",
+            "CRN": "37848",
+            "desc": "INTRO TO COMPAR RELIG-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Clinchard",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "16": {
         "01077": [
           {
@@ -25064,8 +25102,8 @@
             "CRN": "37413",
             "desc": "WSTRN PRSPCTVS IN GLBL CONTEXT",
             "status": "Open",
-            "days": "M",
-            "time": "10:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "02/14/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -25081,8 +25119,8 @@
             "CRN": "37413",
             "desc": "WSTRN PRSPCTVS IN GLBL CONTEXT",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "M",
+            "time": "10:30 AM-11:20 AM",
             "start": "02/14/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -33421,7 +33459,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Landefeld",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
