@@ -261,7 +261,7 @@
             "course": "ACCT D001A70Z",
             "CRN": "31801",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -271,7 +271,7 @@
             "units": "5.00",
             "instructor": "Osborne",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -2078,7 +2078,7 @@
             "units": "4.00",
             "instructor": "Mjelde",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "15"
           }
         ],
@@ -2256,7 +2256,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kleit",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5315,7 +5315,7 @@
             "units": "5.00",
             "instructor": "Morikang",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "7"
           },
           {
@@ -5332,7 +5332,7 @@
             "units": "5.00",
             "instructor": "Morikang",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ],
@@ -9953,7 +9953,7 @@
             "course": "CIS D022A03Z",
             "CRN": "32250",
             "desc": "BEG PROG METHOD C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "11:30 AM-01:20 PM",
             "start": "01/03/2022",
@@ -9962,7 +9962,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -9970,7 +9970,7 @@
             "course": "CIS D022A03Z",
             "CRN": "32250",
             "desc": "BEG PROG METHOD C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -9979,7 +9979,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -9987,7 +9987,7 @@
             "course": "CIS D022A03Z",
             "CRN": "32250",
             "desc": "BEG PROG METHOD C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -9996,7 +9996,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10812,7 +10812,7 @@
             "course": "CIS D035A63Z",
             "CRN": "00450",
             "desc": "JAVA PROGRAMMING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -10822,7 +10822,7 @@
             "units": "4.50",
             "instructor": "Singh",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -13082,6 +13082,27 @@
             "seats": "0",
             "wait_seats": "2",
             "wait_cap": "5"
+          }
+        ]
+      },
+      "1H": {
+        "37856": [
+          {
+            "course": "COMM D001H51Z",
+            "CRN": "37856",
+            "desc": "PUBLIC SPEAKING-HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Kaur",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -15704,7 +15725,7 @@
             "course": "ECON D001.52Z",
             "CRN": "36810",
             "desc": "PRIN MACROECONOMICS",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -15713,7 +15734,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Singh",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -21030,8 +21051,8 @@
             "CRN": "37852",
             "desc": "CRIT READ, WRIT & THINK-HONORS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "01:30 PM-02:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -21047,8 +21068,8 @@
             "CRN": "37852",
             "desc": "CRIT READ, WRIT & THINK-HONORS",
             "status": "Full",
-            "days": "MW",
-            "time": "01:30 PM-02:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -21066,14 +21087,31 @@
             "CRN": "37853",
             "desc": "CRIT READ, WRIT & THINK-HONORS",
             "status": "Full",
+            "days": "TTh",
+            "time": "02:30 PM-03:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Giardino",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "EWRT D002H22Z",
+            "CRN": "37853",
+            "desc": "CRIT READ, WRIT & THINK-HONORS",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "DA",
             "units": "5.00",
-            "instructor": "Staff",
+            "instructor": "Giardino",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -22313,7 +22351,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wise",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -23324,7 +23362,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Sherlekar",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -24423,8 +24461,8 @@
             "CRN": "36808",
             "desc": "HUMAN SEXUALITY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "05:00 PM-06:50 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -24440,8 +24478,8 @@
             "CRN": "36808",
             "desc": "HUMAN SEXUALITY",
             "status": "Open",
-            "days": "W",
-            "time": "05:00 PM-06:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -24459,8 +24497,8 @@
             "CRN": "37187",
             "desc": "HUMAN SEXUALITY",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:30 AM-11:20 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -24476,8 +24514,8 @@
             "CRN": "37187",
             "desc": "HUMAN SEXUALITY",
             "status": "Waitlist",
-            "days": "T",
-            "time": "10:30 AM-11:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
             "room": "ONLINE",
@@ -24506,6 +24544,27 @@
             "seats": "6",
             "wait_seats": "7",
             "wait_cap": "7"
+          }
+        ]
+      },
+      "10H": {
+        "37854": [
+          {
+            "course": "HUMA D010H63Z",
+            "CRN": "37854",
+            "desc": "HUMAN SEXUALITY - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Joplin",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -26516,7 +26575,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guevara",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -30261,6 +30320,42 @@
         ]
       },
       "1CH": {
+        "37855": [
+          {
+            "course": "MATH D01CH10Y",
+            "CRN": "37855",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Judson",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "MATH D01CH10Y",
+            "CRN": "37855",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "MTWTh",
+            "time": "12:30 PM-01:20 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "G7",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Judson",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "37837": [
           {
             "course": "MATH D01CH20",
@@ -30577,11 +30672,11 @@
             "CRN": "36857",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "08:30 AM-10:20 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "G7",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
@@ -30594,11 +30689,11 @@
             "CRN": "36857",
             "desc": "PRECALCULUS I",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "08:30 AM-10:20 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "G7",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
