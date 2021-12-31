@@ -10857,7 +10857,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Amoruwa",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -11420,7 +11420,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Holmes",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -16157,7 +16157,7 @@
             "course": "ELIT D010.50Z",
             "CRN": "35324",
             "desc": "INTRO TO FICTION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "W",
             "time": "11:30 AM-01:20 PM",
             "start": "01/03/2022",
@@ -16166,7 +16166,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Skager",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           },
@@ -16174,7 +16174,7 @@
             "course": "ELIT D010.50Z",
             "CRN": "35324",
             "desc": "INTRO TO FICTION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -16183,7 +16183,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Skager",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -16322,7 +16322,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roberts",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -16339,7 +16339,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roberts",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -22413,7 +22413,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dileonardo",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -26236,7 +26236,7 @@
             "units": "3.00",
             "instructor": "Mattis",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -29836,6 +29836,27 @@
           }
         ]
       },
+      "1CH": {
+        "37837": [
+          {
+            "course": "MATH D01CH20",
+            "CRN": "37837",
+            "desc": "CALCULUS - HONORS",
+            "status": "Full",
+            "days": "TTh",
+            "time": "01:30 PM-03:45 PM",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "S35",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Balm",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "22": {
         "31968": [
           {
@@ -29880,7 +29901,7 @@
             "course": "MATH D022.40",
             "CRN": "35007",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "04:00 PM-06:15 PM",
             "start": "01/03/2022",
@@ -29889,7 +29910,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wilson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -29899,7 +29920,7 @@
             "course": "MATH D022.49Z",
             "CRN": "35573",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "06:30 PM-08:45 PM",
             "start": "01/03/2022",
@@ -29909,7 +29930,7 @@
             "units": "5.00",
             "instructor": "Shariatmadari",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -30524,11 +30545,11 @@
             "CRN": "37109",
             "desc": "MATH PREP LEVEL 3:INTERMED ALG",
             "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-01:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "MLC108",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shukla",
@@ -30541,11 +30562,11 @@
             "CRN": "37109",
             "desc": "MATH PREP LEVEL 3:INTERMED ALG",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MTWTh",
+            "time": "12:30 PM-01:20 PM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "MLC108",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shukla",
@@ -31900,7 +31921,7 @@
             "units": "2.00",
             "instructor": "Williams",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
