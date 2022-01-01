@@ -125,7 +125,7 @@
             "units": "5.00",
             "instructor": "Breen",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           },
           {
@@ -142,7 +142,7 @@
             "units": "5.00",
             "instructor": "Breen",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ],
@@ -898,7 +898,7 @@
             "course": "ADMJ D001.01Z",
             "CRN": "00053",
             "desc": "INTRO TO ADMIN OF JUSTICE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "10:30 AM-12:20 PM",
             "start": "01/03/2022",
@@ -907,15 +907,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lawlor",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "5"
           },
           {
             "course": "ADMJ D001.01Z",
             "CRN": "00053",
             "desc": "INTRO TO ADMIN OF JUSTICE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -924,8 +924,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lawlor",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -5208,7 +5208,7 @@
             "course": "BIOL D010.52Z",
             "CRN": "34582",
             "desc": "INTRO BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -5217,8 +5217,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bram",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -7450,7 +7450,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "De Motta",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "3",
             "wait_cap": "3"
           },
@@ -7467,7 +7467,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "De Motta",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "3",
             "wait_cap": "3"
           },
@@ -7484,7 +7484,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "De Motta",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -7504,7 +7504,7 @@
             "units": "5.00",
             "instructor": "Roy",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
@@ -7521,7 +7521,7 @@
             "units": "5.00",
             "instructor": "Roy",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
@@ -7538,7 +7538,7 @@
             "units": "5.00",
             "instructor": "Roy",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -11040,7 +11040,7 @@
             "course": "CIS D040.01Z",
             "CRN": "34089",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Open",
+            "status": "Full",
             "days": "TTh",
             "time": "01:30 PM-02:20 PM",
             "start": "01/03/2022",
@@ -11049,15 +11049,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "1",
-            "wait_seats": "-2",
+            "seats": "0",
+            "wait_seats": "-1",
             "wait_cap": "0"
           },
           {
             "course": "CIS D040.01Z",
             "CRN": "34089",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -11066,15 +11066,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "1",
-            "wait_seats": "-2",
+            "seats": "0",
+            "wait_seats": "-1",
             "wait_cap": "0"
           },
           {
             "course": "CIS D040.01Z",
             "CRN": "34089",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -11083,8 +11083,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "1",
-            "wait_seats": "-2",
+            "seats": "0",
+            "wait_seats": "-1",
             "wait_cap": "0"
           }
         ],
@@ -11184,7 +11184,7 @@
             "course": "CIS D040.63Z",
             "CRN": "37511",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -11193,8 +11193,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Alameer",
-            "seats": "1",
-            "wait_seats": "-3",
+            "seats": "0",
+            "wait_seats": "-2",
             "wait_cap": "0"
           }
         ]
@@ -20999,7 +20999,7 @@
             "course": "EWRT D002.53Z",
             "CRN": "36119",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -21008,8 +21008,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Denny",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -23185,7 +23185,7 @@
             "course": "GEOL D010.55Z",
             "CRN": "30345",
             "desc": "INTRODUCTORY GEOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -23194,8 +23194,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dileonardo",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -23612,7 +23612,7 @@
             "course": "HIST D017C53Z",
             "CRN": "35670",
             "desc": "HIST U.S. 1900- PRESENT",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -23621,8 +23621,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Cini",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "7"
           }
         ],
@@ -23910,7 +23910,7 @@
             "course": "HTEC D060A01Z",
             "CRN": "01013",
             "desc": "BASIC MEDI TERMINOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -23919,8 +23919,8 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Miramontes",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -24070,7 +24070,7 @@
             "course": "HTEC D073.01Z",
             "CRN": "34361",
             "desc": "MEDICAL LAW AND ETHICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "Th",
             "time": "05:30 PM-08:20 PM",
             "start": "01/03/2022",
@@ -24079,8 +24079,8 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Shurtliff",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -25375,7 +25375,7 @@
             "units": "4.00",
             "instructor": "Breiter",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ],
@@ -25413,7 +25413,7 @@
             "units": "4.00",
             "instructor": "Breiter",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "15"
           }
         ],
@@ -27968,7 +27968,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Johnson",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -28519,8 +28519,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kim",
-            "seats": "5",
-            "wait_seats": "2",
+            "seats": "1",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ]
@@ -28559,8 +28559,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kim",
-            "seats": "5",
-            "wait_seats": "2",
+            "seats": "1",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ]
@@ -30935,7 +30935,7 @@
             "course": "MATH D011.60Z",
             "CRN": "37107",
             "desc": "FINITE MATHEMATICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -30944,7 +30944,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Moen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "6"
           }
@@ -31498,7 +31498,7 @@
             "course": "MATH D031.44Z",
             "CRN": "36853",
             "desc": "PRECALCULUS I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "06:30 PM-08:45 PM",
             "start": "01/03/2022",
@@ -31507,8 +31507,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "De Vogelaere",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -31591,7 +31591,7 @@
             "course": "MATH D031.MP2",
             "CRN": "36858",
             "desc": "PRECALCULUS I",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "01:30 PM-03:45 PM",
             "start": "01/03/2022",
@@ -31600,7 +31600,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gutierrez",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -33335,7 +33335,7 @@
             "course": "NURS D050.01Z",
             "CRN": "36973",
             "desc": "CAREER OPPRTN/NURSING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "F",
             "time": "12:30 PM-02:20 PM",
             "start": "01/03/2022",
@@ -33344,8 +33344,8 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Williams",
-            "seats": "2",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -35537,7 +35537,7 @@
             "course": "PHIL D001.51Z",
             "CRN": "34985",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -35546,8 +35546,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Baiamonte",
-            "seats": "1",
-            "wait_seats": "13",
+            "seats": "0",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ],
@@ -35735,7 +35735,7 @@
             "course": "PHIL D008.50Z",
             "CRN": "31603",
             "desc": "ETHICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -35744,8 +35744,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Baiamonte",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "15"
           }
         ]
@@ -40357,7 +40357,7 @@
             "course": "WMST D008.61Z",
             "CRN": "36912",
             "desc": "WMN OF COLR IN U.S.",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -40366,8 +40366,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Alvarez",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ]
