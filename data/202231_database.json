@@ -7794,7 +7794,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Rollinger",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7811,7 +7811,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Perez Hernandez",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7828,7 +7828,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Rollinger",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7845,7 +7845,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Rollinger",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -7862,7 +7862,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Rollinger",
-            "seats": "13",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8116,7 +8116,7 @@
             "course": "COMM F001A01Z",
             "CRN": "30182",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "F",
             "time": "08:00 AM-11:50 AM",
             "start": "01/03/2022",
@@ -8125,7 +8125,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           },
@@ -8133,7 +8133,7 @@
             "course": "COMM F001A01Z",
             "CRN": "30182",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -8142,7 +8142,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -13056,7 +13056,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meezan",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -13073,7 +13073,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meezan",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -13090,7 +13090,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meezan",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -15616,7 +15616,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Mac Neil",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -15897,25 +15897,6 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
-        ],
-        "31401": [
-          {
-            "course": "LINC F053.02W",
-            "CRN": "31401",
-            "desc": "INTEGRAT TECH INTO MATHEMATICS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Pereira",
-            "seats": "34",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
         ]
       },
       "57": {
@@ -16031,25 +16012,6 @@
             "units": "1.00",
             "instructor": "Bustamante",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "31402": [
-          {
-            "course": "LINC F063.02W",
-            "CRN": "31402",
-            "desc": "CLOUD-BASED DATA ANALYSIS TOOL",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Pereira",
-            "seats": "28",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -16407,25 +16369,6 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
-        ],
-        "31693": [
-          {
-            "course": "LINC F084E02",
-            "CRN": "31693",
-            "desc": "LASER CUTTER FUNDAMENTALS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "TBA",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Pereira",
-            "seats": "35",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
         ]
       },
       "84F": {
@@ -16464,25 +16407,6 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
-        ],
-        "31694": [
-          {
-            "course": "LINC F084F02",
-            "CRN": "31694",
-            "desc": "VINYL CUTTER FUNDAMENTALS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "TBA",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Pereira",
-            "seats": "34",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
         ]
       },
       "87": {
@@ -16501,25 +16425,6 @@
             "units": "5.00",
             "instructor": "Pereira",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "31403": [
-          {
-            "course": "LINC F087.02W",
-            "CRN": "31403",
-            "desc": "SEMINAR TEACH W/ED TECHNOLOGY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Pereira",
-            "seats": "34",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -24777,7 +24682,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Roberts",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "20",
             "wait_cap": "20"
           }
