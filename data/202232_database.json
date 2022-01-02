@@ -5453,7 +5453,7 @@
             "course": "BIOL D011.09Z",
             "CRN": "37118",
             "desc": "HUMAN BIOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "S",
             "time": "09:30 AM-01:20 PM",
             "start": "01/03/2022",
@@ -5462,7 +5462,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morikang",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           },
@@ -5470,7 +5470,7 @@
             "course": "BIOL D011.09Z",
             "CRN": "37118",
             "desc": "HUMAN BIOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "F",
             "time": "01:30 PM-04:20 PM",
             "start": "01/03/2022",
@@ -5479,7 +5479,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morikang",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -14286,7 +14286,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Klingman",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -14303,7 +14303,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Klingman",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -19759,7 +19759,7 @@
             "course": "EWRT D001A25Z",
             "CRN": "30230",
             "desc": "COMPOSITION AND READING",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "W",
             "time": "10:30 AM-11:20 AM",
             "start": "01/03/2022",
@@ -19769,12 +19769,31 @@
             "units": "5.00",
             "instructor": "Joseph",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "EWRT D001A25Z",
             "CRN": "30230",
+            "desc": "COMPOSITION AND READING",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Joseph",
+            "seats": "0",
+            "wait_seats": "1",
+            "wait_cap": "5"
+          }
+        ],
+        "31031": [
+          {
+            "course": "EWRT D001A27Z",
+            "CRN": "31031",
             "desc": "COMPOSITION AND READING",
             "status": "Full",
             "days": "TBA",
@@ -19788,31 +19807,12 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "5"
-          }
-        ],
-        "31031": [
-          {
-            "course": "EWRT D001A27Z",
-            "CRN": "31031",
-            "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Joseph",
-            "seats": "0",
-            "wait_seats": "1",
-            "wait_cap": "5"
           },
           {
             "course": "EWRT D001A27Z",
             "CRN": "31031",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "W",
             "time": "12:30 PM-01:20 PM",
             "start": "01/03/2022",
@@ -19822,7 +19822,7 @@
             "units": "5.00",
             "instructor": "Joseph",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ],
@@ -22300,7 +22300,7 @@
             "course": "F/TV D020.01Z",
             "CRN": "37130",
             "desc": "BEGINNING VIDEO PRODUCTION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "03:30 PM-04:45 PM",
             "start": "01/03/2022",
@@ -22309,7 +22309,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Irwin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -22317,7 +22317,7 @@
             "course": "F/TV D020.01Z",
             "CRN": "37130",
             "desc": "BEGINNING VIDEO PRODUCTION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "05:00 PM-06:15 PM",
             "start": "01/03/2022",
@@ -22326,7 +22326,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Irwin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -29280,7 +29280,7 @@
             "course": "MATH D001A12Z",
             "CRN": "36747",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWThF",
             "time": "11:30 AM-12:20 PM",
             "start": "01/03/2022",
@@ -29289,7 +29289,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "6"
           }
@@ -37451,7 +37451,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Schendan",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
