@@ -944,7 +944,7 @@
             "units": "4.00",
             "instructor": "Suits",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
@@ -961,7 +961,7 @@
             "units": "4.00",
             "instructor": "Suits",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -2201,7 +2201,7 @@
             "course": "ARTS D001A64Z",
             "CRN": "36383",
             "desc": "INTRO TO VISUAL ARTS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -2210,8 +2210,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Karmi",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ],
@@ -5256,7 +5256,7 @@
             "units": "5.00",
             "instructor": "Bram",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -5867,7 +5867,7 @@
             "units": "5.00",
             "instructor": "Balabanian",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "7"
           },
           {
@@ -5884,7 +5884,7 @@
             "units": "5.00",
             "instructor": "Balabanian",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "7"
           }
         ],
@@ -6113,7 +6113,7 @@
             "course": "BIOL D045.51Z",
             "CRN": "37766",
             "desc": "INTRO HUMAN NUTRITION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -6122,8 +6122,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Miller",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -6164,7 +6164,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Cuff-Alvarado",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9837,7 +9837,7 @@
             "course": "CIS D004.63Z",
             "CRN": "32935",
             "desc": "COMPUTER LITERACY",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -9846,7 +9846,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "West",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -12287,7 +12287,7 @@
             "course": "COMM D001.02Z",
             "CRN": "35200",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "07:30 AM-09:20 AM",
             "start": "01/03/2022",
@@ -12296,7 +12296,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sakakihara",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "5"
           },
@@ -12304,7 +12304,7 @@
             "course": "COMM D001.02Z",
             "CRN": "35200",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -12313,7 +12313,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sakakihara",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "1",
             "wait_cap": "5"
           }
@@ -13488,7 +13488,7 @@
             "course": "COMM D010.04Z",
             "CRN": "35229",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "07:30 AM-09:20 AM",
             "start": "01/03/2022",
@@ -13497,7 +13497,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sakakihara",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -13505,7 +13505,7 @@
             "course": "COMM D010.04Z",
             "CRN": "35229",
             "desc": "FUNDAMENTALS OF ORAL COMM",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -13514,7 +13514,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sakakihara",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -15337,7 +15337,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -17168,7 +17168,7 @@
             "course": "ESCI D001.51Z",
             "CRN": "34387",
             "desc": "ENVIRON SCIENCE",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -17178,7 +17178,7 @@
             "units": "4.00",
             "instructor": "Phillips",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -17235,7 +17235,7 @@
             "units": "4.00",
             "instructor": "De Toro",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "10"
           },
           {
@@ -17252,7 +17252,7 @@
             "units": "4.00",
             "instructor": "De Toro",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -19604,7 +19604,7 @@
             "units": "5.00",
             "instructor": "Brennan",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -19623,7 +19623,7 @@
             "units": "5.00",
             "instructor": "Smith",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -23839,7 +23839,7 @@
             "course": "HLTH D057A01",
             "CRN": "37490",
             "desc": "1ST AID COMUNTY/HOME/WLDRNES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "F",
             "time": "01:30 PM-04:20 PM",
             "start": "01/07/2022",
@@ -23848,8 +23848,8 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Donahue",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ]
@@ -27265,7 +27265,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kragalott",
-            "seats": "6",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -28855,7 +28855,7 @@
             "units": "3.00",
             "instructor": "Brennan",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -28874,7 +28874,7 @@
             "units": "3.00",
             "instructor": "Smith",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ]
@@ -30077,7 +30077,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yu",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -30560,7 +30560,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Mesh",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -31498,7 +31498,7 @@
             "course": "MATH D031.44Z",
             "CRN": "36853",
             "desc": "PRECALCULUS I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "06:30 PM-08:45 PM",
             "start": "01/03/2022",
@@ -31507,7 +31507,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "De Vogelaere",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -34451,7 +34451,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Guevara",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -35562,7 +35562,7 @@
             "course": "PHIL D003.51Z",
             "CRN": "30892",
             "desc": "CRIT THINKNG & WRITNG",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -35572,7 +35572,7 @@
             "units": "5.00",
             "instructor": "Baiamonte",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ]
@@ -35602,7 +35602,7 @@
             "course": "PHIL D004.51Z",
             "CRN": "36875",
             "desc": "CRITICAL THINKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -35611,7 +35611,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Galindo",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "12",
             "wait_cap": "15"
           }
@@ -36795,7 +36795,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Francis",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -36812,7 +36812,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Francis",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -37136,7 +37136,7 @@
             "course": "POLI D001.50Z",
             "CRN": "37763",
             "desc": "AMERICAN GOVT & POLITICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "02/14/2022",
@@ -37145,8 +37145,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fong",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -39181,7 +39181,7 @@
             "course": "SOC D001.01Z",
             "CRN": "35642",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "10:30 AM-12:20 PM",
             "start": "01/03/2022",
@@ -39190,15 +39190,15 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "1",
-            "wait_seats": "11",
+            "seats": "0",
+            "wait_seats": "12",
             "wait_cap": "15"
           },
           {
             "course": "SOC D001.01Z",
             "CRN": "35642",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -39207,8 +39207,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nava",
-            "seats": "1",
-            "wait_seats": "11",
+            "seats": "0",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ],
@@ -39346,7 +39346,7 @@
             "course": "SOC D001.53Z",
             "CRN": "36201",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -39355,7 +39355,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tapia",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "15"
           }
