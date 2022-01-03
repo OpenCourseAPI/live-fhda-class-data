@@ -509,7 +509,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Glass",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2591,7 +2591,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -2608,7 +2608,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Levitch",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -4703,7 +4703,7 @@
             "course": "BIOL F040C07Z",
             "CRN": "30859",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "05:30 PM-07:20 PM",
             "start": "01/03/2022",
@@ -4712,15 +4712,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           },
           {
             "course": "BIOL F040C07Z",
             "CRN": "30859",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -4729,8 +4729,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -4923,7 +4923,7 @@
             "course": "BIOL F045.01W",
             "CRN": "30024",
             "desc": "INTRO TO HUMAN NUTRITION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -4932,8 +4932,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Markowitz",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -6131,7 +6131,7 @@
             "units": "4.50",
             "instructor": "Lankester",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ]
@@ -13637,7 +13637,7 @@
             "course": "GID F041.01W",
             "CRN": "31441",
             "desc": "DIGITAL ART & GRAPHICS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -13647,7 +13647,7 @@
             "units": "4.00",
             "instructor": "Ragey",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -17172,7 +17172,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Francisco",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -21109,7 +21109,7 @@
             "units": "1.00",
             "instructor": "Mac Neil",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ],
@@ -21149,7 +21149,7 @@
             "units": "1.00",
             "instructor": "Mac Neil",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
