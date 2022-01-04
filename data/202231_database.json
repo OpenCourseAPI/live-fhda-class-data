@@ -2628,7 +2628,7 @@
             "room": "EPAA",
             "campus": "FO",
             "units": "4.00",
-            "instructor": "Lopez-Guerrero",
+            "instructor": "Lopez Guerrero",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -3360,7 +3360,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Edwards",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4770,7 +4770,7 @@
             "room": "5501",
             "campus": "FH",
             "units": "6.00",
-            "instructor": "Pallesen",
+            "instructor": "Cooper",
             "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -4806,7 +4806,7 @@
             "room": "5501",
             "campus": "FH",
             "units": "6.00",
-            "instructor": "Pallesen",
+            "instructor": "Cooper",
             "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -5129,16 +5129,16 @@
             "course": "BUSI F022.04D",
             "CRN": "31870",
             "desc": "PRINCIPLES OF BUSINESS",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
-            "end": "03/25/2022",
+            "end": "06/04/2022",
             "room": "TIDE",
             "campus": "FO",
             "units": "5.00",
             "instructor": "Ghosh",
-            "seats": "50",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -5236,7 +5236,7 @@
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
-            "end": "03/25/2022",
+            "end": "06/04/2022",
             "room": "TIDE",
             "campus": "FO",
             "units": "4.00",
@@ -5708,7 +5708,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -5725,7 +5725,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5984,27 +5984,6 @@
           }
         ]
       },
-      "30B": {
-        "30317": [
-          {
-            "course": "C S F030B01W",
-            "CRN": "30317",
-            "desc": "LINUX SHELL PROGRAMMING",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Murphy",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
       "30D": {
         "31772": [
           {
@@ -6075,11 +6054,11 @@
             "CRN": "31421",
             "desc": "FOUNDATIONS OF COMPUTER PROGRA",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "F",
+            "time": "10:00 AM-11:50 AM",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "ONLINE",
+            "room": "8401",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Reed",
@@ -6092,11 +6071,11 @@
             "CRN": "31421",
             "desc": "FOUNDATIONS OF COMPUTER PROGRA",
             "status": "Open",
-            "days": "F",
-            "time": "10:00 AM-11:50 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "01/03/2022",
             "end": "03/25/2022",
-            "room": "8401",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Reed",
@@ -6218,7 +6197,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Sandor",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6235,7 +6214,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Sandor",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6964,7 +6943,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -6981,7 +6960,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Liu",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8432,7 +8411,7 @@
             "units": "5.00",
             "instructor": "Kellner",
             "seats": "1",
-            "wait_seats": "7",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -11474,7 +11453,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Escamilla",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -13952,7 +13931,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Marder",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -14818,6 +14797,25 @@
             "seats": "5",
             "wait_seats": "3",
             "wait_cap": "3"
+          }
+        ],
+        "31915": [
+          {
+            "course": "ITRN F051.04W",
+            "CRN": "31915",
+            "desc": "INTERNSHIP",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Mac Neil",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -16716,7 +16714,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Litrus",
-            "seats": "22",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -17828,7 +17826,7 @@
             "units": "5.00",
             "instructor": "Martinez",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -20003,7 +20001,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Escamilla",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "23",
             "wait_cap": "25"
           }
