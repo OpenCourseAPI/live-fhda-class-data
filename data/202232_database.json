@@ -161,7 +161,7 @@
             "units": "5.00",
             "instructor": "Riordan",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           },
           {
@@ -178,7 +178,7 @@
             "units": "5.00",
             "instructor": "Riordan",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -3893,7 +3893,7 @@
             "units": "2.00",
             "instructor": "Wishart",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "5"
           },
           {
@@ -3910,7 +3910,7 @@
             "units": "2.00",
             "instructor": "Wishart",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -6385,7 +6385,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -6402,7 +6402,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9107,7 +9107,7 @@
             "course": "CHEM D030A30Z",
             "CRN": "32213",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -9116,15 +9116,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Brophy",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D030A30Z",
             "CRN": "32213",
             "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "11:30 AM-02:20 PM",
             "start": "01/03/2022",
@@ -9133,8 +9133,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Brophy",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -11452,7 +11452,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Holmes",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           }
