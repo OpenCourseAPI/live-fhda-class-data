@@ -9403,7 +9403,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ponce",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -9420,7 +9420,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ponce",
-            "seats": "26",
+            "seats": "27",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -12732,7 +12732,7 @@
             "units": "5.00",
             "instructor": "Kramer",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -12788,7 +12788,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kramer",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "5"
           }
@@ -12874,7 +12874,7 @@
             "course": "COMM D001.58Z",
             "CRN": "35864",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -12883,7 +12883,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Koppel",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "5"
           }
@@ -24279,7 +24279,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Miramontes",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -24296,7 +24296,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Miramontes",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -31789,7 +31789,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Abb",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "3",
             "wait_cap": "6"
           }
@@ -33101,7 +33101,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Williams",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -38947,7 +38947,7 @@
             "course": "SOC D001.52Z",
             "CRN": "35641",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -38957,8 +38957,8 @@
             "units": "4.00",
             "instructor": "Tapia",
             "seats": "0",
-            "wait_seats": "11",
-            "wait_cap": "15"
+            "wait_seats": "0",
+            "wait_cap": "4"
           }
         ],
         "36201": [
@@ -38966,26 +38966,7 @@
             "course": "SOC D001.53Z",
             "CRN": "36201",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/03/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Tapia",
-            "seats": "3",
-            "wait_seats": "11",
-            "wait_cap": "15"
-          }
-        ],
-        "30482": [
-          {
-            "course": "SOC D001.63Z",
-            "CRN": "30482",
-            "desc": "INTRO TO SOCIOLOGY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "01/03/2022",
@@ -38995,8 +38976,27 @@
             "units": "4.00",
             "instructor": "Tapia",
             "seats": "0",
-            "wait_seats": "15",
-            "wait_cap": "15"
+            "wait_seats": "0",
+            "wait_cap": "4"
+          }
+        ],
+        "30482": [
+          {
+            "course": "SOC D001.63Z",
+            "CRN": "30482",
+            "desc": "INTRO TO SOCIOLOGY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "01/03/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.00",
+            "instructor": "Tapia",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
