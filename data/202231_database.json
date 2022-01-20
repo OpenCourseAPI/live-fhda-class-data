@@ -841,8 +841,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Small",
-            "seats": "8",
-            "wait_seats": "13",
+            "seats": "7",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ]
@@ -1626,50 +1626,7 @@
     }
   },
   "LA": {
-    "1": {
-      "61A": {
-        "31752": [
-          {
-            "course": "L A F061A03V",
-            "CRN": "31752",
-            "desc": "TUTOR TRAINING I",
-            "status": "Full",
-            "days": "Th",
-            "time": "08:45 AM-09:50 AM",
-            "start": "01/10/2022",
-            "end": "03/11/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Menendez",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "61B": {
-        "31753": [
-          {
-            "course": "L A F061B03V",
-            "CRN": "31753",
-            "desc": "TUTOR TRAINING II",
-            "status": "Open",
-            "days": "Th",
-            "time": "08:45 AM-09:50 AM",
-            "start": "01/10/2022",
-            "end": "03/11/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Menendez",
-            "seats": "6",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "LIBR": {
     "1": {}
@@ -1798,81 +1755,7 @@
           }
         ]
       },
-      "77A": {
-        "31458": [
-          {
-            "course": "LINC F077A01T",
-            "CRN": "31458",
-            "desc": "DESIGN THINKING PROCESS",
-            "status": "Open",
-            "days": "F",
-            "time": "05:00 PM-08:50 PM",
-            "start": "01/18/2022",
-            "end": "03/18/2022",
-            "room": "4006",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Pereira",
-            "seats": "23",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "LINC F077A01T",
-            "CRN": "31458",
-            "desc": "DESIGN THINKING PROCESS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/18/2022",
-            "end": "03/18/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Pereira",
-            "seats": "23",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "77B": {
-        "31462": [
-          {
-            "course": "LINC F077B01T",
-            "CRN": "31462",
-            "desc": "DESIGN THINKING & TINKERING",
-            "status": "Open",
-            "days": "S",
-            "time": "10:00 AM-03:50 PM",
-            "start": "01/18/2022",
-            "end": "03/18/2022",
-            "room": "4006",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Pereira",
-            "seats": "25",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "LINC F077B01T",
-            "CRN": "31462",
-            "desc": "DESIGN THINKING & TINKERING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/18/2022",
-            "end": "03/18/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Pereira",
-            "seats": "25",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "31428": [
           {
             "course": "LINC F077B2DW",
@@ -1951,120 +1834,6 @@
             "units": "1.00",
             "instructor": "Randall",
             "seats": "14",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "84D": {
-        "31459": [
-          {
-            "course": "LINC F084D01T",
-            "CRN": "31459",
-            "desc": "VECTOR-BASED GRAPHC DESGN MKRS",
-            "status": "Open",
-            "days": "F",
-            "time": "05:00 PM-08:50 PM",
-            "start": "01/18/2022",
-            "end": "03/18/2022",
-            "room": "4006",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Pereira",
-            "seats": "23",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "LINC F084D01T",
-            "CRN": "31459",
-            "desc": "VECTOR-BASED GRAPHC DESGN MKRS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/18/2022",
-            "end": "03/18/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Pereira",
-            "seats": "23",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "84E": {
-        "31460": [
-          {
-            "course": "LINC F084E01T",
-            "CRN": "31460",
-            "desc": "LASER CUTTER FUNDAMENTALS",
-            "status": "Open",
-            "days": "S",
-            "time": "10:00 AM-03:50 PM",
-            "start": "01/18/2022",
-            "end": "03/18/2022",
-            "room": "4006",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Pereira",
-            "seats": "24",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "LINC F084E01T",
-            "CRN": "31460",
-            "desc": "LASER CUTTER FUNDAMENTALS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/18/2022",
-            "end": "03/18/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Pereira",
-            "seats": "24",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "84F": {
-        "31461": [
-          {
-            "course": "LINC F084F01T",
-            "CRN": "31461",
-            "desc": "VINYL CUTTER FUNDAMENTALS",
-            "status": "Open",
-            "days": "S",
-            "time": "10:00 AM-03:50 PM",
-            "start": "01/18/2022",
-            "end": "03/18/2022",
-            "room": "4006",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Pereira",
-            "seats": "24",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "LINC F084F01T",
-            "CRN": "31461",
-            "desc": "VINYL CUTTER FUNDAMENTALS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "01/18/2022",
-            "end": "03/18/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Pereira",
-            "seats": "24",
             "wait_seats": "0",
             "wait_cap": "0"
           }
