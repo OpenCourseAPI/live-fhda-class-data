@@ -102,7 +102,7 @@
             "course": "ANTH F001.07W",
             "CRN": "31895",
             "desc": "INTRO TO PHYSICAL ANTHRO",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "01/17/2022",
@@ -111,7 +111,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Connell",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "15"
           }
@@ -132,7 +132,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Davidson",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -266,7 +266,50 @@
     }
   },
   "ATHL": {
-    "1": {}
+    "1": {
+      "4B": {
+        "31868": [
+          {
+            "course": "ATHL F004B03",
+            "CRN": "31868",
+            "desc": "SPORT TECH/COND FOOTBALL",
+            "status": "Open",
+            "days": "MTWTh",
+            "time": "08:00 AM-09:45 AM",
+            "start": "01/18/2022",
+            "end": "03/25/2022",
+            "room": "LWFLD",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Staff",
+            "seats": "25",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
+        ]
+      },
+      "4E": {
+        "31869": [
+          {
+            "course": "ATHL F004E03",
+            "CRN": "31869",
+            "desc": "INTERCOLLEGIATE FOOTBALL (MEN)",
+            "status": "Open",
+            "days": "MW",
+            "time": "06:10 AM-07:50 AM",
+            "start": "01/18/2022",
+            "end": "03/25/2022",
+            "room": "2905",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Staff",
+            "seats": "26",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
+        ]
+      }
+    }
   },
   "BIOL": {
     "1": {
