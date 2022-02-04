@@ -68,7 +68,7 @@
             "course": "ACTG F076.05W",
             "CRN": "31912",
             "desc": "ETHICS IN ACCOUNTING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "02/14/2022",
@@ -77,7 +77,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mendizabal",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -747,6 +747,27 @@
   },
   "LINC": {
     "1": {
+      "53B": {
+        "32029": [
+          {
+            "course": "LINC F053B01W",
+            "CRN": "32029",
+            "desc": "INTEGRAT TECH INTO MATH 6-8",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "03/07/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "0.50",
+            "instructor": "Pereira",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "57": {
         "31463": [
           {
@@ -843,6 +864,27 @@
             "units": "1.00",
             "instructor": "Florendo",
             "seats": "3",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
+      "79": {
+        "32030": [
+          {
+            "course": "LINC F079.01W",
+            "CRN": "32030",
+            "desc": "MULTIMEDIA PROJ PRODUCTION",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "03/07/2022",
+            "end": "03/25/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Pereira",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
