@@ -22,27 +22,6 @@
   },
   "AUTO": {
     "1": {
-      "60J": {
-        "36332": [
-          {
-            "course": "AUTO D060J96",
-            "CRN": "36332",
-            "desc": "ADV LAB SCOPE/WAVFRM DIAG",
-            "status": "Open",
-            "days": "TTh",
-            "time": "06:00 PM-10:15 PM",
-            "start": "02/14/2022",
-            "end": "03/25/2022",
-            "room": "E12F",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Silva",
-            "seats": "8",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
       "93B": {
         "34749": [
           {
@@ -81,44 +60,6 @@
           }
         ]
       },
-      "94D": {
-        "34421": [
-          {
-            "course": "AUTO D094D56",
-            "CRN": "34421",
-            "desc": "MACHINING & ENGIN SERVIC",
-            "status": "Open",
-            "days": "TWThF",
-            "time": "07:30 AM-09:20 AM",
-            "start": "02/14/2022",
-            "end": "03/25/2022",
-            "room": "E12B",
-            "campus": "DA",
-            "units": "6.00",
-            "instructor": "Capitolo",
-            "seats": "3",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "AUTO D094D56",
-            "CRN": "34421",
-            "desc": "MACHINING & ENGIN SERVIC",
-            "status": "Open",
-            "days": "TWThF",
-            "time": "09:30 AM-12:20 PM",
-            "start": "02/14/2022",
-            "end": "03/25/2022",
-            "room": "E12B",
-            "campus": "DA",
-            "units": "6.00",
-            "instructor": "Capitolo",
-            "seats": "3",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
       "99D": {
         "34423": [
           {
@@ -152,27 +93,6 @@
             "units": "7.00",
             "instructor": "Vernazza",
             "seats": "3",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "360J": {
-        "37094": [
-          {
-            "course": "AUTO D360J96",
-            "CRN": "37094",
-            "desc": "ADV LAB SCOPE/WAVFRM DIAG",
-            "status": "Open",
-            "days": "TTh",
-            "time": "06:00 PM-10:15 PM",
-            "start": "02/14/2022",
-            "end": "03/25/2022",
-            "room": "E12F",
-            "campus": "DA",
-            "units": "0.00",
-            "instructor": "Silva",
-            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -1111,107 +1031,7 @@
     "1": {}
   },
   "NURS": {
-    "1": {
-      "93": {
-        "36976": [
-          {
-            "course": "NURS D093.02Z",
-            "CRN": "36976",
-            "desc": "REPRODUCTIVE HEALTH NURSING",
-            "status": "Open",
-            "days": "F",
-            "time": "08:30 AM-12:20 PM",
-            "start": "02/14/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Libova",
-            "seats": "9",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "NURS D093.02Z",
-            "CRN": "36976",
-            "desc": "REPRODUCTIVE HEALTH NURSING",
-            "status": "Open",
-            "days": "Th",
-            "time": "01:30 PM-05:20 PM",
-            "start": "02/14/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Libova",
-            "seats": "9",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "94A": {
-        "36987": [
-          {
-            "course": "NURS D094A02Z",
-            "CRN": "36987",
-            "desc": "PSYCH/MENTAL HEALTH NURSING",
-            "status": "Open",
-            "days": "Th",
-            "time": "10:30 AM-02:20 PM",
-            "start": "02/14/2022",
-            "end": "03/25/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Gifford",
-            "seats": "7",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "91BL": {
-        "36958": [
-          {
-            "course": "NURS D91BL01F",
-            "CRN": "36958",
-            "desc": "FUND OF NURS/SUB-ACUTE CLINIC",
-            "status": "Full",
-            "days": "WTh",
-            "time": "06:30 AM-12:45 PM",
-            "start": "02/14/2022",
-            "end": "03/25/2022",
-            "room": "HOSP",
-            "campus": "DO",
-            "units": "2.00",
-            "instructor": "Manarang",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "36959": [
-          {
-            "course": "NURS D91BL02F",
-            "CRN": "36959",
-            "desc": "FUND OF NURS/SUB-ACUTE CLINIC",
-            "status": "Open",
-            "days": "WTh",
-            "time": "06:30 AM-12:45 PM",
-            "start": "02/14/2022",
-            "end": "03/25/2022",
-            "room": "HOSP",
-            "campus": "DO",
-            "units": "2.00",
-            "instructor": "White",
-            "seats": "1",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "NUTR": {
     "1": {
@@ -1295,7 +1115,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Fong",
-            "seats": "6",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "5"
           }
