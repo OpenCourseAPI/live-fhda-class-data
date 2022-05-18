@@ -319,7 +319,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Alem",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -336,7 +336,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Alem",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -4587,14 +4587,31 @@
             "CRN": "13405",
             "desc": "COLLEGE MAJOR AND CAREER OPTIO",
             "status": "Open",
-            "days": "MTh",
-            "time": "02:00 PM-03:50 PM",
+            "days": "WF",
+            "time": "11:15 AM-12:45 PM",
             "start": "08/22/2022",
             "end": "09/30/2022",
             "room": "CUPHS",
             "campus": "DO",
             "units": "2.00",
-            "instructor": "Pang",
+            "instructor": "Tran",
+            "seats": "35",
+            "wait_seats": "7",
+            "wait_cap": "7"
+          },
+          {
+            "course": "CLP D005.1GF",
+            "CRN": "13405",
+            "desc": "COLLEGE MAJOR AND CAREER OPTIO",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/22/2022",
+            "end": "09/30/2022",
+            "room": "ONLINE",
+            "campus": "DO",
+            "units": "2.00",
+            "instructor": "Tran",
             "seats": "35",
             "wait_seats": "7",
             "wait_cap": "7"
@@ -10892,7 +10909,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Markus",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "6",
             "wait_cap": "6"
           }
