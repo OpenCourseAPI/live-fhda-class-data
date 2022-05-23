@@ -16,7 +16,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -649,7 +649,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Cole",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -1360,7 +1360,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bram",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -1950,7 +1950,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yurtseven",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3453,7 +3453,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yeh",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -3470,7 +3470,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yeh",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -5503,7 +5503,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Gallegos",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -6129,7 +6129,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Zill",
-            "seats": "44",
+            "seats": "43",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6188,7 +6188,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Brady",
-            "seats": "42",
+            "seats": "41",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -6205,7 +6205,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Brady",
-            "seats": "42",
+            "seats": "41",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6559,7 +6559,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Poffenroth",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7394,14 +7394,33 @@
   "EWRT": {
     "1": {
       "1A": {
+        "13437": [
+          {
+            "course": "EWRT D001A01A",
+            "CRN": "13437",
+            "desc": "COMPOSITION AND READING",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "PARIS",
+            "campus": "DO",
+            "units": "5.00",
+            "instructor": "Palmore",
+            "seats": "15",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "12792": [
           {
             "course": "EWRT D001A01Q",
             "CRN": "12792",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "08:30 AM-10:45 AM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -7417,8 +7436,8 @@
             "CRN": "12792",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "MW",
-            "time": "08:30 AM-10:45 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -7444,7 +7463,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morfee",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -7461,7 +7480,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morfee",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7472,8 +7491,8 @@
             "CRN": "00452",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "TTh",
-            "time": "10:00 AM-12:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -7489,8 +7508,8 @@
             "CRN": "00452",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "10:00 AM-12:15 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -10620,7 +10639,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11221,7 +11240,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Moen",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -13585,7 +13604,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -14313,7 +14332,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Alcazar",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -14330,7 +14349,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Alcazar",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "7",
             "wait_cap": "7"
           }
