@@ -1313,7 +1313,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Price",
-            "seats": "49",
+            "seats": "48",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -1372,7 +1372,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Price",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3944,7 +3944,7 @@
       "5": {
         "10802": [
           {
-            "course": "CNSL F005.01",
+            "course": "CNSL F005.02",
             "CRN": "10802",
             "desc": "INTRODUCTION TO COLLEGE",
             "status": "Full",
@@ -3959,6 +3959,44 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
+          }
+        ],
+        "10880": [
+          {
+            "course": "CNSL F005.03W",
+            "CRN": "10880",
+            "desc": "INTRODUCTION TO COLLEGE",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/02/2022",
+            "end": "08/20/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Bertani",
+            "seats": "30",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          }
+        ],
+        "10881": [
+          {
+            "course": "CNSL F005.04V",
+            "CRN": "10881",
+            "desc": "INTRODUCTION TO COLLEGE",
+            "status": "Open",
+            "days": "MTWTh",
+            "time": "11:00 AM-01:50 PM",
+            "start": "09/12/2022",
+            "end": "09/15/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.00",
+            "instructor": "Freeman",
+            "seats": "30",
+            "wait_seats": "15",
+            "wait_cap": "15"
           }
         ]
       },
@@ -5595,7 +5633,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Armerding",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -11321,23 +11359,6 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "2.00",
-            "instructor": "Hills",
-            "seats": "6",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F070A01",
-            "CRN": "10445",
-            "desc": "CLINICAL ROTATION I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "2.00",
             "instructor": "Vo",
             "seats": "6",
             "wait_seats": "0",
@@ -11393,27 +11414,23 @@
             "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
-          }
-        ]
-      },
-      "82": {
-        "10259": [
+          },
           {
-            "course": "RSPT F082.01W",
-            "CRN": "10259",
-            "desc": "ORIENT INTERVENTIONAL PULMONOL",
+            "course": "RSPT F070A01",
+            "CRN": "10445",
+            "desc": "CLINICAL ROTATION I",
             "status": "Open",
             "days": "TBA",
             "time": "TBA",
-            "start": "08/08/2022",
+            "start": "06/27/2022",
             "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
+            "room": "HOSP",
+            "campus": "FO",
             "units": "2.00",
-            "instructor": "Lum",
-            "seats": "35",
-            "wait_seats": "5",
-            "wait_cap": "5"
+            "instructor": "Hills",
+            "seats": "6",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -12268,7 +12285,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Standish",
-            "seats": "46",
+            "seats": "45",
             "wait_seats": "20",
             "wait_cap": "20"
           }
