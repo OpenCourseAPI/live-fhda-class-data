@@ -2555,10 +2555,10 @@
             "desc": "MICROBIOLOGY",
             "status": "Open",
             "days": "MTWTh",
-            "time": "05:30 PM-06:45 PM",
+            "time": "07:00 PM-09:05 PM",
             "start": "06/27/2022",
             "end": "08/19/2022",
-            "room": "5001",
+            "room": "5102",
             "campus": "FH",
             "units": "6.00",
             "instructor": "Staff",
@@ -2572,16 +2572,37 @@
             "desc": "MICROBIOLOGY",
             "status": "Open",
             "days": "MTWTh",
-            "time": "07:00 PM-09:05 PM",
+            "time": "05:30 PM-06:45 PM",
             "start": "06/27/2022",
             "end": "08/19/2022",
-            "room": "5102",
+            "room": "5001",
             "campus": "FH",
             "units": "6.00",
             "instructor": "Staff",
             "seats": "20",
             "wait_seats": "12",
             "wait_cap": "12"
+          }
+        ]
+      },
+      "71R": {
+        "10882": [
+          {
+            "course": "BIOL F071R01",
+            "CRN": "10882",
+            "desc": "INDEPENDENT STUDY BIOLOGY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "07/22/2022",
+            "room": "TBA",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Couper",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
@@ -6502,7 +6523,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Dargahi",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10527,7 +10548,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "50",
+            "seats": "49",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11213,7 +11234,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "0.50",
-            "instructor": "Hanning",
+            "instructor": "Staff",
             "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -11230,7 +11251,7 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "0.50",
-            "instructor": "Staff",
+            "instructor": "Hanning",
             "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
@@ -11239,23 +11260,6 @@
       },
       "61A": {
         "10022": [
-          {
-            "course": "RSPT F061A01",
-            "CRN": "10022",
-            "desc": "ADULT MECH VENTILATION",
-            "status": "Full",
-            "days": "M",
-            "time": "08:00 AM-01:55 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "5015",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Barraza",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
           {
             "course": "RSPT F061A01",
             "CRN": "10022",
@@ -11272,26 +11276,26 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
-          }
-        ],
-        "10023": [
+          },
           {
-            "course": "RSPT F061A02",
-            "CRN": "10023",
+            "course": "RSPT F061A01",
+            "CRN": "10022",
             "desc": "ADULT MECH VENTILATION",
-            "status": "Open",
+            "status": "Full",
             "days": "M",
-            "time": "08:00 AM-01:50 PM",
+            "time": "08:00 AM-01:55 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "5015",
             "campus": "FH",
             "units": "4.00",
             "instructor": "Barraza",
-            "seats": "6",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
-          },
+          }
+        ],
+        "10023": [
           {
             "course": "RSPT F061A02",
             "CRN": "10023",
@@ -11305,6 +11309,23 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hills",
+            "seats": "6",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "RSPT F061A02",
+            "CRN": "10023",
+            "desc": "ADULT MECH VENTILATION",
+            "status": "Open",
+            "days": "M",
+            "time": "08:00 AM-01:50 PM",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "5015",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Barraza",
             "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -11325,58 +11346,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "2.00",
-            "instructor": "Hanning",
-            "seats": "6",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F070A01",
-            "CRN": "10445",
-            "desc": "CLINICAL ROTATION I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "2.00",
-            "instructor": "Barraza",
-            "seats": "6",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F070A01",
-            "CRN": "10445",
-            "desc": "CLINICAL ROTATION I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "2.00",
-            "instructor": "Vo",
-            "seats": "6",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F070A01",
-            "CRN": "10445",
-            "desc": "CLINICAL ROTATION I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "2.00",
-            "instructor": "Wee Tom",
+            "instructor": "Wedeking",
             "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -11410,7 +11380,41 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "2.00",
-            "instructor": "Wedeking",
+            "instructor": "Wee Tom",
+            "seats": "6",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "RSPT F070A01",
+            "CRN": "10445",
+            "desc": "CLINICAL ROTATION I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "09/16/2022",
+            "room": "HOSP",
+            "campus": "FO",
+            "units": "2.00",
+            "instructor": "Vo",
+            "seats": "6",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "RSPT F070A01",
+            "CRN": "10445",
+            "desc": "CLINICAL ROTATION I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "09/16/2022",
+            "room": "HOSP",
+            "campus": "FO",
+            "units": "2.00",
+            "instructor": "Barraza",
             "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -11431,27 +11435,23 @@
             "seats": "6",
             "wait_seats": "0",
             "wait_cap": "0"
-          }
-        ]
-      },
-      "83": {
-        "10260": [
+          },
           {
-            "course": "RSPT F083.01W",
-            "CRN": "10260",
-            "desc": "CASEBASED ANA/CRITICAL THNK IP",
+            "course": "RSPT F070A01",
+            "CRN": "10445",
+            "desc": "CLINICAL ROTATION I",
             "status": "Open",
             "days": "TBA",
             "time": "TBA",
-            "start": "08/08/2022",
+            "start": "06/27/2022",
             "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
+            "room": "HOSP",
+            "campus": "FO",
             "units": "2.00",
-            "instructor": "Lum",
-            "seats": "35",
-            "wait_seats": "5",
-            "wait_cap": "5"
+            "instructor": "Hanning",
+            "seats": "6",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
