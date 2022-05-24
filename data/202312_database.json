@@ -1195,7 +1195,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Heyer",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -1212,7 +1212,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Heyer",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -1229,7 +1229,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Heyer",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -1250,7 +1250,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Pane",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -1267,7 +1267,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Pane",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1891,7 +1891,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Garbe",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2013,7 +2013,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hernandez",
-            "seats": "46",
+            "seats": "45",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3542,7 +3542,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "38",
+            "seats": "39",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -7041,7 +7041,7 @@
             "campus": "DA",
             "units": "6.00",
             "instructor": "Kohnhorst",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -7769,7 +7769,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Diehl",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7866,7 +7866,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wann",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8721,7 +8721,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "39",
+            "seats": "38",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8816,7 +8816,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "38",
+            "seats": "37",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9354,7 +9354,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hughes",
-            "seats": "32",
+            "seats": "33",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -9365,6 +9365,25 @@
   "HUMI": {
     "1": {
       "1": {
+        "13443": [
+          {
+            "course": "HUMI D001.01A",
+            "CRN": "13443",
+            "desc": "CREATIVE MINDS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "PARIS",
+            "campus": "DO",
+            "units": "4.00",
+            "instructor": "Breiter",
+            "seats": "15",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "00568": [
           {
             "course": "HUMI D001.01Z",
@@ -9426,11 +9445,11 @@
             "CRN": "13357",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "W",
-            "time": "12:30 PM-02:55 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "ADM101",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "4.00",
             "instructor": "Jin",
@@ -9443,11 +9462,11 @@
             "CRN": "13357",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "12:30 PM-02:55 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "ONLINE",
+            "room": "ADM101",
             "campus": "DA",
             "units": "4.00",
             "instructor": "Jin",
@@ -9462,11 +9481,11 @@
             "CRN": "13358",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "03:30 PM-05:25 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "ONLINE",
+            "room": "ADM101",
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rueda",
@@ -9479,11 +9498,11 @@
             "CRN": "13358",
             "desc": "CREATIVE MINDS",
             "status": "Open",
-            "days": "T",
-            "time": "03:30 PM-05:25 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "ADM101",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rueda",
@@ -9547,6 +9566,27 @@
             "seats": "30",
             "wait_seats": "15",
             "wait_cap": "15"
+          }
+        ]
+      },
+      "2": {
+        "13444": [
+          {
+            "course": "HUMI D002.01A",
+            "CRN": "13444",
+            "desc": "BUT IS IT ART? QUESTNS/CRITCSM",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "PARIS",
+            "campus": "DO",
+            "units": "4.00",
+            "instructor": "Breiter",
+            "seats": "15",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -9649,7 +9689,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wood",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -9718,7 +9758,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Donahue",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -9739,7 +9779,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Catuiza",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11265,7 +11305,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tran",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -13884,7 +13924,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Healy",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "8",
             "wait_cap": "8"
           }
