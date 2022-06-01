@@ -2897,7 +2897,7 @@
             "units": "4.50",
             "instructor": "Meade",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -2934,7 +2934,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Cecil",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2965,7 +2965,7 @@
             "course": "C S F001B01W",
             "CRN": "10220",
             "desc": "INTERM SOFTWARE DESIGN IN JAVA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -2974,8 +2974,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Harden",
-            "seats": "0",
-            "wait_seats": "6",
+            "seats": "1",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -3931,7 +3931,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Carducci",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5597,7 +5597,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Escamilla",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -5753,7 +5753,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Chan",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -6200,7 +6200,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9042,7 +9042,7 @@
             "course": "MTEC F050A01W",
             "CRN": "10261",
             "desc": "INTRO TO MUSIC TECHNOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -9051,7 +9051,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10090,7 +10090,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Chang",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10149,7 +10149,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tapia",
-            "seats": "48",
+            "seats": "49",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10195,7 +10195,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Martin",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11784,25 +11784,6 @@
   "SPAN": {
     "1": {
       "1": {
-        "10699": [
-          {
-            "course": "SPAN F001.01",
-            "CRN": "10699",
-            "desc": "ELEMENTARY SPANISH I",
-            "status": "Full",
-            "days": "MTWThF",
-            "time": "08:00 AM-02:20 PM",
-            "start": "06/27/2022",
-            "end": "07/08/2022",
-            "room": "5609",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Rivera-Montanez",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10151": [
           {
             "course": "SPAN F001.02W",
@@ -11824,25 +11805,6 @@
         ]
       },
       "2": {
-        "10700": [
-          {
-            "course": "SPAN F002.01",
-            "CRN": "10700",
-            "desc": "ELEMENTARY SPANISH II",
-            "status": "Full",
-            "days": "MTWThF",
-            "time": "08:00 AM-02:00 PM",
-            "start": "07/11/2022",
-            "end": "07/22/2022",
-            "room": "5609",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Rivera-Montanez",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10152": [
           {
             "course": "SPAN F002.02W",
