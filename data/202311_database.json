@@ -319,7 +319,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ghodrat",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -997,6 +997,25 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
+        ],
+        "10895": [
+          {
+            "course": "ALCB F413Y09",
+            "CRN": "10895",
+            "desc": "RELAXATION TECHNIQUES",
+            "status": "Open",
+            "days": "T",
+            "time": "11:00 AM-01:10 PM",
+            "start": "06/27/2022",
+            "end": "09/02/2022",
+            "room": "MPSC",
+            "campus": "FO",
+            "units": "0.00",
+            "instructor": "Mayall",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "414Y": {
@@ -1081,16 +1100,16 @@
             "course": "ALCB F414Y05",
             "CRN": "10894",
             "desc": "STRESS MANAGEMENT",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "status": "Open",
+            "days": "W",
+            "time": "03:00 PM-05:10 PM",
             "start": "06/27/2022",
             "end": "09/02/2022",
-            "room": "",
-            "campus": "",
+            "room": "ABL",
+            "campus": "FO",
             "units": "0.00",
-            "instructor": "Staff",
-            "seats": "0",
+            "instructor": "Mayall",
+            "seats": "30",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -3271,7 +3290,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6408,7 +6427,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Batham",
-            "seats": "20",
+            "seats": "21",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6424,7 +6443,7 @@
             "course": "HLTH F020.01W",
             "CRN": "10157",
             "desc": "INTRODUCTION TO PUBLIC HEALTH",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -6433,7 +6452,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Treanor",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -11628,7 +11647,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
