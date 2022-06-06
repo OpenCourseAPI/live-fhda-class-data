@@ -1619,7 +1619,7 @@
             "course": "ART F001.02W",
             "CRN": "10020",
             "desc": "INTRODUCTION TO ART",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -1628,7 +1628,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2902,7 +2902,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2980,7 +2980,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lamble",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3859,7 +3859,7 @@
             "units": "5.00",
             "instructor": "Hasan",
             "seats": "0",
-            "wait_seats": "-5",
+            "wait_seats": "-4",
             "wait_cap": "0"
           }
         ],
@@ -3896,7 +3896,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Firenzi",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -5541,7 +5541,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "40",
             "wait_cap": "40"
           }
@@ -6324,7 +6324,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Latteri",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8678,7 +8678,7 @@
             "course": "MUS F008.01W",
             "CRN": "10794",
             "desc": "MUSIC OF AMERICAN CULTURES",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8687,7 +8687,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Carey",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -10016,45 +10016,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "3",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
-        ],
-        "10322": [
-          {
-            "course": "PSYC F001.05W",
-            "CRN": "10322",
-            "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Pilati Corselli",
-            "seats": "45",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
-        ],
-        "10364": [
-          {
-            "course": "PSYC F001.06W",
-            "CRN": "10364",
-            "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Tuttle",
-            "seats": "48",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10184,27 +10146,6 @@
           }
         ]
       },
-      "39": {
-        "10119": [
-          {
-            "course": "PSYC F039.01W",
-            "CRN": "10119",
-            "desc": "PSYCHOLOGY OF SPORTS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Gerry",
-            "seats": "41",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
-        ]
-      },
       "40": {
         "10028": [
           {
@@ -10221,25 +10162,6 @@
             "units": "5.00",
             "instructor": "Clark",
             "seats": "35",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          }
-        ],
-        "10070": [
-          {
-            "course": "PSYC F040.02W",
-            "CRN": "10070",
-            "desc": "HUMAN DEVELOPMENT",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Paulos",
-            "seats": "44",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11036,25 +10958,6 @@
             "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
-          }
-        ],
-        "10156": [
-          {
-            "course": "SOC F001.03W",
-            "CRN": "10156",
-            "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Gibbs Stayte",
-            "seats": "50",
-            "wait_seats": "20",
-            "wait_cap": "20"
           }
         ],
         "10209": [
