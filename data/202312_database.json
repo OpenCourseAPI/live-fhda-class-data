@@ -7,7 +7,7 @@
             "course": "ACCT D001A61Z",
             "CRN": "10301",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -16,8 +16,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -584,7 +584,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Olsen",
-            "seats": "42",
+            "seats": "41",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -600,7 +600,7 @@
             "course": "ARTS D001A50Z",
             "CRN": "13070",
             "desc": "INTRO TO VISUAL ARTS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -609,8 +609,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mjelde",
-            "seats": "1",
-            "wait_seats": "11",
+            "seats": "0",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ],
@@ -708,7 +708,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -741,7 +741,7 @@
             "course": "ARTS D008.50Z",
             "CRN": "12923",
             "desc": "TWO-DIMENSIONAL DESIGN",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -750,8 +750,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hughes",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -2482,7 +2482,7 @@
             "course": "C D D064.01Z",
             "CRN": "10968",
             "desc": "HLTH,SAFETY & NUTRITION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "01:30 PM-02:20 PM",
             "start": "06/27/2022",
@@ -2491,7 +2491,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Vargas",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -2499,7 +2499,7 @@
             "course": "C D D064.01Z",
             "CRN": "10968",
             "desc": "HLTH,SAFETY & NUTRITION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -2508,7 +2508,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Vargas",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3107,7 +3107,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Loyola",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -3501,7 +3501,7 @@
             "course": "CIS D022A41Z",
             "CRN": "12985",
             "desc": "BEG PROG METHOD C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3510,15 +3510,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yeh",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "15"
           },
           {
             "course": "CIS D022A41Z",
             "CRN": "12985",
             "desc": "BEG PROG METHOD C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "W",
             "time": "06:00 PM-07:50 PM",
             "start": "06/27/2022",
@@ -3527,8 +3527,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yeh",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ],
@@ -3778,7 +3778,7 @@
             "course": "CIS D022C51Z",
             "CRN": "11306",
             "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3787,8 +3787,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Goel",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ],
@@ -4150,7 +4150,7 @@
             "course": "CIS D041A41Z",
             "CRN": "12988",
             "desc": "PYTHON PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "06:00 PM-09:50 PM",
             "start": "06/27/2022",
@@ -4160,14 +4160,14 @@
             "units": "4.50",
             "instructor": "Larkin",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           },
           {
             "course": "CIS D041A41Z",
             "CRN": "12988",
             "desc": "PYTHON PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -4177,7 +4177,7 @@
             "units": "4.50",
             "instructor": "Larkin",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "15"
           }
         ]
@@ -4502,7 +4502,7 @@
             "course": "CIS D21JA62Z",
             "CRN": "13069",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -4511,8 +4511,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Lau",
-            "seats": "1",
-            "wait_seats": "6",
+            "seats": "0",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ]
@@ -4745,7 +4745,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ganesh",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -7722,7 +7722,7 @@
             "course": "EWRT D001A26Z",
             "CRN": "13018",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -7731,7 +7731,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Malone",
-            "seats": "2",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9026,7 +9026,7 @@
             "campus": "DO",
             "units": "3.00",
             "instructor": "Miramontes",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10418,7 +10418,7 @@
             "course": "KNES D25AX50Z",
             "CRN": "13193",
             "desc": "STRETCHING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -10427,7 +10427,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Damjanovic",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "10"
           }
@@ -11286,7 +11286,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shi",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11558,7 +11558,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shah",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11618,7 +11618,7 @@
             "units": "5.00",
             "instructor": "Legge",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -11667,7 +11667,7 @@
             "course": "MATH D031.15Z",
             "CRN": "13393",
             "desc": "PRECALCULUS I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/27/2022",
@@ -11676,7 +11676,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rudolf",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11733,7 +11733,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rudolf",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11792,7 +11792,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rashid",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11897,7 +11897,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "James",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13414,7 +13414,7 @@
             "course": "PHIL D001.50Z",
             "CRN": "13353",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -13423,7 +13423,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Galindo",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "15"
           }
@@ -13452,7 +13452,7 @@
             "course": "PHIL D001.65Z",
             "CRN": "12517",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -13461,7 +13461,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Booher",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13578,7 +13578,7 @@
             "course": "PHTG D001.01Y",
             "CRN": "13147",
             "desc": "BASIC PHOTOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "T",
             "time": "10:30 AM-12:20 PM",
             "start": "06/27/2022",
@@ -13587,7 +13587,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Kaneko",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -13595,7 +13595,7 @@
             "course": "PHTG D001.01Y",
             "CRN": "13147",
             "desc": "BASIC PHOTOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -13604,7 +13604,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Kaneko",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -13612,7 +13612,7 @@
             "course": "PHTG D001.01Y",
             "CRN": "13147",
             "desc": "BASIC PHOTOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -13621,7 +13621,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Kaneko",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -13829,7 +13829,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tarikh",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -13846,7 +13846,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tarikh",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -14017,7 +14017,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Schendan",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -14498,7 +14498,7 @@
             "course": "SOC D001.50Z",
             "CRN": "10960",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -14507,8 +14507,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pasion",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -14715,7 +14715,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Coronado",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "35",
             "wait_cap": "35"
           }
@@ -14734,7 +14734,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Coronado",
-            "seats": "43",
+            "seats": "42",
             "wait_seats": "35",
             "wait_cap": "35"
           }
