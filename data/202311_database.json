@@ -319,7 +319,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ghodrat",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2509,7 +2509,7 @@
       "40C": {
         "10234": [
           {
-            "course": "BIOL F040C01Y",
+            "course": "BIOL F040C01T",
             "CRN": "10234",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Waitlist",
@@ -2517,7 +2517,7 @@
             "time": "10:00 AM-11:50 AM",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "8402",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lagna",
@@ -2526,24 +2526,7 @@
             "wait_cap": "20"
           },
           {
-            "course": "BIOL F040C01Y",
-            "CRN": "10234",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Waitlist",
-            "days": "MW",
-            "time": "12:30 PM-03:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "8710",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Staff",
-            "seats": "0",
-            "wait_seats": "16",
-            "wait_cap": "20"
-          },
-          {
-            "course": "BIOL F040C01Y",
+            "course": "BIOL F040C01T",
             "CRN": "10234",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Waitlist",
@@ -2558,11 +2541,28 @@
             "seats": "0",
             "wait_seats": "16",
             "wait_cap": "20"
+          },
+          {
+            "course": "BIOL F040C01T",
+            "CRN": "10234",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
+            "status": "Waitlist",
+            "days": "MW",
+            "time": "12:30 PM-03:20 PM",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "8710",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "16",
+            "wait_cap": "20"
           }
         ],
         "10242": [
           {
-            "course": "BIOL F040C02Y",
+            "course": "BIOL F040C02T",
             "CRN": "10242",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Open",
@@ -2570,7 +2570,7 @@
             "time": "10:00 AM-11:50 AM",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "8338",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lagna",
@@ -2579,7 +2579,7 @@
             "wait_cap": "20"
           },
           {
-            "course": "BIOL F040C02Y",
+            "course": "BIOL F040C02T",
             "CRN": "10242",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Open",
@@ -2596,7 +2596,7 @@
             "wait_cap": "20"
           },
           {
-            "course": "BIOL F040C02Y",
+            "course": "BIOL F040C02T",
             "CRN": "10242",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Open",
@@ -2651,42 +2651,6 @@
             "wait_cap": "12"
           }
         ],
-        "10776": [
-          {
-            "course": "BIOL F041.02",
-            "CRN": "10776",
-            "desc": "MICROBIOLOGY",
-            "status": "Full",
-            "days": "MTWTh",
-            "time": "12:00 PM-01:15 PM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "5001",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Staff",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "BIOL F041.02",
-            "CRN": "10776",
-            "desc": "MICROBIOLOGY",
-            "status": "Full",
-            "days": "MTWTh",
-            "time": "02:30 PM-04:35 PM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "5105",
-            "campus": "FH",
-            "units": "6.00",
-            "instructor": "Staff",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10777": [
           {
             "course": "BIOL F041.03",
@@ -2731,11 +2695,11 @@
             "CRN": "10882",
             "desc": "INDEPENDENT STUDY BIOLOGY",
             "status": "Open",
-            "days": "W",
-            "time": "01:00 PM-02:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "07/22/2022",
-            "room": "4602",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Couper",
@@ -2748,15 +2712,34 @@
             "CRN": "10882",
             "desc": "INDEPENDENT STUDY BIOLOGY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "01:00 PM-02:50 PM",
             "start": "06/27/2022",
             "end": "07/22/2022",
-            "room": "ONLINE",
+            "room": "4602",
             "campus": "FH",
             "units": "2.00",
             "instructor": "Couper",
             "seats": "9",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10896": [
+          {
+            "course": "BIOL F071R02W",
+            "CRN": "10896",
+            "desc": "INDEPENDENT STUDY BIOLOGY",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "07/11/2022",
+            "end": "08/19/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Erickson",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2973,7 +2956,7 @@
             "units": "4.50",
             "instructor": "Meade",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ],
@@ -3020,7 +3003,7 @@
             "course": "C S F001A04W",
             "CRN": "10130",
             "desc": "OBJ-ORIENTED PROG METHOD JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3029,7 +3012,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Trinh",
-            "seats": "37",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3180,7 +3163,7 @@
             "course": "C S F003A04W",
             "CRN": "10286",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3189,7 +3172,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Trinh",
-            "seats": "33",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3218,7 +3201,7 @@
             "course": "C S F003A07W",
             "CRN": "10346",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3227,7 +3210,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lamble",
-            "seats": "35",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3458,7 +3441,7 @@
             "course": "C S F055G01W",
             "CRN": "10430",
             "desc": "AWS CLOUD PRACTNR CERT PREP",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3467,7 +3450,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Murphy",
-            "seats": "35",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3519,7 +3502,7 @@
             "course": "CHEM F001A02Y",
             "CRN": "10053",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "02:00 PM-04:50 PM",
             "start": "06/27/2022",
@@ -3528,7 +3511,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salehi",
-            "seats": "25",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -3536,7 +3519,7 @@
             "course": "CHEM F001A02Y",
             "CRN": "10053",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3545,7 +3528,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Salehi",
-            "seats": "25",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3819,7 +3802,7 @@
             "course": "CHEM F030A03",
             "CRN": "10443",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:00 PM-01:50 PM",
             "start": "06/27/2022",
@@ -3828,7 +3811,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cormia",
-            "seats": "30",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -3836,7 +3819,7 @@
             "course": "CHEM F030A03",
             "CRN": "10443",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "02:00 PM-04:50 PM",
             "start": "06/27/2022",
@@ -3845,7 +3828,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cormia",
-            "seats": "30",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3855,7 +3838,7 @@
             "course": "CHEM F030A04",
             "CRN": "10444",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:00 PM-01:50 PM",
             "start": "06/27/2022",
@@ -3864,7 +3847,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cormia",
-            "seats": "30",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -3872,7 +3855,7 @@
             "course": "CHEM F030A04",
             "CRN": "10444",
             "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "02:00 PM-04:50 PM",
             "start": "06/27/2022",
@@ -3881,7 +3864,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cormia",
-            "seats": "30",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6209,7 +6192,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davis",
-            "seats": "29",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6234,7 +6217,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7182,7 +7165,7 @@
             "course": "JAPN F001.01Z",
             "CRN": "10308",
             "desc": "ELEMENTARY JAPANESE I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "M",
             "time": "11:30 AM-12:20 PM",
             "start": "06/27/2022",
@@ -7191,7 +7174,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Yasutake",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "45",
             "wait_cap": "50"
           },
@@ -7199,7 +7182,7 @@
             "course": "JAPN F001.01Z",
             "CRN": "10308",
             "desc": "ELEMENTARY JAPANESE I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -7208,7 +7191,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Yasutake",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "45",
             "wait_cap": "50"
           }
@@ -7321,7 +7304,7 @@
             "course": "KINS F002.01W",
             "CRN": "10873",
             "desc": "SPORT IN SOCIETY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "08/08/2022",
@@ -7330,7 +7313,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7351,7 +7334,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Bissell",
-            "seats": "31",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8529,7 +8512,7 @@
             "course": "MATH F010.01",
             "CRN": "10012",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "01:30 PM-03:50 PM",
             "start": "06/27/2022",
@@ -8538,7 +8521,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tomutiu",
-            "seats": "36",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8624,7 +8607,7 @@
             "course": "MATH F010.06W",
             "CRN": "10122",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8633,7 +8616,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Maskalevich",
-            "seats": "34",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8662,7 +8645,7 @@
             "course": "MATH F010.08W",
             "CRN": "10238",
             "desc": "ELEMENTARY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8671,7 +8654,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryker",
-            "seats": "38",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8980,7 +8963,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Ward",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10147,7 +10130,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Chang",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11025,6 +11008,23 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "4.50",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "R T F053A01",
+            "CRN": "10704",
+            "desc": "APPLIED RAD TECHNOLOGY I",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "08:00 AM-04:10 PM",
+            "start": "06/27/2022",
+            "end": "07/26/2022",
+            "room": "HOSP",
+            "campus": "FO",
+            "units": "4.50",
             "instructor": "Campbell",
             "seats": "0",
             "wait_seats": "0",
@@ -11647,7 +11647,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
