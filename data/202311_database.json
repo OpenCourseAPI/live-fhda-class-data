@@ -54,7 +54,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mayer",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -176,7 +176,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ardizzone",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -462,7 +462,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Novikov",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -702,7 +702,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Leicht",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3005,7 +3005,7 @@
             "course": "C S F001B01W",
             "CRN": "10220",
             "desc": "INTERM SOFTWARE DESIGN IN JAVA",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3015,7 +3015,7 @@
             "units": "4.50",
             "instructor": "Harden",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -3075,7 +3075,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3139,25 +3139,6 @@
             "wait_cap": "10"
           }
         ],
-        "10286": [
-          {
-            "course": "C S F003A04W",
-            "CRN": "10286",
-            "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Trinh",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "10293": [
           {
             "course": "C S F003A05W",
@@ -3173,25 +3154,6 @@
             "units": "4.50",
             "instructor": "Lamble",
             "seats": "15",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "10346": [
-          {
-            "course": "C S F003A07W",
-            "CRN": "10346",
-            "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Lamble",
-            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3309,8 +3271,8 @@
             "CRN": "10356",
             "desc": "INTRO CLOUD COMPUTNG AWS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "06:00 PM-09:50 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -3326,8 +3288,8 @@
             "CRN": "10356",
             "desc": "INTRO CLOUD COMPUTNG AWS",
             "status": "Open",
-            "days": "MW",
-            "time": "06:00 PM-09:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -3415,27 +3377,6 @@
             "wait_cap": "10"
           }
         ]
-      },
-      "55G": {
-        "10430": [
-          {
-            "course": "C S F055G01W",
-            "CRN": "10430",
-            "desc": "AWS CLOUD PRACTNR CERT PREP",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Murphy",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
       }
     }
   },
@@ -3474,42 +3415,6 @@
             "units": "5.00",
             "instructor": "Li",
             "seats": "7",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "10053": [
-          {
-            "course": "CHEM F001A02Y",
-            "CRN": "10053",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "02:00 PM-04:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "4801",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Salehi",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "CHEM F001A02Y",
-            "CRN": "10053",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Salehi",
-            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3619,11 +3524,11 @@
             "CRN": "10266",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "02:00 PM-04:50 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "ONLINE",
+            "room": "4812",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Esfandiari",
@@ -3636,11 +3541,11 @@
             "CRN": "10266",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Open",
-            "days": "MW",
-            "time": "02:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "4812",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Esfandiari",
@@ -3655,11 +3560,11 @@
             "CRN": "10223",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "02:00 PM-04:50 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "ONLINE",
+            "room": "4812",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Esfandiari",
@@ -3672,11 +3577,11 @@
             "CRN": "10223",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Open",
-            "days": "TTh",
-            "time": "02:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "4812",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Esfandiari",
@@ -5657,7 +5562,7 @@
             "units": "5.00",
             "instructor": "Harvey",
             "seats": "0",
-            "wait_seats": "21",
+            "wait_seats": "20",
             "wait_cap": "25"
           }
         ]
@@ -6240,7 +6145,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8401,7 +8306,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Pham",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8598,7 +8503,7 @@
             "units": "5.00",
             "instructor": "Maskalevich",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -10386,7 +10291,7 @@
             "course": "PHYS F006.01W",
             "CRN": "10057",
             "desc": "INTRODUCTORY PHYSICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -10395,7 +10300,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "10"
           }
@@ -11363,7 +11268,7 @@
             "units": "1.50",
             "instructor": "Chesser-Nielsen",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "25"
           }
         ]
