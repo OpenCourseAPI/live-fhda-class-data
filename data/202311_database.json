@@ -85,7 +85,7 @@
             "course": "ACTG F001B02W",
             "CRN": "10131",
             "desc": "FINANCIAL ACCOUNTING II",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -94,7 +94,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Wang-Nava",
-            "seats": "0",
+            "seats": "40",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -169,7 +169,7 @@
             "course": "ACTG F053.01W",
             "CRN": "10147",
             "desc": "FINANCIAL STATEMENT ANALYSIS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -178,7 +178,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Fakoor",
-            "seats": "0",
+            "seats": "38",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -331,7 +331,7 @@
             "course": "ACTG F064A02W",
             "CRN": "10825",
             "desc": "COMPUTERIZED ACTG PRAC:QUICKBO",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -340,7 +340,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "0",
+            "seats": "40",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -1469,7 +1469,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jenkins",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -1841,7 +1841,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1863,7 +1863,7 @@
             "units": "4.00",
             "instructor": "Gomes",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "21",
             "wait_cap": "30"
           }
         ],
@@ -2949,7 +2949,7 @@
             "campus": "FC",
             "units": "3.00",
             "instructor": "Harmon",
-            "seats": "34",
+            "seats": "35",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3172,7 +3172,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lamble",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4073,6 +4073,25 @@
             "wait_seats": "18",
             "wait_cap": "20"
           }
+        ],
+        "10898": [
+          {
+            "course": "COMM F001A07W",
+            "CRN": "10898",
+            "desc": "PUBLIC SPEAKING",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "",
+            "campus": "",
+            "units": "5.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
         ]
       },
       "2": {
@@ -4901,7 +4920,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "40",
+            "seats": "39",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5511,6 +5530,25 @@
             "seats": "0",
             "wait_seats": "18",
             "wait_cap": "25"
+          }
+        ],
+        "10897": [
+          {
+            "course": "ENGL F001A06W",
+            "CRN": "10897",
+            "desc": "COMPOSITION & READING",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "La Piana",
+            "seats": "29",
+            "wait_seats": "20",
+            "wait_cap": "20"
           }
         ]
       },
@@ -6495,7 +6533,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hoekenga",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10012,7 +10050,7 @@
             "units": "4.00",
             "instructor": "Peeler",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -11630,7 +11668,7 @@
             "units": "5.00",
             "instructor": "Crespo-Martin",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "14",
             "wait_cap": "25"
           }
         ]
@@ -11650,7 +11688,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Crespo-Martin",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "25",
             "wait_cap": "25"
           }
