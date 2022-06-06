@@ -54,7 +54,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mayer",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -216,7 +216,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Bowman",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -340,7 +340,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -1901,7 +1901,7 @@
             "units": "4.00",
             "instructor": "Gomes",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "21",
             "wait_cap": "30"
           }
         ]
@@ -2956,7 +2956,7 @@
             "units": "4.50",
             "instructor": "Meade",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ],
@@ -2993,7 +2993,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Cecil",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3094,7 +3094,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3191,7 +3191,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Lamble",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5049,7 +5049,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6280,7 +6280,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Brown",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -7355,7 +7355,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Mac Neil",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8460,7 +8460,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Park Lee",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8579,7 +8579,7 @@
             "units": "5.00",
             "instructor": "Mudge",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "6",
             "wait_cap": "10"
           }
         ],
@@ -9644,7 +9644,7 @@
             "course": "PHED F022C01",
             "CRN": "10693",
             "desc": "CORE CONDITIONING",
-            "status": "Open",
+            "status": "Full",
             "days": "S",
             "time": "09:00 AM-12:20 PM",
             "start": "06/27/2022",
@@ -9653,7 +9653,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Chiba",
-            "seats": "9",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10953,7 +10953,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Campbell",
             "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -10970,7 +10970,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "4.00",
-            "instructor": "Campbell",
+            "instructor": "Staff",
             "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -11046,6 +11046,23 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "4.50",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "R T F053C01",
+            "CRN": "10705",
+            "desc": "APPLIED RADIOGRAPHIC TECH III",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "08:00 AM-04:10 PM",
+            "start": "06/27/2022",
+            "end": "07/26/2022",
+            "room": "HOSP",
+            "campus": "FO",
+            "units": "4.50",
             "instructor": "Campbell",
             "seats": "0",
             "wait_seats": "0",
@@ -11067,7 +11084,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "9.00",
-            "instructor": "Wu",
+            "instructor": "DeMaggio",
             "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -11101,7 +11118,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "9.00",
-            "instructor": "DeMaggio",
+            "instructor": "Wu",
             "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -11263,23 +11280,6 @@
             "CRN": "10716",
             "desc": "ADV CLINICAL EXP:COMP TOMOGRAP",
             "status": "Full",
-            "days": "MTWThF",
-            "time": "08:00 AM-04:10 PM",
-            "start": "08/22/2022",
-            "end": "11/11/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "14.00",
-            "instructor": "Lackey",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "R T F074.01Y",
-            "CRN": "10716",
-            "desc": "ADV CLINICAL EXP:COMP TOMOGRAP",
-            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "08/22/2022",
@@ -11308,6 +11308,23 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
+          },
+          {
+            "course": "R T F074.01Y",
+            "CRN": "10716",
+            "desc": "ADV CLINICAL EXP:COMP TOMOGRAP",
+            "status": "Full",
+            "days": "MTWThF",
+            "time": "08:00 AM-04:10 PM",
+            "start": "08/22/2022",
+            "end": "11/11/2022",
+            "room": "HOSP",
+            "campus": "FO",
+            "units": "14.00",
+            "instructor": "Lackey",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
@@ -11318,8 +11335,8 @@
             "CRN": "10717",
             "desc": "SECTIONAL ANATOMY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "W",
+            "time": "05:00 PM-07:50 PM",
             "start": "07/04/2022",
             "end": "08/19/2022",
             "room": "ONLINE",
@@ -11335,8 +11352,8 @@
             "CRN": "10717",
             "desc": "SECTIONAL ANATOMY",
             "status": "Open",
-            "days": "W",
-            "time": "05:00 PM-07:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "07/04/2022",
             "end": "08/19/2022",
             "room": "ONLINE",
