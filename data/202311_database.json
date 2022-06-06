@@ -1982,7 +1982,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cook",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -1999,7 +1999,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cook",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -3644,7 +3644,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -3661,7 +3661,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Nguyen",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4079,16 +4079,16 @@
             "course": "COMM F001A07W",
             "CRN": "10898",
             "desc": "PUBLIC SPEAKING",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "",
-            "campus": "",
+            "room": "ONLINE",
+            "campus": "FH",
             "units": "5.00",
-            "instructor": "Staff",
-            "seats": "0",
+            "instructor": "Firenzi",
+            "seats": "30",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6327,7 +6327,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Baldwin",
-            "seats": "11",
+            "seats": "9",
             "wait_seats": "30",
             "wait_cap": "30"
           }
@@ -7111,25 +7111,6 @@
   "KINS": {
     "1": {
       "1": {
-        "10686": [
-          {
-            "course": "KINS F001.01W",
-            "CRN": "10686",
-            "desc": "INTRODUCTION TO KINESIOLOGY",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "08/08/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Macias",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "10084": [
           {
             "course": "KINS F001.02W",
@@ -7145,48 +7126,6 @@
             "units": "5.00",
             "instructor": "Ripp",
             "seats": "27",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "2": {
-        "10873": [
-          {
-            "course": "KINS F002.01W",
-            "CRN": "10873",
-            "desc": "SPORT IN SOCIETY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "08/08/2022",
-            "end": "09/24/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Ripp",
-            "seats": "1",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "4": {
-        "10298": [
-          {
-            "course": "KINS F004.01W",
-            "CRN": "10298",
-            "desc": "CONCEPTS OF PHYS FITNESS/WELLN",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Bissell",
-            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9394,25 +9333,6 @@
         ]
       },
       "22B": {
-        "10692": [
-          {
-            "course": "PHED F022B01",
-            "CRN": "10692",
-            "desc": "PILATES & YOGA",
-            "status": "Open",
-            "days": "S",
-            "time": "09:00 AM-12:20 PM",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "2504",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Chiba",
-            "seats": "1",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10312": [
           {
             "course": "PHED F022B02W",
@@ -9434,25 +9354,6 @@
         ]
       },
       "22C": {
-        "10693": [
-          {
-            "course": "PHED F022C01",
-            "CRN": "10693",
-            "desc": "CORE CONDITIONING",
-            "status": "Full",
-            "days": "S",
-            "time": "09:00 AM-12:20 PM",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "2504",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Chiba",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10313": [
           {
             "course": "PHED F022C01W",
@@ -10583,7 +10484,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Villanueva",
-            "seats": "32",
+            "seats": "33",
             "wait_seats": "20",
             "wait_cap": "20"
           }
