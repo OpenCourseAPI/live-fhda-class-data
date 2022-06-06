@@ -340,7 +340,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -684,7 +684,7 @@
             "units": "4.00",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "20",
+            "wait_seats": "19",
             "wait_cap": "25"
           }
         ],
@@ -702,7 +702,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Leicht",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -1370,7 +1370,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jenkins",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -1507,7 +1507,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Neff",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3397,7 +3397,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -3414,7 +3414,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Li",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3524,11 +3524,11 @@
             "CRN": "10266",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "02:00 PM-04:50 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "ONLINE",
+            "room": "4812",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Esfandiari",
@@ -3541,11 +3541,11 @@
             "CRN": "10266",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Open",
-            "days": "MW",
-            "time": "02:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "4812",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Esfandiari",
@@ -3679,42 +3679,6 @@
             "units": "5.00",
             "instructor": "Nguyen",
             "seats": "19",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
-        "10444": [
-          {
-            "course": "CHEM F030A04",
-            "CRN": "10444",
-            "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "12:00 PM-01:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "4501",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Cormia",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "CHEM F030A04",
-            "CRN": "10444",
-            "desc": "SURVEY OF INORGANIC/ORGANIC CH",
-            "status": "Waitlist",
-            "days": "TTh",
-            "time": "02:00 PM-04:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "4719",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Cormia",
-            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5897,7 +5861,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "25",
             "wait_cap": "25"
           },
@@ -5914,7 +5878,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "McCormick",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -8221,7 +8185,7 @@
             "course": "MATH F001A02W",
             "CRN": "10166",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8231,7 +8195,7 @@
             "units": "5.00",
             "instructor": "Williams",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ],
@@ -8357,25 +8321,6 @@
         ]
       },
       "10": {
-        "10012": [
-          {
-            "course": "MATH F010.01",
-            "CRN": "10012",
-            "desc": "ELEMENTARY STATISTICS",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "01:30 PM-03:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "5601",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Tomutiu",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "10037": [
           {
             "course": "MATH F010.02W",
@@ -8452,25 +8397,6 @@
             "wait_cap": "10"
           }
         ],
-        "10122": [
-          {
-            "course": "MATH F010.06W",
-            "CRN": "10122",
-            "desc": "ELEMENTARY STATISTICS",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Maskalevich",
-            "seats": "0",
-            "wait_seats": "9",
-            "wait_cap": "10"
-          }
-        ],
         "10103": [
           {
             "course": "MATH F010.07W",
@@ -8488,25 +8414,6 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
-          }
-        ],
-        "10238": [
-          {
-            "course": "MATH F010.08W",
-            "CRN": "10238",
-            "desc": "ELEMENTARY STATISTICS",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Ryker",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
           }
         ]
       },
@@ -9454,7 +9361,7 @@
             "course": "PHED F022B01",
             "CRN": "10692",
             "desc": "PILATES & YOGA",
-            "status": "Full",
+            "status": "Open",
             "days": "S",
             "time": "09:00 AM-12:20 PM",
             "start": "06/27/2022",
@@ -9463,7 +9370,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Chiba",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10020,7 +9927,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tapia",
-            "seats": "17",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10039,7 +9946,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tapia",
-            "seats": "49",
+            "seats": "48",
             "wait_seats": "20",
             "wait_cap": "20"
           }
