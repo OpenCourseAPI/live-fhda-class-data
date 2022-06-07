@@ -35,7 +35,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Mayer",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "15"
           }
@@ -283,7 +283,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Gopal",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -541,7 +541,7 @@
             "course": "AHS F052.01W",
             "CRN": "10212",
             "desc": "MEDICAL TERMINOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -550,7 +550,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Murphy",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "19",
             "wait_cap": "25"
           }
@@ -1133,6 +1133,25 @@
             "units": "0.00",
             "instructor": "Kaupp",
             "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10900": [
+          {
+            "course": "ALCB F465Y02V",
+            "CRN": "10900",
+            "desc": "CREATIVE SELF EXPRESSION",
+            "status": "Open",
+            "days": "Th",
+            "time": "12:40 PM-02:50 PM",
+            "start": "06/27/2022",
+            "end": "09/02/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "Frankel",
+            "seats": "30",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1969,7 +1988,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Reynoso",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2200,7 +2219,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -2217,7 +2236,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2229,7 +2248,7 @@
             "course": "BIOL F040A01Y",
             "CRN": "10005",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "10:00 AM-11:50 AM",
             "start": "06/27/2022",
@@ -2238,7 +2257,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           },
@@ -2246,7 +2265,7 @@
             "course": "BIOL F040A01Y",
             "CRN": "10005",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "12:30 PM-03:30 PM",
             "start": "06/27/2022",
@@ -2255,7 +2274,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           },
@@ -2263,7 +2282,7 @@
             "course": "BIOL F040A01Y",
             "CRN": "10005",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -2272,7 +2291,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -3652,7 +3671,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Dominguez",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6103,7 +6122,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Niccoli",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -6120,7 +6139,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Niccoli",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6141,7 +6160,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Bryant",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -6158,7 +6177,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Bryant",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6179,7 +6198,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Bryant",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6200,7 +6219,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Bryant",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6296,7 +6315,7 @@
             "course": "HUMN F005.02W",
             "CRN": "10216",
             "desc": "THE MODERN WORLD",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -6305,7 +6324,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lore",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6324,7 +6343,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Latteri",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6857,7 +6876,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6878,7 +6897,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "35",
+            "seats": "34",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8202,7 +8221,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Low",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8389,7 +8408,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Shidler",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10119,7 +10138,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Bauermeister",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10684,7 +10703,7 @@
             "course": "R T F200L01",
             "CRN": "10718",
             "desc": "RADIOLOGIC TECHNOLOGY AS A CAR",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "07/19/2022",
@@ -10693,7 +10712,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Chesser-Nielsen",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "25"
           }
