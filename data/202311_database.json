@@ -569,7 +569,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Leicht",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -1199,16 +1199,35 @@
             "course": "ALCB F465Y05",
             "CRN": "10903",
             "desc": "CREATIVE SELF EXPRESSION",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "status": "Open",
+            "days": "W",
+            "time": "10:00 AM-12:10 PM",
             "start": "06/27/2022",
             "end": "09/02/2022",
-            "room": "",
-            "campus": "",
+            "room": "ABL",
+            "campus": "FO",
             "units": "0.00",
-            "instructor": "Staff",
-            "seats": "0",
+            "instructor": "Frankel",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10904": [
+          {
+            "course": "ALCB F465Y06V",
+            "CRN": "10904",
+            "desc": "CREATIVE SELF EXPRESSION",
+            "status": "Open",
+            "days": "Th",
+            "time": "10:30 AM-12:40 PM",
+            "start": "06/27/2022",
+            "end": "09/02/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "Frankel",
+            "seats": "30",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1817,7 +1836,7 @@
             "course": "ART F020B01W",
             "CRN": "10804",
             "desc": "COLOR II",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -1826,7 +1845,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cook",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2749,7 +2768,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Lew",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8259,6 +8278,25 @@
             "instructor": "Pham",
             "seats": "0",
             "wait_seats": "0",
+            "wait_cap": "5"
+          }
+        ],
+        "10905": [
+          {
+            "course": "MATH F022.03W",
+            "CRN": "10905",
+            "desc": "DISCRETE MATHEMATICS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Ryker",
+            "seats": "40",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ]
