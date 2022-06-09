@@ -16,7 +16,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ponleithner",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -881,7 +881,7 @@
             "campus": "FO",
             "units": "0.00",
             "instructor": "Mayall",
-            "seats": "30",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1576,7 +1576,7 @@
             "campus": "FO",
             "units": "2.00",
             "instructor": "Connell",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2835,7 +2835,7 @@
             "campus": "FC",
             "units": "3.00",
             "instructor": "Harmon",
-            "seats": "34",
+            "seats": "33",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3122,7 +3122,7 @@
             "units": "4.50",
             "instructor": "Murphy",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -3688,7 +3688,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3814,7 +3814,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Villanueva",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3995,7 +3995,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Firenzi",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -5360,7 +5360,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Herman",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -5556,7 +5556,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Svetich",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -6941,7 +6941,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "32",
+            "seats": "31",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8067,7 +8067,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Park Lee",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8263,7 +8263,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ryker",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8769,7 +8769,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Cratty",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8948,6 +8948,25 @@
             "seats": "0",
             "wait_seats": "22",
             "wait_cap": "25"
+          }
+        ],
+        "10908": [
+          {
+            "course": "NCEL F400.02V",
+            "CRN": "10908",
+            "desc": "BRIDGE TO COLLEGE",
+            "status": "Open",
+            "days": "TWTh",
+            "time": "05:00 PM-07:15 PM",
+            "start": "06/27/2022",
+            "end": "08/19/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "Mason",
+            "seats": "35",
+            "wait_seats": "15",
+            "wait_cap": "15"
           }
         ]
       },
@@ -9822,7 +9841,7 @@
             "course": "PHYS F004A01",
             "CRN": "10721",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "10:00 AM-12:20 PM",
             "start": "06/27/2022",
@@ -9831,7 +9850,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Ho",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -9839,7 +9858,7 @@
             "course": "PHYS F004A01",
             "CRN": "10721",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "01:00 PM-04:05 PM",
             "start": "06/27/2022",
@@ -9848,7 +9867,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Ho",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10037,7 +10056,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Callow",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10766,7 +10785,7 @@
             "course": "R T F200L01",
             "CRN": "10718",
             "desc": "RADIOLOGIC TECHNOLOGY AS A CAR",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "07/19/2022",
@@ -10776,7 +10795,7 @@
             "units": "1.50",
             "instructor": "Chesser-Nielsen",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "25"
           }
         ]
@@ -11228,7 +11247,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Crespo-Martin",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "25",
             "wait_cap": "25"
           }
