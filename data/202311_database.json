@@ -2279,7 +2279,7 @@
             "units": "5.00",
             "instructor": "Markowitz",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "15"
           },
           {
@@ -2296,7 +2296,7 @@
             "units": "5.00",
             "instructor": "Markowitz",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ]
@@ -3176,8 +3176,8 @@
             "CRN": "10356",
             "desc": "INTRO CLOUD COMPUTNG AWS",
             "status": "Open",
-            "days": "MW",
-            "time": "06:00 PM-09:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -3193,8 +3193,8 @@
             "CRN": "10356",
             "desc": "INTRO CLOUD COMPUTNG AWS",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "06:00 PM-09:50 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -3280,6 +3280,27 @@
             "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
+          }
+        ]
+      },
+      "71R": {
+        "10907": [
+          {
+            "course": "C S F071R01",
+            "CRN": "10907",
+            "desc": "INDEPENDENT STUDY COMPUTER SCI",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "07/08/2022",
+            "end": "08/19/2022",
+            "room": "TBA",
+            "campus": "FH",
+            "units": "2.00",
+            "instructor": "Reed",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       }
@@ -4579,23 +4600,6 @@
             "room": "5312",
             "campus": "FH",
             "units": "3.00",
-            "instructor": "Paguio",
-            "seats": "7",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "D H F320A01",
-            "CRN": "10679",
-            "desc": "CLINICAL DENTAL HYGIENE I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "09:00 AM-12:50 PM",
-            "start": "06/27/2022",
-            "end": "07/22/2022",
-            "room": "5312",
-            "campus": "FH",
-            "units": "3.00",
             "instructor": "Staana",
             "seats": "7",
             "wait_seats": "0",
@@ -4605,6 +4609,23 @@
       },
       "322": {
         "10685": [
+          {
+            "course": "D H F322.01Y",
+            "CRN": "10685",
+            "desc": "LOCAL ANESTHESIA",
+            "status": "Open",
+            "days": "TTh",
+            "time": "01:30 PM-03:35 PM",
+            "start": "06/27/2022",
+            "end": "07/22/2022",
+            "room": "5312",
+            "campus": "FH",
+            "units": "2.50",
+            "instructor": "Danh",
+            "seats": "7",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
           {
             "course": "D H F322.01Y",
             "CRN": "10685",
@@ -4669,23 +4690,6 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Chan",
-            "seats": "7",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "D H F322.01Y",
-            "CRN": "10685",
-            "desc": "LOCAL ANESTHESIA",
-            "status": "Open",
-            "days": "TTh",
-            "time": "01:30 PM-03:35 PM",
-            "start": "06/27/2022",
-            "end": "07/22/2022",
-            "room": "5312",
-            "campus": "FH",
-            "units": "2.50",
-            "instructor": "Danh",
             "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -8978,7 +8982,7 @@
             "course": "NCEN F400.01R",
             "CRN": "10858",
             "desc": "ENGLISH BRIDGE",
-            "status": "Open",
+            "status": "Full",
             "days": "WTh",
             "time": "10:00 AM-12:50 PM",
             "start": "07/11/2022",
@@ -8987,7 +8991,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "King",
-            "seats": "32",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -8995,7 +8999,7 @@
             "course": "NCEN F400.01R",
             "CRN": "10858",
             "desc": "ENGLISH BRIDGE",
-            "status": "Open",
+            "status": "Full",
             "days": "MT",
             "time": "10:00 AM-12:50 PM",
             "start": "07/11/2022",
@@ -9004,7 +9008,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "King",
-            "seats": "32",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10218,7 +10222,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Villanueva",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "20",
             "wait_cap": "20"
           }
