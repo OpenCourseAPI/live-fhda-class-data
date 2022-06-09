@@ -689,7 +689,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Lovejoy",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -1229,7 +1229,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Frankel",
-            "seats": "14",
+            "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2941,7 +2941,7 @@
             "units": "4.50",
             "instructor": "Venkataraman",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -3688,7 +3688,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Dominguez",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3821,25 +3821,6 @@
         ]
       },
       "5": {
-        "10802": [
-          {
-            "course": "CNSL F005.02",
-            "CRN": "10802",
-            "desc": "INTRODUCTION TO COLLEGE",
-            "status": "Full",
-            "days": "TTh",
-            "time": "08:30 AM-11:20 AM",
-            "start": "06/28/2022",
-            "end": "07/07/2022",
-            "room": "6501",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Wu",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10880": [
           {
             "course": "CNSL F005.03W",
@@ -4181,23 +4162,6 @@
             "room": "5304",
             "campus": "FH",
             "units": "2.50",
-            "instructor": "Obhi",
-            "seats": "5",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "D A F067.1AY",
-            "CRN": "10799",
-            "desc": "RADIATION SAFETY COURSE",
-            "status": "Open",
-            "days": "S",
-            "time": "09:00 AM-11:50 AM",
-            "start": "07/04/2022",
-            "end": "08/27/2022",
-            "room": "5304",
-            "campus": "FH",
-            "units": "2.50",
             "instructor": "Lisalde",
             "seats": "5",
             "wait_seats": "0",
@@ -4219,11 +4183,81 @@
             "seats": "5",
             "wait_seats": "0",
             "wait_cap": "0"
+          },
+          {
+            "course": "D A F067.1AY",
+            "CRN": "10799",
+            "desc": "RADIATION SAFETY COURSE",
+            "status": "Open",
+            "days": "S",
+            "time": "09:00 AM-11:50 AM",
+            "start": "07/04/2022",
+            "end": "08/27/2022",
+            "room": "5304",
+            "campus": "FH",
+            "units": "2.50",
+            "instructor": "Obhi",
+            "seats": "5",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ]
       },
       "88": {
+        "10910": [
+          {
+            "course": "D A F088.02Y",
+            "CRN": "10910",
+            "desc": "PIT & FISSURE SEALANTS",
+            "status": "Open",
+            "days": "S",
+            "time": "01:00 PM-03:50 PM",
+            "start": "07/04/2022",
+            "end": "08/27/2022",
+            "room": "",
+            "campus": "",
+            "units": "1.50",
+            "instructor": "Staff",
+            "seats": "1",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "D A F088.02Y",
+            "CRN": "10910",
+            "desc": "PIT & FISSURE SEALANTS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "07/04/2022",
+            "end": "08/27/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.50",
+            "instructor": "Staff",
+            "seats": "1",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "10798": [
+          {
+            "course": "D A F088.1AY",
+            "CRN": "10798",
+            "desc": "PIT & FISSURE SEALANTS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "07/04/2022",
+            "end": "08/27/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "1.50",
+            "instructor": "Miyasaki",
+            "seats": "9",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
           {
             "course": "D A F088.1AY",
             "CRN": "10798",
@@ -4254,23 +4288,6 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Lisalde",
-            "seats": "9",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "D A F088.1AY",
-            "CRN": "10798",
-            "desc": "PIT & FISSURE SEALANTS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "07/04/2022",
-            "end": "08/27/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.50",
-            "instructor": "Miyasaki",
             "seats": "9",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -4751,7 +4768,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Dupree",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "19",
             "wait_cap": "20"
           }
@@ -5351,7 +5368,7 @@
             "course": "ENGL F001A03W",
             "CRN": "10094",
             "desc": "COMPOSITION & READING",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -5360,7 +5377,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Herman",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -7988,7 +8005,7 @@
             "units": "5.00",
             "instructor": "Williams",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -9002,11 +9019,11 @@
             "CRN": "10858",
             "desc": "ENGLISH BRIDGE",
             "status": "Full",
-            "days": "WTh",
+            "days": "MT",
             "time": "10:00 AM-12:50 PM",
             "start": "07/11/2022",
             "end": "08/05/2022",
-            "room": "ONLINE",
+            "room": "6201",
             "campus": "FH",
             "units": "0.00",
             "instructor": "King",
@@ -9019,15 +9036,34 @@
             "CRN": "10858",
             "desc": "ENGLISH BRIDGE",
             "status": "Full",
-            "days": "MT",
+            "days": "WTh",
             "time": "10:00 AM-12:50 PM",
             "start": "07/11/2022",
             "end": "08/05/2022",
-            "room": "6201",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "0.00",
             "instructor": "King",
             "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10909": [
+          {
+            "course": "NCEN F400.02V",
+            "CRN": "10909",
+            "desc": "ENGLISH BRIDGE",
+            "status": "Open",
+            "days": "MTWTh",
+            "time": "10:00 AM-12:50 PM",
+            "start": "07/11/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "King",
+            "seats": "35",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -10056,7 +10092,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Callow",
-            "seats": "26",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10119,7 +10155,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Strader",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10129,7 +10165,7 @@
             "course": "PSYC F001.04W",
             "CRN": "10239",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -10138,7 +10174,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11272,7 +11308,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Waterstone",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
