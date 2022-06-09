@@ -298,7 +298,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Kensler",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -563,7 +563,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roque",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -963,7 +963,7 @@
             "units": "5.00",
             "instructor": "Peterson",
             "seats": "1",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ]
@@ -1364,7 +1364,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -1381,7 +1381,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "28",
+            "seats": "27",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -3166,42 +3166,25 @@
             "CRN": "12986",
             "desc": "BUSINESS INFO SYSTEMS",
             "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Nguyen",
+            "seats": "21",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          },
+          {
+            "course": "CIS D003.01Z",
+            "CRN": "12986",
+            "desc": "BUSINESS INFO SYSTEMS",
+            "status": "Open",
             "days": "T",
             "time": "06:00 PM-06:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Nguyen",
-            "seats": "21",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D003.01Z",
-            "CRN": "12986",
-            "desc": "BUSINESS INFO SYSTEMS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Nguyen",
-            "seats": "21",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          },
-          {
-            "course": "CIS D003.01Z",
-            "CRN": "12986",
-            "desc": "BUSINESS INFO SYSTEMS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -3227,7 +3210,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Georgiou",
-            "seats": "19",
+            "seats": "20",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3246,7 +3229,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Georgiou",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3334,7 +3317,7 @@
             "course": "CIS D018A61Z",
             "CRN": "10680",
             "desc": "INTRO TO UNIX/LINUX",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3344,8 +3327,46 @@
             "units": "4.50",
             "instructor": "Metcalf",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "3"
+          }
+        ]
+      },
+      "18B": {
+        "13355": [
+          {
+            "course": "CIS D018B01Z",
+            "CRN": "13355",
+            "desc": "ADV UNIX/LINUX",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Nguyen",
+            "seats": "40",
+            "wait_seats": "15",
+            "wait_cap": "15"
+          },
+          {
+            "course": "CIS D018B01Z",
+            "CRN": "13355",
+            "desc": "ADV UNIX/LINUX",
+            "status": "Open",
+            "days": "MW",
+            "time": "12:30 PM-01:20 PM",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Nguyen",
+            "seats": "40",
+            "wait_seats": "15",
+            "wait_cap": "15"
           }
         ]
       },
@@ -3619,7 +3640,7 @@
             "units": "4.50",
             "instructor": "Pape",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "15"
           }
         ]
@@ -4129,7 +4150,7 @@
             "course": "CIS D040.62Z",
             "CRN": "13084",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -4138,7 +4159,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Stoykov",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -4745,7 +4766,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ganesh",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -8130,7 +8151,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Limcolioc",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8591,7 +8612,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dileonardo",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8873,7 +8894,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8954,7 +8975,7 @@
             "course": "HTEC D060A51Z",
             "CRN": "13061",
             "desc": "BASIC MEDI TERMINOLOGY",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8963,7 +8984,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Miramontes",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9936,7 +9957,7 @@
             "units": "0.50",
             "instructor": "Catuiza",
             "seats": "0",
-            "wait_seats": "7",
+            "wait_seats": "8",
             "wait_cap": "10"
           }
         ]
@@ -9957,7 +9978,7 @@
             "units": "0.50",
             "instructor": "Catuiza",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ]
@@ -10019,7 +10040,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Landefeld",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -10428,7 +10449,7 @@
             "units": "1.00",
             "instructor": "Damjanovic",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ]
@@ -10469,7 +10490,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Altman",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11450,7 +11471,7 @@
             "course": "MATH D010.53Z",
             "CRN": "00679",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -11459,7 +11480,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tran",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "6"
           }
@@ -11733,7 +11754,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rudolf",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
