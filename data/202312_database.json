@@ -1891,7 +1891,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lilly",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2072,7 +2072,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3531,8 +3531,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yeh",
-            "seats": "10",
-            "wait_seats": "-3",
+            "seats": "7",
+            "wait_seats": "0",
             "wait_cap": "0"
           },
           {
@@ -3548,8 +3548,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yeh",
-            "seats": "10",
-            "wait_seats": "-3",
+            "seats": "7",
+            "wait_seats": "0",
             "wait_cap": "0"
           }
         ],
@@ -3892,7 +3892,7 @@
             "course": "CIS D035A16Z",
             "CRN": "00234",
             "desc": "JAVA PROGRAMMING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "06:00 PM-07:50 PM",
             "start": "06/27/2022",
@@ -3901,15 +3901,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Singh",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D035A16Z",
             "CRN": "00234",
             "desc": "JAVA PROGRAMMING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3918,15 +3918,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Singh",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D035A16Z",
             "CRN": "00234",
             "desc": "JAVA PROGRAMMING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3935,8 +3935,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Singh",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -4801,7 +4801,7 @@
             "course": "COMM D001.01Z",
             "CRN": "12561",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "07:30 AM-09:55 AM",
             "start": "06/27/2022",
@@ -4810,15 +4810,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cano",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
             "course": "COMM D001.01Z",
             "CRN": "12561",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -4827,8 +4827,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cano",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -4909,7 +4909,7 @@
             "course": "COMM D001.05Z",
             "CRN": "12565",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "07:30 AM-09:55 AM",
             "start": "06/27/2022",
@@ -4918,15 +4918,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "6"
           },
           {
             "course": "COMM D001.05Z",
             "CRN": "12565",
             "desc": "PUBLIC SPEAKING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -4935,8 +4935,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ],
@@ -10590,7 +10590,7 @@
             "course": "KORE D001.40Z",
             "CRN": "13293",
             "desc": "ELEM KOREAN (1ST QTR)",
-            "status": "Open",
+            "status": "Full",
             "days": "MTWTh",
             "time": "06:30 PM-08:45 PM",
             "start": "06/27/2022",
@@ -10599,8 +10599,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kim",
-            "seats": "1",
-            "wait_seats": "-2",
+            "seats": "0",
+            "wait_seats": "-1",
             "wait_cap": "0"
           }
         ],
@@ -11279,7 +11279,7 @@
             "course": "MATH D002B20Z",
             "CRN": "13029",
             "desc": "LINEAR ALGEBRA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/27/2022",
@@ -11288,7 +11288,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Staff",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11775,7 +11775,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lopez",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11985,7 +11985,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Thomsen",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -12002,7 +12002,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Thomsen",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -13473,7 +13473,7 @@
             "course": "PHIL D001.65Z",
             "CRN": "12517",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -13482,8 +13482,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Booher",
-            "seats": "1",
-            "wait_seats": "12",
+            "seats": "0",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ],
