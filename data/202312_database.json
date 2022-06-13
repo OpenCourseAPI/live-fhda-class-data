@@ -987,7 +987,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wishart",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -1008,7 +1008,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Wishart",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1025,7 +1025,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Wishart",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2631,7 +2631,7 @@
             "course": "CHEM D001A04",
             "CRN": "00209",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "07:30 AM-10:20 AM",
             "start": "06/27/2022",
@@ -2640,15 +2640,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gray",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001A04",
             "CRN": "00209",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:30 AM-11:45 AM",
             "start": "06/27/2022",
@@ -2657,8 +2657,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gray",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -4470,7 +4470,7 @@
             "course": "CIS D21JA01Z",
             "CRN": "12196",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "06:00 PM-06:50 PM",
             "start": "06/27/2022",
@@ -4479,15 +4479,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Eftekhari",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D21JA01Z",
             "CRN": "12196",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -4496,15 +4496,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Eftekhari",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           },
           {
             "course": "CIS D21JA01Z",
             "CRN": "12196",
             "desc": "INTRO X86 PROC ASSMBLY LANG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -4513,8 +4513,8 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Eftekhari",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ],
@@ -5395,7 +5395,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Huynh",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -5412,7 +5412,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Huynh",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -8218,7 +8218,7 @@
             "course": "EWRT D002.67Z",
             "CRN": "10550",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8227,8 +8227,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Leonard",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ],
@@ -8540,7 +8540,7 @@
             "course": "GEO D010.51Z",
             "CRN": "11186",
             "desc": "WORLD REGIONAL GEOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8549,8 +8549,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pena",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "3"
           }
         ],
@@ -8790,7 +8790,7 @@
             "course": "HIST D017B50Z",
             "CRN": "12723",
             "desc": "HISTORY U.S. 1800-1900",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8799,8 +8799,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -10031,7 +10031,7 @@
             "course": "KNES D031A01",
             "CRN": "13297",
             "desc": "BEGINNING BADMINTON",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "09:00 AM-10:50 AM",
             "start": "06/27/2022",
@@ -10040,7 +10040,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Landefeld",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11452,7 +11452,7 @@
             "course": "MATH D010.52Z",
             "CRN": "12580",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -11461,8 +11461,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Tran",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
