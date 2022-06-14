@@ -987,7 +987,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wishart",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -1419,7 +1419,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kang'a",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -1440,7 +1440,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Pane",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "7",
             "wait_cap": "7"
           },
@@ -1457,7 +1457,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Pane",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -3495,7 +3495,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "15"
           },
@@ -3512,7 +3512,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "15"
           }
@@ -3660,7 +3660,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -3677,7 +3677,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -3687,7 +3687,7 @@
             "course": "CIS D022B02Z",
             "CRN": "12142",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3696,7 +3696,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "15"
           },
@@ -3704,7 +3704,7 @@
             "course": "CIS D022B02Z",
             "CRN": "12142",
             "desc": "INTERMED PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWTh",
             "time": "10:00 AM-11:50 AM",
             "start": "06/27/2022",
@@ -3713,7 +3713,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Ahrens",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "15"
           }
@@ -3994,7 +3994,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4011,7 +4011,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4218,7 +4218,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Sherby",
-            "seats": "20",
+            "seats": "21",
             "wait_seats": "4",
             "wait_cap": "5"
           }
@@ -7814,25 +7814,6 @@
             "wait_cap": "5"
           }
         ],
-        "13016": [
-          {
-            "course": "EWRT D001A62Z",
-            "CRN": "13016",
-            "desc": "COMPOSITION AND READING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Argyriou",
-            "seats": "30",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
         "11680": [
           {
             "course": "EWRT D001A65Z",
@@ -7904,7 +7885,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Vasquez",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8014,8 +7995,8 @@
             "CRN": "00484",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-12:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -8031,8 +8012,8 @@
             "CRN": "00484",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:00 AM-12:15 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -8050,8 +8031,8 @@
             "CRN": "11096",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "10:00 AM-12:15 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -8067,8 +8048,8 @@
             "CRN": "11096",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TTh",
-            "time": "10:00 AM-12:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -8895,7 +8876,7 @@
             "units": "4.00",
             "instructor": "Mujal",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
@@ -9702,7 +9683,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ramsey",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -10449,7 +10430,7 @@
             "units": "1.00",
             "instructor": "Damjanovic",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -11629,7 +11610,7 @@
             "course": "MATH D022.30Z",
             "CRN": "13099",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "03:00 PM-05:15 PM",
             "start": "06/27/2022",
@@ -11639,7 +11620,7 @@
             "units": "5.00",
             "instructor": "Legge",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -12103,7 +12084,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Quevedo",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12265,7 +12246,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Watkins",
-            "seats": "31",
+            "seats": "30",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -14038,7 +14019,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Schendan",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -14137,7 +14118,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Clifford Jr",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "8",
             "wait_cap": "8"
           }
