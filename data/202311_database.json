@@ -1395,7 +1395,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jenkins",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -1777,7 +1777,7 @@
             "course": "ART F004A02W",
             "CRN": "10124",
             "desc": "FUNDAMENTALS IN DRAWING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -1786,7 +1786,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gomes",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "30"
           }
@@ -3833,7 +3833,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Villanueva",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3873,7 +3873,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Freeman",
-            "seats": "23",
+            "seats": "22",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -8207,7 +8207,7 @@
             "units": "5.00",
             "instructor": "Ryker",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ]
@@ -8248,7 +8248,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Low",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8370,6 +8370,42 @@
             "campus": "FO",
             "units": "5.00",
             "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10914": [
+          {
+            "course": "MATH F217.02D",
+            "CRN": "10914",
+            "desc": "INTEGRATED STATISTICS I",
+            "status": "Full",
+            "days": "M",
+            "time": "09:20 AM-10:10 AM",
+            "start": "08/29/2022",
+            "end": "12/22/2022",
+            "room": "FMHS",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Mccomb",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "MATH F217.02D",
+            "CRN": "10914",
+            "desc": "INTEGRATED STATISTICS I",
+            "status": "Full",
+            "days": "TTh",
+            "time": "10:05 AM-11:10 AM",
+            "start": "08/29/2022",
+            "end": "12/22/2022",
+            "room": "FMHS",
+            "campus": "FO",
+            "units": "5.00",
+            "instructor": "Mccomb",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
