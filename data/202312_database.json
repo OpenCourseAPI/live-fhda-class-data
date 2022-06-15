@@ -3630,7 +3630,7 @@
             "course": "CIS D022A61Z",
             "CRN": "11299",
             "desc": "BEG PROG METHOD C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3639,9 +3639,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Pape",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "15",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ]
       },
