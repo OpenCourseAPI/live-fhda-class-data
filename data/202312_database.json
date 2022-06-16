@@ -3469,7 +3469,7 @@
             "course": "CIS D022A02Z",
             "CRN": "11304",
             "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3478,15 +3478,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-5",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022A02Z",
             "CRN": "11304",
             "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWTh",
             "time": "12:30 PM-01:20 PM",
             "start": "06/27/2022",
@@ -3495,9 +3495,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-5",
+            "wait_cap": "0"
           }
         ],
         "12985": [
@@ -3577,7 +3577,7 @@
             "course": "CIS D022A51Z",
             "CRN": "11305",
             "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3586,9 +3586,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "0",
-            "wait_seats": "13",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-2",
+            "wait_cap": "0"
           }
         ],
         "11299": [
@@ -9072,7 +9072,7 @@
             "campus": "DO",
             "units": "3.00",
             "instructor": "Miramontes",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9240,7 +9240,7 @@
             "campus": "DO",
             "units": "4.00",
             "instructor": "Miramontes",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9457,7 +9457,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hughes",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -10023,7 +10023,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "May",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12216,7 +12216,7 @@
             "course": "NUTR D010.50Z",
             "CRN": "13227",
             "desc": "CONTEMP NUTRITION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -12225,7 +12225,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "7",
             "wait_cap": "7"
           }
