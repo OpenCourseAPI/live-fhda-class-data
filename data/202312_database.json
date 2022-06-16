@@ -54,7 +54,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hammond",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3478,7 +3478,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "7",
+            "seats": "5",
             "wait_seats": "-4",
             "wait_cap": "0"
           },
@@ -3495,7 +3495,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "So",
-            "seats": "7",
+            "seats": "5",
             "wait_seats": "-4",
             "wait_cap": "0"
           }
@@ -3961,7 +3961,7 @@
             "units": "4.50",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           },
           {
@@ -3978,7 +3978,7 @@
             "units": "4.50",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ],
@@ -3997,7 +3997,7 @@
             "units": "4.50",
             "instructor": "Yu",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
@@ -5367,7 +5367,7 @@
             "course": "COMM D015.01Z",
             "CRN": "12578",
             "desc": "CRIT DECISION-MAKING IN GROUPS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "12:30 PM-02:55 PM",
             "start": "06/27/2022",
@@ -5376,7 +5376,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hamilton",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -5384,7 +5384,7 @@
             "course": "COMM D015.01Z",
             "CRN": "12578",
             "desc": "CRIT DECISION-MAKING IN GROUPS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -5393,7 +5393,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hamilton",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -6521,7 +6521,7 @@
             "campus": "DO",
             "units": "1.00",
             "instructor": "De Carvalho",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -7695,8 +7695,8 @@
             "CRN": "00457",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:00 AM-12:15 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -7712,8 +7712,8 @@
             "CRN": "00457",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-12:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -8039,8 +8039,8 @@
             "CRN": "00484",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:00 AM-12:15 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -8056,42 +8056,6 @@
             "CRN": "00484",
             "desc": "CRIT READ, WRIT & THINK",
             "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-12:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Gordon",
-            "seats": "4",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
-        "11096": [
-          {
-            "course": "EWRT D002.02Z",
-            "CRN": "11096",
-            "desc": "CRIT READ, WRIT & THINK",
-            "status": "Open",
-            "days": "TTh",
-            "time": "10:00 AM-12:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Dickson",
-            "seats": "22",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EWRT D002.02Z",
-            "CRN": "11096",
-            "desc": "CRIT READ, WRIT & THINK",
-            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8099,8 +8063,8 @@
             "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
-            "instructor": "Dickson",
-            "seats": "22",
+            "instructor": "Gordon",
+            "seats": "4",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8356,7 +8320,7 @@
             "units": "4.00",
             "instructor": "Wright",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ]
@@ -8525,7 +8489,7 @@
             "course": "GEO D001.51Z",
             "CRN": "12283",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8534,7 +8498,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Rohrmeier",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -8593,7 +8557,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pena",
-            "seats": "33",
+            "seats": "32",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -8767,7 +8731,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pham",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -8784,7 +8748,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pham",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9940,7 +9904,7 @@
             "units": "0.50",
             "instructor": "Donahue",
             "seats": "0",
-            "wait_seats": "17",
+            "wait_seats": "16",
             "wait_cap": "20"
           }
         ]
@@ -10774,7 +10738,7 @@
             "units": "5.00",
             "instructor": "Shah",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -10812,7 +10776,7 @@
             "units": "5.00",
             "instructor": "Van Der Poel",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -11363,7 +11327,7 @@
             "course": "MATH D010.05Z",
             "CRN": "00673",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:00 AM-12:15 PM",
             "start": "06/27/2022",
@@ -11372,7 +11336,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Zhang",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11829,7 +11793,7 @@
             "course": "MATH D032.50Z",
             "CRN": "13172",
             "desc": "PRECALCULUS II",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -11838,7 +11802,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Rashid",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -14444,7 +14408,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hatter",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "-1",
             "wait_cap": "0"
           }
