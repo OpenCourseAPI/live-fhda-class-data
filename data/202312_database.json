@@ -54,7 +54,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hammond",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -1350,6 +1350,42 @@
             "wait_cap": "7"
           }
         ],
+        "12894": [
+          {
+            "course": "BIOL D011.02Z",
+            "CRN": "12894",
+            "desc": "HUMAN BIOLOGY",
+            "status": "Open",
+            "days": "MTWTh",
+            "time": "10:30 AM-12:20 PM",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Sengupta",
+            "seats": "22",
+            "wait_seats": "7",
+            "wait_cap": "7"
+          },
+          {
+            "course": "BIOL D011.02Z",
+            "CRN": "12894",
+            "desc": "HUMAN BIOLOGY",
+            "status": "Open",
+            "days": "MTWTh",
+            "time": "12:30 PM-01:45 PM",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Sengupta",
+            "seats": "22",
+            "wait_seats": "7",
+            "wait_cap": "7"
+          }
+        ],
         "13225": [
           {
             "course": "BIOL D011.50Z",
@@ -1469,10 +1505,10 @@
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
             "days": "MTWTh",
-            "time": "11:30 AM-01:20 PM",
+            "time": "01:45 PM-03:00 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "SC1102",
+            "room": "SC2106",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Pane",
@@ -1486,10 +1522,10 @@
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Open",
             "days": "MTWTh",
-            "time": "01:45 PM-03:00 PM",
+            "time": "11:30 AM-01:20 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "SC2106",
+            "room": "SC1102",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Pane",
@@ -1505,7 +1541,7 @@
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
             "days": "MTWTh",
-            "time": "11:00 AM-12:50 PM",
+            "time": "01:00 PM-02:15 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -1522,7 +1558,7 @@
             "desc": "HUMAN ANAT & PHYSIOLOGY",
             "status": "Waitlist",
             "days": "MTWTh",
-            "time": "01:00 PM-02:15 PM",
+            "time": "11:00 AM-12:50 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -1856,7 +1892,7 @@
             "units": "5.00",
             "instructor": "Lilly",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -2676,7 +2712,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lo",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -2693,7 +2729,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lo",
-            "seats": "18",
+            "seats": "17",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -6809,25 +6845,6 @@
             "wait_seats": "7",
             "wait_cap": "7"
           }
-        ],
-        "13076": [
-          {
-            "course": "ESCI D001L53Z",
-            "CRN": "13076",
-            "desc": "ENVIRON SCIENCE LAB",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.00",
-            "instructor": "Phillips",
-            "seats": "24",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
         ]
       },
       "77": {
@@ -10272,7 +10289,7 @@
             "course": "KNES D22BX51Z",
             "CRN": "13323",
             "desc": "YOGA FOR RELAXATION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -10281,7 +10298,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Simons",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "10"
           }
@@ -11898,7 +11915,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Thomsen",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12062,7 +12079,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Acker",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -12079,7 +12096,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Acker",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13508,7 +13525,7 @@
             "course": "PHIL D008.65Z",
             "CRN": "12521",
             "desc": "ETHICS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -13517,7 +13534,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Baiamonte",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -14540,7 +14557,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dehaan",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "5",
             "wait_cap": "5"
           }
