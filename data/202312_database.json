@@ -2093,7 +2093,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Andrews-Bingham",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2114,7 +2114,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bennett",
-            "seats": "11",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2156,7 +2156,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morgan",
-            "seats": "15",
+            "seats": "16",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -6200,7 +6200,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Brady",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -6217,7 +6217,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Brady",
-            "seats": "30",
+            "seats": "29",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8106,7 +8106,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gravener",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9711,7 +9711,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "McElroy",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -10526,8 +10526,8 @@
             "CRN": "13179",
             "desc": "CALCULUS",
             "status": "Full",
-            "days": "MW",
-            "time": "10:00 AM-12:15 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -10543,8 +10543,8 @@
             "CRN": "13179",
             "desc": "CALCULUS",
             "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "10:00 AM-12:15 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -10765,25 +10765,6 @@
             "wait_cap": "6"
           }
         ],
-        "00659": [
-          {
-            "course": "MATH D001B5",
-            "CRN": "00659",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:00 AM-12:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "S16",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Judson",
-            "seats": "31",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "13025": [
           {
             "course": "MATH D001B50Z",
@@ -10897,25 +10878,6 @@
             "instructor": "Ison",
             "seats": "0",
             "wait_seats": "5",
-            "wait_cap": "6"
-          }
-        ],
-        "13396": [
-          {
-            "course": "MATH D001C30",
-            "CRN": "13396",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "03:00 PM-05:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "G5",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Vanniasegaram",
-            "seats": "32",
-            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -11193,25 +11155,6 @@
             "wait_cap": "6"
           }
         ],
-        "12424": [
-          {
-            "course": "MATH D010.20Z",
-            "CRN": "12424",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-02:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Van Der Poel",
-            "seats": "34",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "13033": [
           {
             "course": "MATH D010.22Z",
@@ -11323,25 +11266,6 @@
             "instructor": "Moen",
             "seats": "0",
             "wait_seats": "0",
-            "wait_cap": "6"
-          }
-        ],
-        "13096": [
-          {
-            "course": "MATH D010.55Z",
-            "CRN": "13096",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "03:00 PM-05:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sales",
-            "seats": "35",
-            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -11521,25 +11445,6 @@
             "instructor": "Rudolf",
             "seats": "0",
             "wait_seats": "3",
-            "wait_cap": "6"
-          }
-        ],
-        "13050": [
-          {
-            "course": "MATH D031.40Z",
-            "CRN": "13050",
-            "desc": "PRECALCULUS I",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "03:00 PM-05:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Krestas",
-            "seats": "29",
-            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -12948,7 +12853,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Perkins",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
