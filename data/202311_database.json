@@ -461,7 +461,7 @@
             "course": "AHS F050A01Y",
             "CRN": "10408",
             "desc": "INTRO ALLIED HEALTH PROGRAMS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "F",
             "time": "01:00 PM-01:50 PM",
             "start": "06/27/2022",
@@ -470,7 +470,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "St Onge-Cole",
-            "seats": "0",
+            "seats": "2",
             "wait_seats": "3",
             "wait_cap": "5"
           },
@@ -478,7 +478,7 @@
             "course": "AHS F050A01Y",
             "CRN": "10408",
             "desc": "INTRO ALLIED HEALTH PROGRAMS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -487,7 +487,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "St Onge-Cole",
-            "seats": "0",
+            "seats": "2",
             "wait_seats": "3",
             "wait_cap": "5"
           }
@@ -3019,7 +3019,7 @@
             "units": "4.50",
             "instructor": "Reed",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -3144,13 +3144,34 @@
           }
         ]
       },
+      "30E": {
+        "10932": [
+          {
+            "course": "C S F030E01W",
+            "CRN": "10932",
+            "desc": "LINUX SYS ADMIN: NETWORK SVCS",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "07/17/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.50",
+            "instructor": "Murphy",
+            "seats": "40",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          }
+        ]
+      },
       "31A": {
         "10120": [
           {
             "course": "C S F031A01W",
             "CRN": "10120",
             "desc": "INTRO DATABASE MGMT SYSTEMS",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3159,7 +3180,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ibrahim",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -3192,24 +3213,7 @@
             "course": "C S F055A01Z",
             "CRN": "10356",
             "desc": "INTRO CLOUD COMPUTNG AWS",
-            "status": "Waitlist",
-            "days": "MW",
-            "time": "06:00 PM-09:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Sandor",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "C S F055A01Z",
-            "CRN": "10356",
-            "desc": "INTRO CLOUD COMPUTNG AWS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3218,7 +3222,24 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Sandor",
-            "seats": "0",
+            "seats": "11",
+            "wait_seats": "10",
+            "wait_cap": "10"
+          },
+          {
+            "course": "C S F055A01Z",
+            "CRN": "10356",
+            "desc": "INTRO CLOUD COMPUTNG AWS",
+            "status": "Open",
+            "days": "MW",
+            "time": "06:00 PM-09:50 PM",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.50",
+            "instructor": "Sandor",
+            "seats": "11",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3228,7 +3249,7 @@
             "course": "C S F055A02W",
             "CRN": "10357",
             "desc": "INTRO CLOUD COMPUTNG AWS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3237,7 +3258,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Sandor",
-            "seats": "0",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -5816,7 +5837,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davis",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5862,7 +5883,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6013,7 +6034,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Batham",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10145,7 +10166,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Villanueva",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10208,7 +10229,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gerry",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11516,7 +11537,7 @@
             "course": "V T F053A01",
             "CRN": "10680",
             "desc": "VET MEDICAL TERMINOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "F",
             "time": "10:00 AM-12:50 PM",
             "start": "06/27/2022",
@@ -11525,7 +11546,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "St Onge-Cole",
-            "seats": "0",
+            "seats": "2",
             "wait_seats": "4",
             "wait_cap": "5"
           }
