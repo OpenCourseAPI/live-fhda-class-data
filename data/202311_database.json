@@ -2929,7 +2929,7 @@
             "course": "C S F002B01W",
             "CRN": "10073",
             "desc": "INTERM SOFTWARE DESIGN C++",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -2938,7 +2938,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -5999,7 +5999,7 @@
             "units": "5.00",
             "instructor": "Treanor",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -6408,7 +6408,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Cammin",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8804,6 +8804,25 @@
   "NCBS": {
     "1": {
       "405": {
+        "10922": [
+          {
+            "course": "NCBS F405.11S",
+            "CRN": "10922",
+            "desc": "SUPPLEMENTAL INSTRUCTION",
+            "status": "Full",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "TBA",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "Benjamin",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
         "10289": [
           {
             "course": "NCBS F405.50",
