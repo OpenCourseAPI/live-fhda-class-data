@@ -26,7 +26,7 @@
             "course": "ACCT D001A65Z",
             "CRN": "12455",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -35,7 +35,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kwak",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -54,7 +54,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hammond",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2072,7 +2072,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2156,7 +2156,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morgan",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2177,7 +2177,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shan",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2743,10 +2743,10 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Open",
             "days": "MTWTh",
-            "time": "07:30 AM-10:20 AM",
+            "time": "11:30 AM-12:45 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "SC2204",
+            "room": "ONLINE",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Muzzi",
@@ -2760,10 +2760,10 @@
             "desc": "GENERAL CHEMISTRY",
             "status": "Open",
             "days": "MTWTh",
-            "time": "11:30 AM-12:45 PM",
+            "time": "07:30 AM-10:20 AM",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "ONLINE",
+            "room": "SC2204",
             "campus": "DA",
             "units": "5.00",
             "instructor": "Muzzi",
@@ -2773,23 +2773,6 @@
           }
         ],
         "00213": [
-          {
-            "course": "CHEM D001B25",
-            "CRN": "00213",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "11:30 AM-02:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2204",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Deming",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
           {
             "course": "CHEM D001B25",
             "CRN": "00213",
@@ -2806,46 +2789,27 @@
             "seats": "0",
             "wait_seats": "6",
             "wait_cap": "6"
+          },
+          {
+            "course": "CHEM D001B25",
+            "CRN": "00213",
+            "desc": "GENERAL CHEMISTRY",
+            "status": "Waitlist",
+            "days": "MTWTh",
+            "time": "11:30 AM-02:20 PM",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "SC2204",
+            "campus": "DA",
+            "units": "5.00",
+            "instructor": "Deming",
+            "seats": "0",
+            "wait_seats": "6",
+            "wait_cap": "6"
           }
         ]
       },
       "1C": {
-        "00214": [
-          {
-            "course": "CHEM D001C07",
-            "CRN": "00214",
-            "desc": "GEN CHEM/QUAL ANALYSIS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "07:30 AM-10:20 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2208",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Martinovic",
-            "seats": "21",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D001C07",
-            "CRN": "00214",
-            "desc": "GEN CHEM/QUAL ANALYSIS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-11:45 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "S32",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Martinovic",
-            "seats": "21",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "10957": [
           {
             "course": "CHEM D001C25",
@@ -2954,42 +2918,6 @@
             "units": "5.00",
             "instructor": "Saunders",
             "seats": "2",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "12277": [
-          {
-            "course": "CHEM D025.41",
-            "CRN": "12277",
-            "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Open",
-            "days": "TTh",
-            "time": "02:30 PM-05:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2208",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Saunders",
-            "seats": "21",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D025.41",
-            "CRN": "12277",
-            "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "05:30 PM-07:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "S32",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Saunders",
-            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -8443,7 +8371,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dutt",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -8546,7 +8474,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "James",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -12077,7 +12005,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -13797,7 +13725,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ovetz",
-            "seats": "26",
+            "seats": "25",
             "wait_seats": "5",
             "wait_cap": "5"
           }
