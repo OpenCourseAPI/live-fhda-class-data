@@ -464,7 +464,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hui",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -3829,7 +3829,7 @@
             "units": "4.50",
             "instructor": "Stoykov",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ],
@@ -3867,7 +3867,7 @@
             "units": "4.50",
             "instructor": "Read",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
@@ -4236,7 +4236,7 @@
             "units": "0.00",
             "instructor": "Metcalf",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "7"
           }
         ]
@@ -6680,7 +6680,7 @@
             "course": "ESL D261.49Z",
             "CRN": "13372",
             "desc": "LOW ADV LISTENING/SPEAKG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "04:00 PM-05:50 PM",
             "start": "06/27/2022",
@@ -6689,7 +6689,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Chan",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -6737,7 +6737,7 @@
             "course": "ESL D265.49Z",
             "CRN": "13374",
             "desc": "LOW ADV GRAMM, WRTNG, RDNG",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "06:30 PM-09:20 PM",
             "start": "06/27/2022",
@@ -6747,7 +6747,7 @@
             "units": "6.00",
             "instructor": "Kohnhorst",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "2"
           }
         ]
@@ -8072,7 +8072,7 @@
             "course": "GEO D001.51Z",
             "CRN": "12283",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8082,7 +8082,7 @@
             "units": "4.00",
             "instructor": "Rohrmeier",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "3"
           }
         ]
@@ -9656,7 +9656,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Owiesny",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11691,25 +11691,6 @@
             "wait_seats": "10",
             "wait_cap": "10"
           }
-        ],
-        "13412": [
-          {
-            "course": "P E D032J02",
-            "CRN": "13412",
-            "desc": "WATER POLO TECHNIQUES",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "11:00 AM-01:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "POOLW",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Fleming",
-            "seats": "39",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
         ]
       },
       "32K": {
@@ -11854,25 +11835,6 @@
         ]
       },
       "41X": {
-        "13411": [
-          {
-            "course": "P E D041X01",
-            "CRN": "13411",
-            "desc": "INTERCOLLEG WATER POLO",
-            "status": "Open",
-            "days": "MTWThF",
-            "time": "11:00 AM-12:30 PM",
-            "start": "08/08/2022",
-            "end": "09/16/2022",
-            "room": "POOLW",
-            "campus": "DA",
-            "units": "1.50",
-            "instructor": "Fleming",
-            "seats": "39",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "12179": [
           {
             "course": "P E D041X02",
@@ -13502,7 +13464,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Clifford Jr",
-            "seats": "24",
+            "seats": "23",
             "wait_seats": "8",
             "wait_cap": "8"
           }
