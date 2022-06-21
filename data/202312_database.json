@@ -144,7 +144,7 @@
             "course": "ACCT D001C61Z",
             "CRN": "10305",
             "desc": "MANAG ACCOUNTG",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -153,7 +153,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hung",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -163,7 +163,7 @@
             "course": "ACCT D001C65Z",
             "CRN": "12839",
             "desc": "MANAG ACCOUNTG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -172,7 +172,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gough",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -1016,7 +1016,7 @@
             "course": "AUTO D066.95",
             "CRN": "00077",
             "desc": "AUTO AIR CONDITIONING",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MW",
             "time": "06:00 PM-10:15 PM",
             "start": "06/27/2022",
@@ -1026,7 +1026,7 @@
             "units": "4.50",
             "instructor": "Silva",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "5"
           }
         ]
@@ -1193,7 +1193,7 @@
             "course": "BIOL D010.52Z",
             "CRN": "13074",
             "desc": "INTRO BIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -1202,8 +1202,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bram",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "7"
           }
         ]
@@ -1434,7 +1434,7 @@
             "course": "BIOL D040A02Z",
             "CRN": "10829",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "01:00 PM-02:15 PM",
             "start": "06/27/2022",
@@ -1443,15 +1443,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "7"
           },
           {
             "course": "BIOL D040A02Z",
             "CRN": "10829",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "11:00 AM-12:50 PM",
             "start": "06/27/2022",
@@ -1460,8 +1460,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "7"
           }
         ]
@@ -2428,7 +2428,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Choi",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -3719,7 +3719,7 @@
             "units": "4.50",
             "instructor": "Yu",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -3783,7 +3783,7 @@
             "course": "CIS D040.41Z",
             "CRN": "12881",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3793,14 +3793,14 @@
             "units": "4.50",
             "instructor": "Abolghasemi",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "12"
           },
           {
             "course": "CIS D040.41Z",
             "CRN": "12881",
             "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TTh",
             "time": "06:00 PM-07:50 PM",
             "start": "06/27/2022",
@@ -3810,7 +3810,7 @@
             "units": "4.50",
             "instructor": "Abolghasemi",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "12"
           }
         ],
@@ -6767,7 +6767,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Marin",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "2"
           },
@@ -6784,7 +6784,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Marin",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -6824,7 +6824,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tung",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "2"
           },
@@ -6841,7 +6841,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Tung",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -7032,7 +7032,7 @@
             "course": "ESL D472.01Z",
             "CRN": "13386",
             "desc": "ADV READNG & VOCAB",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "MW",
             "time": "12:30 PM-02:20 PM",
             "start": "06/27/2022",
@@ -7042,14 +7042,14 @@
             "units": "0.00",
             "instructor": "Marin",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           },
           {
             "course": "ESL D472.01Z",
             "CRN": "13386",
             "desc": "ADV READNG & VOCAB",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -7059,7 +7059,7 @@
             "units": "0.00",
             "instructor": "Marin",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -7068,7 +7068,7 @@
             "course": "ESL D472.50Z",
             "CRN": "13387",
             "desc": "ADV READNG & VOCAB",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -7077,8 +7077,8 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Tracey",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -7125,7 +7125,7 @@
             "course": "ESL D473.50Z",
             "CRN": "13389",
             "desc": "INTRO TO THE ESSAY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -7134,8 +7134,8 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Culver",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -7436,7 +7436,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Argyriou",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7982,7 +7982,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Freckelton",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -7999,7 +7999,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Freckelton",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9468,7 +9468,7 @@
             "units": "0.50",
             "instructor": "Donahue",
             "seats": "0",
-            "wait_seats": "17",
+            "wait_seats": "16",
             "wait_cap": "20"
           }
         ]
@@ -10704,7 +10704,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Du",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -10900,7 +10900,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Zhang",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11116,7 +11116,7 @@
             "units": "5.00",
             "instructor": "Shi",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ]
@@ -11127,7 +11127,7 @@
             "course": "MATH D031.10Z",
             "CRN": "13171",
             "desc": "PRECALCULUS I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:00 AM-12:15 PM",
             "start": "06/27/2022",
@@ -11136,8 +11136,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Kapur",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -11174,7 +11174,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Krestas",
-            "seats": "16",
+            "seats": "15",
             "wait_seats": "6",
             "wait_cap": "6"
           }
