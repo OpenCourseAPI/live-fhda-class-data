@@ -7,7 +7,7 @@
             "course": "ACCT D001A61Z",
             "CRN": "10301",
             "desc": "FINAN ACCOUNTNG I",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -16,9 +16,9 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Venkata",
-            "seats": "0",
-            "wait_seats": "9",
-            "wait_cap": "10"
+            "seats": "5",
+            "wait_seats": "4",
+            "wait_cap": "5"
           }
         ],
         "12455": [
@@ -401,7 +401,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Keiffer-Lewis",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -417,7 +417,7 @@
             "course": "ANTH D001.50Z",
             "CRN": "13059",
             "desc": "PHYS ANTHRO",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -426,7 +426,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Beggs",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "2",
             "wait_cap": "2"
           }
@@ -3673,7 +3673,7 @@
             "course": "CIS D036A41Z",
             "CRN": "12989",
             "desc": "INTRO TO COMP PROG USING JAVA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "06:00 PM-09:50 PM",
             "start": "06/27/2022",
@@ -3682,15 +3682,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "0",
-            "wait_seats": "7",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-3",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D036A41Z",
             "CRN": "12989",
             "desc": "INTRO TO COMP PROG USING JAVA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3699,9 +3699,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "0",
-            "wait_seats": "7",
-            "wait_cap": "10"
+            "seats": "10",
+            "wait_seats": "-3",
+            "wait_cap": "0"
           }
         ],
         "12036": [
@@ -4469,7 +4469,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ganesh",
-            "seats": "9",
+            "seats": "8",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -7837,7 +7837,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gravener",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -10785,7 +10785,7 @@
             "units": "5.00",
             "instructor": "Nguyen",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -10853,7 +10853,7 @@
             "course": "MATH D010.07Z",
             "CRN": "10979",
             "desc": "INTRODUCTORY STATISTICS",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "MTWTh",
             "time": "10:00 AM-12:15 PM",
             "start": "06/27/2022",
@@ -10863,7 +10863,7 @@
             "units": "5.00",
             "instructor": "Geraghty",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "6"
           }
         ],
@@ -10995,7 +10995,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sales",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -13426,7 +13426,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Clifford Jr",
-            "seats": "13",
+            "seats": "12",
             "wait_seats": "8",
             "wait_cap": "8"
           }
