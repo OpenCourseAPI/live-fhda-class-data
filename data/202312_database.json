@@ -1946,7 +1946,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2009,7 +2009,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Takyi",
-            "seats": "20",
+            "seats": "19",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3054,7 +3054,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Linn Jr",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -3071,7 +3071,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Linn Jr",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -3088,7 +3088,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Linn Jr",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3527,7 +3527,7 @@
             "course": "CIS D035A01Z",
             "CRN": "12037",
             "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "10:00 AM-11:50 AM",
             "start": "06/27/2022",
@@ -3536,15 +3536,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "0",
-            "wait_seats": "12",
-            "wait_cap": "15"
+            "seats": "5",
+            "wait_seats": "-3",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D035A01Z",
             "CRN": "12037",
             "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3553,15 +3553,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "0",
-            "wait_seats": "12",
-            "wait_cap": "15"
+            "seats": "5",
+            "wait_seats": "-3",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D035A01Z",
             "CRN": "12037",
             "desc": "JAVA PROGRAMMING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3570,9 +3570,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "0",
-            "wait_seats": "12",
-            "wait_cap": "15"
+            "seats": "5",
+            "wait_seats": "-3",
+            "wait_cap": "0"
           }
         ],
         "00234": [
@@ -3709,7 +3709,7 @@
             "course": "CIS D036A51Z",
             "CRN": "12036",
             "desc": "INTRO TO COMP PROG USING JAVA",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3718,9 +3718,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Yu",
-            "seats": "0",
-            "wait_seats": "8",
-            "wait_cap": "15"
+            "seats": "10",
+            "wait_seats": "-7",
+            "wait_cap": "0"
           }
         ]
       },
@@ -4448,7 +4448,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Wallis",
-            "seats": "19",
+            "seats": "18",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -8516,7 +8516,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Sherlekar",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -8965,7 +8965,7 @@
             "units": "4.00",
             "instructor": "Glapion",
             "seats": "1",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "7"
           }
         ]
@@ -10704,7 +10704,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Du",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -12868,7 +12868,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Hammerud",
-            "seats": "25",
+            "seats": "24",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -13799,7 +13799,7 @@
             "units": "4.00",
             "instructor": "Dehaan",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ],
