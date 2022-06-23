@@ -1556,7 +1556,7 @@
             "units": "4.00",
             "instructor": "Miller",
             "seats": "0",
-            "wait_seats": "-8",
+            "wait_seats": "-7",
             "wait_cap": "7"
           },
           {
@@ -1573,7 +1573,7 @@
             "units": "4.00",
             "instructor": "Miller",
             "seats": "0",
-            "wait_seats": "-8",
+            "wait_seats": "-7",
             "wait_cap": "7"
           }
         ]
@@ -3451,7 +3451,7 @@
             "course": "CIS D022C41Z",
             "CRN": "12987",
             "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "06:00 PM-09:50 PM",
             "start": "06/27/2022",
@@ -3460,15 +3460,15 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Larkin",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "20",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           },
           {
             "course": "CIS D022C41Z",
             "CRN": "12987",
             "desc": "DATA ABSTRACT & STRUCTURES",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3477,9 +3477,9 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Larkin",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "15"
+            "seats": "20",
+            "wait_seats": "-15",
+            "wait_cap": "0"
           }
         ],
         "11306": [
@@ -10106,7 +10106,7 @@
             "campus": "DA",
             "units": "1.00",
             "instructor": "Simons",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
