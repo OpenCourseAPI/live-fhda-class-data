@@ -1410,7 +1410,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Price",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -1431,7 +1431,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Price",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2343,7 +2343,7 @@
             "course": "BIOL F040A01Y",
             "CRN": "10005",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "10:00 AM-11:50 AM",
             "start": "06/27/2022",
@@ -2352,7 +2352,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           },
@@ -2360,7 +2360,7 @@
             "course": "BIOL F040A01Y",
             "CRN": "10005",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
+            "status": "Open",
             "days": "TTh",
             "time": "12:30 PM-03:30 PM",
             "start": "06/27/2022",
@@ -2369,7 +2369,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           },
@@ -2377,7 +2377,7 @@
             "course": "BIOL F040A01Y",
             "CRN": "10005",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -2386,7 +2386,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "15"
           }
@@ -4079,7 +4079,7 @@
             "course": "COMM F004.01W",
             "CRN": "10265",
             "desc": "GROUP DISCUSSION",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -4089,7 +4089,7 @@
             "units": "5.00",
             "instructor": "Cunningham",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -4882,7 +4882,7 @@
             "course": "EMS F052.01Y",
             "CRN": "10754",
             "desc": "EMT: BASIC PART A",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "WTh",
             "time": "10:00 AM-02:30 PM",
             "start": "07/11/2022",
@@ -4891,7 +4891,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Chew",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -4899,7 +4899,7 @@
             "course": "EMS F052.01Y",
             "CRN": "10754",
             "desc": "EMT: BASIC PART A",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "T",
             "time": "10:00 AM-04:50 PM",
             "start": "07/11/2022",
@@ -4908,7 +4908,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Villanueva",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -4916,7 +4916,7 @@
             "course": "EMS F052.01Y",
             "CRN": "10754",
             "desc": "EMT: BASIC PART A",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "07/11/2022",
@@ -4925,7 +4925,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Villanueva",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -5854,7 +5854,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davis",
-            "seats": "18",
+            "seats": "19",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -7819,7 +7819,7 @@
             "units": "5.00",
             "instructor": "Martinez",
             "seats": "1",
-            "wait_seats": "11",
+            "wait_seats": "10",
             "wait_cap": "16"
           }
         ],
@@ -8615,6 +8615,46 @@
   },
   "NCBS": {
     "1": {
+      "403A": {
+        "10939": [
+          {
+            "course": "NCBS F403A01",
+            "CRN": "10939",
+            "desc": "BRIDGE TO COLLEGE MATH I",
+            "status": "Open",
+            "days": "MTWThF",
+            "time": "09:00 AM-11:20 AM",
+            "start": "09/06/2022",
+            "end": "09/16/2022",
+            "room": "5613",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "Sinclair",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10940": [
+          {
+            "course": "NCBS F403A02",
+            "CRN": "10940",
+            "desc": "BRIDGE TO COLLEGE MATH I",
+            "status": "Open",
+            "days": "MTWThF",
+            "time": "09:00 AM-11:20 AM",
+            "start": "09/06/2022",
+            "end": "09/16/2022",
+            "room": "5614",
+            "campus": "FH",
+            "units": "0.00",
+            "instructor": "Anderson",
+            "seats": "30",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ]
+      },
       "403B": {
         "10937": [
           {
@@ -10001,7 +10041,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Gerry",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -11427,7 +11467,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davison",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "20",
             "wait_cap": "20"
           }
