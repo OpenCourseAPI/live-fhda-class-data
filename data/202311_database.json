@@ -1471,7 +1471,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Jenkins",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2904,7 +2904,7 @@
             "course": "C S F001A02W",
             "CRN": "10072",
             "desc": "OBJ-ORIENTED PROG METHOD JAVA",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -2913,8 +2913,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Pham",
-            "seats": "2",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "3",
             "wait_cap": "10"
           }
         ],
@@ -3045,7 +3045,7 @@
             "course": "C S F003A02W",
             "CRN": "10245",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3054,8 +3054,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Reed",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -3123,7 +3123,7 @@
             "course": "C S F003B01W",
             "CRN": "10347",
             "desc": "INTERMED SOFTWARE DESGN PYTHON",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3132,8 +3132,8 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Meade",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -4200,7 +4200,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Lisalde",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4217,7 +4217,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Randolph",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -4234,7 +4234,7 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Obhi",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -4889,6 +4889,42 @@
             "wait_seats": "5",
             "wait_cap": "5"
           }
+        ],
+        "10949": [
+          {
+            "course": "ECON F054H2HY",
+            "CRN": "10949",
+            "desc": "HONORS INSTITUTE SEMINAR ECON",
+            "status": "Open",
+            "days": "T",
+            "time": "04:00 PM-04:50 PM",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "GUATEMALA",
+            "campus": "FO",
+            "units": "1.00",
+            "instructor": "Evans",
+            "seats": "20",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "ECON F054H2HY",
+            "CRN": "10949",
+            "desc": "HONORS INSTITUTE SEMINAR ECON",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "FO",
+            "units": "1.00",
+            "instructor": "Evans",
+            "seats": "20",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
         ]
       }
     }
@@ -5453,7 +5489,7 @@
             "units": "5.00",
             "instructor": "Harvey",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "25"
           }
         ],
@@ -5540,7 +5576,7 @@
             "course": "ENGL F001B04W",
             "CRN": "10066",
             "desc": "COMP/CRIT READ/THINK LITERATUR",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -5549,7 +5585,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "La Piana",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -5919,7 +5955,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Fong",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -6061,7 +6097,7 @@
             "course": "HIST F017C03W",
             "CRN": "10116",
             "desc": "HISTORY OF US FROM 1914 TO PRE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -6070,8 +6106,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Batham",
-            "seats": "1",
-            "wait_seats": "16",
+            "seats": "0",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ]
@@ -6179,7 +6215,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Bryant",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -6196,7 +6232,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Bryant",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6294,7 +6330,7 @@
             "course": "HUMN F003.01W",
             "CRN": "10186",
             "desc": "WORLD MYTHS IN LIT ARTS & FILM",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -6303,7 +6339,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hoekenga",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "18",
             "wait_cap": "20"
           }
@@ -7677,8 +7713,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Williams",
-            "seats": "17",
-            "wait_seats": "0",
+            "seats": "7",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ],
@@ -8320,7 +8356,7 @@
             "units": "4.00",
             "instructor": "Hartwell",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -8980,7 +9016,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "5",
+            "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9479,7 +9515,7 @@
             "units": "4.00",
             "instructor": "Provost",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "19",
             "wait_cap": "20"
           }
         ]
@@ -9967,7 +10003,7 @@
             "course": "PSYC F010.01W",
             "CRN": "10303",
             "desc": "RESEARCH METHODS & DESIGNS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -9976,7 +10012,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Gauthier",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "8",
             "wait_cap": "10"
           }
@@ -9997,7 +10033,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Villanueva",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "20",
             "wait_cap": "20"
           }
