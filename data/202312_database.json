@@ -1904,7 +1904,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lilly",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2021,7 +2021,7 @@
             "course": "BUS D089.61Z",
             "CRN": "13288",
             "desc": "ADVERTISING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -2030,8 +2030,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Morgan",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ]
@@ -2086,7 +2086,7 @@
             "course": "C D D010G61Z",
             "CRN": "12737",
             "desc": "CHLD DEV:EARLY YRS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -2095,8 +2095,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Sun",
-            "seats": "1",
-            "wait_seats": "9",
+            "seats": "0",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -2486,7 +2486,7 @@
             "course": "CHEM D001A04",
             "CRN": "00209",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "07:30 AM-10:20 AM",
             "start": "06/27/2022",
@@ -2495,15 +2495,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gray",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "6"
           },
           {
             "course": "CHEM D001A04",
             "CRN": "00209",
             "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "10:30 AM-11:45 AM",
             "start": "06/27/2022",
@@ -2512,8 +2512,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gray",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -6954,7 +6954,7 @@
             "course": "ESL D461.49Z",
             "CRN": "13383",
             "desc": "LOW ADV LISTENING/SPEAKG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MW",
             "time": "04:00 PM-05:50 PM",
             "start": "06/27/2022",
@@ -6963,8 +6963,8 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Chan",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -7011,7 +7011,7 @@
             "course": "ESL D465.49Z",
             "CRN": "13385",
             "desc": "LOW ADV GRAMM, WRTNG, RDNG",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "06:30 PM-09:20 PM",
             "start": "06/27/2022",
@@ -7020,8 +7020,8 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Kohnhorst",
-            "seats": "1",
-            "wait_seats": "3",
+            "seats": "0",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ]
@@ -8196,7 +8196,7 @@
             "course": "GEOL D020.61Z",
             "CRN": "11598",
             "desc": "GENERAL OCEANOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8205,8 +8205,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "James",
-            "seats": "1",
-            "wait_seats": "5",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ]
@@ -10292,7 +10292,7 @@
             "course": "MATH D001A20Z",
             "CRN": "13180",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "12:30 PM-02:45 PM",
             "start": "06/27/2022",
@@ -10301,8 +10301,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shah",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ],
@@ -10349,7 +10349,7 @@
             "course": "MATH D001A40Z",
             "CRN": "12373",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "05:30 PM-07:45 PM",
             "start": "06/27/2022",
@@ -10358,8 +10358,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lee",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -11049,7 +11049,7 @@
             "course": "MATH D022.01Z",
             "CRN": "13035",
             "desc": "DISCRETE MATHEMATICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "07:30 AM-09:45 AM",
             "start": "06/27/2022",
@@ -11058,8 +11058,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Yarahmadi",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -13770,7 +13770,7 @@
             "course": "SOC D001.51Z",
             "CRN": "00954",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -13779,8 +13779,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pasion",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -13829,7 +13829,7 @@
             "course": "SOC D020.50Z",
             "CRN": "10003",
             "desc": "SOCIAL PROBLEMS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -13838,7 +13838,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dehaan",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
