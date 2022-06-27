@@ -180,7 +180,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Ardizzone",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -1511,7 +1511,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davidson",
-            "seats": "12",
+            "seats": "11",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -1752,7 +1752,7 @@
             "course": "ART F001.02W",
             "CRN": "10020",
             "desc": "INTRODUCTION TO ART",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -1761,7 +1761,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Brannvall",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2755,7 +2755,7 @@
             "course": "BUSI F012.01W",
             "CRN": "10422",
             "desc": "INTRO DATA ANLYTCS/BUS DECSION",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -2764,7 +2764,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Lew",
-            "seats": "2",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2776,7 +2776,7 @@
             "course": "BUSI F018.02W",
             "CRN": "10203",
             "desc": "BUSINESS LAW I",
-            "status": "Open",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -2785,7 +2785,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Harmon",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -2848,7 +2848,7 @@
             "campus": "FC",
             "units": "4.00",
             "instructor": "Mancuso",
-            "seats": "13",
+            "seats": "11",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -2965,7 +2965,7 @@
             "course": "C S F002A01W",
             "CRN": "10054",
             "desc": "OBJ-ORIENT PROG METHOD IN C++",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -2974,7 +2974,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -2984,7 +2984,7 @@
             "course": "C S F002A02W",
             "CRN": "10067",
             "desc": "OBJ-ORIENT PROG METHOD IN C++",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -2994,7 +2994,7 @@
             "units": "4.50",
             "instructor": "Harden",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -3026,25 +3026,6 @@
             "course": "C S F003A01W",
             "CRN": "10126",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Reed",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "10"
-          }
-        ],
-        "10245": [
-          {
-            "course": "C S F003A02W",
-            "CRN": "10245",
-            "desc": "OBJECT ORIEN PRGM METH PYTHON",
             "status": "Open",
             "days": "TBA",
             "time": "TBA",
@@ -3054,8 +3035,27 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Reed",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
+            "wait_cap": "10"
+          }
+        ],
+        "10245": [
+          {
+            "course": "C S F003A02W",
+            "CRN": "10245",
+            "desc": "OBJECT ORIEN PRGM METH PYTHON",
+            "status": "Waitlist",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "4.50",
+            "instructor": "Reed",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ],
@@ -3083,7 +3083,7 @@
             "course": "C S F003A05W",
             "CRN": "10293",
             "desc": "OBJECT ORIEN PRGM METH PYTHON",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3093,7 +3093,7 @@
             "units": "4.50",
             "instructor": "Lamble",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -3825,7 +3825,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Giotta",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "20",
             "wait_cap": "20"
           },
@@ -3842,7 +3842,7 @@
             "campus": "FC",
             "units": "2.00",
             "instructor": "Giotta",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -3944,7 +3944,7 @@
             "course": "COMM F001A01W",
             "CRN": "10055",
             "desc": "PUBLIC SPEAKING",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3953,7 +3953,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Meneses",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "-2",
             "wait_cap": "0"
           }
@@ -4011,7 +4011,7 @@
             "units": "5.00",
             "instructor": "Clemmons",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "8",
             "wait_cap": "20"
           }
         ],
@@ -4098,7 +4098,7 @@
             "course": "COMM F004.01W",
             "CRN": "10265",
             "desc": "GROUP DISCUSSION",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -4108,7 +4108,7 @@
             "units": "5.00",
             "instructor": "Cunningham",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -4787,7 +4787,7 @@
             "units": "5.00",
             "instructor": "Patyk",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "12",
             "wait_cap": "20"
           }
         ],
@@ -5353,7 +5353,7 @@
             "campus": "FO",
             "units": "4.50",
             "instructor": "Middleton",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -5370,7 +5370,7 @@
             "campus": "FO",
             "units": "4.50",
             "instructor": "Ikegami",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -5387,7 +5387,7 @@
             "campus": "FO",
             "units": "4.50",
             "instructor": "Culbertson",
-            "seats": "14",
+            "seats": "13",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -5688,7 +5688,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Escamilla",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -5816,7 +5816,7 @@
             "course": "ETHN F005.01W",
             "CRN": "10712",
             "desc": "INTRO ASIAN AMERICAN STUDIES",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -5825,7 +5825,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Lee",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "25"
           }
@@ -5860,7 +5860,7 @@
             "course": "GEOG F001.02W",
             "CRN": "10008",
             "desc": "PHYSICAL GEOGRAPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -5869,7 +5869,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hansell",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "12",
             "wait_cap": "15"
           }
@@ -5909,7 +5909,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davis",
-            "seats": "14",
+            "seats": "12",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6064,7 +6064,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davison",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6132,7 +6132,7 @@
             "units": "5.00",
             "instructor": "Treanor",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "4",
             "wait_cap": "10"
           }
         ]
@@ -6398,7 +6398,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Mitrovici",
-            "seats": "11",
+            "seats": "7",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -6619,7 +6619,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Gandhi",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -6636,7 +6636,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Gandhi",
-            "seats": "21",
+            "seats": "20",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -6842,7 +6842,7 @@
             "course": "JAPN F001.01Z",
             "CRN": "10308",
             "desc": "ELEMENTARY JAPANESE I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "M",
             "time": "11:30 AM-12:20 PM",
             "start": "06/27/2022",
@@ -6851,15 +6851,15 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Yasutake",
-            "seats": "1",
-            "wait_seats": "28",
+            "seats": "0",
+            "wait_seats": "29",
             "wait_cap": "50"
           },
           {
             "course": "JAPN F001.01Z",
             "CRN": "10308",
             "desc": "ELEMENTARY JAPANESE I",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -6868,8 +6868,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Yasutake",
-            "seats": "1",
-            "wait_seats": "28",
+            "seats": "0",
+            "wait_seats": "29",
             "wait_cap": "50"
           }
         ]
@@ -6922,7 +6922,7 @@
             "course": "KINS F001.02W",
             "CRN": "10084",
             "desc": "INTRODUCTION TO KINESIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -6931,7 +6931,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7015,7 +7015,7 @@
             "campus": "FH",
             "units": "3.00",
             "instructor": "Voyce",
-            "seats": "23",
+            "seats": "21",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7629,7 +7629,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Pereira",
-            "seats": "76",
+            "seats": "75",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -7650,7 +7650,7 @@
             "campus": "FH",
             "units": "0.00",
             "instructor": "Pereira",
-            "seats": "77",
+            "seats": "76",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -7704,7 +7704,7 @@
             "course": "MATH F001A03W",
             "CRN": "10379",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -7714,7 +7714,7 @@
             "units": "5.00",
             "instructor": "Maskalevich",
             "seats": "0",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ]
@@ -7765,7 +7765,7 @@
             "course": "MATH F001C01V",
             "CRN": "10011",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "01:30 PM-03:45 PM",
             "start": "06/27/2022",
@@ -7774,8 +7774,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Park Lee",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "1",
             "wait_cap": "10"
           }
         ],
@@ -7814,7 +7814,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Park Lee",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8404,7 +8404,7 @@
             "units": "4.00",
             "instructor": "Tambling",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -8445,7 +8445,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Tambling",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -8814,7 +8814,7 @@
             "campus": "FC",
             "units": "0.00",
             "instructor": "Vozza",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "25",
             "wait_cap": "25"
           }
@@ -8997,7 +8997,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Flannery",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9186,7 +9186,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Macias",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9249,7 +9249,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "8",
+            "seats": "7",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9409,7 +9409,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -9446,7 +9446,7 @@
             "course": "PHIL F001.01W",
             "CRN": "10115",
             "desc": "CRITICAL THINKING & WRITING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -9455,8 +9455,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hoekenga",
-            "seats": "1",
-            "wait_seats": "17",
+            "seats": "0",
+            "wait_seats": "18",
             "wait_cap": "20"
           }
         ]
@@ -9467,7 +9467,7 @@
             "course": "PHIL F004.01W",
             "CRN": "10113",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -9476,8 +9476,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Chang",
-            "seats": "1",
-            "wait_seats": "15",
+            "seats": "0",
+            "wait_seats": "16",
             "wait_cap": "20"
           }
         ],
@@ -9507,7 +9507,7 @@
             "course": "PHIL F008.01W",
             "CRN": "10165",
             "desc": "ETHICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -9516,8 +9516,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tapia",
-            "seats": "0",
-            "wait_seats": "19",
+            "seats": "1",
+            "wait_seats": "17",
             "wait_cap": "20"
           }
         ]
@@ -9572,7 +9572,7 @@
             "course": "PHOT F008.01W",
             "CRN": "10014",
             "desc": "PHOTOGRAPHY OF AMER CULTURES",
-            "status": "Waitlist",
+            "status": "Full",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -9582,7 +9582,7 @@
             "units": "5.00",
             "instructor": "Herman",
             "seats": "0",
-            "wait_seats": "1",
+            "wait_seats": "0",
             "wait_cap": "10"
           }
         ]
@@ -9923,7 +9923,7 @@
             "course": "PSYC F001.04W",
             "CRN": "10239",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -9932,8 +9932,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "1",
-            "wait_seats": "14",
+            "seats": "0",
+            "wait_seats": "15",
             "wait_cap": "20"
           }
         ],
@@ -9951,7 +9951,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "27",
+            "seats": "26",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10014,7 +10014,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Villanueva",
-            "seats": "7",
+            "seats": "5",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10841,7 +10841,7 @@
             "course": "SOC F001.02W",
             "CRN": "10294",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -10850,8 +10850,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Fox",
-            "seats": "1",
-            "wait_seats": "8",
+            "seats": "0",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -10883,7 +10883,7 @@
             "course": "SOC F019.01W",
             "CRN": "10018",
             "desc": "ALCOHOL & DRUG ABUSE",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -10892,7 +10892,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cormier",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10904,7 +10904,7 @@
             "course": "SOC F023.01W",
             "CRN": "10032",
             "desc": "RACE & ETHNIC RELATIONS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -10913,8 +10913,8 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "McNamara",
-            "seats": "1",
-            "wait_seats": "10",
+            "seats": "0",
+            "wait_seats": "11",
             "wait_cap": "20"
           }
         ]
@@ -10925,7 +10925,7 @@
             "course": "SOC F030.01W",
             "CRN": "10019",
             "desc": "SOCIAL PSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -10934,7 +10934,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Cormier",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "6",
             "wait_cap": "10"
           }
@@ -11026,7 +11026,7 @@
             "campus": "FH",
             "units": "2.00",
             "instructor": "Gough",
-            "seats": "15",
+            "seats": "14",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11484,7 +11484,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davison",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "20",
             "wait_cap": "20"
           }
