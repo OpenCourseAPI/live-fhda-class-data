@@ -244,7 +244,7 @@
             "units": "5.00",
             "instructor": "Ghodrat",
             "seats": "1",
-            "wait_seats": "14",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ],
@@ -305,7 +305,7 @@
             "units": "4.00",
             "instructor": "Glass",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "15"
           }
         ]
@@ -3236,7 +3236,7 @@
             "units": "4.50",
             "instructor": "Ibrahim",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -3256,7 +3256,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Ryan",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3334,7 +3334,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Sandor",
-            "seats": "17",
+            "seats": "16",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3551,7 +3551,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Esfandiari",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -3568,7 +3568,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Esfandiari",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -3965,7 +3965,7 @@
             "course": "COMM F001A03W",
             "CRN": "10226",
             "desc": "PUBLIC SPEAKING",
-            "status": "Full",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -3974,7 +3974,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Hasan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "-1",
             "wait_cap": "0"
           }
@@ -4838,7 +4838,7 @@
             "course": "ECON F001B03W",
             "CRN": "10425",
             "desc": "PRINCIPLES OF MICROECONOMICS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -4847,7 +4847,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Dupree",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "15",
             "wait_cap": "20"
           }
@@ -5941,7 +5941,7 @@
             "units": "4.00",
             "instructor": "Brown",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "10"
           }
         ]
@@ -5962,7 +5962,7 @@
             "units": "4.00",
             "instructor": "Brown",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "10"
           }
         ]
@@ -6028,7 +6028,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davison",
-            "seats": "4",
+            "seats": "3",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -8092,7 +8092,7 @@
             "course": "MDIA F001.02W",
             "CRN": "10276",
             "desc": "INTRO TO FILM STUDIES",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8101,7 +8101,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Shidler",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "20"
           }
@@ -8421,7 +8421,7 @@
             "units": "5.00",
             "instructor": "Carey",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "10"
           }
         ]
@@ -9073,7 +9073,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Macias",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9146,7 +9146,7 @@
             "course": "PHED F045A02",
             "CRN": "10888",
             "desc": "FND STRENGTH & CONDITIONING",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "02:15 PM-03:30 PM",
             "start": "06/27/2022",
@@ -9155,9 +9155,9 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Raivio",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "seats": "24",
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ],
         "10890": [
@@ -9207,7 +9207,7 @@
             "course": "PHED F046.01",
             "CRN": "10889",
             "desc": "WEIGHT LIFTING FOR HEALTH & FI",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "02:15 PM-03:30 PM",
             "start": "06/27/2022",
@@ -9216,9 +9216,9 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Raivio",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "seats": "19",
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ],
         "10400": [
@@ -9245,7 +9245,7 @@
             "course": "PHED F046.02",
             "CRN": "10891",
             "desc": "WEIGHT LIFTING FOR HEALTH & FI",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "02:15 PM-03:30 PM",
             "start": "06/27/2022",
@@ -9254,9 +9254,9 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Edwards",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
+            "seats": "22",
+            "wait_seats": "5",
+            "wait_cap": "5"
           }
         ]
       },
@@ -9598,7 +9598,7 @@
             "course": "PHYS F006.01W",
             "CRN": "10057",
             "desc": "INTRODUCTORY PHYSICS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -9607,7 +9607,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "10"
           }
