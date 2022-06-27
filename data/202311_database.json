@@ -55,7 +55,7 @@
             "units": "5.00",
             "instructor": "Mayer",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -305,7 +305,7 @@
             "units": "4.00",
             "instructor": "Glass",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ]
@@ -3244,42 +3244,6 @@
         ]
       },
       "55A": {
-        "10356": [
-          {
-            "course": "C S F055A01Z",
-            "CRN": "10356",
-            "desc": "INTRO CLOUD COMPUTNG AWS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Sandor",
-            "seats": "11",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          },
-          {
-            "course": "C S F055A01Z",
-            "CRN": "10356",
-            "desc": "INTRO CLOUD COMPUTNG AWS",
-            "status": "Open",
-            "days": "MW",
-            "time": "06:00 PM-09:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.50",
-            "instructor": "Sandor",
-            "seats": "11",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "10357": [
           {
             "course": "C S F055A02W",
@@ -4806,7 +4770,7 @@
             "units": "5.00",
             "instructor": "Dupree",
             "seats": "0",
-            "wait_seats": "12",
+            "wait_seats": "11",
             "wait_cap": "20"
           }
         ]
@@ -4885,7 +4849,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "Evans",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -6085,7 +6049,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Batham",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "16",
             "wait_cap": "20"
           }
@@ -6361,7 +6325,7 @@
             "units": "4.00",
             "instructor": "Lore",
             "seats": "0",
-            "wait_seats": "18",
+            "wait_seats": "19",
             "wait_cap": "20"
           }
         ],
@@ -6835,84 +6799,7 @@
     }
   },
   "JAPN": {
-    "1": {
-      "1": {
-        "10308": [
-          {
-            "course": "JAPN F001.01Z",
-            "CRN": "10308",
-            "desc": "ELEMENTARY JAPANESE I",
-            "status": "Open",
-            "days": "M",
-            "time": "11:30 AM-12:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Yasutake",
-            "seats": "1",
-            "wait_seats": "30",
-            "wait_cap": "50"
-          },
-          {
-            "course": "JAPN F001.01Z",
-            "CRN": "10308",
-            "desc": "ELEMENTARY JAPANESE I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Yasutake",
-            "seats": "1",
-            "wait_seats": "30",
-            "wait_cap": "50"
-          }
-        ]
-      },
-      "3": {
-        "10309": [
-          {
-            "course": "JAPN F003.01Z",
-            "CRN": "10309",
-            "desc": "ELEMENTARY JAPANESE III",
-            "status": "Open",
-            "days": "M",
-            "time": "05:00 PM-05:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Yasutake",
-            "seats": "10",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          },
-          {
-            "course": "JAPN F003.01Z",
-            "CRN": "10309",
-            "desc": "ELEMENTARY JAPANESE III",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Yasutake",
-            "seats": "10",
-            "wait_seats": "25",
-            "wait_cap": "25"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "KINS": {
     "1": {
@@ -7704,7 +7591,7 @@
             "course": "MATH F001A03W",
             "CRN": "10379",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -7713,8 +7600,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Maskalevich",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ]
@@ -8308,7 +8195,7 @@
             "course": "MDIA F011.01W",
             "CRN": "10097",
             "desc": "INTRO TO POPULAR CULTURE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -8317,7 +8204,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Hartwell",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "4",
             "wait_cap": "10"
           }
@@ -8378,7 +8265,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Kuehnl",
-            "seats": "6",
+            "seats": "5",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9635,7 +9522,7 @@
             "course": "PHYS F004A01",
             "CRN": "10721",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "10:00 AM-12:20 PM",
             "start": "06/27/2022",
@@ -9644,7 +9531,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Ho",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -9652,7 +9539,7 @@
             "course": "PHYS F004A01",
             "CRN": "10721",
             "desc": "GENERAL PHYSICS (CALC)",
-            "status": "Full",
+            "status": "Open",
             "days": "MW",
             "time": "01:00 PM-04:05 PM",
             "start": "06/27/2022",
@@ -9661,7 +9548,7 @@
             "campus": "FH",
             "units": "6.00",
             "instructor": "Ho",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9923,7 +9810,7 @@
             "course": "PSYC F001.04W",
             "CRN": "10239",
             "desc": "GENERAL PSYCHOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -9932,7 +9819,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Lin",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "20"
           }
@@ -10014,7 +9901,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Villanueva",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -10036,7 +9923,7 @@
             "units": "4.00",
             "instructor": "Cormier",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "2",
             "wait_cap": "10"
           }
         ]
@@ -10872,7 +10759,7 @@
             "units": "5.00",
             "instructor": "Gauthier",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -10904,7 +10791,7 @@
             "course": "SOC F023.01W",
             "CRN": "10032",
             "desc": "RACE & ETHNIC RELATIONS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -10913,7 +10800,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "McNamara",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "11",
             "wait_cap": "20"
           }
@@ -11484,7 +11371,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Davison",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "20",
             "wait_cap": "20"
           }
