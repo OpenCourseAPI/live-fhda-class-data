@@ -214,7 +214,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Hatter",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -588,8 +588,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mjelde",
-            "seats": "2",
-            "wait_seats": "10",
+            "seats": "1",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ],
@@ -607,7 +607,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mjelde",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "11",
             "wait_cap": "15"
           }
@@ -627,7 +627,7 @@
             "units": "4.00",
             "instructor": "Becerril",
             "seats": "0",
-            "wait_seats": "8",
+            "wait_seats": "9",
             "wait_cap": "15"
           }
         ]
@@ -648,7 +648,7 @@
             "units": "4.00",
             "instructor": "Cole",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "7"
           }
         ]
@@ -789,7 +789,7 @@
             "units": "4.00",
             "instructor": "Marquez",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ]
@@ -810,7 +810,7 @@
             "units": "4.00",
             "instructor": "Marquez",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ]
@@ -834,7 +834,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Chang",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -876,7 +876,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dinh",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -917,7 +917,7 @@
             "units": "4.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "14",
+            "wait_seats": "15",
             "wait_cap": "15"
           }
         ]
@@ -932,7 +932,7 @@
             "course": "ASTR D010.61Z",
             "CRN": "13047",
             "desc": "STELLAR ASTRONOMY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -941,8 +941,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Peterson",
-            "seats": "1",
-            "wait_seats": "0",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "6"
           }
         ]
@@ -1165,7 +1165,7 @@
             "units": "5.00",
             "instructor": "Bram",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "7"
           }
         ],
@@ -1362,7 +1362,7 @@
             "course": "BIOL D040A01Z",
             "CRN": "10828",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWTh",
             "time": "11:00 AM-12:50 PM",
             "start": "06/27/2022",
@@ -1371,15 +1371,15 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "0",
-            "wait_seats": "3",
+            "seats": "1",
+            "wait_seats": "4",
             "wait_cap": "7"
           },
           {
             "course": "BIOL D040A01Z",
             "CRN": "10828",
             "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MTWTh",
             "time": "09:30 AM-10:45 AM",
             "start": "06/27/2022",
@@ -1388,8 +1388,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Sengupta",
-            "seats": "0",
-            "wait_seats": "3",
+            "seats": "1",
+            "wait_seats": "4",
             "wait_cap": "7"
           }
         ],
@@ -1904,7 +1904,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lilly",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -1946,7 +1946,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Smith",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "4",
             "wait_cap": "5"
           }
@@ -1988,7 +1988,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Bennett",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "2",
             "wait_cap": "5"
           }
@@ -2051,8 +2051,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Shan",
-            "seats": "2",
-            "wait_seats": "0",
+            "seats": "1",
+            "wait_seats": "1",
             "wait_cap": "5"
           }
         ]
@@ -2327,7 +2327,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Zarghami",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -2344,7 +2344,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Zarghami",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -2567,7 +2567,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lo",
-            "seats": "11",
+            "seats": "13",
             "wait_seats": "6",
             "wait_cap": "6"
           },
@@ -2584,7 +2584,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lo",
-            "seats": "11",
+            "seats": "13",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -2756,7 +2756,7 @@
             "units": "5.00",
             "instructor": "Saunders",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "6"
           },
           {
@@ -2773,7 +2773,7 @@
             "units": "5.00",
             "instructor": "Saunders",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ]
@@ -2891,7 +2891,7 @@
             "units": "4.00",
             "instructor": "Loyola",
             "seats": "3",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "7"
           }
         ]
@@ -2911,7 +2911,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ponce",
-            "seats": "6",
+            "seats": "7",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -2957,7 +2957,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -2974,7 +2974,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -2991,7 +2991,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Nguyen",
-            "seats": "2",
+            "seats": "1",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3029,7 +3029,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Georgiou",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3220,7 +3220,7 @@
             "units": "4.50",
             "instructor": "Yeh",
             "seats": "1",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "3"
           },
           {
@@ -3237,7 +3237,7 @@
             "units": "4.50",
             "instructor": "Yeh",
             "seats": "1",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "3"
           }
         ],
@@ -3589,7 +3589,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Singh",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "-4",
             "wait_cap": "0"
           },
@@ -3606,7 +3606,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Singh",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "-4",
             "wait_cap": "0"
           },
@@ -3623,7 +3623,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Singh",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "-4",
             "wait_cap": "0"
           }
@@ -3776,7 +3776,7 @@
             "units": "4.50",
             "instructor": "Stoykov",
             "seats": "2",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "15"
           }
         ],
@@ -3992,7 +3992,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Linn Jr",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4009,7 +4009,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Linn Jr",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           },
@@ -4026,7 +4026,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Linn Jr",
-            "seats": "3",
+            "seats": "2",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4122,7 +4122,7 @@
             "units": "4.50",
             "instructor": "Lau",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "15"
           }
         ]
@@ -4142,7 +4142,7 @@
             "campus": "DA",
             "units": "0.00",
             "instructor": "Sherby",
-            "seats": "10",
+            "seats": "11",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -4432,7 +4432,7 @@
             "course": "COMM D001.01Z",
             "CRN": "12561",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TTh",
             "time": "07:30 AM-09:55 AM",
             "start": "06/27/2022",
@@ -4441,7 +4441,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cano",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "6"
           },
@@ -4449,7 +4449,7 @@
             "course": "COMM D001.01Z",
             "CRN": "12561",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -4458,7 +4458,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Cano",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "2",
             "wait_cap": "6"
           }
@@ -4576,7 +4576,7 @@
             "course": "COMM D001.06Z",
             "CRN": "12566",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "10:00 AM-12:25 PM",
             "start": "06/27/2022",
@@ -4585,7 +4585,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "6"
           },
@@ -4593,7 +4593,7 @@
             "course": "COMM D001.06Z",
             "CRN": "12566",
             "desc": "PUBLIC SPEAKING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -4602,7 +4602,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Chivers",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "6"
           }
@@ -5001,7 +5001,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Gainer",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "10"
           }
@@ -5213,7 +5213,7 @@
             "units": "4.00",
             "instructor": "Gallegos",
             "seats": "2",
-            "wait_seats": "0",
+            "wait_seats": "1",
             "wait_cap": "15"
           }
         ]
@@ -5543,7 +5543,7 @@
             "course": "E S D001.50Z",
             "CRN": "10324",
             "desc": "INTRO ENVIRON STDS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -5552,7 +5552,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Roeder",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "7"
           }
@@ -5838,7 +5838,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Koshin",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -7205,7 +7205,7 @@
             "course": "EWRT D001A22Z",
             "CRN": "00457",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -7214,7 +7214,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dickson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -7222,7 +7222,7 @@
             "course": "EWRT D001A22Z",
             "CRN": "00457",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "MW",
             "time": "10:00 AM-12:15 PM",
             "start": "06/27/2022",
@@ -7231,7 +7231,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dickson",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7279,7 +7279,7 @@
             "course": "EWRT D001A27Z",
             "CRN": "13019",
             "desc": "COMPOSITION AND READING",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -7288,8 +7288,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Quinn",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "5"
           }
         ],
@@ -7393,7 +7393,7 @@
             "course": "EWRT D001A68Z",
             "CRN": "10275",
             "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -7402,7 +7402,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Vasquez",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "3",
             "wait_cap": "5"
           }
@@ -7442,7 +7442,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Wann",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "3",
             "wait_cap": "5"
           }
@@ -7575,7 +7575,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Hearn",
-            "seats": "1",
+            "seats": "3",
             "wait_seats": "3",
             "wait_cap": "5"
           }
@@ -7604,7 +7604,7 @@
             "course": "EWRT D002.61Z",
             "CRN": "00490",
             "desc": "CRIT READ, WRIT & THINK",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -7613,7 +7613,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Limcolioc",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7709,7 +7709,7 @@
             "units": "5.00",
             "instructor": "Leonard",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -7793,7 +7793,7 @@
             "units": "4.00",
             "instructor": "Wright",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -7972,7 +7972,7 @@
             "units": "4.00",
             "instructor": "Rohrmeier",
             "seats": "2",
-            "wait_seats": "1",
+            "wait_seats": "2",
             "wait_cap": "3"
           }
         ]
@@ -7992,7 +7992,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dutt",
-            "seats": "5",
+            "seats": "7",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -8030,7 +8030,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pena",
-            "seats": "5",
+            "seats": "7",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -8132,7 +8132,7 @@
             "course": "HIST D003C01Z",
             "CRN": "12774",
             "desc": "WORLD HIST FROM 1750CE-PRESENT",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TWTh",
             "time": "12:30 PM-02:55 PM",
             "start": "06/27/2022",
@@ -8141,7 +8141,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Jackman",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8204,7 +8204,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pham",
-            "seats": "29",
+            "seats": "30",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -8221,7 +8221,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Pham",
-            "seats": "29",
+            "seats": "30",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -8356,7 +8356,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mujal",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "1",
             "wait_cap": "5"
           }
@@ -8725,7 +8725,7 @@
             "course": "HTEC D184.1JF",
             "CRN": "12635",
             "desc": "CLINIC IMMUNOLOGY/IMMUNHEMA PR",
-            "status": "Open",
+            "status": "Full",
             "days": "WThF",
             "time": "02:30 PM-06:45 PM",
             "start": "06/27/2022",
@@ -8734,7 +8734,7 @@
             "campus": "DO",
             "units": "4.50",
             "instructor": "Duong",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -8742,7 +8742,7 @@
             "course": "HTEC D184.1JF",
             "CRN": "12635",
             "desc": "CLINIC IMMUNOLOGY/IMMUNHEMA PR",
-            "status": "Open",
+            "status": "Full",
             "days": "WThF",
             "time": "02:30 PM-06:45 PM",
             "start": "06/27/2022",
@@ -8751,7 +8751,7 @@
             "campus": "DO",
             "units": "4.50",
             "instructor": "Buchner",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -8763,7 +8763,7 @@
             "course": "HTEC D185.1JF",
             "CRN": "12636",
             "desc": "CLINIC CHEM PRACTICUM",
-            "status": "Open",
+            "status": "Full",
             "days": "WThF",
             "time": "06:30 AM-12:30 PM",
             "start": "06/27/2022",
@@ -8772,7 +8772,7 @@
             "campus": "DO",
             "units": "6.00",
             "instructor": "Duong",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           },
@@ -8780,7 +8780,7 @@
             "course": "HTEC D185.1JF",
             "CRN": "12636",
             "desc": "CLINIC CHEM PRACTICUM",
-            "status": "Open",
+            "status": "Full",
             "days": "WThF",
             "time": "06:30 AM-12:30 PM",
             "start": "06/27/2022",
@@ -8789,7 +8789,7 @@
             "campus": "DO",
             "units": "6.00",
             "instructor": "Buchner",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -9025,7 +9025,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Wood",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "11",
             "wait_cap": "15"
           }
@@ -9045,7 +9045,7 @@
             "units": "4.00",
             "instructor": "Hoffman",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ],
@@ -9115,7 +9115,7 @@
             "course": "HUMI D006.50Z",
             "CRN": "11240",
             "desc": "POP CULTURE",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -9124,7 +9124,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Ramsey",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "13",
             "wait_cap": "15"
           }
@@ -9302,7 +9302,7 @@
             "course": "JOUR D002.65Z",
             "CRN": "12057",
             "desc": "MEDIA AND IMPACT ON SOCIETY",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -9311,7 +9311,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "McElroy",
-            "seats": "1",
+            "seats": "0",
             "wait_seats": "4",
             "wait_cap": "6"
           }
@@ -9327,7 +9327,7 @@
             "course": "KNES D001A01",
             "CRN": "13289",
             "desc": "NOVICE SWIMMING",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "S",
             "time": "10:00 AM-02:30 PM",
             "start": "07/09/2022",
@@ -9336,7 +9336,7 @@
             "campus": "DA",
             "units": "0.50",
             "instructor": "Donahue",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "16",
             "wait_cap": "20"
           }
@@ -9565,7 +9565,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Guevara",
-            "seats": "14",
+            "seats": "15",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9626,7 +9626,7 @@
             "campus": "DA",
             "units": "3.00",
             "instructor": "Damjanovic",
-            "seats": "18",
+            "seats": "19",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9892,7 +9892,7 @@
             "units": "1.00",
             "instructor": "Damjanovic",
             "seats": "0",
-            "wait_seats": "6",
+            "wait_seats": "7",
             "wait_cap": "10"
           }
         ]
@@ -10189,7 +10189,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Judson",
-            "seats": "8",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -10208,8 +10208,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Van Der Poel",
-            "seats": "7",
-            "wait_seats": "0",
+            "seats": "5",
+            "wait_seats": "1",
             "wait_cap": "6"
           }
         ],
@@ -10228,7 +10228,7 @@
             "units": "5.00",
             "instructor": "Lee",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "4",
             "wait_cap": "6"
           }
         ],
@@ -10266,7 +10266,7 @@
             "units": "5.00",
             "instructor": "Ganeshalingam",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -10325,7 +10325,7 @@
             "units": "5.00",
             "instructor": "Guerrero",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "6"
           },
           {
@@ -10342,7 +10342,7 @@
             "units": "5.00",
             "instructor": "Guerrero",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "6"
           }
         ],
@@ -10429,7 +10429,7 @@
             "course": "MATH D001C01Z",
             "CRN": "12990",
             "desc": "CALCULUS",
-            "status": "Full",
+            "status": "Open",
             "days": "MTWTh",
             "time": "07:30 AM-09:45 AM",
             "start": "06/27/2022",
@@ -10438,7 +10438,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Du",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -10476,7 +10476,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Ison",
-            "seats": "1",
+            "seats": "3",
             "wait_seats": "4",
             "wait_cap": "6"
           }
@@ -10885,7 +10885,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Moen",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "0",
             "wait_cap": "6"
           }
@@ -11083,7 +11083,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lopez",
-            "seats": "11",
+            "seats": "10",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11102,7 +11102,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Lopez",
-            "seats": "22",
+            "seats": "21",
             "wait_seats": "6",
             "wait_cap": "6"
           }
@@ -11273,7 +11273,7 @@
             "units": "4.00",
             "instructor": "Thomsen",
             "seats": "0",
-            "wait_seats": "15",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ]
@@ -11446,7 +11446,7 @@
             "course": "NUTR D010.51Z",
             "CRN": "00736",
             "desc": "CONTEMP NUTRITION",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -11455,7 +11455,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11480,7 +11480,7 @@
             "campus": "DA",
             "units": "2.00",
             "instructor": "Watkins",
-            "seats": "29",
+            "seats": "28",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11663,7 +11663,7 @@
             "campus": "DA",
             "units": "1.50",
             "instructor": "Altman",
-            "seats": "37",
+            "seats": "36",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -12299,7 +12299,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Guillouet",
-            "seats": "30",
+            "seats": "31",
             "wait_seats": "15",
             "wait_cap": "15"
           },
@@ -12316,7 +12316,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Guillouet",
-            "seats": "30",
+            "seats": "31",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -12603,7 +12603,7 @@
             "units": "4.00",
             "instructor": "Galindo",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ],
@@ -12650,7 +12650,7 @@
             "course": "PHIL D001.67Z",
             "CRN": "12966",
             "desc": "INTRO TO PHILOSOPHY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -12659,7 +12659,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Mishra",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "12",
             "wait_cap": "15"
           }
@@ -12681,7 +12681,7 @@
             "units": "5.00",
             "instructor": "Baiamonte",
             "seats": "0",
-            "wait_seats": "11",
+            "wait_seats": "12",
             "wait_cap": "15"
           }
         ]
@@ -12742,7 +12742,7 @@
             "units": "4.00",
             "instructor": "Baiamonte",
             "seats": "0",
-            "wait_seats": "9",
+            "wait_seats": "10",
             "wait_cap": "15"
           }
         ]
@@ -12822,7 +12822,7 @@
             "units": "3.00",
             "instructor": "Pack",
             "seats": "0",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "5"
           }
         ]
@@ -12943,7 +12943,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Francis",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "3",
             "wait_cap": "6"
           }
@@ -13132,7 +13132,7 @@
             "course": "POLI D005.50Z",
             "CRN": "13348",
             "desc": "INTRO POLTCAL THOUGHT & THEORY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -13141,7 +13141,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Schendan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -13318,8 +13318,8 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Trafalis",
-            "seats": "2",
-            "wait_seats": "5",
+            "seats": "1",
+            "wait_seats": "6",
             "wait_cap": "8"
           }
         ],
@@ -13592,7 +13592,7 @@
             "units": "4.00",
             "instructor": "Pasion",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "5"
           }
         ],
@@ -13601,7 +13601,7 @@
             "course": "SOC D001.52Z",
             "CRN": "13408",
             "desc": "INTRO TO SOCIOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -13610,7 +13610,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dehaan",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "14",
             "wait_cap": "15"
           }
@@ -13650,7 +13650,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dehaan",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -13676,7 +13676,7 @@
             "units": "5.00",
             "instructor": "Alcazar",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "7"
           },
           {
@@ -13693,7 +13693,7 @@
             "units": "5.00",
             "instructor": "Alcazar",
             "seats": "0",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ],
@@ -13702,7 +13702,7 @@
             "course": "SPAN D001.40Z",
             "CRN": "13294",
             "desc": "ELEMEN SPANISH (1ST QTR)",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "MTWTh",
             "time": "06:30 PM-08:45 PM",
             "start": "06/27/2022",
@@ -13711,8 +13711,8 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Abrica-Carrasco",
-            "seats": "1",
-            "wait_seats": "4",
+            "seats": "0",
+            "wait_seats": "6",
             "wait_cap": "7"
           }
         ]
