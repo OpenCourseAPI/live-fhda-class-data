@@ -493,27 +493,6 @@
           }
         ]
       },
-      "51": {
-        "10731": [
-          {
-            "course": "AHS F051.01D",
-            "CRN": "10731",
-            "desc": "HEALTH CAREERS EXPLORATION",
-            "status": "Full",
-            "days": "TTh",
-            "time": "06:00 PM-08:15 PM",
-            "start": "06/27/2022",
-            "end": "07/19/2022",
-            "room": "RWCBGC",
-            "campus": "FO",
-            "units": "1.50",
-            "instructor": "Su",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "52": {
         "10212": [
           {
@@ -3033,7 +3012,7 @@
             "campus": "FH",
             "units": "4.50",
             "instructor": "Venkataraman",
-            "seats": "6",
+            "seats": "7",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -4339,61 +4318,6 @@
   },
   "DH": {
     "1": {
-      "50": {
-        "10678": [
-          {
-            "course": "D H F050.01Y",
-            "CRN": "10678",
-            "desc": "ORIENTATION TO DENTL HYG",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "07/22/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Leicht",
-            "seats": "4",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "D H F050.01Y",
-            "CRN": "10678",
-            "desc": "ORIENTATION TO DENTL HYG",
-            "status": "Open",
-            "days": "T",
-            "time": "01:00 PM-03:50 PM",
-            "start": "06/27/2022",
-            "end": "07/22/2022",
-            "room": "1302",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Hoang",
-            "seats": "4",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "D H F050.01Y",
-            "CRN": "10678",
-            "desc": "ORIENTATION TO DENTL HYG",
-            "status": "Open",
-            "days": "T",
-            "time": "01:00 PM-03:50 PM",
-            "start": "06/27/2022",
-            "end": "07/22/2022",
-            "room": "1302",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Leicht",
-            "seats": "4",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "70R": {
         "10112": [
           {
@@ -4422,8 +4346,8 @@
             "CRN": "10227",
             "desc": "INTRO TO DENTAL HYGIENE",
             "status": "Open",
-            "days": "S",
-            "time": "09:00 AM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -4456,25 +4380,8 @@
             "CRN": "10227",
             "desc": "INTRO TO DENTAL HYGIENE",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.50",
-            "instructor": "Spragge",
-            "seats": "2",
-            "wait_seats": "6",
-            "wait_cap": "10"
-          },
-          {
-            "course": "D H F200L01Z",
-            "CRN": "10227",
-            "desc": "INTRO TO DENTAL HYGIENE",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "S",
+            "time": "09:00 AM-04:50 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -4489,6 +4396,23 @@
       },
       "320A": {
         "10679": [
+          {
+            "course": "D H F320A01",
+            "CRN": "10679",
+            "desc": "CLINICAL DENTAL HYGIENE I",
+            "status": "Open",
+            "days": "TBA",
+            "time": "09:00 AM-12:50 PM",
+            "start": "06/27/2022",
+            "end": "07/22/2022",
+            "room": "5312",
+            "campus": "FH",
+            "units": "3.00",
+            "instructor": "Yamamoto",
+            "seats": "2",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
           {
             "course": "D H F320A01",
             "CRN": "10679",
@@ -4552,7 +4476,7 @@
             "room": "5312",
             "campus": "FH",
             "units": "3.00",
-            "instructor": "Yamamoto",
+            "instructor": "Staana",
             "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -4624,28 +4548,28 @@
             "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
-          },
-          {
-            "course": "D H F320A01",
-            "CRN": "10679",
-            "desc": "CLINICAL DENTAL HYGIENE I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "09:00 AM-12:50 PM",
-            "start": "06/27/2022",
-            "end": "07/22/2022",
-            "room": "5312",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Staana",
-            "seats": "2",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ]
       },
       "322": {
         "10685": [
+          {
+            "course": "D H F322.01Y",
+            "CRN": "10685",
+            "desc": "LOCAL ANESTHESIA",
+            "status": "Open",
+            "days": "TTh",
+            "time": "01:30 PM-03:35 PM",
+            "start": "06/27/2022",
+            "end": "07/22/2022",
+            "room": "5312",
+            "campus": "FH",
+            "units": "2.50",
+            "instructor": "Chan",
+            "seats": "2",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
           {
             "course": "D H F322.01Y",
             "CRN": "10685",
@@ -4710,23 +4634,6 @@
             "campus": "FH",
             "units": "2.50",
             "instructor": "Leicht",
-            "seats": "2",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "D H F322.01Y",
-            "CRN": "10685",
-            "desc": "LOCAL ANESTHESIA",
-            "status": "Open",
-            "days": "TTh",
-            "time": "01:30 PM-03:35 PM",
-            "start": "06/27/2022",
-            "end": "07/22/2022",
-            "room": "5312",
-            "campus": "FH",
-            "units": "2.50",
-            "instructor": "Chan",
             "seats": "2",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -7839,7 +7746,7 @@
             "units": "5.00",
             "instructor": "Pham",
             "seats": "0",
-            "wait_seats": "3",
+            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -8989,7 +8896,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -9275,7 +9182,7 @@
             "campus": "FH",
             "units": "1.00",
             "instructor": "O'Loughlin",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
           }
