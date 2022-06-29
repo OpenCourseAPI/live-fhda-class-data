@@ -743,27 +743,6 @@
   },
   "ASAM": {
     "1": {
-      "10": {
-        "13116": [
-          {
-            "course": "ASAM D010.40Z",
-            "CRN": "13116",
-            "desc": "CONTEMP ASIAN AMER COMMUNITIES",
-            "status": "Open",
-            "days": "MTW",
-            "time": "12:30 PM-02:55 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Chang",
-            "seats": "11",
-            "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ]
-      },
       "22": {
         "13346": [
           {
@@ -779,7 +758,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Chow",
-            "seats": "1",
+            "seats": "2",
             "wait_seats": "5",
             "wait_cap": "7"
           }
@@ -949,6 +928,23 @@
             "CRN": "00079",
             "desc": "ECOLOGY AND EVOLUTION",
             "status": "Open",
+            "days": "TWTh",
+            "time": "09:30 AM-12:20 PM",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "6.00",
+            "instructor": "Heyer",
+            "seats": "5",
+            "wait_seats": "5",
+            "wait_cap": "7"
+          },
+          {
+            "course": "BIOL D006C01Z",
+            "CRN": "00079",
+            "desc": "ECOLOGY AND EVOLUTION",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -966,8 +962,8 @@
             "CRN": "00079",
             "desc": "ECOLOGY AND EVOLUTION",
             "status": "Open",
-            "days": "TWTh",
-            "time": "09:30 AM-12:20 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -1040,78 +1036,6 @@
         ]
       },
       "11": {
-        "12893": [
-          {
-            "course": "BIOL D011.01Z",
-            "CRN": "12893",
-            "desc": "HUMAN BIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "09:00 AM-10:15 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sengupta",
-            "seats": "2",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL D011.01Z",
-            "CRN": "12893",
-            "desc": "HUMAN BIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sengupta",
-            "seats": "2",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ],
-        "12894": [
-          {
-            "course": "BIOL D011.02Z",
-            "CRN": "12894",
-            "desc": "HUMAN BIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-12:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sengupta",
-            "seats": "10",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL D011.02Z",
-            "CRN": "12894",
-            "desc": "HUMAN BIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-01:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sengupta",
-            "seats": "10",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ],
         "13225": [
           {
             "course": "BIOL D011.50Z",
@@ -1146,226 +1070,6 @@
             "units": "5.00",
             "instructor": "Kang'a",
             "seats": "1",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ]
-      },
-      "40A": {
-        "13452": [
-          {
-            "course": "BIOL D040A01",
-            "CRN": "13452",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "11:30 AM-01:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC1102",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Pane",
-            "seats": "8",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL D040A01",
-            "CRN": "13452",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:00 AM-11:15 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2106",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Pane",
-            "seats": "8",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ],
-        "10828": [
-          {
-            "course": "BIOL D040A01Z",
-            "CRN": "10828",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "09:30 AM-10:45 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sengupta",
-            "seats": "1",
-            "wait_seats": "6",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL D040A01Z",
-            "CRN": "10828",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "11:00 AM-12:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sengupta",
-            "seats": "1",
-            "wait_seats": "6",
-            "wait_cap": "7"
-          }
-        ],
-        "13453": [
-          {
-            "course": "BIOL D040A02",
-            "CRN": "13453",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "11:30 AM-01:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC1102",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Pane",
-            "seats": "28",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL D040A02",
-            "CRN": "13453",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "01:45 PM-03:00 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2106",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Pane",
-            "seats": "28",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ],
-        "10829": [
-          {
-            "course": "BIOL D040A02Z",
-            "CRN": "10829",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "11:00 AM-12:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sengupta",
-            "seats": "2",
-            "wait_seats": "5",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL D040A02Z",
-            "CRN": "10829",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "01:00 PM-02:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sengupta",
-            "seats": "2",
-            "wait_seats": "5",
-            "wait_cap": "7"
-          }
-        ]
-      },
-      "40B": {
-        "13223": [
-          {
-            "course": "BIOL D040B01Z",
-            "CRN": "13223",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "09:30 AM-10:45 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Balabanian",
-            "seats": "9",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL D040B01Z",
-            "CRN": "13223",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "11:00 AM-12:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Balabanian",
-            "seats": "9",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ],
-        "13224": [
-          {
-            "course": "BIOL D040B02Z",
-            "CRN": "13224",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "11:00 AM-12:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Balabanian",
-            "seats": "15",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          },
-          {
-            "course": "BIOL D040B02Z",
-            "CRN": "13224",
-            "desc": "HUMAN ANAT & PHYSIOLOGY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "01:00 PM-02:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Balabanian",
-            "seats": "15",
             "wait_seats": "7",
             "wait_cap": "7"
           }
@@ -1902,7 +1606,7 @@
             "desc": "ADV STUDENT TEACHNG PRACTICUM",
             "status": "Open",
             "days": "MW",
-            "time": "07:00 PM-09:50 PM",
+            "time": "09:30 AM-11:45 AM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -1919,7 +1623,7 @@
             "desc": "ADV STUDENT TEACHNG PRACTICUM",
             "status": "Open",
             "days": "MW",
-            "time": "09:30 AM-11:45 AM",
+            "time": "07:00 PM-09:50 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -1966,27 +1670,6 @@
             "instructor": "Roy",
             "seats": "21",
             "wait_seats": "15",
-            "wait_cap": "15"
-          }
-        ]
-      },
-      "54": {
-        "11853": [
-          {
-            "course": "C D D054.50Z",
-            "CRN": "11853",
-            "desc": "CURRIC/EARLY CHLDHD PROGRMS",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Kennedy",
-            "seats": "0",
-            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
@@ -2120,380 +1803,7 @@
     }
   },
   "CHEM": {
-    "1": {
-      "1A": {
-        "00209": [
-          {
-            "course": "CHEM D001A04",
-            "CRN": "00209",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "07:30 AM-10:20 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2202",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Gray",
-            "seats": "3",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D001A04",
-            "CRN": "00209",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:30 AM-11:45 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "S32",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Gray",
-            "seats": "3",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "00210": [
-          {
-            "course": "CHEM D001A20",
-            "CRN": "00210",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "11:30 AM-02:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2202",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Wakeham",
-            "seats": "2",
-            "wait_seats": "4",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D001A20",
-            "CRN": "00210",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "02:30 PM-03:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC1102",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Wakeham",
-            "seats": "2",
-            "wait_seats": "4",
-            "wait_cap": "6"
-          }
-        ],
-        "00211": [
-          {
-            "course": "CHEM D001A30Y",
-            "CRN": "00211",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-01:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Lo",
-            "seats": "15",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D001A30Y",
-            "CRN": "00211",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "02:30 PM-05:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2202",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Lo",
-            "seats": "15",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ]
-      },
-      "1B": {
-        "11365": [
-          {
-            "course": "CHEM D001B05Y",
-            "CRN": "11365",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "11:30 AM-12:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Muzzi",
-            "seats": "11",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D001B05Y",
-            "CRN": "11365",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "07:30 AM-10:20 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2204",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Muzzi",
-            "seats": "11",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "00213": [
-          {
-            "course": "CHEM D001B25",
-            "CRN": "00213",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "02:30 PM-03:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "S32",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Deming",
-            "seats": "6",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D001B25",
-            "CRN": "00213",
-            "desc": "GENERAL CHEMISTRY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "11:30 AM-02:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2204",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Deming",
-            "seats": "6",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ]
-      },
-      "1C": {
-        "10957": [
-          {
-            "course": "CHEM D001C25",
-            "CRN": "10957",
-            "desc": "GEN CHEM/QUAL ANALYSIS",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "11:30 AM-02:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2208",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Cihonski",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D001C25",
-            "CRN": "10957",
-            "desc": "GEN CHEM/QUAL ANALYSIS",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "02:30 PM-03:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "S34",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Cihonski",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          }
-        ]
-      },
-      "12C": {
-        "00218": [
-          {
-            "course": "CHEM D012C01",
-            "CRN": "00218",
-            "desc": "ORGANIC CHEMISTRY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "02:30 PM-05:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2210",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Miller",
-            "seats": "9",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D012C01",
-            "CRN": "00218",
-            "desc": "ORGANIC CHEMISTRY",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "06:00 PM-07:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "S34",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Miller",
-            "seats": "9",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ]
-      },
-      "25": {
-        "12276": [
-          {
-            "course": "CHEM D025.40",
-            "CRN": "12276",
-            "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
-            "days": "MW",
-            "time": "02:30 PM-05:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2208",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Saunders",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D025.40",
-            "CRN": "12276",
-            "desc": "PREP FOR GENERAL CHEMISTRY",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "05:30 PM-07:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "S32",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Saunders",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ]
-      },
-      "30A": {
-        "12278": [
-          {
-            "course": "CHEM D030A25",
-            "CRN": "12278",
-            "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Open",
-            "days": "MW",
-            "time": "02:30 PM-05:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2204",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Maxwell",
-            "seats": "1",
-            "wait_seats": "5",
-            "wait_cap": "8"
-          },
-          {
-            "course": "CHEM D030A25",
-            "CRN": "12278",
-            "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "05:30 PM-07:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC1102",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Maxwell",
-            "seats": "1",
-            "wait_seats": "5",
-            "wait_cap": "8"
-          }
-        ],
-        "12279": [
-          {
-            "course": "CHEM D030A26",
-            "CRN": "12279",
-            "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Open",
-            "days": "TTh",
-            "time": "02:30 PM-05:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC2204",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Maxwell",
-            "seats": "2",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          },
-          {
-            "course": "CHEM D030A26",
-            "CRN": "12279",
-            "desc": "INTRO GEN, ORG AND BIOCHEM I",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "05:30 PM-07:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC1102",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Maxwell",
-            "seats": "2",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "CHLX": {
     "1": {
@@ -2598,7 +1908,7 @@
             "campus": "DA",
             "units": "4.50",
             "instructor": "Georgiou",
-            "seats": "11",
+            "seats": "12",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -2660,101 +1970,12 @@
             "units": "4.50",
             "instructor": "Metcalf",
             "seats": "0",
-            "wait_seats": "2",
+            "wait_seats": "3",
             "wait_cap": "8"
           }
         ]
       },
       "22A": {
-        "11304": [
-          {
-            "course": "CIS D022A02Z",
-            "CRN": "11304",
-            "desc": "BEG PROG METHOD C++",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "So",
-            "seats": "2",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "CIS D022A02Z",
-            "CRN": "11304",
-            "desc": "BEG PROG METHOD C++",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-01:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "So",
-            "seats": "2",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "12985": [
-          {
-            "course": "CIS D022A41Z",
-            "CRN": "12985",
-            "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
-            "days": "W",
-            "time": "06:00 PM-07:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Yeh",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "3"
-          },
-          {
-            "course": "CIS D022A41Z",
-            "CRN": "12985",
-            "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Yeh",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "3"
-          },
-          {
-            "course": "CIS D022A41Z",
-            "CRN": "12985",
-            "desc": "BEG PROG METHOD C++",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Yeh",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "3"
-          }
-        ],
         "12984": [
           {
             "course": "CIS D022A42Z",
@@ -2848,78 +2069,6 @@
         ]
       },
       "22B": {
-        "11308": [
-          {
-            "course": "CIS D022B01Z",
-            "CRN": "11308",
-            "desc": "INTERMED PROG METHOD C++",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-02:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Ahrens",
-            "seats": "5",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "CIS D022B01Z",
-            "CRN": "11308",
-            "desc": "INTERMED PROG METHOD C++",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Ahrens",
-            "seats": "5",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "12142": [
-          {
-            "course": "CIS D022B02Z",
-            "CRN": "12142",
-            "desc": "INTERMED PROG METHOD C++",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:00 AM-11:50 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Ahrens",
-            "seats": "8",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "CIS D022B02Z",
-            "CRN": "12142",
-            "desc": "INTERMED PROG METHOD C++",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Ahrens",
-            "seats": "8",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "13063": [
           {
             "course": "CIS D022B53Z",
@@ -3042,42 +2191,25 @@
             "CRN": "00234",
             "desc": "JAVA PROGRAMMING",
             "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "DA",
+            "units": "4.50",
+            "instructor": "Singh",
+            "seats": "9",
+            "wait_seats": "-4",
+            "wait_cap": "0"
+          },
+          {
+            "course": "CIS D035A16Z",
+            "CRN": "00234",
+            "desc": "JAVA PROGRAMMING",
+            "status": "Open",
             "days": "MW",
             "time": "06:00 PM-07:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Singh",
-            "seats": "9",
-            "wait_seats": "-4",
-            "wait_cap": "0"
-          },
-          {
-            "course": "CIS D035A16Z",
-            "CRN": "00234",
-            "desc": "JAVA PROGRAMMING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Singh",
-            "seats": "9",
-            "wait_seats": "-4",
-            "wait_cap": "0"
-          },
-          {
-            "course": "CIS D035A16Z",
-            "CRN": "00234",
-            "desc": "JAVA PROGRAMMING",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -3202,25 +2334,6 @@
             "instructor": "Stoykov",
             "seats": "1",
             "wait_seats": "4",
-            "wait_cap": "15"
-          }
-        ],
-        "13454": [
-          {
-            "course": "CIS D040.63Z",
-            "CRN": "13454",
-            "desc": "INTRO PROGRAMMING IN PYTHON",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Read",
-            "seats": "0",
-            "wait_seats": "13",
             "wait_cap": "15"
           }
         ]
@@ -3354,7 +2467,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Forouzan",
-            "seats": "16",
+            "seats": "17",
             "wait_seats": "15",
             "wait_cap": "15"
           }
@@ -3557,48 +2670,6 @@
             "seats": "2",
             "wait_seats": "1",
             "wait_cap": "3"
-          }
-        ]
-      },
-      "398": {
-        "13455": [
-          {
-            "course": "CIS D398.61Z",
-            "CRN": "13455",
-            "desc": "DIGI IMAGE EDIT SFTWR (PHTSHP)",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.00",
-            "instructor": "Holmes",
-            "seats": "9",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "399": {
-        "13456": [
-          {
-            "course": "CIS D399.61Z",
-            "CRN": "13456",
-            "desc": "OFFICE SOFTWARE APPLICATIONS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.00",
-            "instructor": "Linn Jr",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
           }
         ]
       }
@@ -4312,7 +3383,7 @@
             "units": "4.00",
             "instructor": "Gallegos",
             "seats": "1",
-            "wait_seats": "5",
+            "wait_seats": "6",
             "wait_cap": "15"
           }
         ]
@@ -4524,111 +3595,6 @@
             "seats": "5",
             "wait_seats": "11",
             "wait_cap": "11"
-          }
-        ]
-      },
-      "102": {
-        "11765": [
-          {
-            "course": "DMT D102.01",
-            "CRN": "11765",
-            "desc": "CAD TECH LAB SOLIDWRKS (BEG)",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "02:00 PM-04:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC3103",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Appio",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "106": {
-        "12584": [
-          {
-            "course": "DMT D106.01",
-            "CRN": "12584",
-            "desc": "CAD TECH LAB SOLIDWRKS (ADV)",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "02:00 PM-04:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC3103",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Appio",
-            "seats": "4",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "108": {
-        "13175": [
-          {
-            "course": "DMT D108.01",
-            "CRN": "13175",
-            "desc": "CAD TECH LAB SOLIDWRKS (SURF)",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "02:00 PM-04:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC3103",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Appio",
-            "seats": "1",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "109": {
-        "13181": [
-          {
-            "course": "DMT D109.01",
-            "CRN": "13181",
-            "desc": "CAD TECH LAB CREO (SHTMETAL)",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "02:00 PM-04:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC3103",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Appio",
-            "seats": "1",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "110": {
-        "13177": [
-          {
-            "course": "DMT D110.01",
-            "CRN": "13177",
-            "desc": "CAD TECH LAB GEOMET DIMENSION",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "02:00 PM-04:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "SC3103",
-            "campus": "DA",
-            "units": "2.00",
-            "instructor": "Appio",
-            "seats": "2",
-            "wait_seats": "10",
-            "wait_cap": "10"
           }
         ]
       }
@@ -5225,80 +4191,6 @@
   },
   "ENGR": {
     "1": {
-      "10": {
-        "12017": [
-          {
-            "course": "ENGR D010.04Z",
-            "CRN": "12017",
-            "desc": "INTRO ENGINEERNG",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "09:30 AM-10:45 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Bhatia",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          },
-          {
-            "course": "ENGR D010.04Z",
-            "CRN": "12017",
-            "desc": "INTRO ENGINEERNG",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Bhatia",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          }
-        ],
-        "13169": [
-          {
-            "course": "ENGR D010.48Z",
-            "CRN": "13169",
-            "desc": "INTRO ENGINEERNG",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "06:00 PM-07:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Saeidi Ashtiyani",
-            "seats": "1",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          },
-          {
-            "course": "ENGR D010.48Z",
-            "CRN": "13169",
-            "desc": "INTRO ENGINEERNG",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.50",
-            "instructor": "Saeidi Ashtiyani",
-            "seats": "1",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          }
-        ]
-      },
       "37": {
         "13170": [
           {
@@ -5306,8 +4198,8 @@
             "CRN": "13170",
             "desc": "INTRO TO CIRCUIT ANALYSIS",
             "status": "Waitlist",
-            "days": "MWTh",
-            "time": "11:30 AM-01:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -5323,8 +4215,8 @@
             "CRN": "13170",
             "desc": "INTRO TO CIRCUIT ANALYSIS",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MWTh",
+            "time": "11:30 AM-01:45 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -5625,27 +4517,6 @@
           }
         ]
       },
-      "255": {
-        "13369": [
-          {
-            "course": "ESL D255.02Z",
-            "CRN": "13369",
-            "desc": "HIGH INTERMED GRAMM, WRTNG, RD",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "09:30 AM-12:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "6.00",
-            "instructor": "Marin",
-            "seats": "1",
-            "wait_seats": "0",
-            "wait_cap": "2"
-          }
-        ]
-      },
       "261": {
         "13370": [
           {
@@ -5682,63 +4553,6 @@
             "instructor": "Chan",
             "seats": "1",
             "wait_seats": "2",
-            "wait_cap": "2"
-          }
-        ]
-      },
-      "265": {
-        "13373": [
-          {
-            "course": "ESL D265.02Y",
-            "CRN": "13373",
-            "desc": "LOW ADV GRAMM, WRTNG, RDNG",
-            "status": "Open",
-            "days": "MTh",
-            "time": "09:30 AM-12:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "6.00",
-            "instructor": "Norman",
-            "seats": "3",
-            "wait_seats": "2",
-            "wait_cap": "2"
-          },
-          {
-            "course": "ESL D265.02Y",
-            "CRN": "13373",
-            "desc": "LOW ADV GRAMM, WRTNG, RDNG",
-            "status": "Open",
-            "days": "TW",
-            "time": "09:30 AM-12:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "L33",
-            "campus": "DA",
-            "units": "6.00",
-            "instructor": "Norman",
-            "seats": "3",
-            "wait_seats": "2",
-            "wait_cap": "2"
-          }
-        ],
-        "13374": [
-          {
-            "course": "ESL D265.49Z",
-            "CRN": "13374",
-            "desc": "LOW ADV GRAMM, WRTNG, RDNG",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "06:30 PM-09:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "6.00",
-            "instructor": "Kohnhorst",
-            "seats": "2",
-            "wait_seats": "1",
             "wait_cap": "2"
           }
         ]
@@ -5899,27 +4713,6 @@
           }
         ]
       },
-      "455": {
-        "13381": [
-          {
-            "course": "ESL D455.02Z",
-            "CRN": "13381",
-            "desc": "HIGH INTERMED GRAMM, WRTNG, RD",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "09:30 AM-12:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.00",
-            "instructor": "Marin",
-            "seats": "3",
-            "wait_seats": "4",
-            "wait_cap": "5"
-          }
-        ]
-      },
       "461": {
         "13382": [
           {
@@ -5956,63 +4749,6 @@
             "instructor": "Chan",
             "seats": "0",
             "wait_seats": "2",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "465": {
-        "13384": [
-          {
-            "course": "ESL D465.02Y",
-            "CRN": "13384",
-            "desc": "LOW ADV GRAMM, WRTNG, RDNG",
-            "status": "Waitlist",
-            "days": "MTh",
-            "time": "09:30 AM-12:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.00",
-            "instructor": "Norman",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "5"
-          },
-          {
-            "course": "ESL D465.02Y",
-            "CRN": "13384",
-            "desc": "LOW ADV GRAMM, WRTNG, RDNG",
-            "status": "Waitlist",
-            "days": "TW",
-            "time": "09:30 AM-12:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "L33",
-            "campus": "DA",
-            "units": "0.00",
-            "instructor": "Norman",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "5"
-          }
-        ],
-        "13385": [
-          {
-            "course": "ESL D465.49Z",
-            "CRN": "13385",
-            "desc": "LOW ADV GRAMM, WRTNG, RDNG",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "06:30 PM-09:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "0.00",
-            "instructor": "Kohnhorst",
-            "seats": "0",
-            "wait_seats": "5",
             "wait_cap": "5"
           }
         ]
@@ -6161,8 +4897,8 @@
             "CRN": "12792",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "MW",
-            "time": "08:30 AM-10:45 AM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -6178,8 +4914,8 @@
             "CRN": "12792",
             "desc": "COMPOSITION AND READING",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "08:30 AM-10:45 AM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -6224,63 +4960,6 @@
             "instructor": "Dickson",
             "seats": "3",
             "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
-        "00459": [
-          {
-            "course": "EWRT D001A23Z",
-            "CRN": "00459",
-            "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Lisha",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "5"
-          }
-        ],
-        "11356": [
-          {
-            "course": "EWRT D001A24Z",
-            "CRN": "11356",
-            "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Lisha",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "5"
-          }
-        ],
-        "13019": [
-          {
-            "course": "EWRT D001A27Z",
-            "CRN": "13019",
-            "desc": "COMPOSITION AND READING",
-            "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Quinn",
-            "seats": "0",
-            "wait_seats": "4",
             "wait_cap": "5"
           }
         ],
@@ -6623,7 +5302,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Limcolioc",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -6945,7 +5624,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Dutt",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "3",
             "wait_cap": "3"
           }
@@ -7290,7 +5969,7 @@
             "campus": "DA",
             "units": "4.00",
             "instructor": "Nguyen",
-            "seats": "7",
+            "seats": "6",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -7892,42 +6571,6 @@
             "wait_cap": "15"
           }
         ],
-        "13357": [
-          {
-            "course": "HUMI D001.03Y",
-            "CRN": "13357",
-            "desc": "CREATIVE MINDS",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Jin",
-            "seats": "5",
-            "wait_seats": "14",
-            "wait_cap": "15"
-          },
-          {
-            "course": "HUMI D001.03Y",
-            "CRN": "13357",
-            "desc": "CREATIVE MINDS",
-            "status": "Open",
-            "days": "W",
-            "time": "12:30 PM-02:55 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ADM101",
-            "campus": "DA",
-            "units": "4.00",
-            "instructor": "Jin",
-            "seats": "5",
-            "wait_seats": "14",
-            "wait_cap": "15"
-          }
-        ],
         "10664": [
           {
             "course": "HUMI D001.50Z",
@@ -8084,7 +6727,7 @@
             "units": "4.00",
             "instructor": "Clinchard",
             "seats": "0",
-            "wait_seats": "10",
+            "wait_seats": "11",
             "wait_cap": "15"
           }
         ]
@@ -8229,7 +6872,7 @@
             "units": "4.00",
             "instructor": "McElroy",
             "seats": "1",
-            "wait_seats": "4",
+            "wait_seats": "5",
             "wait_cap": "6"
           }
         ]
@@ -8880,48 +7523,7 @@
     }
   },
   "KORE": {
-    "1": {
-      "1": {
-        "13293": [
-          {
-            "course": "KORE D001.40Z",
-            "CRN": "13293",
-            "desc": "ELEM KOREAN (1ST QTR)",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "06:30 PM-08:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Kim",
-            "seats": "3",
-            "wait_seats": "6",
-            "wait_cap": "7"
-          }
-        ],
-        "13450": [
-          {
-            "course": "KORE D001.41Z",
-            "CRN": "13450",
-            "desc": "ELEM KOREAN (1ST QTR)",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "06:30 PM-08:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Choi",
-            "seats": "4",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "LART": {
     "1": {
@@ -8968,29 +7570,7 @@
     }
   },
   "MAND": {
-    "1": {
-      "3": {
-        "13362": [
-          {
-            "course": "MAND D003.40Z",
-            "CRN": "13362",
-            "desc": "ELEMEN MANDARIN (3RD QTR)",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "06:30 PM-08:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Liu",
-            "seats": "0",
-            "wait_seats": "7",
-            "wait_cap": "7"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "MATH": {
     "1": {
@@ -9028,82 +7608,6 @@
             "instructor": "Yu",
             "seats": "0",
             "wait_seats": "5",
-            "wait_cap": "6"
-          }
-        ],
-        "13180": [
-          {
-            "course": "MATH D001A20Z",
-            "CRN": "13180",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-02:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Shah",
-            "seats": "2",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          }
-        ],
-        "13097": [
-          {
-            "course": "MATH D001A21",
-            "CRN": "13097",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-02:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "G7",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Judson",
-            "seats": "11",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "12782": [
-          {
-            "course": "MATH D001A30Z",
-            "CRN": "12782",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "03:00 PM-05:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Van Der Poel",
-            "seats": "5",
-            "wait_seats": "4",
-            "wait_cap": "6"
-          }
-        ],
-        "12373": [
-          {
-            "course": "MATH D001A40Z",
-            "CRN": "12373",
-            "desc": "CALCULUS",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "05:30 PM-07:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Lee",
-            "seats": "0",
-            "wait_seats": "6",
             "wait_cap": "6"
           }
         ],
@@ -9221,25 +7725,6 @@
             "wait_cap": "6"
           }
         ],
-        "13026": [
-          {
-            "course": "MATH D001B25Z",
-            "CRN": "13026",
-            "desc": "CALCULUS",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "03:00 PM-05:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Lee",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "6"
-          }
-        ],
         "13025": [
           {
             "course": "MATH D001B50Z",
@@ -9254,7 +7739,7 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Dhaliwal",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "5",
             "wait_cap": "6"
           }
@@ -9299,63 +7784,6 @@
         ]
       },
       "1C": {
-        "12990": [
-          {
-            "course": "MATH D001C01Z",
-            "CRN": "12990",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "07:30 AM-09:45 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Du",
-            "seats": "3",
-            "wait_seats": "0",
-            "wait_cap": "6"
-          }
-        ],
-        "12056": [
-          {
-            "course": "MATH D001C05Z",
-            "CRN": "12056",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:00 AM-12:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Ison",
-            "seats": "11",
-            "wait_seats": "3",
-            "wait_cap": "6"
-          }
-        ],
-        "10148": [
-          {
-            "course": "MATH D001C20Z",
-            "CRN": "10148",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-02:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Ison",
-            "seats": "8",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          }
-        ],
         "13100": [
           {
             "course": "MATH D001C50Z",
@@ -9415,44 +7843,6 @@
         ]
       },
       "1D": {
-        "13040": [
-          {
-            "course": "MATH D001D05Z",
-            "CRN": "13040",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:00 AM-12:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Yarahmadi",
-            "seats": "1",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "13398": [
-          {
-            "course": "MATH D001D25Z",
-            "CRN": "13398",
-            "desc": "CALCULUS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "03:00 PM-05:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Du",
-            "seats": "2",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "00665": [
           {
             "course": "MATH D001D50Z",
@@ -9477,7 +7867,7 @@
             "course": "MATH D001D51Z",
             "CRN": "13101",
             "desc": "CALCULUS",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -9486,53 +7876,13 @@
             "campus": "DA",
             "units": "5.00",
             "instructor": "Markus",
-            "seats": "1",
-            "wait_seats": "2",
-            "wait_cap": "6"
-          }
-        ]
-      },
-      "2A": {
-        "12992": [
-          {
-            "course": "MATH D002A20Z",
-            "CRN": "12992",
-            "desc": "DIFFERENTIAL EQUATIONS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:00 AM-12:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Guerrero",
-            "seats": "10",
+            "seats": "0",
             "wait_seats": "3",
             "wait_cap": "6"
           }
         ]
       },
       "2B": {
-        "13029": [
-          {
-            "course": "MATH D002B20Z",
-            "CRN": "13029",
-            "desc": "LINEAR ALGEBRA",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "12:30 PM-02:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Nguyen",
-            "seats": "0",
-            "wait_seats": "4",
-            "wait_cap": "6"
-          }
-        ],
         "12778": [
           {
             "course": "MATH D002B50Z",
@@ -9554,101 +7904,6 @@
         ]
       },
       "10": {
-        "12994": [
-          {
-            "course": "MATH D010.01Z",
-            "CRN": "12994",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "07:30 AM-09:45 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Kapur",
-            "seats": "1",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "00673": [
-          {
-            "course": "MATH D010.05Z",
-            "CRN": "00673",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "10:00 AM-12:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Zhang",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "10979": [
-          {
-            "course": "MATH D010.07Z",
-            "CRN": "10979",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:00 AM-12:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Geraghty",
-            "seats": "2",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "13033": [
-          {
-            "course": "MATH D010.22Z",
-            "CRN": "13033",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "12:30 PM-02:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Geraghty",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "12523": [
-          {
-            "course": "MATH D010.30Z",
-            "CRN": "12523",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "03:00 PM-05:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Zhang",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "00676": [
           {
             "course": "MATH D010.50Z",
@@ -9724,25 +7979,6 @@
             "wait_seats": "1",
             "wait_cap": "6"
           }
-        ],
-        "12840": [
-          {
-            "course": "MATH D010.56Z",
-            "CRN": "12840",
-            "desc": "INTRODUCTORY STATISTICS",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "05:30 PM-07:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Sales",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
         ]
       },
       "11": {
@@ -9766,85 +8002,7 @@
           }
         ]
       },
-      "12": {
-        "11332": [
-          {
-            "course": "MATH D012.50Z",
-            "CRN": "11332",
-            "desc": "INTRO CALC FOR BUS AND SOC SCI",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "03:00 PM-05:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Shah",
-            "seats": "16",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ]
-      },
       "22": {
-        "13035": [
-          {
-            "course": "MATH D022.01Z",
-            "CRN": "13035",
-            "desc": "DISCRETE MATHEMATICS",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "07:30 AM-09:45 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Yarahmadi",
-            "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "12423": [
-          {
-            "course": "MATH D022.25Z",
-            "CRN": "12423",
-            "desc": "DISCRETE MATHEMATICS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-02:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Legge",
-            "seats": "4",
-            "wait_seats": "1",
-            "wait_cap": "6"
-          }
-        ],
-        "13099": [
-          {
-            "course": "MATH D022.30Z",
-            "CRN": "13099",
-            "desc": "DISCRETE MATHEMATICS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "03:00 PM-05:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Legge",
-            "seats": "3",
-            "wait_seats": "3",
-            "wait_cap": "6"
-          }
-        ],
         "00686": [
           {
             "course": "MATH D022.50Z",
@@ -9865,123 +8023,7 @@
           }
         ]
       },
-      "31": {
-        "13171": [
-          {
-            "course": "MATH D031.10Z",
-            "CRN": "13171",
-            "desc": "PRECALCULUS I",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "10:00 AM-12:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Kapur",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          }
-        ],
-        "13393": [
-          {
-            "course": "MATH D031.15Z",
-            "CRN": "13393",
-            "desc": "PRECALCULUS I",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-02:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Rudolf",
-            "seats": "1",
-            "wait_seats": "5",
-            "wait_cap": "6"
-          }
-        ],
-        "13048": [
-          {
-            "course": "MATH D031.45Z",
-            "CRN": "13048",
-            "desc": "PRECALCULUS I",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "05:30 PM-07:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Krestas",
-            "seats": "18",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "13049": [
-          {
-            "course": "MATH D031.47Z",
-            "CRN": "13049",
-            "desc": "PRECALCULUS I",
-            "status": "Waitlist",
-            "days": "MTWTh",
-            "time": "08:00 PM-10:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Rudolf",
-            "seats": "0",
-            "wait_seats": "3",
-            "wait_cap": "6"
-          }
-        ]
-      },
       "32": {
-        "13176": [
-          {
-            "course": "MATH D032.20Z",
-            "CRN": "13176",
-            "desc": "PRECALCULUS II",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-02:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Lopez",
-            "seats": "8",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
-        "13178": [
-          {
-            "course": "MATH D032.30Z",
-            "CRN": "13178",
-            "desc": "PRECALCULUS II",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "03:00 PM-05:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Lopez",
-            "seats": "23",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ],
         "13172": [
           {
             "course": "MATH D032.50Z",
@@ -10020,48 +8062,6 @@
             "wait_cap": "6"
           }
         ]
-      },
-      "109": {
-        "13391": [
-          {
-            "course": "MATH D109.10",
-            "CRN": "13391",
-            "desc": "INTERMED ALGEBRA STATS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-02:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "MLC108",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Ghori",
-            "seats": "20",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ]
-      },
-      "130": {
-        "13390": [
-          {
-            "course": "MATH D130.10",
-            "CRN": "13390",
-            "desc": "INTERMED ALGEBRA FOR PRECALC",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:00 AM-12:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "MLC108",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Ghori",
-            "seats": "20",
-            "wait_seats": "6",
-            "wait_cap": "6"
-          }
-        ]
       }
     }
   },
@@ -10083,7 +8083,7 @@
             "units": "5.00",
             "instructor": "Mullens",
             "seats": "0",
-            "wait_seats": "13",
+            "wait_seats": "14",
             "wait_cap": "15"
           }
         ],
@@ -10150,82 +8150,6 @@
             "seats": "1",
             "wait_seats": "14",
             "wait_cap": "15"
-          }
-        ]
-      },
-      "12B": {
-        "12257": [
-          {
-            "course": "MUSI D012B01Z",
-            "CRN": "12257",
-            "desc": "CLASS PIANO II",
-            "status": "Waitlist",
-            "days": "TTh",
-            "time": "12:30 PM-01:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.50",
-            "instructor": "Thomsen",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "MUSI D012B01Z",
-            "CRN": "12257",
-            "desc": "CLASS PIANO II",
-            "status": "Waitlist",
-            "days": "TTh",
-            "time": "01:30 PM-03:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.50",
-            "instructor": "Thomsen",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "12C": {
-        "12258": [
-          {
-            "course": "MUSI D012C01Z",
-            "CRN": "12258",
-            "desc": "CLASS PIANO III",
-            "status": "Open",
-            "days": "TTh",
-            "time": "12:30 PM-01:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.50",
-            "instructor": "Thomsen",
-            "seats": "2",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "MUSI D012C01Z",
-            "CRN": "12258",
-            "desc": "CLASS PIANO III",
-            "status": "Open",
-            "days": "TTh",
-            "time": "01:30 PM-03:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "1.50",
-            "instructor": "Thomsen",
-            "seats": "2",
-            "wait_seats": "5",
-            "wait_cap": "5"
           }
         ]
       }
@@ -10547,25 +8471,6 @@
         ]
       },
       "4XX": {
-        "13308": [
-          {
-            "course": "P E D04XX01",
-            "CRN": "13308",
-            "desc": "HI-INTENS STRNGTH DEV/AT",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "03:30 PM-04:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ST-FLD",
-            "campus": "DA",
-            "units": "1.00",
-            "instructor": "D'Agostino",
-            "seats": "17",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ],
         "13310": [
           {
             "course": "P E D04XX02",
@@ -10832,27 +8737,6 @@
             "units": "1.00",
             "instructor": "Landefeld",
             "seats": "4",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "32HX": {
-        "13309": [
-          {
-            "course": "P E D32HX01",
-            "CRN": "13309",
-            "desc": "OFF. FOOTBALL TECHNIQUES",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "05:00 PM-06:15 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ST-FLD",
-            "campus": "DA",
-            "units": "1.00",
-            "instructor": "D'Agostino",
-            "seats": "20",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -11126,25 +9010,6 @@
   "PEA": {
     "1": {
       "1": {
-        "13241": [
-          {
-            "course": "PEA D001.01",
-            "CRN": "13241",
-            "desc": "ADAPTED TOTAL FITNESS",
-            "status": "Open",
-            "days": "MW",
-            "time": "01:00 PM-02:00 PM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "PE13",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Perkins",
-            "seats": "1",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "00856": [
           {
             "course": "PEA D001.02",
@@ -11204,44 +9069,6 @@
         ]
       },
       "2": {
-        "00871": [
-          {
-            "course": "PEA D002.01",
-            "CRN": "00871",
-            "desc": "ADAPTD STRNGTH DEVEL",
-            "status": "Full",
-            "days": "MW",
-            "time": "08:50 AM-09:50 AM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "PE13",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Perkins",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "00868": [
-          {
-            "course": "PEA D002.02",
-            "CRN": "00868",
-            "desc": "ADAPTD STRNGTH DEVEL",
-            "status": "Full",
-            "days": "MW",
-            "time": "11:10 AM-12:10 PM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "PE13",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Perkins",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "00872": [
           {
             "course": "PEA D002.03",
@@ -11262,87 +9089,7 @@
           }
         ]
       },
-      "4": {
-        "10017": [
-          {
-            "course": "PEA D004.01",
-            "CRN": "10017",
-            "desc": "ADAPTD CARDIOVSCLR TRAING",
-            "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-11:00 AM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "PE13",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Perkins",
-            "seats": "1",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "5": {
-        "13426": [
-          {
-            "course": "PEA D005.01",
-            "CRN": "13426",
-            "desc": "ADPTD AQUATIC EXERCISE",
-            "status": "Waitlist",
-            "days": "MW",
-            "time": "05:30 AM-06:30 AM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "POOLE",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Regehr",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
-        "13427": [
-          {
-            "course": "PEA D005.02",
-            "CRN": "13427",
-            "desc": "ADPTD AQUATIC EXERCISE",
-            "status": "Waitlist",
-            "days": "MW",
-            "time": "10:20 AM-11:20 AM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "POOLE",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Regehr",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
       "15": {
-        "13428": [
-          {
-            "course": "PEA D015.01",
-            "CRN": "13428",
-            "desc": "ADAPTED AEROBIC SWIMMING",
-            "status": "Waitlist",
-            "days": "MW",
-            "time": "11:30 AM-12:30 PM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "POOLE",
-            "campus": "DA",
-            "units": "0.50",
-            "instructor": "Regehr",
-            "seats": "0",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ],
         "13429": [
           {
             "course": "PEA D015.02",
@@ -11617,27 +9364,6 @@
   },
   "PHYS": {
     "1": {
-      "10": {
-        "12035": [
-          {
-            "course": "PHYS D010.02Z",
-            "CRN": "12035",
-            "desc": "CONCEPTS OF PHYSICS",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "12:30 PM-02:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Francis",
-            "seats": "11",
-            "wait_seats": "3",
-            "wait_cap": "6"
-          }
-        ]
-      },
       "50": {
         "00895": [
           {
@@ -12320,8 +10046,8 @@
             "CRN": "13360",
             "desc": "ELEMEN SPANISH (1ST QTR)",
             "status": "Waitlist",
-            "days": "MW",
-            "time": "06:30 PM-08:45 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -12337,8 +10063,8 @@
             "CRN": "13360",
             "desc": "ELEMEN SPANISH (1ST QTR)",
             "status": "Waitlist",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "MW",
+            "time": "06:30 PM-08:45 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
             "room": "ONLINE",
@@ -12346,25 +10072,6 @@
             "units": "5.00",
             "instructor": "Alcazar",
             "seats": "0",
-            "wait_seats": "6",
-            "wait_cap": "7"
-          }
-        ],
-        "13294": [
-          {
-            "course": "SPAN D001.40Z",
-            "CRN": "13294",
-            "desc": "ELEMEN SPANISH (1ST QTR)",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "06:30 PM-08:45 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "DA",
-            "units": "5.00",
-            "instructor": "Abrica-Carrasco",
-            "seats": "2",
             "wait_seats": "6",
             "wait_cap": "7"
           }

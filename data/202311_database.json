@@ -518,7 +518,7 @@
             "course": "AHS F052.02W",
             "CRN": "10235",
             "desc": "MEDICAL TERMINOLOGY",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -527,7 +527,7 @@
             "campus": "FH",
             "units": "4.00",
             "instructor": "Leicht",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -2359,11 +2359,11 @@
             "CRN": "10005",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Open",
-            "days": "TTh",
-            "time": "12:30 PM-03:30 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "5106",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
@@ -2376,11 +2376,11 @@
             "CRN": "10005",
             "desc": "HUMAN ANATOMY & PHYSIOLOGY I",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "12:30 PM-03:30 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "ONLINE",
+            "room": "5106",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
@@ -2472,6 +2472,23 @@
             "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
             "status": "Open",
             "days": "MW",
+            "time": "12:30 PM-03:20 PM",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "8710",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Mousavi Shafaei",
+            "seats": "8",
+            "wait_seats": "20",
+            "wait_cap": "20"
+          },
+          {
+            "course": "BIOL F040C01T",
+            "CRN": "10234",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
+            "status": "Open",
+            "days": "MW",
             "time": "10:00 AM-11:50 AM",
             "start": "06/27/2022",
             "end": "08/05/2022",
@@ -2499,43 +2516,9 @@
             "seats": "8",
             "wait_seats": "20",
             "wait_cap": "20"
-          },
-          {
-            "course": "BIOL F040C01T",
-            "CRN": "10234",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Open",
-            "days": "MW",
-            "time": "12:30 PM-03:20 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "8710",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Mousavi Shafaei",
-            "seats": "8",
-            "wait_seats": "20",
-            "wait_cap": "20"
           }
         ],
         "10242": [
-          {
-            "course": "BIOL F040C02T",
-            "CRN": "10242",
-            "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
-            "status": "Open",
-            "days": "MW",
-            "time": "10:00 AM-11:50 AM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Lagna",
-            "seats": "8",
-            "wait_seats": "20",
-            "wait_cap": "20"
-          },
           {
             "course": "BIOL F040C02T",
             "CRN": "10242",
@@ -2549,6 +2532,23 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Krylova",
+            "seats": "8",
+            "wait_seats": "20",
+            "wait_cap": "20"
+          },
+          {
+            "course": "BIOL F040C02T",
+            "CRN": "10242",
+            "desc": "HUMAN ANATOMY & PHYSIOLOGY III",
+            "status": "Open",
+            "days": "MW",
+            "time": "10:00 AM-11:50 AM",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "ONLINE",
+            "campus": "FH",
+            "units": "5.00",
+            "instructor": "Lagna",
             "seats": "8",
             "wait_seats": "20",
             "wait_cap": "20"
@@ -2647,42 +2647,6 @@
         ]
       },
       "71R": {
-        "10882": [
-          {
-            "course": "BIOL F071R01Y",
-            "CRN": "10882",
-            "desc": "INDEPENDENT STUDY BIOLOGY",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "07/22/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Couper",
-            "seats": "2",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "BIOL F071R01Y",
-            "CRN": "10882",
-            "desc": "INDEPENDENT STUDY BIOLOGY",
-            "status": "Open",
-            "days": "W",
-            "time": "01:00 PM-02:50 PM",
-            "start": "06/27/2022",
-            "end": "07/22/2022",
-            "room": "4602",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Couper",
-            "seats": "2",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
         "10896": [
           {
             "course": "BIOL F071R02W",
@@ -3541,11 +3505,11 @@
             "CRN": "10223",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "TTh",
+            "time": "02:00 PM-04:50 PM",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "ONLINE",
+            "room": "4812",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Esfandiari",
@@ -3558,36 +3522,17 @@
             "CRN": "10223",
             "desc": "FUNDAMENTALS OF CHEMISTRY",
             "status": "Open",
-            "days": "TTh",
-            "time": "02:00 PM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "06/27/2022",
             "end": "08/05/2022",
-            "room": "4812",
+            "room": "ONLINE",
             "campus": "FH",
             "units": "5.00",
             "instructor": "Esfandiari",
             "seats": "6",
             "wait_seats": "10",
             "wait_cap": "10"
-          }
-        ],
-        "10696": [
-          {
-            "course": "CHEM F025.03D",
-            "CRN": "10696",
-            "desc": "FUNDAMENTALS OF CHEMISTRY",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "07/22/2022",
-            "room": "ESPREP",
-            "campus": "FO",
-            "units": "5.00",
-            "instructor": "Taylor",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ]
       },
@@ -4735,7 +4680,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Evans",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "20",
             "wait_cap": "20"
           }
@@ -5603,7 +5548,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Wang",
-            "seats": "6",
+            "seats": "7",
             "wait_seats": "40",
             "wait_cap": "40"
           }
@@ -7488,7 +7433,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tomutiu",
-            "seats": "22",
+            "seats": "23",
             "wait_seats": "10",
             "wait_cap": "10"
           }
@@ -7498,7 +7443,7 @@
             "course": "MATH F001A02W",
             "CRN": "10166",
             "desc": "CALCULUS",
-            "status": "Waitlist",
+            "status": "Open",
             "days": "TBA",
             "time": "TBA",
             "start": "06/27/2022",
@@ -7507,7 +7452,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Williams",
-            "seats": "0",
+            "seats": "1",
             "wait_seats": "9",
             "wait_cap": "10"
           }
@@ -9688,7 +9633,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Zanders",
-            "seats": "3",
+            "seats": "4",
             "wait_seats": "20",
             "wait_cap": "20"
           }
