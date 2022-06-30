@@ -1270,8 +1270,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "4",
-            "wait_seats": "4",
+            "seats": "3",
+            "wait_seats": "5",
             "wait_cap": "15"
           },
           {
@@ -1287,8 +1287,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "4",
-            "wait_seats": "4",
+            "seats": "3",
+            "wait_seats": "5",
             "wait_cap": "15"
           },
           {
@@ -1304,8 +1304,8 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Markowitz",
-            "seats": "4",
-            "wait_seats": "4",
+            "seats": "3",
+            "wait_seats": "5",
             "wait_cap": "15"
           }
         ]
@@ -2119,7 +2119,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Spragge",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "7",
             "wait_cap": "10"
           },
@@ -2136,7 +2136,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Spragge",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "7",
             "wait_cap": "10"
           },
@@ -2153,7 +2153,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Spragge",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "7",
             "wait_cap": "10"
           },
@@ -2170,7 +2170,7 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Brennan",
-            "seats": "7",
+            "seats": "8",
             "wait_seats": "7",
             "wait_cap": "10"
           }
@@ -3085,7 +3085,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Ripp",
-            "seats": "10",
+            "seats": "9",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -3106,6 +3106,42 @@
             "campus": "FO",
             "units": "3.00",
             "instructor": "Walker",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          }
+        ],
+        "10955": [
+          {
+            "course": "KINS F016A02D",
+            "CRN": "10955",
+            "desc": "PREVENTION OF ATHLETIC INJURIE",
+            "status": "Full",
+            "days": "M",
+            "time": "09:00 AM-09:50 AM",
+            "start": "08/29/2022",
+            "end": "12/22/2022",
+            "room": "GHS",
+            "campus": "FO",
+            "units": "3.00",
+            "instructor": "Staff",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
+          {
+            "course": "KINS F016A02D",
+            "CRN": "10955",
+            "desc": "PREVENTION OF ATHLETIC INJURIE",
+            "status": "Full",
+            "days": "TTh",
+            "time": "09:00 AM-10:40 AM",
+            "start": "08/29/2022",
+            "end": "12/22/2022",
+            "room": "GHS",
+            "campus": "FO",
+            "units": "3.00",
+            "instructor": "Staff",
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -4174,7 +4210,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Tuttle",
-            "seats": "5",
+            "seats": "4",
             "wait_seats": "20",
             "wait_cap": "20"
           }
