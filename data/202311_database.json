@@ -1093,7 +1093,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Folse",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "14",
             "wait_cap": "15"
           },
@@ -1110,7 +1110,7 @@
             "campus": "FH",
             "units": "5.00",
             "instructor": "Moody",
-            "seats": "2",
+            "seats": "3",
             "wait_seats": "14",
             "wait_cap": "15"
           }
@@ -3352,29 +3352,7 @@
     "1": {}
   },
   "NCEN": {
-    "1": {
-      "400": {
-        "10909": [
-          {
-            "course": "NCEN F400.02V",
-            "CRN": "10909",
-            "desc": "ENGLISH BRIDGE",
-            "status": "Open",
-            "days": "MTWTh",
-            "time": "10:00 AM-12:50 PM",
-            "start": "07/11/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "King",
-            "seats": "26",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "NCLA": {
     "1": {}
