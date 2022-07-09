@@ -1338,14 +1338,14 @@
             "CRN": "10754",
             "desc": "EMT: BASIC PART A",
             "status": "Open",
-            "days": "WTh",
-            "time": "10:00 AM-02:30 PM",
+            "days": "T",
+            "time": "10:00 AM-04:50 PM",
             "start": "07/11/2022",
             "end": "08/12/2022",
             "room": "SV104",
             "campus": "FC",
             "units": "5.00",
-            "instructor": "Chew",
+            "instructor": "Villanueva",
             "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -1355,14 +1355,14 @@
             "CRN": "10754",
             "desc": "EMT: BASIC PART A",
             "status": "Open",
-            "days": "T",
-            "time": "10:00 AM-04:50 PM",
+            "days": "WTh",
+            "time": "10:00 AM-02:30 PM",
             "start": "07/11/2022",
             "end": "08/12/2022",
             "room": "SV104",
             "campus": "FC",
             "units": "5.00",
-            "instructor": "Villanueva",
+            "instructor": "Chew",
             "seats": "2",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -1452,7 +1452,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Villanueva",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1469,7 +1469,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "McManus",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1486,7 +1486,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Nijmeddin",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           },
@@ -1503,7 +1503,7 @@
             "campus": "FC",
             "units": "5.00",
             "instructor": "Villanueva",
-            "seats": "4",
+            "seats": "5",
             "wait_seats": "5",
             "wait_cap": "5"
           }
@@ -1511,6 +1511,23 @@
       },
       "53": {
         "10814": [
+          {
+            "course": "EMS F053.01Y",
+            "CRN": "10814",
+            "desc": "EMT: BASIC PART B",
+            "status": "Open",
+            "days": "T",
+            "time": "10:00 AM-04:50 PM",
+            "start": "08/15/2022",
+            "end": "09/16/2022",
+            "room": "SV104",
+            "campus": "FC",
+            "units": "6.00",
+            "instructor": "Villanueva",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
           {
             "course": "EMS F053.01Y",
             "CRN": "10814",
@@ -1533,14 +1550,14 @@
             "CRN": "10814",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
-            "days": "T",
-            "time": "10:00 AM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "08/15/2022",
             "end": "09/16/2022",
-            "room": "SV104",
-            "campus": "FC",
+            "room": "HOSP",
+            "campus": "FO",
             "units": "6.00",
-            "instructor": "Villanueva",
+            "instructor": "Huseman",
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -1561,10 +1578,12 @@
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
-          },
+          }
+        ],
+        "10815": [
           {
-            "course": "EMS F053.01Y",
-            "CRN": "10814",
+            "course": "EMS F053.02Y",
+            "CRN": "10815",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
             "days": "TBA",
@@ -1578,19 +1597,17 @@
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
-          }
-        ],
-        "10815": [
+          },
           {
             "course": "EMS F053.02Y",
             "CRN": "10815",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
-            "days": "T",
-            "time": "10:00 AM-04:50 PM",
+            "days": "TBA",
+            "time": "TBA",
             "start": "08/15/2022",
             "end": "09/16/2022",
-            "room": "SV104",
+            "room": "ONLINE",
             "campus": "FC",
             "units": "6.00",
             "instructor": "Villanueva",
@@ -1620,31 +1637,14 @@
             "CRN": "10815",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:00 AM-04:50 PM",
             "start": "08/15/2022",
             "end": "09/16/2022",
-            "room": "ONLINE",
+            "room": "SV104",
             "campus": "FC",
             "units": "6.00",
             "instructor": "Villanueva",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          },
-          {
-            "course": "EMS F053.02Y",
-            "CRN": "10815",
-            "desc": "EMT: BASIC PART B",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "08/15/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "6.00",
-            "instructor": "Huseman",
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
@@ -1656,11 +1656,28 @@
             "CRN": "10816",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
-            "days": "T",
-            "time": "10:00 AM-04:50 PM",
+            "days": "Th",
+            "time": "10:00 AM-02:50 PM",
             "start": "08/15/2022",
             "end": "09/16/2022",
             "room": "SV104",
+            "campus": "FC",
+            "units": "6.00",
+            "instructor": "Nijmeddin",
+            "seats": "12",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          },
+          {
+            "course": "EMS F053.03Y",
+            "CRN": "10816",
+            "desc": "EMT: BASIC PART B",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/15/2022",
+            "end": "09/16/2022",
+            "room": "ONLINE",
             "campus": "FC",
             "units": "6.00",
             "instructor": "Villanueva",
@@ -1707,89 +1724,17 @@
             "CRN": "10816",
             "desc": "EMT: BASIC PART B",
             "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
+            "days": "T",
+            "time": "10:00 AM-04:50 PM",
             "start": "08/15/2022",
             "end": "09/16/2022",
-            "room": "ONLINE",
+            "room": "SV104",
             "campus": "FC",
             "units": "6.00",
             "instructor": "Villanueva",
             "seats": "12",
             "wait_seats": "5",
             "wait_cap": "5"
-          },
-          {
-            "course": "EMS F053.03Y",
-            "CRN": "10816",
-            "desc": "EMT: BASIC PART B",
-            "status": "Open",
-            "days": "Th",
-            "time": "10:00 AM-02:50 PM",
-            "start": "08/15/2022",
-            "end": "09/16/2022",
-            "room": "SV104",
-            "campus": "FC",
-            "units": "6.00",
-            "instructor": "Nijmeddin",
-            "seats": "12",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "63B": {
-        "10302": [
-          {
-            "course": "EMS F063B01",
-            "CRN": "10302",
-            "desc": "PARAMD HOSPITAL EMERG DPT ROTA",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "4.50",
-            "instructor": "Middleton",
-            "seats": "9",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "EMS F063B01",
-            "CRN": "10302",
-            "desc": "PARAMD HOSPITAL EMERG DPT ROTA",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "4.50",
-            "instructor": "Ikegami",
-            "seats": "9",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "EMS F063B01",
-            "CRN": "10302",
-            "desc": "PARAMD HOSPITAL EMERG DPT ROTA",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "4.50",
-            "instructor": "Culbertson",
-            "seats": "9",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ]
       }
@@ -1821,82 +1766,6 @@
   },
   "HORT": {
     "1": {
-      "52H": {
-        "10688": [
-          {
-            "course": "HORT F052H01",
-            "CRN": "10688",
-            "desc": "HORT PRACT:INTEGRATED PEST MGM",
-            "status": "Open",
-            "days": "W",
-            "time": "10:00 AM-11:50 AM",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "8609",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Niccoli",
-            "seats": "28",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "HORT F052H01",
-            "CRN": "10688",
-            "desc": "HORT PRACT:INTEGRATED PEST MGM",
-            "status": "Open",
-            "days": "W",
-            "time": "12:00 PM-02:50 PM",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "8609",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Niccoli",
-            "seats": "28",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "80D": {
-        "10409": [
-          {
-            "course": "HORT F080D01",
-            "CRN": "10409",
-            "desc": "ENVIR HORT SUMMER SKILLS",
-            "status": "Open",
-            "days": "T",
-            "time": "10:00 AM-10:50 AM",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "8609",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Bryant",
-            "seats": "24",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "HORT F080D01",
-            "CRN": "10409",
-            "desc": "ENVIR HORT SUMMER SKILLS",
-            "status": "Open",
-            "days": "T",
-            "time": "11:00 AM-01:50 PM",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "8609",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Bryant",
-            "seats": "24",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "90D": {
         "10690": [
           {
@@ -1924,255 +1793,7 @@
     "1": {}
   },
   "ITRN": {
-    "1": {
-      "50": {
-        "10224": [
-          {
-            "course": "ITRN F050.02Z",
-            "CRN": "10224",
-            "desc": "INTERNSHIP",
-            "status": "Open",
-            "days": "W",
-            "time": "12:30 PM-01:20 PM",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Gandhi",
-            "seats": "15",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "ITRN F050.02Z",
-            "CRN": "10224",
-            "desc": "INTERNSHIP",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Gandhi",
-            "seats": "15",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "10569": [
-          {
-            "course": "ITRN F050.04W",
-            "CRN": "10569",
-            "desc": "INTERNSHIP",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Gandhi",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "10571": [
-          {
-            "course": "ITRN F050.05W",
-            "CRN": "10571",
-            "desc": "INTERNSHIP",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Gandhi",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "51": {
-        "10101": [
-          {
-            "course": "ITRN F051.01Z",
-            "CRN": "10101",
-            "desc": "INTERNSHIP",
-            "status": "Open",
-            "days": "W",
-            "time": "12:30 PM-01:20 PM",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Gandhi",
-            "seats": "20",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "ITRN F051.01Z",
-            "CRN": "10101",
-            "desc": "INTERNSHIP",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Gandhi",
-            "seats": "20",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "52": {
-        "10132": [
-          {
-            "course": "ITRN F052.01Z",
-            "CRN": "10132",
-            "desc": "INTERNSHIP",
-            "status": "Open",
-            "days": "W",
-            "time": "12:30 PM-01:20 PM",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Gandhi",
-            "seats": "26",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "ITRN F052.01Z",
-            "CRN": "10132",
-            "desc": "INTERNSHIP",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Gandhi",
-            "seats": "26",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "53": {
-        "10100": [
-          {
-            "course": "ITRN F053.01Z",
-            "CRN": "10100",
-            "desc": "INTERNSHIP",
-            "status": "Open",
-            "days": "W",
-            "time": "12:30 PM-01:20 PM",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Gandhi",
-            "seats": "29",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "ITRN F053.01Z",
-            "CRN": "10100",
-            "desc": "INTERNSHIP",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Gandhi",
-            "seats": "29",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "10570": [
-          {
-            "course": "ITRN F053.03W",
-            "CRN": "10570",
-            "desc": "INTERNSHIP",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Gandhi",
-            "seats": "9",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "54": {
-        "10080": [
-          {
-            "course": "ITRN F054.01Z",
-            "CRN": "10080",
-            "desc": "INTERNSHIP",
-            "status": "Open",
-            "days": "W",
-            "time": "12:30 PM-01:20 PM",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Gandhi",
-            "seats": "24",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "ITRN F054.01Z",
-            "CRN": "10080",
-            "desc": "INTERNSHIP",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "5.00",
-            "instructor": "Gandhi",
-            "seats": "24",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "JAPN": {
     "1": {}
@@ -2368,48 +1989,6 @@
   },
   "LINC": {
     "1": {
-      "58": {
-        "10708": [
-          {
-            "course": "LINC F058.01W",
-            "CRN": "10708",
-            "desc": "GLOBAL PROJECT-BASED LEARNING",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Pereira",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "75B": {
-        "10736": [
-          {
-            "course": "LINC F075B01W",
-            "CRN": "10736",
-            "desc": "INSTRUCTIONAL TECH STRATEGIES",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Pereira",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "77A": {
         "10746": [
           {
@@ -2462,48 +2041,6 @@
             "room": "ONLINE",
             "campus": "FH",
             "units": "2.00",
-            "instructor": "Pereira",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "80A": {
-        "10737": [
-          {
-            "course": "LINC F080A01W",
-            "CRN": "10737",
-            "desc": "MULTIMEDIA IN THE CLASSROOM I",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Pereira",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "82B": {
-        "10738": [
-          {
-            "course": "LINC F082B01W",
-            "CRN": "10738",
-            "desc": "DEVELOPING INSTRUCTIONAL MATER",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "3.00",
             "instructor": "Pereira",
             "seats": "0",
             "wait_seats": "0",
@@ -2572,42 +2109,6 @@
             "wait_seats": "0",
             "wait_cap": "0"
           }
-        ],
-        "10778": [
-          {
-            "course": "LINC F084B03Y",
-            "CRN": "10778",
-            "desc": "3-D DESIGN & FABRICATION",
-            "status": "Full",
-            "days": "S",
-            "time": "10:00 AM-03:50 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "4006",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Pereira",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "LINC F084B03Y",
-            "CRN": "10778",
-            "desc": "3-D DESIGN & FABRICATION",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "ONLINE",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Pereira",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
         ]
       },
       "84D": {
@@ -2668,48 +2169,6 @@
             "units": "1.00",
             "instructor": "Pereira",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "401": {
-        "10753": [
-          {
-            "course": "LINC F401.50",
-            "CRN": "10753",
-            "desc": "BASIC MAKERSPACE SKILLS I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "TBA",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "Pereira",
-            "seats": "158",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "402": {
-        "10755": [
-          {
-            "course": "LINC F402.50",
-            "CRN": "10755",
-            "desc": "BASIC MAKERSPACE SKILLS II",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "TBA",
-            "campus": "FH",
-            "units": "0.00",
-            "instructor": "Pereira",
-            "seats": "159",
             "wait_seats": "0",
             "wait_cap": "0"
           }
@@ -2910,134 +2369,7 @@
     }
   },
   "PHED": {
-    "1": {
-      "24": {
-        "10455": [
-          {
-            "course": "PHED F024.01",
-            "CRN": "10455",
-            "desc": "INTRODUCTION TO GOLF",
-            "status": "Waitlist",
-            "days": "S",
-            "time": "09:00 AM-02:50 PM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "GOLF R",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Durbin",
-            "seats": "0",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "24A": {
-        "10456": [
-          {
-            "course": "PHED F024A01",
-            "CRN": "10456",
-            "desc": "SWING DEVLP FOR THE EXPER GOLF",
-            "status": "Open",
-            "days": "S",
-            "time": "09:00 AM-02:50 PM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "GOLF R",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Durbin",
-            "seats": "4",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "25A": {
-        "10457": [
-          {
-            "course": "PHED F025A01",
-            "CRN": "10457",
-            "desc": "SWING ANALYSIS",
-            "status": "Open",
-            "days": "S",
-            "time": "09:00 AM-02:50 PM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "GOLF R",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Durbin",
-            "seats": "8",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      },
-      "36A": {
-        "10675": [
-          {
-            "course": "PHED F036A01",
-            "CRN": "10675",
-            "desc": "BEGINNING ARCHERY",
-            "status": "Open",
-            "days": "S",
-            "time": "09:00 AM-02:50 PM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "SBFLD",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Macias",
-            "seats": "5",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "36B": {
-        "10676": [
-          {
-            "course": "PHED F036B01",
-            "CRN": "10676",
-            "desc": "INTERMEDIATE ARCHERY",
-            "status": "Open",
-            "days": "S",
-            "time": "09:00 AM-02:50 PM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "SBFLD",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Macias",
-            "seats": "4",
-            "wait_seats": "5",
-            "wait_cap": "5"
-          }
-        ]
-      },
-      "36C": {
-        "10677": [
-          {
-            "course": "PHED F036C01",
-            "CRN": "10677",
-            "desc": "ADVANCED ARCHERY",
-            "status": "Open",
-            "days": "S",
-            "time": "09:00 AM-02:50 PM",
-            "start": "06/27/2022",
-            "end": "08/19/2022",
-            "room": "SBFLD",
-            "campus": "FH",
-            "units": "1.00",
-            "instructor": "Macias",
-            "seats": "2",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "PHIL": {
     "1": {}
@@ -3444,23 +2776,6 @@
             "CRN": "10022",
             "desc": "ADULT MECH VENTILATION",
             "status": "Full",
-            "days": "T",
-            "time": "08:00 AM-01:55 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "5307",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Hanning",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F061A01",
-            "CRN": "10022",
-            "desc": "ADULT MECH VENTILATION",
-            "status": "Full",
             "days": "M",
             "time": "08:00 AM-01:55 PM",
             "start": "06/27/2022",
@@ -3472,9 +2787,43 @@
             "seats": "0",
             "wait_seats": "0",
             "wait_cap": "0"
+          },
+          {
+            "course": "RSPT F061A01",
+            "CRN": "10022",
+            "desc": "ADULT MECH VENTILATION",
+            "status": "Full",
+            "days": "T",
+            "time": "08:00 AM-01:55 PM",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "5307",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Hanning",
+            "seats": "0",
+            "wait_seats": "0",
+            "wait_cap": "0"
           }
         ],
         "10023": [
+          {
+            "course": "RSPT F061A02",
+            "CRN": "10023",
+            "desc": "ADULT MECH VENTILATION",
+            "status": "Open",
+            "days": "M",
+            "time": "08:00 AM-01:55 PM",
+            "start": "06/27/2022",
+            "end": "08/05/2022",
+            "room": "5015",
+            "campus": "FH",
+            "units": "4.00",
+            "instructor": "Barraza",
+            "seats": "3",
+            "wait_seats": "0",
+            "wait_cap": "0"
+          },
           {
             "course": "RSPT F061A02",
             "CRN": "10023",
@@ -3491,146 +2840,6 @@
             "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F061A02",
-            "CRN": "10023",
-            "desc": "ADULT MECH VENTILATION",
-            "status": "Open",
-            "days": "M",
-            "time": "08:00 AM-01:55 PM",
-            "start": "06/27/2022",
-            "end": "08/05/2022",
-            "room": "5015",
-            "campus": "FH",
-            "units": "4.00",
-            "instructor": "Barraza",
-            "seats": "3",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "70A": {
-        "10445": [
-          {
-            "course": "RSPT F070A01",
-            "CRN": "10445",
-            "desc": "CLINICAL ROTATION I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "2.00",
-            "instructor": "Qura Del Rio",
-            "seats": "3",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F070A01",
-            "CRN": "10445",
-            "desc": "CLINICAL ROTATION I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "2.00",
-            "instructor": "Wedeking",
-            "seats": "3",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F070A01",
-            "CRN": "10445",
-            "desc": "CLINICAL ROTATION I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "2.00",
-            "instructor": "Wee Tom",
-            "seats": "3",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F070A01",
-            "CRN": "10445",
-            "desc": "CLINICAL ROTATION I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "2.00",
-            "instructor": "Vo",
-            "seats": "3",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F070A01",
-            "CRN": "10445",
-            "desc": "CLINICAL ROTATION I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "2.00",
-            "instructor": "Hills",
-            "seats": "3",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F070A01",
-            "CRN": "10445",
-            "desc": "CLINICAL ROTATION I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "2.00",
-            "instructor": "Hanning",
-            "seats": "3",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "RSPT F070A01",
-            "CRN": "10445",
-            "desc": "CLINICAL ROTATION I",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "09/16/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "2.00",
-            "instructor": "Barraza",
-            "seats": "3",
-            "wait_seats": "0",
-            "wait_cap": "0"
           }
         ]
       }
@@ -3643,107 +2852,10 @@
     "1": {}
   },
   "THTR": {
-    "1": {
-      "22": {
-        "10835": [
-          {
-            "course": "THTR F022.01",
-            "CRN": "10835",
-            "desc": "AUDITIONING FOR THEATRE",
-            "status": "Open",
-            "days": "S",
-            "time": "10:00 AM-02:25 PM",
-            "start": "07/09/2022",
-            "end": "08/13/2022",
-            "room": "1501",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Gough",
-            "seats": "14",
-            "wait_seats": "10",
-            "wait_cap": "10"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "VT": {
-    "1": {
-      "52B": {
-        "10681": [
-          {
-            "course": "V T F052B01Y",
-            "CRN": "10681",
-            "desc": "VETERINARY ASSISTING II",
-            "status": "Full",
-            "days": "S",
-            "time": "08:00 AM-10:50 AM",
-            "start": "06/27/2022",
-            "end": "08/20/2022",
-            "room": "ECF",
-            "campus": "FO",
-            "units": "5.00",
-            "instructor": "St Onge-Cole",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "V T F052B01Y",
-            "CRN": "10681",
-            "desc": "VETERINARY ASSISTING II",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/20/2022",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "5.00",
-            "instructor": "St Onge-Cole",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ],
-        "10682": [
-          {
-            "course": "V T F052B02Y",
-            "CRN": "10682",
-            "desc": "VETERINARY ASSISTING II",
-            "status": "Full",
-            "days": "S",
-            "time": "01:00 PM-03:50 PM",
-            "start": "06/27/2022",
-            "end": "08/20/2022",
-            "room": "ECF",
-            "campus": "FO",
-            "units": "5.00",
-            "instructor": "St Onge-Cole",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "V T F052B02Y",
-            "CRN": "10682",
-            "desc": "VETERINARY ASSISTING II",
-            "status": "Full",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "06/27/2022",
-            "end": "08/20/2022",
-            "room": "ONLINE",
-            "campus": "FO",
-            "units": "5.00",
-            "instructor": "St Onge-Cole",
-            "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      }
-    }
+    "1": {}
   },
   "WMN": {
     "1": {}
