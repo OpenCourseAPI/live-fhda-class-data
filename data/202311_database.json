@@ -2141,29 +2141,25 @@
   },
   "RT": {
     "1": {
-      "50": {
-        "10702": [
+      "53": {
+        "10703": [
           {
-            "course": "R T F050.01",
-            "CRN": "10702",
-            "desc": "ORIENT TO RADIATION SCI TECH",
+            "course": "R T F053.01",
+            "CRN": "10703",
+            "desc": "ORIENTATION TO RADIOLOGIC TECH",
             "status": "Open",
             "days": "TBA",
             "time": "TBA",
-            "start": "07/11/2022",
-            "end": "07/21/2022",
-            "room": "5611",
-            "campus": "FH",
-            "units": "2.00",
-            "instructor": "Campbell",
+            "start": "07/25/2022",
+            "end": "09/08/2022",
+            "room": "HOSP",
+            "campus": "FO",
+            "units": "4.00",
+            "instructor": "Wu",
             "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
-          }
-        ]
-      },
-      "53": {
-        "10703": [
+          },
           {
             "course": "R T F053.01",
             "CRN": "10703",
@@ -2194,23 +2190,6 @@
             "campus": "FO",
             "units": "4.00",
             "instructor": "Campbell",
-            "seats": "3",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "R T F053.01",
-            "CRN": "10703",
-            "desc": "ORIENTATION TO RADIOLOGIC TECH",
-            "status": "Open",
-            "days": "TBA",
-            "time": "TBA",
-            "start": "07/25/2022",
-            "end": "09/08/2022",
-            "room": "HOSP",
-            "campus": "FO",
-            "units": "4.00",
-            "instructor": "Wu",
             "seats": "3",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -2481,7 +2460,7 @@
             "course": "R T F200L01",
             "CRN": "10718",
             "desc": "RADIOLOGIC TECHNOLOGY AS A CAR",
-            "status": "Open",
+            "status": "Waitlist",
             "days": "TBA",
             "time": "TBA",
             "start": "07/19/2022",
@@ -2490,8 +2469,8 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Chesser-Nielsen",
-            "seats": "1",
-            "wait_seats": "1",
+            "seats": "0",
+            "wait_seats": "2",
             "wait_cap": "25"
           }
         ]
