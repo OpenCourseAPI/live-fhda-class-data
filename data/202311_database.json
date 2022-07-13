@@ -2174,7 +2174,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "4.00",
-            "instructor": "Wu",
+            "instructor": "Staff",
             "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -2191,7 +2191,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "4.00",
-            "instructor": "Staff",
+            "instructor": "Wu",
             "seats": "4",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -2246,7 +2246,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "9.00",
-            "instructor": "Wu",
+            "instructor": "Campbell",
             "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -2263,7 +2263,7 @@
             "room": "HOSP",
             "campus": "FO",
             "units": "9.00",
-            "instructor": "Campbell",
+            "instructor": "Wu",
             "seats": "10",
             "wait_seats": "0",
             "wait_cap": "0"
@@ -2304,44 +2304,6 @@
           }
         ]
       },
-      "64": {
-        "10713": [
-          {
-            "course": "R T F064.01",
-            "CRN": "10713",
-            "desc": "FLUOROSCOPY",
-            "status": "Open",
-            "days": "W",
-            "time": "07:30 AM-12:20 PM",
-            "start": "07/06/2022",
-            "end": "08/24/2022",
-            "room": "5210",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Wu",
-            "seats": "10",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "R T F064.01",
-            "CRN": "10713",
-            "desc": "FLUOROSCOPY",
-            "status": "Open",
-            "days": "W",
-            "time": "12:20 PM-01:50 PM",
-            "start": "07/06/2022",
-            "end": "08/24/2022",
-            "room": "5305",
-            "campus": "FH",
-            "units": "3.00",
-            "instructor": "Wu",
-            "seats": "10",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
       "70A": {
         "10714": [
           {
@@ -2375,44 +2337,6 @@
             "units": "13.00",
             "instructor": "Campbell",
             "seats": "0",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          }
-        ]
-      },
-      "72": {
-        "10715": [
-          {
-            "course": "R T F072.01",
-            "CRN": "10715",
-            "desc": "VENIPUNCTURE",
-            "status": "Open",
-            "days": "W",
-            "time": "02:00 PM-02:50 PM",
-            "start": "07/06/2022",
-            "end": "09/09/2022",
-            "room": "5210",
-            "campus": "FH",
-            "units": "1.50",
-            "instructor": "Lackey",
-            "seats": "18",
-            "wait_seats": "0",
-            "wait_cap": "0"
-          },
-          {
-            "course": "R T F072.01",
-            "CRN": "10715",
-            "desc": "VENIPUNCTURE",
-            "status": "Open",
-            "days": "W",
-            "time": "03:00 PM-04:30 PM",
-            "start": "07/06/2022",
-            "end": "09/09/2022",
-            "room": "5305",
-            "campus": "FH",
-            "units": "1.50",
-            "instructor": "Lackey",
-            "seats": "18",
             "wait_seats": "0",
             "wait_cap": "0"
           }
