@@ -1949,6 +1949,31 @@
   "PHOT": {
     "1": {}
   },
+  "PHT": {
+    "1": {
+      "200L": {
+        "10964": [
+          {
+            "course": "PHT F200L01",
+            "CRN": "10964",
+            "desc": "PHARMCY TECHNICIAN AS A CAREER",
+            "status": "Open",
+            "days": "TBA",
+            "time": "TBA",
+            "start": "08/13/2022",
+            "end": "08/20/2022",
+            "room": "",
+            "campus": "",
+            "units": "1.00",
+            "instructor": "Staff",
+            "seats": "24",
+            "wait_seats": "5",
+            "wait_cap": "5"
+          }
+        ]
+      }
+    }
+  },
   "PHYS": {
     "1": {}
   },
@@ -2212,8 +2237,8 @@
             "campus": "FH",
             "units": "1.50",
             "instructor": "Chesser-Nielsen",
-            "seats": "1",
-            "wait_seats": "2",
+            "seats": "2",
+            "wait_seats": "1",
             "wait_cap": "25"
           }
         ]
